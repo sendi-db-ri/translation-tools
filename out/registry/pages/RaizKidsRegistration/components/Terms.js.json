@@ -1,0 +1,100 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/Terms.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/Terms.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.infoTrue} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.infoTrue} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.infoTrue} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.infoTrue} />",
+      "main_clean": "<FormattedMessage {...messages.infoTrue} />",
+      "main_regex": "<FormattedMessage {...messages.infoTrue} />",
+      "props": " {...messages.infoTrue} ",
+      "spread": " {...messages.infoTrue} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.fundingNeverCredit} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.fundingNeverCredit} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.fundingNeverCredit} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.fundingNeverCredit} />",
+      "main_clean": "<FormattedMessage {...messages.fundingNeverCredit} />",
+      "main_regex": "<FormattedMessage {...messages.fundingNeverCredit} />",
+      "props": " {...messages.fundingNeverCredit} ",
+      "spread": " {...messages.fundingNeverCredit} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.acknowledge} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.acknowledge} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.acknowledge} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.acknowledge} />",
+      "main_clean": "<FormattedMessage {...messages.acknowledge} />",
+      "main_regex": "<FormattedMessage {...messages.acknowledge} />",
+      "props": " {...messages.acknowledge} ",
+      "spread": " {...messages.acknowledge} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.productDisclosure} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.productDisclosure} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.productDisclosure} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.productDisclosure} />",
+      "main_clean": "<FormattedMessage {...messages.productDisclosure} />",
+      "main_regex": "<FormattedMessage {...messages.productDisclosure} />",
+      "props": " {...messages.productDisclosure} ",
+      "spread": " {...messages.productDisclosure} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.agreeUnderstand} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.agreeUnderstand} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.agreeUnderstand} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.agreeUnderstand} />",
+      "main_clean": "<FormattedMessage {...messages.agreeUnderstand} />",
+      "main_regex": "<FormattedMessage {...messages.agreeUnderstand} />",
+      "props": " {...messages.agreeUnderstand} ",
+      "spread": " {...messages.agreeUnderstand} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.back} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.back} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.next} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.next} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

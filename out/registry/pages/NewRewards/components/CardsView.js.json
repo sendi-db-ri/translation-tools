@@ -1,0 +1,64 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/CardsView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/CardsView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.yourCredit} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.yourCredit} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.yourCredit} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.yourCredit} />",
+      "main_clean": "<FormattedMessage {...messages.yourCredit} />",
+      "main_regex": "<FormattedMessage {...messages.yourCredit} />",
+      "props": " {...messages.yourCredit} ",
+      "spread": " {...messages.yourCredit} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkedCards} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.linkedCards} />",
+      "all_regex": "\n          <FormattedMessage {...messages.linkedCards} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkedCards} />",
+      "main_clean": "<FormattedMessage {...messages.linkedCards} />",
+      "main_regex": "<FormattedMessage {...messages.linkedCards} />",
+      "props": " {...messages.linkedCards} ",
+      "spread": " {...messages.linkedCards} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkYour} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.linkYour} />",
+      "all_regex": "\n          <FormattedMessage {...messages.linkYour} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkYour} />",
+      "main_clean": "<FormattedMessage {...messages.linkYour} />",
+      "main_regex": "<FormattedMessage {...messages.linkYour} />",
+      "props": " {...messages.linkYour} ",
+      "spread": " {...messages.linkYour} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addCard} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.addCard} />",
+      "all_regex": "\n                <FormattedMessage {...messages.addCard} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addCard} />",
+      "main_clean": "<FormattedMessage {...messages.addCard} />",
+      "main_regex": "<FormattedMessage {...messages.addCard} />",
+      "props": " {...messages.addCard} ",
+      "spread": " {...messages.addCard} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

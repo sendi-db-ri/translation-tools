@@ -1,0 +1,292 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRollovers/SuperRolloversView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRollovers/SuperRolloversView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.manuallyAdded} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.manuallyAdded} />",
+      "all_regex": "\n            <FormattedMessage {...messages.manuallyAdded} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.manuallyAdded} />",
+      "main_clean": "<FormattedMessage {...messages.manuallyAdded} />",
+      "main_regex": "<FormattedMessage {...messages.manuallyAdded} />",
+      "props": " {...messages.manuallyAdded} ",
+      "spread": " {...messages.manuallyAdded} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.rollover} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.rollover} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.rollover} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.rollover} />",
+      "main_clean": "<FormattedMessage {...messages.rollover} />",
+      "main_regex": "<FormattedMessage {...messages.rollover} />",
+      "props": " {...messages.rollover} ",
+      "spread": " {...messages.rollover} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.delete} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.delete} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.delete} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.delete} />",
+      "main_clean": "<FormattedMessage {...messages.delete} />",
+      "main_regex": "<FormattedMessage {...messages.delete} />",
+      "props": " {...messages.delete} ",
+      "spread": " {...messages.delete} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.currentBalance} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.currentBalance} />",
+      "all_regex": "\n            <FormattedMessage {...messages.currentBalance} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.currentBalance} />",
+      "main_clean": "<FormattedMessage {...messages.currentBalance} />",
+      "main_regex": "<FormattedMessage {...messages.currentBalance} />",
+      "props": " {...messages.currentBalance} ",
+      "spread": " {...messages.currentBalance} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.rollover} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.rollover} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.rollover} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.rollover} />",
+      "main_clean": "<FormattedMessage {...messages.rollover} />",
+      "main_regex": "<FormattedMessage {...messages.rollover} />",
+      "props": " {...messages.rollover} ",
+      "spread": " {...messages.rollover} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.memberDetails} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.memberDetails} />",
+      "all_regex": "\n            <FormattedMessage {...messages.memberDetails} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.memberDetails} />",
+      "main_clean": "<FormattedMessage {...messages.memberDetails} />",
+      "main_regex": "<FormattedMessage {...messages.memberDetails} />",
+      "props": " {...messages.memberDetails} ",
+      "spread": " {...messages.memberDetails} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.accountNumber} />",
+      "all_clean": "<FormattedMessage {...messages.accountNumber} />",
+      "all_regex": "\n            <FormattedMessage {...messages.accountNumber} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.accountNumber} />",
+      "main_clean": "<FormattedMessage {...messages.accountNumber} />",
+      "main_regex": "<FormattedMessage {...messages.accountNumber} />",
+      "props": " {...messages.accountNumber} ",
+      "spread": " {...messages.accountNumber} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.unique} />",
+      "all_clean": "<FormattedMessage {...messages.unique} />",
+      "all_regex": "\n            <FormattedMessage {...messages.unique} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.unique} />",
+      "main_clean": "<FormattedMessage {...messages.unique} />",
+      "main_regex": "<FormattedMessage {...messages.unique} />",
+      "props": " {...messages.unique} ",
+      "spread": " {...messages.unique} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.identifier} />",
+      "all_clean": "<FormattedMessage {...messages.identifier} />",
+      "all_regex": "\n            <FormattedMessage {...messages.identifier} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.identifier} />",
+      "main_clean": "<FormattedMessage {...messages.identifier} />",
+      "main_regex": "<FormattedMessage {...messages.identifier} />",
+      "props": " {...messages.identifier} ",
+      "spread": " {...messages.identifier} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.fundDetails} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.fundDetails} />",
+      "all_regex": "\n            <FormattedMessage {...messages.fundDetails} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fundDetails} />",
+      "main_clean": "<FormattedMessage {...messages.fundDetails} />",
+      "main_regex": "<FormattedMessage {...messages.fundDetails} />",
+      "props": " {...messages.fundDetails} ",
+      "spread": " {...messages.fundDetails} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.existingProvider} />",
+      "all_clean": "<FormattedMessage {...messages.existingProvider} />",
+      "all_regex": "\n            <FormattedMessage {...messages.existingProvider} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.existingProvider} />",
+      "main_clean": "<FormattedMessage {...messages.existingProvider} />",
+      "main_regex": "<FormattedMessage {...messages.existingProvider} />",
+      "props": " {...messages.existingProvider} ",
+      "spread": " {...messages.existingProvider} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.insuranceIndicator} />",
+      "all_clean": "<FormattedMessage {...messages.insuranceIndicator} />",
+      "all_regex": "\n            <FormattedMessage {...messages.insuranceIndicator} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.insuranceIndicator} />",
+      "main_clean": "<FormattedMessage {...messages.insuranceIndicator} />",
+      "main_regex": "<FormattedMessage {...messages.insuranceIndicator} />",
+      "props": " {...messages.insuranceIndicator} ",
+      "spread": " {...messages.insuranceIndicator} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.benefitIndicator} />",
+      "all_clean": "<FormattedMessage {...messages.benefitIndicator} />",
+      "all_regex": "\n            <FormattedMessage {...messages.benefitIndicator} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.benefitIndicator} />",
+      "main_clean": "<FormattedMessage {...messages.benefitIndicator} />",
+      "main_regex": "<FormattedMessage {...messages.benefitIndicator} />",
+      "props": " {...messages.benefitIndicator} ",
+      "spread": " {...messages.benefitIndicator} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.acceptedIndication} />",
+      "all_clean": "<FormattedMessage {...messages.acceptedIndication} />",
+      "all_regex": "\n            <FormattedMessage {...messages.acceptedIndication} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.acceptedIndication} />",
+      "main_clean": "<FormattedMessage {...messages.acceptedIndication} />",
+      "main_regex": "<FormattedMessage {...messages.acceptedIndication} />",
+      "props": " {...messages.acceptedIndication} ",
+      "spread": " {...messages.acceptedIndication} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.activityStatus} />",
+      "all_clean": "<FormattedMessage {...messages.activityStatus} />",
+      "all_regex": "\n            <FormattedMessage {...messages.activityStatus} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.activityStatus} />",
+      "main_clean": "<FormattedMessage {...messages.activityStatus} />",
+      "main_regex": "<FormattedMessage {...messages.activityStatus} />",
+      "props": " {...messages.activityStatus} ",
+      "spread": " {...messages.activityStatus} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          {!isSearch && <FormattedMessage {...messages.rollovers} />}\n          ",
+      "all_clean": "{!isSearch && <FormattedMessage {...messages.rollovers} />}",
+      "all_regex": "\n          {!isSearch && <FormattedMessage {...messages.rollovers} />}\n          ",
+      "before": "\n          {!isSearch && ",
+      "main": "<FormattedMessage {...messages.rollovers} />",
+      "main_clean": "<FormattedMessage {...messages.rollovers} />",
+      "main_regex": "<FormattedMessage {...messages.rollovers} />",
+      "props": " {...messages.rollovers} ",
+      "spread": " {...messages.rollovers} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{isSearch && <FormattedMessage {...messages.superRollover} />}\n        ",
+      "all_clean": "{isSearch && <FormattedMessage {...messages.superRollover} />}",
+      "all_regex": "{isSearch && <FormattedMessage {...messages.superRollover} />}\n        ",
+      "before": "{isSearch && ",
+      "main": "<FormattedMessage {...messages.superRollover} />",
+      "main_clean": "<FormattedMessage {...messages.superRollover} />",
+      "main_regex": "<FormattedMessage {...messages.superRollover} />",
+      "props": " {...messages.superRollover} ",
+      "spread": " {...messages.superRollover} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.rolloverInto} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.rolloverInto} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.rolloverInto} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.rolloverInto} />",
+      "main_clean": "<FormattedMessage {...messages.rolloverInto} />",
+      "main_regex": "<FormattedMessage {...messages.rolloverInto} />",
+      "props": " {...messages.rolloverInto} ",
+      "spread": " {...messages.rolloverInto} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.history} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.history} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.history} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.history} />",
+      "main_clean": "<FormattedMessage {...messages.history} />",
+      "main_regex": "<FormattedMessage {...messages.history} />",
+      "props": " {...messages.history} ",
+      "spread": " {...messages.history} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.banerText} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.banerText} />",
+      "all_regex": "\n            <FormattedMessage {...messages.banerText} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.banerText} />",
+      "main_clean": "<FormattedMessage {...messages.banerText} />",
+      "main_regex": "<FormattedMessage {...messages.banerText} />",
+      "props": " {...messages.banerText} ",
+      "spread": " {...messages.banerText} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.searchText} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.searchText} />",
+      "all_regex": "\n            <FormattedMessage {...messages.searchText} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.searchText} />",
+      "main_clean": "<FormattedMessage {...messages.searchText} />",
+      "main_regex": "<FormattedMessage {...messages.searchText} />",
+      "props": " {...messages.searchText} ",
+      "spread": " {...messages.searchText} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.history} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.history} />",
+      "all_regex": "\n              <FormattedMessage {...messages.history} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.history} />",
+      "main_clean": "<FormattedMessage {...messages.history} />",
+      "main_regex": "<FormattedMessage {...messages.history} />",
+      "props": " {...messages.history} ",
+      "spread": " {...messages.history} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.addManually} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.addManually} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.addManually} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.addManually} />",
+      "main_clean": "<FormattedMessage {...messages.addManually} />",
+      "main_regex": "<FormattedMessage {...messages.addManually} />",
+      "props": " {...messages.addManually} ",
+      "spread": " {...messages.addManually} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

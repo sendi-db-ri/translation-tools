@@ -1,0 +1,196 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/SuperRegistrationView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/SuperRegistrationView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investSuper} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.investSuper} />",
+      "all_regex": "\n                <FormattedMessage {...messages.investSuper} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investSuper} />",
+      "main_clean": "<FormattedMessage {...messages.investSuper} />",
+      "main_regex": "<FormattedMessage {...messages.investSuper} />",
+      "props": " {...messages.investSuper} ",
+      "spread": " {...messages.investSuper} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pleaseComplete} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.pleaseComplete} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.pleaseComplete} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pleaseComplete} />",
+      "main_clean": "<FormattedMessage {...messages.pleaseComplete} />",
+      "main_regex": "<FormattedMessage {...messages.pleaseComplete} />",
+      "props": " {...messages.pleaseComplete} ",
+      "spread": " {...messages.pleaseComplete} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.contactDetails} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.contactDetails} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.contactDetails} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.contactDetails} />",
+      "main_clean": "<FormattedMessage {...messages.contactDetails} />",
+      "main_regex": "<FormattedMessage {...messages.contactDetails} />",
+      "props": " {...messages.contactDetails} ",
+      "spread": " {...messages.contactDetails} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.diversa} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.diversa} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.diversa} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.diversa} />",
+      "main_clean": "<FormattedMessage {...messages.diversa} />",
+      "main_regex": "<FormattedMessage {...messages.diversa} />",
+      "props": " {...messages.diversa} ",
+      "spread": " {...messages.diversa} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.continue} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.continue} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.continue} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "main_clean": "<FormattedMessage {...messages.continue} />",
+      "main_regex": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.provideGender} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.provideGender} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.provideGender} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.provideGender} />",
+      "main_clean": "<FormattedMessage {...messages.provideGender} />",
+      "main_regex": "<FormattedMessage {...messages.provideGender} />",
+      "props": " {...messages.provideGender} ",
+      "spread": " {...messages.provideGender} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.male} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.male} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.male} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.male} />",
+      "main_clean": "<FormattedMessage {...messages.male} />",
+      "main_regex": "<FormattedMessage {...messages.male} />",
+      "props": " {...messages.male} ",
+      "spread": " {...messages.male} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.femele} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.femele} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.femele} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.femele} />",
+      "main_clean": "<FormattedMessage {...messages.femele} />",
+      "main_regex": "<FormattedMessage {...messages.femele} />",
+      "props": " {...messages.femele} ",
+      "spread": " {...messages.femele} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.genderText} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.genderText} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.genderText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.genderText} />",
+      "main_clean": "<FormattedMessage {...messages.genderText} />",
+      "main_regex": "<FormattedMessage {...messages.genderText} />",
+      "props": " {...messages.genderText} ",
+      "spread": " {...messages.genderText} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.back} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.back} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.back} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.continue} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.continue} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.continue} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "main_clean": "<FormattedMessage {...messages.continue} />",
+      "main_regex": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.thankYou} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.thankYou} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.thankYou} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.thankYou} />",
+      "main_clean": "<FormattedMessage {...messages.thankYou} />",
+      "main_regex": "<FormattedMessage {...messages.thankYou} />",
+      "props": " {...messages.thankYou} ",
+      "spread": " {...messages.thankYou} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.youCan} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.youCan} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.youCan} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.youCan} />",
+      "main_clean": "<FormattedMessage {...messages.youCan} />",
+      "main_regex": "<FormattedMessage {...messages.youCan} />",
+      "props": " {...messages.youCan} ",
+      "spread": " {...messages.youCan} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.existingFund} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.existingFund} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.existingFund} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.existingFund} />",
+      "main_clean": "<FormattedMessage {...messages.existingFund} />",
+      "main_regex": "<FormattedMessage {...messages.existingFund} />",
+      "props": " {...messages.existingFund} ",
+      "spread": " {...messages.existingFund} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.finish} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.finish} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.finish} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.finish} />",
+      "main_clean": "<FormattedMessage {...messages.finish} />",
+      "main_regex": "<FormattedMessage {...messages.finish} />",
+      "props": " {...messages.finish} ",
+      "spread": " {...messages.finish} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

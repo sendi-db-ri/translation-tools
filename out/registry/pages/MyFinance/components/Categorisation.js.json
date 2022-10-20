@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/MyFinance/components/Categorisation.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/MyFinance/components/Categorisation.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.transactionCategorisation} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "all_regex": "\n          <FormattedMessage {...messages.transactionCategorisation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "main_clean": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "main_regex": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "props": " {...messages.transactionCategorisation} ",
+      "spread": " {...messages.transactionCategorisation} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n            title={<FormattedMessage {...messages.seeMore} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.seeMore} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.seeMore} />}\n          ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.seeMore} />",
+      "main_clean": "<FormattedMessage {...messages.seeMore} />",
+      "main_regex": "<FormattedMessage {...messages.seeMore} />",
+      "props": " {...messages.seeMore} ",
+      "spread": " {...messages.seeMore} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, injectIntl } from 'react-intl';",
+      "named": "FormattedMessage, injectIntl "
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Investments.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Investments.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.letsMake} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.letsMake} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.letsMake} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.letsMake} />",
+      "main_clean": "<FormattedMessage {...messages.letsMake} />",
+      "main_regex": "<FormattedMessage {...messages.letsMake} />",
+      "props": " {...messages.letsMake} ",
+      "spread": " {...messages.letsMake} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.noMinimum} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.noMinimum} />",
+      "all_regex": "\n              <FormattedMessage {...messages.noMinimum} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.noMinimum} />",
+      "main_clean": "<FormattedMessage {...messages.noMinimum} />",
+      "main_regex": "<FormattedMessage {...messages.noMinimum} />",
+      "props": " {...messages.noMinimum} ",
+      "spread": " {...messages.noMinimum} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

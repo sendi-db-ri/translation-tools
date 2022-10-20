@@ -1,0 +1,58 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RolloverRemoveConfirmModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RolloverRemoveConfirmModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRollovers/SuperRollovers.i18n.js",
+      "replace": "import messages from '../../../pages/Super/components/SuperRollovers/SuperRollovers.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.please} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.please} />",
+      "all_regex": "\n          <FormattedMessage {...messages.please} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.please} />",
+      "main_clean": "<FormattedMessage {...messages.please} />",
+      "main_regex": "<FormattedMessage {...messages.please} />",
+      "props": " {...messages.please} ",
+      "spread": " {...messages.please} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.delete} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.delete} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.delete} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.delete} />",
+      "main_clean": "<FormattedMessage {...messages.delete} />",
+      "main_regex": "<FormattedMessage {...messages.delete} />",
+      "props": " {...messages.delete} ",
+      "spread": " {...messages.delete} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

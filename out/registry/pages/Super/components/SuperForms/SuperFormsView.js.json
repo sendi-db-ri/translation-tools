@@ -1,0 +1,88 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperForms/SuperFormsView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperForms/SuperFormsView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superForms} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.superForms} />",
+      "all_regex": "\n            <FormattedMessage {...messages.superForms} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superForms} />",
+      "main_clean": "<FormattedMessage {...messages.superForms} />",
+      "main_regex": "<FormattedMessage {...messages.superForms} />",
+      "props": " {...messages.superForms} ",
+      "spread": " {...messages.superForms} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.nominationBinding} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.nominationBinding} />",
+      "all_regex": "\n            <FormattedMessage {...messages.nominationBinding} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.nominationBinding} />",
+      "main_clean": "<FormattedMessage {...messages.nominationBinding} />",
+      "main_regex": "<FormattedMessage {...messages.nominationBinding} />",
+      "props": " {...messages.nominationBinding} ",
+      "spread": " {...messages.nominationBinding} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.nonNominationBinding} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.nonNominationBinding} />",
+      "all_regex": "\n            <FormattedMessage {...messages.nonNominationBinding} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.nonNominationBinding} />",
+      "main_clean": "<FormattedMessage {...messages.nonNominationBinding} />",
+      "main_regex": "<FormattedMessage {...messages.nonNominationBinding} />",
+      "props": " {...messages.nonNominationBinding} ",
+      "spread": " {...messages.nonNominationBinding} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.rollover} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.rollover} />",
+      "all_regex": "\n            <FormattedMessage {...messages.rollover} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.rollover} />",
+      "main_clean": "<FormattedMessage {...messages.rollover} />",
+      "main_regex": "<FormattedMessage {...messages.rollover} />",
+      "props": " {...messages.rollover} ",
+      "spread": " {...messages.rollover} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.retirement} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.retirement} />",
+      "all_regex": "\n            <FormattedMessage {...messages.retirement} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.retirement} />",
+      "main_clean": "<FormattedMessage {...messages.retirement} />",
+      "main_regex": "<FormattedMessage {...messages.retirement} />",
+      "props": " {...messages.retirement} ",
+      "spread": " {...messages.retirement} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.compliance} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.compliance} />",
+      "all_regex": "\n            <FormattedMessage {...messages.compliance} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.compliance} />",
+      "main_clean": "<FormattedMessage {...messages.compliance} />",
+      "main_regex": "<FormattedMessage {...messages.compliance} />",
+      "props": " {...messages.compliance} ",
+      "spread": " {...messages.compliance} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

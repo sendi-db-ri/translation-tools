@@ -1,0 +1,94 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Account.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Account.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/Registration.i18n.js",
+      "replace": "import messages from '../Registration.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.someMoreInformation} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.someMoreInformation} />",
+      "all_regex": "\n          <FormattedMessage {...messages.someMoreInformation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.someMoreInformation} />",
+      "main_clean": "<FormattedMessage {...messages.someMoreInformation} />",
+      "main_regex": "<FormattedMessage {...messages.someMoreInformation} />",
+      "props": " {...messages.someMoreInformation} ",
+      "spread": " {...messages.someMoreInformation} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pds} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.pds} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.pds} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pds} />",
+      "main_clean": "<FormattedMessage {...messages.pds} />",
+      "main_regex": "<FormattedMessage {...messages.pds} />",
+      "props": " {...messages.pds} ",
+      "spread": " {...messages.pds} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.stepOneText} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.stepOneText} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.stepOneText} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.stepOneText} />",
+      "main_clean": "<FormattedMessage {...messages.stepOneText} />",
+      "main_regex": "<FormattedMessage {...messages.stepOneText} />",
+      "props": " {...messages.stepOneText} ",
+      "spread": " {...messages.stepOneText} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.stepOneBottomText} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.stepOneBottomText} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.stepOneBottomText} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.stepOneBottomText} />",
+      "main_clean": "<FormattedMessage {...messages.stepOneBottomText} />",
+      "main_regex": "<FormattedMessage {...messages.stepOneBottomText} />",
+      "props": " {...messages.stepOneBottomText} ",
+      "spread": " {...messages.stepOneBottomText} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.kidsBottomText} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.kidsBottomText} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.kidsBottomText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.kidsBottomText} />",
+      "main_clean": "<FormattedMessage {...messages.kidsBottomText} />",
+      "main_regex": "<FormattedMessage {...messages.kidsBottomText} />",
+      "props": " {...messages.kidsBottomText} ",
+      "spread": " {...messages.kidsBottomText} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.stepTwoBottomText} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.stepTwoBottomText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "main_clean": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "main_regex": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "props": " {...messages.stepTwoBottomText} ",
+      "spread": " {...messages.stepTwoBottomText} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/MyFinance/MyFinanceView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/MyFinance/MyFinanceView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.myFinance} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.myFinance} />",
+      "all_regex": "\n              <FormattedMessage {...messages.myFinance} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.myFinance} />",
+      "main_clean": "<FormattedMessage {...messages.myFinance} />",
+      "main_regex": "<FormattedMessage {...messages.myFinance} />",
+      "props": " {...messages.myFinance} ",
+      "spread": " {...messages.myFinance} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.spendingThisMonth} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.spendingThisMonth} />",
+      "props": " {...messages.spendingThisMonth} ",
+      "spread": " {...messages.spendingThisMonth} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.averageMonthlySpending} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.averageMonthlySpending} />",
+      "props": " {...messages.averageMonthlySpending} ",
+      "spread": " {...messages.averageMonthlySpending} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, FormattedHTMLMessage } from 'react-intl';",
+      "named": "FormattedMessage, FormattedHTMLMessage "
+    }
+  ]
+}

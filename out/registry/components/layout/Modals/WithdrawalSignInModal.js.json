@@ -1,0 +1,98 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/WithdrawalSignInModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/WithdrawalSignInModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.empty} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.empty} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "main_clean": "<FormattedMessage {...messages.empty} />",
+      "main_regex": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.bankSignIn} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.bankSignIn} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.bankSignIn} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.bankSignIn} />",
+      "main_clean": "<FormattedMessage {...messages.bankSignIn} />",
+      "main_regex": "<FormattedMessage {...messages.bankSignIn} />",
+      "props": " {...messages.bankSignIn} ",
+      "spread": " {...messages.bankSignIn} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.secured} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "main_clean": "<FormattedMessage {...messages.secured} />",
+      "main_regex": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pleaseAdd} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.pleaseAdd} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.pleaseAdd} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pleaseAdd} />",
+      "main_clean": "<FormattedMessage {...messages.pleaseAdd} />",
+      "main_regex": "<FormattedMessage {...messages.pleaseAdd} />",
+      "props": " {...messages.pleaseAdd} ",
+      "spread": " {...messages.pleaseAdd} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.bankAccountN} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.bankAccountN} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.bankAccountN} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.bankAccountN} />",
+      "main_clean": "<FormattedMessage {...messages.bankAccountN} />",
+      "main_regex": "<FormattedMessage {...messages.bankAccountN} />",
+      "props": " {...messages.bankAccountN} ",
+      "spread": " {...messages.bankAccountN} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.add} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.add} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.add} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.add} />",
+      "main_clean": "<FormattedMessage {...messages.add} />",
+      "main_regex": "<FormattedMessage {...messages.add} />",
+      "props": " {...messages.add} ",
+      "spread": " {...messages.add} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedHTMLMessage\n          {...messages.accountInvalid}\n          values={{\n            min,\n          }}\n        />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedHTMLMessage\n          {...messages.accountInvalid}\n          values={{\n            min,\n          }}\n        />",
+      "props": "\n          {...messages.accountInvalid}\n          values={{\n            min,\n          }}\n        ",
+      "spread": "\n          {...messages.accountInvalid}\n          ",
+      "values": "values={{\n            min,\n          }}\n        "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, FormattedHTMLMessage } from 'react-intl';",
+      "named": "FormattedMessage, FormattedHTMLMessage "
+    }
+  ]
+}

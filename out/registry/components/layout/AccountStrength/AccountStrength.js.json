@@ -1,0 +1,34 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/AccountStrength/AccountStrength.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/AccountStrength/AccountStrength.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/AccountStrength/AccountStrength.i18n.js",
+      "replace": "import messages from './AccountStrength.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.accountStrength} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.accountStrength} />",
+      "all_regex": "\n              <FormattedMessage {...messages.accountStrength} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountStrength} />",
+      "main_clean": "<FormattedMessage {...messages.accountStrength} />",
+      "main_regex": "<FormattedMessage {...messages.accountStrength} />",
+      "props": " {...messages.accountStrength} ",
+      "spread": " {...messages.accountStrength} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Banks.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Banks.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.useAnother} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.useAnother} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.useAnother} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.useAnother} />",
+      "main_clean": "<FormattedMessage {...messages.useAnother} />",
+      "main_regex": "<FormattedMessage {...messages.useAnother} />",
+      "props": " {...messages.useAnother} ",
+      "spread": " {...messages.useAnother} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.moreBanks} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.moreBanks} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.moreBanks} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.moreBanks} />",
+      "main_clean": "<FormattedMessage {...messages.moreBanks} />",
+      "main_regex": "<FormattedMessage {...messages.moreBanks} />",
+      "props": " {...messages.moreBanks} ",
+      "spread": " {...messages.moreBanks} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

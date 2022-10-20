@@ -1,0 +1,64 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/BanksSearch.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/BanksSearch.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.linkSpendingAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.linkSpendingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "props": " {...messages.linkSpendingAccount} ",
+      "spread": " {...messages.linkSpendingAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.linkFundingAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.linkFundingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "props": " {...messages.linkFundingAccount} ",
+      "spread": " {...messages.linkFundingAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.showing} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.showing} />",
+      "all_regex": "\n            <FormattedMessage {...messages.showing} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.showing} />",
+      "main_clean": "<FormattedMessage {...messages.showing} />",
+      "main_regex": "<FormattedMessage {...messages.showing} />",
+      "props": " {...messages.showing} ",
+      "spread": " {...messages.showing} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.results} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.results} />",
+      "all_regex": "\n            <FormattedMessage {...messages.results} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.results} />",
+      "main_clean": "<FormattedMessage {...messages.results} />",
+      "main_regex": "<FormattedMessage {...messages.results} />",
+      "props": " {...messages.results} ",
+      "spread": " {...messages.results} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/RaizOther.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/RaizOther.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "{\n          errorMessage: <FormattedMessage {...messages.required} />",
+      "all_clean": "{ errorMessage: <FormattedMessage {...messages.required} />",
+      "all_regex": "{\n          errorMessage: <FormattedMessage {...messages.required} />",
+      "before": "{\n          errorMessage: ",
+      "main": "<FormattedMessage {...messages.required} />",
+      "main_clean": "<FormattedMessage {...messages.required} />",
+      "main_regex": "<FormattedMessage {...messages.required} />",
+      "props": " {...messages.required} ",
+      "spread": " {...messages.required} "
+    },
+    {
+      "after": "",
+      "all": "\n        contentFillTitle = <FormattedMessage {...messages.pushNotifications} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.pushNotifications} />",
+      "all_regex": "\n        contentFillTitle = <FormattedMessage {...messages.pushNotifications} />",
+      "before": "\n        contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.pushNotifications} />",
+      "main_clean": "<FormattedMessage {...messages.pushNotifications} />",
+      "main_regex": "<FormattedMessage {...messages.pushNotifications} />",
+      "props": " {...messages.pushNotifications} ",
+      "spread": " {...messages.pushNotifications} "
+    },
+    {
+      "after": "",
+      "all": "\n        contentFillTitle = <FormattedMessage {...messages.kidsAccess} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.kidsAccess} />",
+      "all_regex": "\n        contentFillTitle = <FormattedMessage {...messages.kidsAccess} />",
+      "before": "\n        contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.kidsAccess} />",
+      "main_clean": "<FormattedMessage {...messages.kidsAccess} />",
+      "main_regex": "<FormattedMessage {...messages.kidsAccess} />",
+      "props": " {...messages.kidsAccess} ",
+      "spread": " {...messages.kidsAccess} "
+    },
+    {
+      "after": "",
+      "all": "\n        contentFillTitle = <FormattedMessage {...messages.transferIn} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.transferIn} />",
+      "all_regex": "\n        contentFillTitle = <FormattedMessage {...messages.transferIn} />",
+      "before": "\n        contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.transferIn} />",
+      "main_clean": "<FormattedMessage {...messages.transferIn} />",
+      "main_regex": "<FormattedMessage {...messages.transferIn} />",
+      "props": " {...messages.transferIn} ",
+      "spread": " {...messages.transferIn} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.kidsSimplyWay} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "all_regex": "\n                <FormattedMessage {...messages.kidsSimplyWay} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "main_clean": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "main_regex": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "props": " {...messages.kidsSimplyWay} ",
+      "spread": " {...messages.kidsSimplyWay} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage {...messages.investmentWillTransferred} />\n            }\n            ",
+      "all_clean": "{ <FormattedMessage {...messages.investmentWillTransferred} /> }",
+      "all_regex": "{\n              <FormattedMessage {...messages.investmentWillTransferred} />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage {...messages.investmentWillTransferred} />",
+      "main_clean": "<FormattedMessage {...messages.investmentWillTransferred} />",
+      "main_regex": "<FormattedMessage {...messages.investmentWillTransferred} />",
+      "props": " {...messages.investmentWillTransferred} ",
+      "spread": " {...messages.investmentWillTransferred} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "modalTitle={<FormattedMessage {...messages.congrats} />}\n            ",
+      "all_clean": "modalTitle={<FormattedMessage {...messages.congrats} />}",
+      "all_regex": "modalTitle={<FormattedMessage {...messages.congrats} />}\n            ",
+      "before": "modalTitle={",
+      "main": "<FormattedMessage {...messages.congrats} />",
+      "main_clean": "<FormattedMessage {...messages.congrats} />",
+      "main_regex": "<FormattedMessage {...messages.congrats} />",
+      "props": " {...messages.congrats} ",
+      "spread": " {...messages.congrats} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

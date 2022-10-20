@@ -1,0 +1,58 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RolloverFundModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RolloverFundModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRollovers/SuperRollovers.i18n.js",
+      "replace": "import messages from '../../../pages/Super/components/SuperRollovers/SuperRollovers.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.memberNumber} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.memberNumber} />",
+      "all_regex": "\n          <FormattedMessage {...messages.memberNumber} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.memberNumber} />",
+      "main_clean": "<FormattedMessage {...messages.memberNumber} />",
+      "main_regex": "<FormattedMessage {...messages.memberNumber} />",
+      "props": " {...messages.memberNumber} ",
+      "spread": " {...messages.memberNumber} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.empty} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.empty} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.empty} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "main_clean": "<FormattedMessage {...messages.empty} />",
+      "main_regex": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.toRollover} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.toRollover} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.toRollover} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.toRollover} />",
+      "main_clean": "<FormattedMessage {...messages.toRollover} />",
+      "main_regex": "<FormattedMessage {...messages.toRollover} />",
+      "props": " {...messages.toRollover} ",
+      "spread": " {...messages.toRollover} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

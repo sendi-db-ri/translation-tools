@@ -1,0 +1,190 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/WithdrawalAccountView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/WithdrawalAccountView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.change} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.change} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.change} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.change} />",
+      "main_clean": "<FormattedMessage {...messages.change} />",
+      "main_regex": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.verified} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.verified} />",
+      "all_regex": "\n          <FormattedMessage {...messages.verified} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.verified} />",
+      "main_clean": "<FormattedMessage {...messages.verified} />",
+      "main_regex": "<FormattedMessage {...messages.verified} />",
+      "props": " {...messages.verified} ",
+      "spread": " {...messages.verified} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.pleaseNote} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.pleaseNote} />",
+      "all_regex": "\n        <FormattedMessage {...messages.pleaseNote} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.pleaseNote} />",
+      "main_clean": "<FormattedMessage {...messages.pleaseNote} />",
+      "main_regex": "<FormattedMessage {...messages.pleaseNote} />",
+      "props": " {...messages.pleaseNote} ",
+      "spread": " {...messages.pleaseNote} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.withdrawalAccount} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.withdrawalAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "main_clean": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "main_regex": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "props": " {...messages.withdrawalAccount} ",
+      "spread": " {...messages.withdrawalAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.linkwithdrawalAccount} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.linkwithdrawalAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.linkwithdrawalAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.linkwithdrawalAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkwithdrawalAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkwithdrawalAccount} />",
+      "props": " {...messages.linkwithdrawalAccount} ",
+      "spread": " {...messages.linkwithdrawalAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pleaseAdd} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.pleaseAdd} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.pleaseAdd} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pleaseAdd} />",
+      "main_clean": "<FormattedMessage {...messages.pleaseAdd} />",
+      "main_regex": "<FormattedMessage {...messages.pleaseAdd} />",
+      "props": " {...messages.pleaseAdd} ",
+      "spread": " {...messages.pleaseAdd} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.selectThe} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.selectThe} />",
+      "all_regex": "\n                <FormattedMessage {...messages.selectThe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.selectThe} />",
+      "main_clean": "<FormattedMessage {...messages.selectThe} />",
+      "main_regex": "<FormattedMessage {...messages.selectThe} />",
+      "props": " {...messages.selectThe} ",
+      "spread": " {...messages.selectThe} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.chooseBankWithdrawal} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.chooseBankWithdrawal} />",
+      "all_regex": "\n                <FormattedMessage {...messages.chooseBankWithdrawal} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.chooseBankWithdrawal} />",
+      "main_clean": "<FormattedMessage {...messages.chooseBankWithdrawal} />",
+      "main_regex": "<FormattedMessage {...messages.chooseBankWithdrawal} />",
+      "props": " {...messages.chooseBankWithdrawal} ",
+      "spread": " {...messages.chooseBankWithdrawal} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.areYouSure} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.areYouSure} />",
+      "all_regex": "\n                <FormattedMessage {...messages.areYouSure} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.areYouSure} />",
+      "main_clean": "<FormattedMessage {...messages.areYouSure} />",
+      "main_regex": "<FormattedMessage {...messages.areYouSure} />",
+      "props": " {...messages.areYouSure} ",
+      "spread": " {...messages.areYouSure} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.cancel} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.cancel} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.ok} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.ok} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.secured} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.secured} />",
+      "all_regex": "\n                <FormattedMessage {...messages.secured} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "main_clean": "<FormattedMessage {...messages.secured} />",
+      "main_regex": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addWithdrawal} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.addWithdrawal} />",
+      "all_regex": "\n                <FormattedMessage {...messages.addWithdrawal} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addWithdrawal} />",
+      "main_clean": "<FormattedMessage {...messages.addWithdrawal} />",
+      "main_regex": "<FormattedMessage {...messages.addWithdrawal} />",
+      "props": " {...messages.addWithdrawal} ",
+      "spread": " {...messages.addWithdrawal} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.addWithdrawalAccount} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.addWithdrawalAccount} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.addWithdrawalAccount} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.addWithdrawalAccount} />",
+      "main_clean": "<FormattedMessage {...messages.addWithdrawalAccount} />",
+      "main_regex": "<FormattedMessage {...messages.addWithdrawalAccount} />",
+      "props": " {...messages.addWithdrawalAccount} ",
+      "spread": " {...messages.addWithdrawalAccount} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

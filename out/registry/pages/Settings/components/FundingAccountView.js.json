@@ -1,0 +1,250 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/FundingAccountView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/FundingAccountView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n        <FormattedMessage {...messages.cardStars} />",
+      "all_clean": "<FormattedMessage {...messages.cardStars} />",
+      "all_regex": "\n        <FormattedMessage {...messages.cardStars} />",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "main_clean": "<FormattedMessage {...messages.cardStars} />",
+      "main_regex": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.change} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.change} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.change} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.change} />",
+      "main_clean": "<FormattedMessage {...messages.change} />",
+      "main_regex": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "",
+      "all": "\n              <FormattedMessage {...messages.cardStars} />",
+      "all_clean": "<FormattedMessage {...messages.cardStars} />",
+      "all_regex": "\n              <FormattedMessage {...messages.cardStars} />",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "main_clean": "<FormattedMessage {...messages.cardStars} />",
+      "main_regex": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.addAnotherCard} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.addAnotherCard} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.addAnotherCard} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.addAnotherCard} />",
+      "main_clean": "<FormattedMessage {...messages.addAnotherCard} />",
+      "main_regex": "<FormattedMessage {...messages.addAnotherCard} />",
+      "props": " {...messages.addAnotherCard} ",
+      "spread": " {...messages.addAnotherCard} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.accountMustBeCredit} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "all_regex": "\n              <FormattedMessage {...messages.accountMustBeCredit} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "main_clean": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "main_regex": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "props": " {...messages.accountMustBeCredit} ",
+      "spread": " {...messages.accountMustBeCredit} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.changingMayDelay} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.changingMayDelay} />",
+      "all_regex": "\n              <FormattedMessage {...messages.changingMayDelay} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.changingMayDelay} />",
+      "main_clean": "<FormattedMessage {...messages.changingMayDelay} />",
+      "main_regex": "<FormattedMessage {...messages.changingMayDelay} />",
+      "props": " {...messages.changingMayDelay} ",
+      "spread": " {...messages.changingMayDelay} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.change} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.change} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.change} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.change} />",
+      "main_clean": "<FormattedMessage {...messages.change} />",
+      "main_regex": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.verified} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.verified} />",
+      "all_regex": "\n          <FormattedMessage {...messages.verified} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.verified} />",
+      "main_clean": "<FormattedMessage {...messages.verified} />",
+      "main_regex": "<FormattedMessage {...messages.verified} />",
+      "props": " {...messages.verified} ",
+      "spread": " {...messages.verified} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.accountMustBeCredit} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "all_regex": "\n          <FormattedMessage {...messages.accountMustBeCredit} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "main_clean": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "main_regex": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "props": " {...messages.accountMustBeCredit} ",
+      "spread": " {...messages.accountMustBeCredit} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.changingMayDelay} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.changingMayDelay} />",
+      "all_regex": "\n        <FormattedMessage {...messages.changingMayDelay} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.changingMayDelay} />",
+      "main_clean": "<FormattedMessage {...messages.changingMayDelay} />",
+      "main_regex": "<FormattedMessage {...messages.changingMayDelay} />",
+      "props": " {...messages.changingMayDelay} ",
+      "spread": " {...messages.changingMayDelay} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            {!isShowBanks && <FormattedMessage {...messages.fundingAccount} />}\n            ",
+      "all_clean": "{!isShowBanks && <FormattedMessage {...messages.fundingAccount} />}",
+      "all_regex": "\n            {!isShowBanks && <FormattedMessage {...messages.fundingAccount} />}\n            ",
+      "before": "\n            {!isShowBanks && ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.linkFundingAccount} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.linkFundingAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "props": " {...messages.linkFundingAccount} ",
+      "spread": " {...messages.linkFundingAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.addFunding} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.addFunding} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.addFunding} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.addFunding} />",
+      "main_clean": "<FormattedMessage {...messages.addFunding} />",
+      "main_regex": "<FormattedMessage {...messages.addFunding} />",
+      "props": " {...messages.addFunding} ",
+      "spread": " {...messages.addFunding} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.selectThe} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.selectThe} />",
+      "all_regex": "\n                <FormattedMessage {...messages.selectThe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.selectThe} />",
+      "main_clean": "<FormattedMessage {...messages.selectThe} />",
+      "main_regex": "<FormattedMessage {...messages.selectThe} />",
+      "props": " {...messages.selectThe} ",
+      "spread": " {...messages.selectThe} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.chooseBankSpending} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.chooseBankSpending} />",
+      "all_regex": "\n                <FormattedMessage {...messages.chooseBankSpending} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.chooseBankSpending} />",
+      "main_clean": "<FormattedMessage {...messages.chooseBankSpending} />",
+      "main_regex": "<FormattedMessage {...messages.chooseBankSpending} />",
+      "props": " {...messages.chooseBankSpending} ",
+      "spread": " {...messages.chooseBankSpending} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.secured} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.secured} />",
+      "all_regex": "\n                <FormattedMessage {...messages.secured} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "main_clean": "<FormattedMessage {...messages.secured} />",
+      "main_regex": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addFunding} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.addFunding} />",
+      "all_regex": "\n                <FormattedMessage {...messages.addFunding} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addFunding} />",
+      "main_clean": "<FormattedMessage {...messages.addFunding} />",
+      "main_regex": "<FormattedMessage {...messages.addFunding} />",
+      "props": " {...messages.addFunding} ",
+      "spread": " {...messages.addFunding} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.addFundingAccount} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.addFundingAccount} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.addFundingAccount} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.addFundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.addFundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.addFundingAccount} />",
+      "props": " {...messages.addFundingAccount} ",
+      "spread": " {...messages.addFundingAccount} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          errorMessage={<FormattedMessage {...messages.forYour} />}\n          ",
+      "all_clean": "errorMessage={<FormattedMessage {...messages.forYour} />}",
+      "all_regex": "\n          errorMessage={<FormattedMessage {...messages.forYour} />}\n          ",
+      "before": "\n          errorMessage={",
+      "main": "<FormattedMessage {...messages.forYour} />",
+      "main_clean": "<FormattedMessage {...messages.forYour} />",
+      "main_regex": "<FormattedMessage {...messages.forYour} />",
+      "props": " {...messages.forYour} ",
+      "spread": " {...messages.forYour} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

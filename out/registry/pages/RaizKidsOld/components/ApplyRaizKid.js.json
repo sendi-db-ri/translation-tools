@@ -1,0 +1,114 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsOld/components/ApplyRaizKid.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsOld/components/ApplyRaizKid.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              />\n            ",
+      "all_clean": "<FormattedMessage {...messages.congratulations} values={{ name: currentChild.name }} />",
+      "all_regex": "\n              <FormattedMessage\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.congratulations} values={{ name: currentChild.name }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              />",
+      "props": "\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              ",
+      "spread": "\n                {...messages.congratulations}\n                ",
+      "values": "values={{ name: currentChild.name }}\n              "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.youHaveSaved} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.youHaveSaved} />",
+      "all_regex": "\n              <FormattedMessage {...messages.youHaveSaved} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.youHaveSaved} />",
+      "main_clean": "<FormattedMessage {...messages.youHaveSaved} />",
+      "main_regex": "<FormattedMessage {...messages.youHaveSaved} />",
+      "props": " {...messages.youHaveSaved} ",
+      "spread": " {...messages.youHaveSaved} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              />\n            ",
+      "all_clean": "<FormattedMessage {...messages.toGetStarted} values={{ name: currentChild.name }} />",
+      "all_regex": "\n              <FormattedMessage\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.toGetStarted} values={{ name: currentChild.name }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              />",
+      "props": "\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              ",
+      "spread": "\n                {...messages.toGetStarted}\n                ",
+      "values": "values={{ name: currentChild.name }}\n              "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.askToOpen} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.askToOpen} />",
+      "all_regex": "\n                <FormattedMessage {...messages.askToOpen} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.askToOpen} />",
+      "main_clean": "<FormattedMessage {...messages.askToOpen} />",
+      "main_regex": "<FormattedMessage {...messages.askToOpen} />",
+      "props": " {...messages.askToOpen} ",
+      "spread": " {...messages.askToOpen} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.onceAccountOpen} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.onceAccountOpen} />",
+      "all_regex": "\n                <FormattedMessage {...messages.onceAccountOpen} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.onceAccountOpen} />",
+      "main_clean": "<FormattedMessage {...messages.onceAccountOpen} />",
+      "main_regex": "<FormattedMessage {...messages.onceAccountOpen} />",
+      "props": " {...messages.onceAccountOpen} ",
+      "spread": " {...messages.onceAccountOpen} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n                label={<FormattedMessage {...messages.emailAddress} />}\n              ",
+      "all_clean": "label={<FormattedMessage {...messages.emailAddress} />}",
+      "all_regex": "\n                label={<FormattedMessage {...messages.emailAddress} />}\n              ",
+      "before": "\n                label={",
+      "main": "<FormattedMessage {...messages.emailAddress} />",
+      "main_clean": "<FormattedMessage {...messages.emailAddress} />",
+      "main_regex": "<FormattedMessage {...messages.emailAddress} />",
+      "props": " {...messages.emailAddress} ",
+      "spread": " {...messages.emailAddress} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.transfer} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.transfer} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.transfer} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.transfer} />",
+      "main_clean": "<FormattedMessage {...messages.transfer} />",
+      "main_regex": "<FormattedMessage {...messages.transfer} />",
+      "props": " {...messages.transfer} ",
+      "spread": " {...messages.transfer} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.amoutWillTransfered} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.amoutWillTransfered} />",
+      "all_regex": "\n              <FormattedMessage {...messages.amoutWillTransfered} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.amoutWillTransfered} />",
+      "main_clean": "<FormattedMessage {...messages.amoutWillTransfered} />",
+      "main_regex": "<FormattedMessage {...messages.amoutWillTransfered} />",
+      "props": " {...messages.amoutWillTransfered} ",
+      "spread": " {...messages.amoutWillTransfered} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

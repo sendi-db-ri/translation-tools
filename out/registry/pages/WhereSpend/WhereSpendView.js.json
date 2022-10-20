@@ -1,0 +1,76 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/WhereSpend/WhereSpendView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/WhereSpend/WhereSpendView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.whereYouSpend} />",
+      "all_regex": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.whereYouSpend} />",
+      "main_clean": "<FormattedMessage {...messages.whereYouSpend} />",
+      "main_regex": "<FormattedMessage {...messages.whereYouSpend} />",
+      "props": " {...messages.whereYouSpend} ",
+      "spread": " {...messages.whereYouSpend} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.whereYouSpend} />",
+      "all_regex": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.whereYouSpend} />",
+      "main_clean": "<FormattedMessage {...messages.whereYouSpend} />",
+      "main_regex": "<FormattedMessage {...messages.whereYouSpend} />",
+      "props": " {...messages.whereYouSpend} ",
+      "spread": " {...messages.whereYouSpend} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.chooseCategory} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.chooseCategory} />",
+      "all_regex": "\n          <FormattedMessage {...messages.chooseCategory} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.chooseCategory} />",
+      "main_clean": "<FormattedMessage {...messages.chooseCategory} />",
+      "main_regex": "<FormattedMessage {...messages.chooseCategory} />",
+      "props": " {...messages.chooseCategory} ",
+      "spread": " {...messages.chooseCategory} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.allCategories} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.allCategories} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.allCategories} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.allCategories} />",
+      "main_clean": "<FormattedMessage {...messages.allCategories} />",
+      "main_regex": "<FormattedMessage {...messages.allCategories} />",
+      "props": " {...messages.allCategories} ",
+      "spread": " {...messages.allCategories} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.noCategories} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.noCategories} />",
+      "all_regex": "\n            <FormattedMessage {...messages.noCategories} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.noCategories} />",
+      "main_clean": "<FormattedMessage {...messages.noCategories} />",
+      "main_regex": "<FormattedMessage {...messages.noCategories} />",
+      "props": " {...messages.noCategories} ",
+      "spread": " {...messages.noCategories} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

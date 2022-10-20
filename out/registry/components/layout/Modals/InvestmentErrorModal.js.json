@@ -1,0 +1,28 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/InvestmentErrorModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/InvestmentErrorModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.ok} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.ok} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

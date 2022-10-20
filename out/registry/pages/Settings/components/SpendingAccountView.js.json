@@ -1,0 +1,154 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/SpendingAccountView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/SpendingAccountView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.cardStars} />",
+      "all_clean": "<FormattedMessage {...messages.cardStars} />",
+      "all_regex": "\n            <FormattedMessage {...messages.cardStars} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "main_clean": "<FormattedMessage {...messages.cardStars} />",
+      "main_regex": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.unlink} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.unlink} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.unlink} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "main_clean": "<FormattedMessage {...messages.unlink} />",
+      "main_regex": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n      <FormattedMessage {...messages.cardStars} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.cardStars} />",
+      "all_regex": "\n      <FormattedMessage {...messages.cardStars} />\n      ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "main_clean": "<FormattedMessage {...messages.cardStars} />",
+      "main_regex": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.unlink} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.unlink} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.unlink} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "main_clean": "<FormattedMessage {...messages.unlink} />",
+      "main_regex": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.spendingAccountTitle} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.spendingAccountTitle} />",
+      "all_regex": "\n                <FormattedMessage {...messages.spendingAccountTitle} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.spendingAccountTitle} />",
+      "main_clean": "<FormattedMessage {...messages.spendingAccountTitle} />",
+      "main_regex": "<FormattedMessage {...messages.spendingAccountTitle} />",
+      "props": " {...messages.spendingAccountTitle} ",
+      "spread": " {...messages.spendingAccountTitle} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.linkSpendingAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.linkSpendingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "props": " {...messages.linkSpendingAccount} ",
+      "spread": " {...messages.linkSpendingAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pilihAkunDibawah} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.pilihAkunDibawah} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.pilihAkunDibawah} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pilihAkunDibawah} />",
+      "main_clean": "<FormattedMessage {...messages.pilihAkunDibawah} />",
+      "main_regex": "<FormattedMessage {...messages.pilihAkunDibawah} />",
+      "props": " {...messages.pilihAkunDibawah} ",
+      "spread": " {...messages.pilihAkunDibawah} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.chooseBank} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.chooseBank} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.chooseBank} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.chooseBank} />",
+      "main_clean": "<FormattedMessage {...messages.chooseBank} />",
+      "main_regex": "<FormattedMessage {...messages.chooseBank} />",
+      "props": " {...messages.chooseBank} ",
+      "spread": " {...messages.chooseBank} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.secured} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "main_clean": "<FormattedMessage {...messages.secured} />",
+      "main_regex": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.addSpendingAccount} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.addSpendingAccount} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.addSpendingAccount} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.addSpendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.addSpendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.addSpendingAccount} />",
+      "props": " {...messages.addSpendingAccount} ",
+      "spread": " {...messages.addSpendingAccount} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

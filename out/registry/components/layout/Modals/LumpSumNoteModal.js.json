@@ -1,0 +1,46 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/LumpSumNoteModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/LumpSumNoteModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/Super.i18n.js",
+      "replace": "import messages from '../../../pages/Super/Super.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.cancel} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.cancel} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.ok} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.ok} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

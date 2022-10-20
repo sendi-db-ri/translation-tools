@@ -1,0 +1,196 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperInfo/SuperInfoView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperInfo/SuperInfoView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.superInfo} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.superInfo} />",
+      "all_regex": "\n              <FormattedMessage {...messages.superInfo} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.superInfo} />",
+      "main_clean": "<FormattedMessage {...messages.superInfo} />",
+      "main_regex": "<FormattedMessage {...messages.superInfo} />",
+      "props": " {...messages.superInfo} ",
+      "spread": " {...messages.superInfo} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.superProfile} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.superProfile} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.superProfile} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.superProfile} />",
+      "main_clean": "<FormattedMessage {...messages.superProfile} />",
+      "main_regex": "<FormattedMessage {...messages.superProfile} />",
+      "props": " {...messages.superProfile} ",
+      "spread": " {...messages.superProfile} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.superInsurance} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.superInsurance} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.superInsurance} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.superInsurance} />",
+      "main_clean": "<FormattedMessage {...messages.superInsurance} />",
+      "main_regex": "<FormattedMessage {...messages.superInsurance} />",
+      "props": " {...messages.superInsurance} ",
+      "spread": " {...messages.superInsurance} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.memberName} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.memberName} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.memberName} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.memberName} />",
+      "main_clean": "<FormattedMessage {...messages.memberName} />",
+      "main_regex": "<FormattedMessage {...messages.memberName} />",
+      "props": " {...messages.memberName} ",
+      "spread": " {...messages.memberName} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.membershipNumber} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.membershipNumber} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.membershipNumber} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.membershipNumber} />",
+      "main_clean": "<FormattedMessage {...messages.membershipNumber} />",
+      "main_regex": "<FormattedMessage {...messages.membershipNumber} />",
+      "props": " {...messages.membershipNumber} ",
+      "spread": " {...messages.membershipNumber} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundName} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.fundName} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.fundName} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundName} />",
+      "main_clean": "<FormattedMessage {...messages.fundName} />",
+      "main_regex": "<FormattedMessage {...messages.fundName} />",
+      "props": " {...messages.fundName} ",
+      "spread": " {...messages.fundName} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundUSI} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.fundUSI} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.fundUSI} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundUSI} />",
+      "main_clean": "<FormattedMessage {...messages.fundUSI} />",
+      "main_regex": "<FormattedMessage {...messages.fundUSI} />",
+      "props": " {...messages.fundUSI} ",
+      "spread": " {...messages.fundUSI} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundABN} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.fundABN} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.fundABN} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundABN} />",
+      "main_clean": "<FormattedMessage {...messages.fundABN} />",
+      "main_regex": "<FormattedMessage {...messages.fundABN} />",
+      "props": " {...messages.fundABN} ",
+      "spread": " {...messages.fundABN} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundAddress} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.fundAddress} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.fundAddress} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundAddress} />",
+      "main_clean": "<FormattedMessage {...messages.fundAddress} />",
+      "main_regex": "<FormattedMessage {...messages.fundAddress} />",
+      "props": " {...messages.fundAddress} ",
+      "spread": " {...messages.fundAddress} "
+    },
+    {
+      "after": "",
+      "all": "\n                      <FormattedMessage {...messages.billerCode} />",
+      "all_clean": "<FormattedMessage {...messages.billerCode} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.billerCode} />",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.billerCode} />",
+      "main_clean": "<FormattedMessage {...messages.billerCode} />",
+      "main_regex": "<FormattedMessage {...messages.billerCode} />",
+      "props": " {...messages.billerCode} ",
+      "spread": " {...messages.billerCode} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.ref} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.ref} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.ref} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.ref} />",
+      "main_clean": "<FormattedMessage {...messages.ref} />",
+      "main_regex": "<FormattedMessage {...messages.ref} />",
+      "props": " {...messages.ref} ",
+      "spread": " {...messages.ref} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.defaultCover} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.defaultCover} />",
+      "all_regex": "\n                <FormattedMessage {...messages.defaultCover} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.defaultCover} />",
+      "main_clean": "<FormattedMessage {...messages.defaultCover} />",
+      "main_regex": "<FormattedMessage {...messages.defaultCover} />",
+      "props": " {...messages.defaultCover} ",
+      "spread": " {...messages.defaultCover} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.defaultAmount} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.defaultAmount} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.defaultAmount} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.defaultAmount} />",
+      "main_clean": "<FormattedMessage {...messages.defaultAmount} />",
+      "main_regex": "<FormattedMessage {...messages.defaultAmount} />",
+      "props": " {...messages.defaultAmount} ",
+      "spread": " {...messages.defaultAmount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.premium} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.premium} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.premium} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.premium} />",
+      "main_clean": "<FormattedMessage {...messages.premium} />",
+      "main_regex": "<FormattedMessage {...messages.premium} />",
+      "props": " {...messages.premium} ",
+      "spread": " {...messages.premium} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.perWeek} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.perWeek} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.perWeek} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.perWeek} />",
+      "main_clean": "<FormattedMessage {...messages.perWeek} />",
+      "main_regex": "<FormattedMessage {...messages.perWeek} />",
+      "props": " {...messages.perWeek} ",
+      "spread": " {...messages.perWeek} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

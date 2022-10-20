@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Widgets/Blog/BlogView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Widgets/Blog/BlogView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.raizBlog} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.raizBlog} />",
+      "all_regex": "\n        <FormattedMessage {...messages.raizBlog} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.raizBlog} />",
+      "main_clean": "<FormattedMessage {...messages.raizBlog} />",
+      "main_regex": "<FormattedMessage {...messages.raizBlog} />",
+      "props": " {...messages.raizBlog} ",
+      "spread": " {...messages.raizBlog} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.seeAll} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.seeAll} />",
+      "all_regex": "\n          <FormattedMessage {...messages.seeAll} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.seeAll} />",
+      "main_clean": "<FormattedMessage {...messages.seeAll} />",
+      "main_regex": "<FormattedMessage {...messages.seeAll} />",
+      "props": " {...messages.seeAll} ",
+      "spread": " {...messages.seeAll} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

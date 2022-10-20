@@ -1,0 +1,100 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEditHistory/RaizKidsEditHistoryView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEditHistory/RaizKidsEditHistoryView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.viewHistory} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.viewHistory} />",
+      "all_regex": "\n            <FormattedMessage {...messages.viewHistory} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "main_clean": "<FormattedMessage {...messages.viewHistory} />",
+      "main_regex": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investedByYou} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.investedByYou} />",
+      "all_regex": "\n                <FormattedMessage {...messages.investedByYou} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investedByYou} />",
+      "main_clean": "<FormattedMessage {...messages.investedByYou} />",
+      "main_regex": "<FormattedMessage {...messages.investedByYou} />",
+      "props": " {...messages.investedByYou} ",
+      "spread": " {...messages.investedByYou} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.reinvestedDividends} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.reinvestedDividends} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.reinvestedDividends} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.reinvestedDividends} />",
+      "main_clean": "<FormattedMessage {...messages.reinvestedDividends} />",
+      "main_regex": "<FormattedMessage {...messages.reinvestedDividends} />",
+      "props": " {...messages.reinvestedDividends} ",
+      "spread": " {...messages.reinvestedDividends} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.referrals} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.referrals} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.referrals} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.referrals} />",
+      "main_clean": "<FormattedMessage {...messages.referrals} />",
+      "main_regex": "<FormattedMessage {...messages.referrals} />",
+      "props": " {...messages.referrals} ",
+      "spread": " {...messages.referrals} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.marketReturns} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.marketReturns} />",
+      "all_regex": "\n                <FormattedMessage {...messages.marketReturns} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.marketReturns} />",
+      "main_clean": "<FormattedMessage {...messages.marketReturns} />",
+      "main_regex": "<FormattedMessage {...messages.marketReturns} />",
+      "props": " {...messages.marketReturns} ",
+      "spread": " {...messages.marketReturns} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizRewards} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.raizRewards} />",
+      "all_regex": "\n                <FormattedMessage {...messages.raizRewards} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizRewards} />",
+      "main_clean": "<FormattedMessage {...messages.raizRewards} />",
+      "main_regex": "<FormattedMessage {...messages.raizRewards} />",
+      "props": " {...messages.raizRewards} ",
+      "spread": " {...messages.raizRewards} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.withdrawn} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.withdrawn} />",
+      "all_regex": "\n                <FormattedMessage {...messages.withdrawn} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.withdrawn} />",
+      "main_clean": "<FormattedMessage {...messages.withdrawn} />",
+      "main_regex": "<FormattedMessage {...messages.withdrawn} />",
+      "props": " {...messages.withdrawn} ",
+      "spread": " {...messages.withdrawn} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

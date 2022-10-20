@@ -1,0 +1,28 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/OffsettersDetails/OffsettersDetailsView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/OffsettersDetails/OffsettersDetailsView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n        ",
+      "all": "\n          errorMessage={<FormattedMessage {...messages.congratulations} />}\n        ",
+      "all_clean": "errorMessage={<FormattedMessage {...messages.congratulations} />}",
+      "all_regex": "\n          errorMessage={<FormattedMessage {...messages.congratulations} />}\n        ",
+      "before": "\n          errorMessage={",
+      "main": "<FormattedMessage {...messages.congratulations} />",
+      "main_clean": "<FormattedMessage {...messages.congratulations} />",
+      "main_regex": "<FormattedMessage {...messages.congratulations} />",
+      "props": " {...messages.congratulations} ",
+      "spread": " {...messages.congratulations} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

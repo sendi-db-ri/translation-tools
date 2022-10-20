@@ -1,0 +1,52 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/RaizPersonal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/RaizPersonal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.raizKids} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.raizKids} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.raizKids} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "main_clean": "<FormattedMessage {...messages.raizKids} />",
+      "main_regex": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.raizKids} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.raizKids} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.raizKids} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "main_clean": "<FormattedMessage {...messages.raizKids} />",
+      "main_regex": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.kidsSimplyWay} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "all_regex": "\n              <FormattedMessage {...messages.kidsSimplyWay} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "main_clean": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "main_regex": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "props": " {...messages.kidsSimplyWay} ",
+      "spread": " {...messages.kidsSimplyWay} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

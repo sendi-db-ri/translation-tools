@@ -1,0 +1,76 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Widgets/History/HistoryView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Widgets/History/HistoryView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.pending} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.pending} />",
+      "all_regex": "\n                <FormattedMessage {...messages.pending} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.pending} />",
+      "main_clean": "<FormattedMessage {...messages.pending} />",
+      "main_regex": "<FormattedMessage {...messages.pending} />",
+      "props": " {...messages.pending} ",
+      "spread": " {...messages.pending} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.history} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.history} />",
+      "all_regex": "\n          <FormattedMessage {...messages.history} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.history} />",
+      "main_clean": "<FormattedMessage {...messages.history} />",
+      "main_regex": "<FormattedMessage {...messages.history} />",
+      "props": " {...messages.history} ",
+      "spread": " {...messages.history} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recenthistory} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.recenthistory} />",
+      "all_regex": "\n          <FormattedMessage {...messages.recenthistory} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recenthistory} />",
+      "main_clean": "<FormattedMessage {...messages.recenthistory} />",
+      "main_regex": "<FormattedMessage {...messages.recenthistory} />",
+      "props": " {...messages.recenthistory} ",
+      "spread": " {...messages.recenthistory} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.historyDetails} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.historyDetails} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.historyDetails} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.historyDetails} />",
+      "main_clean": "<FormattedMessage {...messages.historyDetails} />",
+      "main_regex": "<FormattedMessage {...messages.historyDetails} />",
+      "props": " {...messages.historyDetails} ",
+      "spread": " {...messages.historyDetails} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.historyDetails} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.historyDetails} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.historyDetails} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.historyDetails} />",
+      "main_clean": "<FormattedMessage {...messages.historyDetails} />",
+      "main_regex": "<FormattedMessage {...messages.historyDetails} />",
+      "props": " {...messages.historyDetails} ",
+      "spread": " {...messages.historyDetails} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

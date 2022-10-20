@@ -1,0 +1,28 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/CPFPaymentInfoModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/CPFPaymentInfoModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.harap} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.harap} />",
+      "all_regex": "\n          <FormattedMessage {...messages.harap} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.harap} />",
+      "main_clean": "<FormattedMessage {...messages.harap} />",
+      "main_regex": "<FormattedMessage {...messages.harap} />",
+      "props": " {...messages.harap} ",
+      "spread": " {...messages.harap} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

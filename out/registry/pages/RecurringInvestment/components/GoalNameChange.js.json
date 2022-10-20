@@ -1,0 +1,83 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/GoalNameChange.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/GoalNameChange.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/translates/pages/RecurringInvestment/RecurringInvestment.ms.i18n.js",
+      "replace": "import messagesMS from '../../../translates/pages/RecurringInvestment/RecurringInvestment.ms.i18n';",
+      "name": "messagesMS"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.selectYourGoal} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.selectYourGoal} />",
+      "all_regex": "\n            <FormattedMessage {...messages.selectYourGoal} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.selectYourGoal} />",
+      "main_clean": "<FormattedMessage {...messages.selectYourGoal} />",
+      "main_regex": "<FormattedMessage {...messages.selectYourGoal} />",
+      "props": " {...messages.selectYourGoal} ",
+      "spread": " {...messages.selectYourGoal} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              />\n            }\n            ",
+      "all_clean": "{ <FormattedMessage {...messages.setGoalName} values={{ goalName: buttonGoalName }} /> }",
+      "all_regex": "{\n              <FormattedMessage\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.setGoalName} values={{ goalName: buttonGoalName }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              />",
+      "props": "\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              ",
+      "spread": "\n                {...messages.setGoalName}\n                ",
+      "values": "values={{ goalName: buttonGoalName }}\n              "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.addCustomGoalName} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.addCustomGoalName} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.addCustomGoalName} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.addCustomGoalName} />",
+      "main_clean": "<FormattedMessage {...messages.addCustomGoalName} />",
+      "main_regex": "<FormattedMessage {...messages.addCustomGoalName} />",
+      "props": " {...messages.addCustomGoalName} ",
+      "spread": " {...messages.addCustomGoalName} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            modalTitle={<FormattedMessage {...messages.yourGoal} />}\n            ",
+      "all_clean": "modalTitle={<FormattedMessage {...messages.yourGoal} />}",
+      "all_regex": "\n            modalTitle={<FormattedMessage {...messages.yourGoal} />}\n            ",
+      "before": "\n            modalTitle={",
+      "main": "<FormattedMessage {...messages.yourGoal} />",
+      "main_clean": "<FormattedMessage {...messages.yourGoal} />",
+      "main_regex": "<FormattedMessage {...messages.yourGoal} />",
+      "props": " {...messages.yourGoal} ",
+      "spread": " {...messages.yourGoal} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

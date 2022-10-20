@@ -1,0 +1,178 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Crs/CrsView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Crs/CrsView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/translates/pages/Crs/Crs.ms.i18n.js",
+      "replace": "import messagesMS from '../../translates/pages/Crs/Crs.ms.i18n';",
+      "name": "messagesMS"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.country} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.country} />",
+      "all_regex": "\n            <FormattedMessage {...messages.country} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.country} />",
+      "main_clean": "<FormattedMessage {...messages.country} />",
+      "main_regex": "<FormattedMessage {...messages.country} />",
+      "props": " {...messages.country} ",
+      "spread": " {...messages.country} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.taxIdentifierList} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.taxIdentifierList} />",
+      "all_regex": "\n            <FormattedMessage {...messages.taxIdentifierList} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.taxIdentifierList} />",
+      "main_clean": "<FormattedMessage {...messages.taxIdentifierList} />",
+      "main_regex": "<FormattedMessage {...messages.taxIdentifierList} />",
+      "props": " {...messages.taxIdentifierList} ",
+      "spread": " {...messages.taxIdentifierList} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.remove} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.remove} />",
+      "all_regex": "\n                <FormattedMessage {...messages.remove} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.remove} />",
+      "main_clean": "<FormattedMessage {...messages.remove} />",
+      "main_regex": "<FormattedMessage {...messages.remove} />",
+      "props": " {...messages.remove} ",
+      "spread": " {...messages.remove} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.CRS} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.CRS} />",
+      "all_regex": "\n          <FormattedMessage {...messages.CRS} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.CRS} />",
+      "main_clean": "<FormattedMessage {...messages.CRS} />",
+      "main_regex": "<FormattedMessage {...messages.CRS} />",
+      "props": " {...messages.CRS} ",
+      "spread": " {...messages.CRS} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.accountValue} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.accountValue} />",
+      "all_regex": "\n          <FormattedMessage {...messages.accountValue} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "main_clean": "<FormattedMessage {...messages.accountValue} />",
+      "main_regex": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.crsText} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.crsText} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.crsText} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.crsText} />",
+      "main_clean": "<FormattedMessage {...messages.crsText} />",
+      "main_regex": "<FormattedMessage {...messages.crsText} />",
+      "props": " {...messages.crsText} ",
+      "spread": " {...messages.crsText} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.crsRead} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.crsRead} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.crsRead} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.crsRead} />",
+      "main_clean": "<FormattedMessage {...messages.crsRead} />",
+      "main_regex": "<FormattedMessage {...messages.crsRead} />",
+      "props": " {...messages.crsRead} ",
+      "spread": " {...messages.crsRead} "
+    },
+    {
+      "after": "\n                                }\n                              ",
+      "all": "{\n                                  <FormattedMessage\n                                    {...messages.taxIdentifier}\n                                  />\n                                }\n                              ",
+      "all_clean": "{ <FormattedMessage {...messages.taxIdentifier} /> }",
+      "all_regex": "{\n                                  <FormattedMessage\n                                    {...messages.taxIdentifier}\n                                  />\n                                }\n                              ",
+      "before": "{\n                                  ",
+      "main": "<FormattedMessage\n                                    {...messages.taxIdentifier}\n                                  />",
+      "main_clean": "<FormattedMessage {...messages.taxIdentifier} />",
+      "main_regex": "<FormattedMessage\n                                    {...messages.taxIdentifier}\n                                  />",
+      "props": "\n                                    {...messages.taxIdentifier}\n                                  ",
+      "spread": "\n                                    {...messages.taxIdentifier}\n                                  "
+    },
+    {
+      "after": "\n                                ",
+      "all": "\n                                  <FormattedMessage {...messages.cancel} />\n                                ",
+      "all_clean": "<FormattedMessage {...messages.cancel} />",
+      "all_regex": "\n                                  <FormattedMessage {...messages.cancel} />\n                                ",
+      "before": "\n                                  ",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                                ",
+      "all": "\n                                  <FormattedMessage {...messages.save} />\n                                ",
+      "all_clean": "<FormattedMessage {...messages.save} />",
+      "all_regex": "\n                                  <FormattedMessage {...messages.save} />\n                                ",
+      "before": "\n                                  ",
+      "main": "<FormattedMessage {...messages.save} />",
+      "main_clean": "<FormattedMessage {...messages.save} />",
+      "main_regex": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.crsText} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.crsText} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.crsText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.crsText} />",
+      "main_clean": "<FormattedMessage {...messages.crsText} />",
+      "main_regex": "<FormattedMessage {...messages.crsText} />",
+      "props": " {...messages.crsText} ",
+      "spread": " {...messages.crsText} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.crsRead} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.crsRead} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.crsRead} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.crsRead} />",
+      "main_clean": "<FormattedMessage {...messages.crsRead} />",
+      "main_regex": "<FormattedMessage {...messages.crsRead} />",
+      "props": " {...messages.crsRead} ",
+      "spread": " {...messages.crsRead} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.addTax} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.addTax} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.addTax} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.addTax} />",
+      "main_clean": "<FormattedMessage {...messages.addTax} />",
+      "main_regex": "<FormattedMessage {...messages.addTax} />",
+      "props": " {...messages.addTax} ",
+      "spread": " {...messages.addTax} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

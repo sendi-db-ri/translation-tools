@@ -1,0 +1,160 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/TransferIn.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/TransferIn.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.transferAmount} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.transferAmount} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.transferAmount} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.transferAmount} />",
+      "main_clean": "<FormattedMessage {...messages.transferAmount} />",
+      "main_regex": "<FormattedMessage {...messages.transferAmount} />",
+      "props": " {...messages.transferAmount} ",
+      "spread": " {...messages.transferAmount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyToAccount} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.transferMoneyToAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "main_clean": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "main_regex": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "props": " {...messages.transferMoneyToAccount} ",
+      "spread": " {...messages.transferMoneyToAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyFromAccount} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.transferMoneyFromAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "main_clean": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "main_regex": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "props": " {...messages.transferMoneyFromAccount} ",
+      "spread": " {...messages.transferMoneyFromAccount} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.skip} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.skip} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.skip} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "main_clean": "<FormattedMessage {...messages.skip} />",
+      "main_regex": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.transferOut} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.transferOut} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.transferOut} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.transferOut} />",
+      "main_clean": "<FormattedMessage {...messages.transferOut} />",
+      "main_regex": "<FormattedMessage {...messages.transferOut} />",
+      "props": " {...messages.transferOut} ",
+      "spread": " {...messages.transferOut} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.transferIn} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.transferIn} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.transferIn} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.transferIn} />",
+      "main_clean": "<FormattedMessage {...messages.transferIn} />",
+      "main_regex": "<FormattedMessage {...messages.transferIn} />",
+      "props": " {...messages.transferIn} ",
+      "spread": " {...messages.transferIn} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.areYouSureOut} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.areYouSureOut} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.areYouSureOut} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.areYouSureOut} />",
+      "main_clean": "<FormattedMessage {...messages.areYouSureOut} />",
+      "main_regex": "<FormattedMessage {...messages.areYouSureOut} />",
+      "props": " {...messages.areYouSureOut} ",
+      "spread": " {...messages.areYouSureOut} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.areYouSureIn} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.areYouSureIn} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.areYouSureIn} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.areYouSureIn} />",
+      "main_clean": "<FormattedMessage {...messages.areYouSureIn} />",
+      "main_regex": "<FormattedMessage {...messages.areYouSureIn} />",
+      "props": " {...messages.areYouSureIn} ",
+      "spread": " {...messages.areYouSureIn} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyToAccount} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.transferMoneyToAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "main_clean": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "main_regex": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "props": " {...messages.transferMoneyToAccount} ",
+      "spread": " {...messages.transferMoneyToAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyFromAccount} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.transferMoneyFromAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "main_clean": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "main_regex": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "props": " {...messages.transferMoneyFromAccount} ",
+      "spread": " {...messages.transferMoneyFromAccount} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

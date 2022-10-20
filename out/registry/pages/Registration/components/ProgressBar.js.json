@@ -1,0 +1,112 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/ProgressBar.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/ProgressBar.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.superFundAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.superFundAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.superFundAccount} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.superFundAccount} />",
+      "main_clean": "<FormattedMessage {...messages.superFundAccount} />",
+      "main_regex": "<FormattedMessage {...messages.superFundAccount} />",
+      "props": " {...messages.superFundAccount} ",
+      "spread": " {...messages.superFundAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.fundingAccountTitle} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.fundingAccountTitle} />",
+      "all_regex": "\n            <FormattedMessage {...messages.fundingAccountTitle} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fundingAccountTitle} />",
+      "main_clean": "<FormattedMessage {...messages.fundingAccountTitle} />",
+      "main_regex": "<FormattedMessage {...messages.fundingAccountTitle} />",
+      "props": " {...messages.fundingAccountTitle} ",
+      "spread": " {...messages.fundingAccountTitle} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.withdrawalTitle} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.withdrawalTitle} />",
+      "all_regex": "\n              <FormattedMessage {...messages.withdrawalTitle} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.withdrawalTitle} />",
+      "main_clean": "<FormattedMessage {...messages.withdrawalTitle} />",
+      "main_regex": "<FormattedMessage {...messages.withdrawalTitle} />",
+      "props": " {...messages.withdrawalTitle} ",
+      "spread": " {...messages.withdrawalTitle} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.personal} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.personal} />",
+      "all_regex": "\n              <FormattedMessage {...messages.personal} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.personal} />",
+      "main_clean": "<FormattedMessage {...messages.personal} />",
+      "main_regex": "<FormattedMessage {...messages.personal} />",
+      "props": " {...messages.personal} ",
+      "spread": " {...messages.personal} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.account} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.account} />",
+      "all_regex": "\n            <FormattedMessage {...messages.account} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.account} />",
+      "main_clean": "<FormattedMessage {...messages.account} />",
+      "main_regex": "<FormattedMessage {...messages.account} />",
+      "props": " {...messages.account} ",
+      "spread": " {...messages.account} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.investments} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.investments} />",
+      "all_regex": "\n            <FormattedMessage {...messages.investments} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.investments} />",
+      "main_clean": "<FormattedMessage {...messages.investments} />",
+      "main_regex": "<FormattedMessage {...messages.investments} />",
+      "props": " {...messages.investments} ",
+      "spread": " {...messages.investments} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

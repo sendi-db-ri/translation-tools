@@ -1,0 +1,160 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RewardInternal/components/InternalDetails.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RewardInternal/components/InternalDetails.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n    ",
+      "all": "\n      <FormattedMessage {...messages.joinOffsettersNow} />\n    ",
+      "all_clean": "<FormattedMessage {...messages.joinOffsettersNow} />",
+      "all_regex": "\n      <FormattedMessage {...messages.joinOffsettersNow} />\n    ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages.joinOffsettersNow} />",
+      "main_clean": "<FormattedMessage {...messages.joinOffsettersNow} />",
+      "main_regex": "<FormattedMessage {...messages.joinOffsettersNow} />",
+      "props": " {...messages.joinOffsettersNow} ",
+      "spread": " {...messages.joinOffsettersNow} "
+    },
+    {
+      "after": "\n  ",
+      "all": "\n    <FormattedMessage {...messages.unavailable} />\n  ",
+      "all_clean": "<FormattedMessage {...messages.unavailable} />",
+      "all_regex": "\n    <FormattedMessage {...messages.unavailable} />\n  ",
+      "before": "\n    ",
+      "main": "<FormattedMessage {...messages.unavailable} />",
+      "main_clean": "<FormattedMessage {...messages.unavailable} />",
+      "main_regex": "<FormattedMessage {...messages.unavailable} />",
+      "props": " {...messages.unavailable} ",
+      "spread": " {...messages.unavailable} "
+    },
+    {
+      "after": "\n  ",
+      "all": "\n    <FormattedMessage {...messages.active} />\n  ",
+      "all_clean": "<FormattedMessage {...messages.active} />",
+      "all_regex": "\n    <FormattedMessage {...messages.active} />\n  ",
+      "before": "\n    ",
+      "main": "<FormattedMessage {...messages.active} />",
+      "main_clean": "<FormattedMessage {...messages.active} />",
+      "main_regex": "<FormattedMessage {...messages.active} />",
+      "props": " {...messages.active} ",
+      "spread": " {...messages.active} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.theSurveyPanel} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.theSurveyPanel} />",
+      "all_regex": "\n            <FormattedMessage {...messages.theSurveyPanel} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.theSurveyPanel} />",
+      "main_clean": "<FormattedMessage {...messages.theSurveyPanel} />",
+      "main_regex": "<FormattedMessage {...messages.theSurveyPanel} />",
+      "props": " {...messages.theSurveyPanel} ",
+      "spread": " {...messages.theSurveyPanel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.ok} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.ok} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.details} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.details} />",
+      "all_regex": "\n        <FormattedMessage {...messages.details} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.details} />",
+      "main_clean": "<FormattedMessage {...messages.details} />",
+      "main_regex": "<FormattedMessage {...messages.details} />",
+      "props": " {...messages.details} ",
+      "spread": " {...messages.details} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.details} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.details} />",
+      "all_regex": "\n          <FormattedMessage {...messages.details} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.details} />",
+      "main_clean": "<FormattedMessage {...messages.details} />",
+      "main_regex": "<FormattedMessage {...messages.details} />",
+      "props": " {...messages.details} ",
+      "spread": " {...messages.details} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.about} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.about} />",
+      "all_regex": "\n            <FormattedMessage {...messages.about} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.about} />",
+      "main_clean": "<FormattedMessage {...messages.about} />",
+      "main_regex": "<FormattedMessage {...messages.about} />",
+      "props": " {...messages.about} ",
+      "spread": " {...messages.about} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.linkCard} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.linkCard} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.linkCard} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.linkCard} />",
+      "main_clean": "<FormattedMessage {...messages.linkCard} />",
+      "main_regex": "<FormattedMessage {...messages.linkCard} />",
+      "props": " {...messages.linkCard} ",
+      "spread": " {...messages.linkCard} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.activateNow} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.activateNow} />",
+      "all_regex": "\n                <FormattedMessage {...messages.activateNow} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.activateNow} />",
+      "main_clean": "<FormattedMessage {...messages.activateNow} />",
+      "main_regex": "<FormattedMessage {...messages.activateNow} />",
+      "props": " {...messages.activateNow} ",
+      "spread": " {...messages.activateNow} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.unavailable} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.unavailable} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.unavailable} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.unavailable} />",
+      "main_clean": "<FormattedMessage {...messages.unavailable} />",
+      "main_regex": "<FormattedMessage {...messages.unavailable} />",
+      "props": " {...messages.unavailable} ",
+      "spread": " {...messages.unavailable} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.termsConditions} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.termsConditions} />",
+      "all_regex": "\n          <FormattedMessage {...messages.termsConditions} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.termsConditions} />",
+      "main_clean": "<FormattedMessage {...messages.termsConditions} />",
+      "main_regex": "<FormattedMessage {...messages.termsConditions} />",
+      "props": " {...messages.termsConditions} ",
+      "spread": " {...messages.termsConditions} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

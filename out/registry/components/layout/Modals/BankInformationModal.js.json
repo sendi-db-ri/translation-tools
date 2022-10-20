@@ -1,0 +1,154 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/BankInformationModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/BankInformationModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../../../pages/Settings/Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.empty} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.empty} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.empty} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "main_clean": "<FormattedMessage {...messages.empty} />",
+      "main_regex": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pentingnya} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.pentingnya} />",
+      "all_regex": "\n          <FormattedMessage {...messages.pentingnya} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pentingnya} />",
+      "main_clean": "<FormattedMessage {...messages.pentingnya} />",
+      "main_regex": "<FormattedMessage {...messages.pentingnya} />",
+      "props": " {...messages.pentingnya} ",
+      "spread": " {...messages.pentingnya} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.tujuan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.tujuan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.tujuan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.tujuan} />",
+      "main_clean": "<FormattedMessage {...messages.tujuan} />",
+      "main_regex": "<FormattedMessage {...messages.tujuan} />",
+      "props": " {...messages.tujuan} ",
+      "spread": " {...messages.tujuan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pastikan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.pastikan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.pastikan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pastikan} />",
+      "main_clean": "<FormattedMessage {...messages.pastikan} />",
+      "main_regex": "<FormattedMessage {...messages.pastikan} />",
+      "props": " {...messages.pastikan} ",
+      "spread": " {...messages.pastikan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.saldo} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.saldo} />",
+      "all_regex": "\n          <FormattedMessage {...messages.saldo} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.saldo} />",
+      "main_clean": "<FormattedMessage {...messages.saldo} />",
+      "main_regex": "<FormattedMessage {...messages.saldo} />",
+      "props": " {...messages.saldo} ",
+      "spread": " {...messages.saldo} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.perjalanan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.perjalanan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.perjalanan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.perjalanan} />",
+      "main_clean": "<FormattedMessage {...messages.perjalanan} />",
+      "main_regex": "<FormattedMessage {...messages.perjalanan} />",
+      "props": " {...messages.perjalanan} ",
+      "spread": " {...messages.perjalanan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.perjalanan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.perjalanan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.perjalanan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.perjalanan} />",
+      "main_clean": "<FormattedMessage {...messages.perjalanan} />",
+      "main_regex": "<FormattedMessage {...messages.perjalanan} />",
+      "props": " {...messages.perjalanan} ",
+      "spread": " {...messages.perjalanan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pencairan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.pencairan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.pencairan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pencairan} />",
+      "main_clean": "<FormattedMessage {...messages.pencairan} />",
+      "main_regex": "<FormattedMessage {...messages.pencairan} />",
+      "props": " {...messages.pencairan} ",
+      "spread": " {...messages.pencairan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pastikanBukan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.pastikanBukan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.pastikanBukan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pastikanBukan} />",
+      "main_clean": "<FormattedMessage {...messages.pastikanBukan} />",
+      "main_regex": "<FormattedMessage {...messages.pastikanBukan} />",
+      "props": " {...messages.pastikanBukan} ",
+      "spread": " {...messages.pastikanBukan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.kamuWajib} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.kamuWajib} />",
+      "all_regex": "\n          <FormattedMessage {...messages.kamuWajib} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.kamuWajib} />",
+      "main_clean": "<FormattedMessage {...messages.kamuWajib} />",
+      "main_regex": "<FormattedMessage {...messages.kamuWajib} />",
+      "props": " {...messages.kamuWajib} ",
+      "spread": " {...messages.kamuWajib} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.tutup} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.tutup} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.tutup} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.tutup} />",
+      "main_clean": "<FormattedMessage {...messages.tutup} />",
+      "main_regex": "<FormattedMessage {...messages.tutup} />",
+      "props": " {...messages.tutup} ",
+      "spread": " {...messages.tutup} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

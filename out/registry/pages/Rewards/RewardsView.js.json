@@ -1,0 +1,29 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Rewards/RewardsView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Rewards/RewardsView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            />\n          ",
+      "all_clean": "<FormattedMessage {...messages.notFound} values={{ name: searchValue }} />",
+      "all_regex": "\n            <FormattedMessage\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            />",
+      "main_clean": "<FormattedMessage {...messages.notFound} values={{ name: searchValue }} />",
+      "main_regex": "<FormattedMessage\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            />",
+      "props": "\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            ",
+      "spread": "\n              {...messages.notFound}\n              ",
+      "values": "values={{ name: searchValue }}\n            "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

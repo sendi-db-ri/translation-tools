@@ -1,0 +1,28 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperBanner.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperBanner.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizInvestSuper} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.raizInvestSuper} />",
+      "all_regex": "\n          <FormattedMessage {...messages.raizInvestSuper} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizInvestSuper} />",
+      "main_clean": "<FormattedMessage {...messages.raizInvestSuper} />",
+      "main_regex": "<FormattedMessage {...messages.raizInvestSuper} />",
+      "props": " {...messages.raizInvestSuper} ",
+      "spread": " {...messages.raizInvestSuper} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

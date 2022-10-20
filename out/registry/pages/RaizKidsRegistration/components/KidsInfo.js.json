@@ -1,0 +1,157 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/KidsInfo.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/KidsInfo.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.chooseAvatar} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.chooseAvatar} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.chooseAvatar} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.chooseAvatar} />",
+      "main_clean": "<FormattedMessage {...messages.chooseAvatar} />",
+      "main_regex": "<FormattedMessage {...messages.chooseAvatar} />",
+      "props": " {...messages.chooseAvatar} ",
+      "spread": " {...messages.chooseAvatar} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.name} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.name} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.name} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.name} />",
+      "main_clean": "<FormattedMessage {...messages.name} />",
+      "main_regex": "<FormattedMessage {...messages.name} />",
+      "props": " {...messages.name} ",
+      "spread": " {...messages.name} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      label={<FormattedMessage {...messages.birthday} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.birthday} />}",
+      "all_regex": "\n                      label={<FormattedMessage {...messages.birthday} />}\n                      ",
+      "before": "\n                      label={",
+      "main": "<FormattedMessage {...messages.birthday} />",
+      "main_clean": "<FormattedMessage {...messages.birthday} />",
+      "main_regex": "<FormattedMessage {...messages.birthday} />",
+      "props": " {...messages.birthday} ",
+      "spread": " {...messages.birthday} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.kidEmail} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.kidEmail} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.kidEmail} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.kidEmail} />",
+      "main_clean": "<FormattedMessage {...messages.kidEmail} />",
+      "main_regex": "<FormattedMessage {...messages.kidEmail} />",
+      "props": " {...messages.kidEmail} ",
+      "spread": " {...messages.kidEmail} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizKidAccess} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.raizKidAccess} />",
+      "all_regex": "\n                <FormattedMessage {...messages.raizKidAccess} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizKidAccess} />",
+      "main_clean": "<FormattedMessage {...messages.raizKidAccess} />",
+      "main_regex": "<FormattedMessage {...messages.raizKidAccess} />",
+      "props": " {...messages.raizKidAccess} ",
+      "spread": " {...messages.raizKidAccess} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowRaizKid} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.allowRaizKid} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.allowRaizKid} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowRaizKid} />",
+      "main_clean": "<FormattedMessage {...messages.allowRaizKid} />",
+      "main_regex": "<FormattedMessage {...messages.allowRaizKid} />",
+      "props": " {...messages.allowRaizKid} ",
+      "spread": " {...messages.allowRaizKid} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                      label={<FormattedMessage {...messages.kidEmail} />}\n                    ",
+      "all_clean": "label={<FormattedMessage {...messages.kidEmail} />}",
+      "all_regex": "\n                      label={<FormattedMessage {...messages.kidEmail} />}\n                    ",
+      "before": "\n                      label={",
+      "main": "<FormattedMessage {...messages.kidEmail} />",
+      "main_clean": "<FormattedMessage {...messages.kidEmail} />",
+      "main_regex": "<FormattedMessage {...messages.kidEmail} />",
+      "props": " {...messages.kidEmail} ",
+      "spread": " {...messages.kidEmail} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.doNotAllow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.doNotAllow} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.doNotAllow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.doNotAllow} />",
+      "main_clean": "<FormattedMessage {...messages.doNotAllow} />",
+      "main_regex": "<FormattedMessage {...messages.doNotAllow} />",
+      "props": " {...messages.doNotAllow} ",
+      "spread": " {...messages.doNotAllow} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.save} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.save} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.save} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.save} />",
+      "main_clean": "<FormattedMessage {...messages.save} />",
+      "main_regex": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.decide} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.decide} />",
+      "props": " {...messages.decide} ",
+      "spread": " {...messages.decide} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

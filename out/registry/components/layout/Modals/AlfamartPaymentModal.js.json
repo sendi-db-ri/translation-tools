@@ -1,0 +1,121 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/AlfamartPaymentModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/AlfamartPaymentModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.barcodePembayaran} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.barcodePembayaran} />",
+      "all_regex": "\n          <FormattedMessage {...messages.barcodePembayaran} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.barcodePembayaran} />",
+      "main_clean": "<FormattedMessage {...messages.barcodePembayaran} />",
+      "main_regex": "<FormattedMessage {...messages.barcodePembayaran} />",
+      "props": " {...messages.barcodePembayaran} ",
+      "spread": " {...messages.barcodePembayaran} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.datail} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.datail} />",
+      "all_regex": "\n            <FormattedMessage {...messages.datail} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.datail} />",
+      "main_clean": "<FormattedMessage {...messages.datail} />",
+      "main_regex": "<FormattedMessage {...messages.datail} />",
+      "props": " {...messages.datail} ",
+      "spread": " {...messages.datail} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.code} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.code} />",
+      "all_regex": "\n            <FormattedMessage {...messages.code} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.code} />",
+      "main_clean": "<FormattedMessage {...messages.code} />",
+      "main_regex": "<FormattedMessage {...messages.code} />",
+      "props": " {...messages.code} ",
+      "spread": " {...messages.code} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.totalPembayaran} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.totalPembayaran} />",
+      "all_regex": "\n            <FormattedMessage {...messages.totalPembayaran} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.totalPembayaran} />",
+      "main_clean": "<FormattedMessage {...messages.totalPembayaran} />",
+      "main_regex": "<FormattedMessage {...messages.totalPembayaran} />",
+      "props": " {...messages.totalPembayaran} ",
+      "spread": " {...messages.totalPembayaran} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.instruksi} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.instruksi} />",
+      "all_regex": "\n          <FormattedMessage {...messages.instruksi} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.instruksi} />",
+      "main_clean": "<FormattedMessage {...messages.instruksi} />",
+      "main_regex": "<FormattedMessage {...messages.instruksi} />",
+      "props": " {...messages.instruksi} ",
+      "spread": " {...messages.instruksi} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.setelahTransaksi} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.setelahTransaksi} />",
+      "all_regex": "\n          <FormattedMessage {...messages.setelahTransaksi} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.setelahTransaksi} />",
+      "main_clean": "<FormattedMessage {...messages.setelahTransaksi} />",
+      "main_regex": "<FormattedMessage {...messages.setelahTransaksi} />",
+      "props": " {...messages.setelahTransaksi} ",
+      "spread": " {...messages.setelahTransaksi} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pesananKamu} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.pesananKamu} />",
+      "all_regex": "\n          <FormattedMessage {...messages.pesananKamu} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pesananKamu} />",
+      "main_clean": "<FormattedMessage {...messages.pesananKamu} />",
+      "main_regex": "<FormattedMessage {...messages.pesananKamu} />",
+      "props": " {...messages.pesananKamu} ",
+      "spread": " {...messages.pesananKamu} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.tutup} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.tutup} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.tutup} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.tutup} />",
+      "main_clean": "<FormattedMessage {...messages.tutup} />",
+      "main_regex": "<FormattedMessage {...messages.tutup} />",
+      "props": " {...messages.tutup} ",
+      "spread": " {...messages.tutup} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedHTMLMessage {...messages.sampaikanKepada} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.sampaikanKepada} />",
+      "props": " {...messages.sampaikanKepada} ",
+      "spread": " {...messages.sampaikanKepada} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

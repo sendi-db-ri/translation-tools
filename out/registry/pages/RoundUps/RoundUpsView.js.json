@@ -1,0 +1,234 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RoundUps/RoundUpsView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RoundUps/RoundUpsView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.page} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.page} />",
+      "all_regex": "\n              <FormattedMessage {...messages.page} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.page} />",
+      "main_clean": "<FormattedMessage {...messages.page} />",
+      "main_regex": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investedFrom} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.investedFrom} />",
+      "all_regex": "\n                <FormattedMessage {...messages.investedFrom} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investedFrom} />",
+      "main_clean": "<FormattedMessage {...messages.investedFrom} />",
+      "main_regex": "<FormattedMessage {...messages.investedFrom} />",
+      "props": " {...messages.investedFrom} ",
+      "spread": " {...messages.investedFrom} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          {!ID_APP && <FormattedMessage {...messages.investedFrom} />}\n          ",
+      "all_clean": "{!ID_APP && <FormattedMessage {...messages.investedFrom} />}",
+      "all_regex": "\n          {!ID_APP && <FormattedMessage {...messages.investedFrom} />}\n          ",
+      "before": "\n          {!ID_APP && ",
+      "main": "<FormattedMessage {...messages.investedFrom} />",
+      "main_clean": "<FormattedMessage {...messages.investedFrom} />",
+      "main_regex": "<FormattedMessage {...messages.investedFrom} />",
+      "props": " {...messages.investedFrom} ",
+      "spread": " {...messages.investedFrom} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.autoRound} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.autoRound} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.autoRound} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.autoRound} />",
+      "main_clean": "<FormattedMessage {...messages.autoRound} />",
+      "main_regex": "<FormattedMessage {...messages.autoRound} />",
+      "props": " {...messages.autoRound} ",
+      "spread": " {...messages.autoRound} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                      <FormattedMessage {...messages.enableAutoRound} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.enableAutoRound} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.enableAutoRound} />\n                      ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.enableAutoRound} />",
+      "main_clean": "<FormattedMessage {...messages.enableAutoRound} />",
+      "main_regex": "<FormattedMessage {...messages.enableAutoRound} />",
+      "props": " {...messages.enableAutoRound} ",
+      "spread": " {...messages.enableAutoRound} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.manualRound} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.manualRound} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.manualRound} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.manualRound} />",
+      "main_clean": "<FormattedMessage {...messages.manualRound} />",
+      "main_regex": "<FormattedMessage {...messages.manualRound} />",
+      "props": " {...messages.manualRound} ",
+      "spread": " {...messages.manualRound} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.tapToInvest} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.tapToInvest} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.tapToInvest} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.tapToInvest} />",
+      "main_clean": "<FormattedMessage {...messages.tapToInvest} />",
+      "main_regex": "<FormattedMessage {...messages.tapToInvest} />",
+      "props": " {...messages.tapToInvest} ",
+      "spread": " {...messages.tapToInvest} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.all} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.all} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.all} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.all} />",
+      "main_clean": "<FormattedMessage {...messages.all} />",
+      "main_regex": "<FormattedMessage {...messages.all} />",
+      "props": " {...messages.all} ",
+      "spread": " {...messages.all} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n              title={<FormattedMessage {...messages.invested} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.invested} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.invested} />}\n            ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.invested} />",
+      "main_clean": "<FormattedMessage {...messages.invested} />",
+      "main_regex": "<FormattedMessage {...messages.invested} />",
+      "props": " {...messages.invested} ",
+      "spread": " {...messages.invested} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n              title={<FormattedMessage {...messages.available} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.available} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.available} />}\n            ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.available} />",
+      "main_clean": "<FormattedMessage {...messages.available} />",
+      "main_regex": "<FormattedMessage {...messages.available} />",
+      "props": " {...messages.available} ",
+      "spread": " {...messages.available} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              />\n            }\n            ",
+      "all_clean": "{ <FormattedMessage {...messages.invest} values={{ value: `${CURRENCY_SYMBOL}${investSum}` }} /> }",
+      "all_regex": "{\n              <FormattedMessage\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.invest} values={{ value: `${CURRENCY_SYMBOL}${investSum}` }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              />",
+      "props": "\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              ",
+      "spread": "\n                {...messages.invest}\n                ",
+      "values": "values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            {status === '' && <FormattedMessage {...messages.notFoundAll} />}\n            ",
+      "all_clean": "{status === '' && <FormattedMessage {...messages.notFoundAll} />}",
+      "all_regex": "\n            {status === '' && <FormattedMessage {...messages.notFoundAll} />}\n            ",
+      "before": "\n            {status === '' && ",
+      "main": "<FormattedMessage {...messages.notFoundAll} />",
+      "main_clean": "<FormattedMessage {...messages.notFoundAll} />",
+      "main_regex": "<FormattedMessage {...messages.notFoundAll} />",
+      "props": " {...messages.notFoundAll} ",
+      "spread": " {...messages.notFoundAll} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.notFoundInvested} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.notFoundInvested} />",
+      "all_regex": "\n              <FormattedMessage {...messages.notFoundInvested} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.notFoundInvested} />",
+      "main_clean": "<FormattedMessage {...messages.notFoundInvested} />",
+      "main_regex": "<FormattedMessage {...messages.notFoundInvested} />",
+      "props": " {...messages.notFoundInvested} ",
+      "spread": " {...messages.notFoundInvested} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.notFoundAvailable} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.notFoundAvailable} />",
+      "all_regex": "\n              <FormattedMessage {...messages.notFoundAvailable} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.notFoundAvailable} />",
+      "main_clean": "<FormattedMessage {...messages.notFoundAvailable} />",
+      "main_regex": "<FormattedMessage {...messages.notFoundAvailable} />",
+      "props": " {...messages.notFoundAvailable} ",
+      "spread": " {...messages.notFoundAvailable} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          modalTitle={<FormattedMessage {...messages.investNow} />}\n          ",
+      "all_clean": "modalTitle={<FormattedMessage {...messages.investNow} />}",
+      "all_regex": "\n          modalTitle={<FormattedMessage {...messages.investNow} />}\n          ",
+      "before": "\n          modalTitle={",
+      "main": "<FormattedMessage {...messages.investNow} />",
+      "main_clean": "<FormattedMessage {...messages.investNow} />",
+      "main_regex": "<FormattedMessage {...messages.investNow} />",
+      "props": " {...messages.investNow} ",
+      "spread": " {...messages.investNow} "
+    },
+    {
+      "after": "\n          }\n          ",
+      "all": "{\n            <FormattedMessage {...messages.invest} values={{ value: '' }} />\n          }\n          ",
+      "all_clean": "{ <FormattedMessage {...messages.invest} values={{ value: '' }} /> }",
+      "all_regex": "{\n            <FormattedMessage {...messages.invest} values={{ value: '' }} />\n          }\n          ",
+      "before": "{\n            ",
+      "main": "<FormattedMessage {...messages.invest} values={{ value: '' }} />",
+      "main_clean": "<FormattedMessage {...messages.invest} values={{ value: '' }} />",
+      "main_regex": "<FormattedMessage {...messages.invest} values={{ value: '' }} />",
+      "props": " {...messages.invest} values={{ value: '' }} ",
+      "spread": " {...messages.invest} ",
+      "values": "values={{ value: '' }} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          cancelButtonTitle={<FormattedMessage {...messages.cancel} />}\n          ",
+      "all_clean": "cancelButtonTitle={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n          cancelButtonTitle={<FormattedMessage {...messages.cancel} />}\n          ",
+      "before": "\n          cancelButtonTitle={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

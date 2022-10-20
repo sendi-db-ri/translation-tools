@@ -1,0 +1,106 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/SubAccounts/SubAccounts.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/SubAccounts/SubAccounts.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../../Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.linkFunding} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "all_regex": "\n              <FormattedMessage {...messages.linkFunding} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "main_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "main_regex": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.unlinkAccount} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.unlinkAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.unlinkAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.unlinkAccount} />",
+      "main_clean": "<FormattedMessage {...messages.unlinkAccount} />",
+      "main_regex": "<FormattedMessage {...messages.unlinkAccount} />",
+      "props": " {...messages.unlinkAccount} ",
+      "spread": " {...messages.unlinkAccount} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.unlink} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.unlink} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.unlink} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "main_clean": "<FormattedMessage {...messages.unlink} />",
+      "main_regex": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.connect} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.connect} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.connect} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.connect} />",
+      "main_clean": "<FormattedMessage {...messages.connect} />",
+      "main_regex": "<FormattedMessage {...messages.connect} />",
+      "props": " {...messages.connect} ",
+      "spread": " {...messages.connect} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.different} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.different} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.different} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.different} />",
+      "main_clean": "<FormattedMessage {...messages.different} />",
+      "main_regex": "<FormattedMessage {...messages.different} />",
+      "props": " {...messages.different} ",
+      "spread": " {...messages.different} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Forms/SmsfForm.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Forms/SmsfForm.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.smsfAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.smsfAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.smsfAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.smsfAccount} />",
+      "main_clean": "<FormattedMessage {...messages.smsfAccount} />",
+      "main_regex": "<FormattedMessage {...messages.smsfAccount} />",
+      "props": " {...messages.smsfAccount} ",
+      "spread": " {...messages.smsfAccount} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.information} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.information} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.information} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.information} />",
+      "main_clean": "<FormattedMessage {...messages.information} />",
+      "main_regex": "<FormattedMessage {...messages.information} />",
+      "props": " {...messages.information} ",
+      "spread": " {...messages.information} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.memberDirector} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.memberDirector} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.memberDirector} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.memberDirector} />",
+      "main_clean": "<FormattedMessage {...messages.memberDirector} />",
+      "main_regex": "<FormattedMessage {...messages.memberDirector} />",
+      "props": " {...messages.memberDirector} ",
+      "spread": " {...messages.memberDirector} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                    label={<FormattedMessage {...messages.legalName} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.legalName} />}",
+      "all_regex": "\n                    label={<FormattedMessage {...messages.legalName} />}\n                  ",
+      "before": "\n                    label={",
+      "main": "<FormattedMessage {...messages.legalName} />",
+      "main_clean": "<FormattedMessage {...messages.legalName} />",
+      "main_regex": "<FormattedMessage {...messages.legalName} />",
+      "props": " {...messages.legalName} ",
+      "spread": " {...messages.legalName} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                    label={<FormattedMessage {...messages.displayNameFund} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.displayNameFund} />}",
+      "all_regex": "\n                    label={<FormattedMessage {...messages.displayNameFund} />}\n                  ",
+      "before": "\n                    label={",
+      "main": "<FormattedMessage {...messages.displayNameFund} />",
+      "main_clean": "<FormattedMessage {...messages.displayNameFund} />",
+      "main_regex": "<FormattedMessage {...messages.displayNameFund} />",
+      "props": " {...messages.displayNameFund} ",
+      "spread": " {...messages.displayNameFund} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                    label={<FormattedMessage {...messages.aBNFund} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.aBNFund} />}",
+      "all_regex": "\n                    label={<FormattedMessage {...messages.aBNFund} />}\n                  ",
+      "before": "\n                    label={",
+      "main": "<FormattedMessage {...messages.aBNFund} />",
+      "main_clean": "<FormattedMessage {...messages.aBNFund} />",
+      "main_regex": "<FormattedMessage {...messages.aBNFund} />",
+      "props": " {...messages.aBNFund} ",
+      "spread": " {...messages.aBNFund} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.establishmentFund} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.establishmentFund} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.establishmentFund} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.establishmentFund} />",
+      "main_clean": "<FormattedMessage {...messages.establishmentFund} />",
+      "main_regex": "<FormattedMessage {...messages.establishmentFund} />",
+      "props": " {...messages.establishmentFund} ",
+      "spread": " {...messages.establishmentFund} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                    label={<FormattedMessage {...messages.addressFund} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.addressFund} />}",
+      "all_regex": "\n                    label={<FormattedMessage {...messages.addressFund} />}\n                  ",
+      "before": "\n                    label={",
+      "main": "<FormattedMessage {...messages.addressFund} />",
+      "main_clean": "<FormattedMessage {...messages.addressFund} />",
+      "main_regex": "<FormattedMessage {...messages.addressFund} />",
+      "props": " {...messages.addressFund} ",
+      "spread": " {...messages.addressFund} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                      label={<FormattedMessage {...messages.nameTrustee} />}\n                    ",
+      "all_clean": "label={<FormattedMessage {...messages.nameTrustee} />}",
+      "all_regex": "\n                      label={<FormattedMessage {...messages.nameTrustee} />}\n                    ",
+      "before": "\n                      label={",
+      "main": "<FormattedMessage {...messages.nameTrustee} />",
+      "main_clean": "<FormattedMessage {...messages.nameTrustee} />",
+      "main_regex": "<FormattedMessage {...messages.nameTrustee} />",
+      "props": " {...messages.nameTrustee} ",
+      "spread": " {...messages.nameTrustee} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                      label={<FormattedMessage {...messages.acnTrustee} />}\n                    ",
+      "all_clean": "label={<FormattedMessage {...messages.acnTrustee} />}",
+      "all_regex": "\n                      label={<FormattedMessage {...messages.acnTrustee} />}\n                    ",
+      "before": "\n                      label={",
+      "main": "<FormattedMessage {...messages.acnTrustee} />",
+      "main_clean": "<FormattedMessage {...messages.acnTrustee} />",
+      "main_regex": "<FormattedMessage {...messages.acnTrustee} />",
+      "props": " {...messages.acnTrustee} ",
+      "spread": " {...messages.acnTrustee} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                      label={<FormattedMessage {...messages.addressTrustee} />}\n                    ",
+      "all_clean": "label={<FormattedMessage {...messages.addressTrustee} />}",
+      "all_regex": "\n                      label={<FormattedMessage {...messages.addressTrustee} />}\n                    ",
+      "before": "\n                      label={",
+      "main": "<FormattedMessage {...messages.addressTrustee} />",
+      "main_clean": "<FormattedMessage {...messages.addressTrustee} />",
+      "main_regex": "<FormattedMessage {...messages.addressTrustee} />",
+      "props": " {...messages.addressTrustee} ",
+      "spread": " {...messages.addressTrustee} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.addAnotherDirector} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.addAnotherDirector} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.addAnotherDirector} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.addAnotherDirector} />",
+      "main_clean": "<FormattedMessage {...messages.addAnotherDirector} />",
+      "main_regex": "<FormattedMessage {...messages.addAnotherDirector} />",
+      "props": " {...messages.addAnotherDirector} ",
+      "spread": " {...messages.addAnotherDirector} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.firstName} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.firstName} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.firstName} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.firstName} />",
+      "main_clean": "<FormattedMessage {...messages.firstName} />",
+      "main_regex": "<FormattedMessage {...messages.firstName} />",
+      "props": " {...messages.firstName} ",
+      "spread": " {...messages.firstName} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.lastName} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.lastName} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.lastName} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.lastName} />",
+      "main_clean": "<FormattedMessage {...messages.lastName} />",
+      "main_regex": "<FormattedMessage {...messages.lastName} />",
+      "props": " {...messages.lastName} ",
+      "spread": " {...messages.lastName} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.email} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.email} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.email} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.email} />",
+      "main_clean": "<FormattedMessage {...messages.email} />",
+      "main_regex": "<FormattedMessage {...messages.email} />",
+      "props": " {...messages.email} ",
+      "spread": " {...messages.email} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.dateOfBirth} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.dateOfBirth} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.dateOfBirth} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.dateOfBirth} />",
+      "main_clean": "<FormattedMessage {...messages.dateOfBirth} />",
+      "main_regex": "<FormattedMessage {...messages.dateOfBirth} />",
+      "props": " {...messages.dateOfBirth} ",
+      "spread": " {...messages.dateOfBirth} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.state} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.state} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.state} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.state} />",
+      "main_clean": "<FormattedMessage {...messages.state} />",
+      "main_regex": "<FormattedMessage {...messages.state} />",
+      "props": " {...messages.state} ",
+      "spread": " {...messages.state} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.city} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.city} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.city} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.city} />",
+      "main_clean": "<FormattedMessage {...messages.city} />",
+      "main_regex": "<FormattedMessage {...messages.city} />",
+      "props": " {...messages.city} ",
+      "spread": " {...messages.city} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.postCode} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.postCode} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.postCode} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.postCode} />",
+      "main_clean": "<FormattedMessage {...messages.postCode} />",
+      "main_regex": "<FormattedMessage {...messages.postCode} />",
+      "props": " {...messages.postCode} ",
+      "spread": " {...messages.postCode} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.streetName} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.streetName} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.streetName} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.streetName} />",
+      "main_clean": "<FormattedMessage {...messages.streetName} />",
+      "main_regex": "<FormattedMessage {...messages.streetName} />",
+      "props": " {...messages.streetName} ",
+      "spread": " {...messages.streetName} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.streetNumber} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.streetNumber} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.streetNumber} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.streetNumber} />",
+      "main_clean": "<FormattedMessage {...messages.streetNumber} />",
+      "main_regex": "<FormattedMessage {...messages.streetNumber} />",
+      "props": " {...messages.streetNumber} ",
+      "spread": " {...messages.streetNumber} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.saveMember} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.saveMember} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.saveMember} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.saveMember} />",
+      "main_clean": "<FormattedMessage {...messages.saveMember} />",
+      "main_regex": "<FormattedMessage {...messages.saveMember} />",
+      "props": " {...messages.saveMember} ",
+      "spread": " {...messages.saveMember} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

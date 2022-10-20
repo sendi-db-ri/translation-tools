@@ -1,0 +1,94 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/RaizKidsEdit.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/RaizKidsEdit.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/RaizKidsEdit.i18n.js",
+      "replace": "import messages from './RaizKidsEdit.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n                title: <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "all_clean": "title: <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "all_regex": "\n                title: <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "before": "\n                title: ",
+      "main": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "main_clean": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "main_regex": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "props": " {...messages.kidProfileUpdateTitle} ",
+      "spread": " {...messages.kidProfileUpdateTitle} "
+    },
+    {
+      "after": "",
+      "all": "\n                text: <FormattedMessage {...messages.kidProfileUpdate} />",
+      "all_clean": "text: <FormattedMessage {...messages.kidProfileUpdate} />",
+      "all_regex": "\n                text: <FormattedMessage {...messages.kidProfileUpdate} />",
+      "before": "\n                text: ",
+      "main": "<FormattedMessage {...messages.kidProfileUpdate} />",
+      "main_clean": "<FormattedMessage {...messages.kidProfileUpdate} />",
+      "main_regex": "<FormattedMessage {...messages.kidProfileUpdate} />",
+      "props": " {...messages.kidProfileUpdate} ",
+      "spread": " {...messages.kidProfileUpdate} "
+    },
+    {
+      "after": "",
+      "all": "\n              text: <FormattedMessage {...messages.kidUpdate} />",
+      "all_clean": "text: <FormattedMessage {...messages.kidUpdate} />",
+      "all_regex": "\n              text: <FormattedMessage {...messages.kidUpdate} />",
+      "before": "\n              text: ",
+      "main": "<FormattedMessage {...messages.kidUpdate} />",
+      "main_clean": "<FormattedMessage {...messages.kidUpdate} />",
+      "main_regex": "<FormattedMessage {...messages.kidUpdate} />",
+      "props": " {...messages.kidUpdate} ",
+      "spread": " {...messages.kidUpdate} "
+    },
+    {
+      "after": "",
+      "all": "\n              title: <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "all_clean": "title: <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "all_regex": "\n              title: <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "before": "\n              title: ",
+      "main": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "main_clean": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "main_regex": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "props": " {...messages.kidProfileUpdateTitle} ",
+      "spread": " {...messages.kidProfileUpdateTitle} "
+    },
+    {
+      "after": "",
+      "all": "\n              text: <FormattedMessage {...messages.kidUpdate} />",
+      "all_clean": "text: <FormattedMessage {...messages.kidUpdate} />",
+      "all_regex": "\n              text: <FormattedMessage {...messages.kidUpdate} />",
+      "before": "\n              text: ",
+      "main": "<FormattedMessage {...messages.kidUpdate} />",
+      "main_clean": "<FormattedMessage {...messages.kidUpdate} />",
+      "main_regex": "<FormattedMessage {...messages.kidUpdate} />",
+      "props": " {...messages.kidUpdate} ",
+      "spread": " {...messages.kidUpdate} "
+    },
+    {
+      "after": "",
+      "all": "{\n          errorTransferMessage: <FormattedMessage {...messages.required} />",
+      "all_clean": "{ errorTransferMessage: <FormattedMessage {...messages.required} />",
+      "all_regex": "{\n          errorTransferMessage: <FormattedMessage {...messages.required} />",
+      "before": "{\n          errorTransferMessage: ",
+      "main": "<FormattedMessage {...messages.required} />",
+      "main_clean": "<FormattedMessage {...messages.required} />",
+      "main_regex": "<FormattedMessage {...messages.required} />",
+      "props": " {...messages.required} ",
+      "spread": " {...messages.required} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

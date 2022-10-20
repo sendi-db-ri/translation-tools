@@ -1,0 +1,43 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/KTPInfoModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/KTPInfoModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/Registration.i18n.js",
+      "replace": "import messages from '../../../pages/Registration/Registration.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.caraKTP} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.caraKTP} />",
+      "all_regex": "\n        <FormattedMessage {...messages.caraKTP} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.caraKTP} />",
+      "main_clean": "<FormattedMessage {...messages.caraKTP} />",
+      "main_regex": "<FormattedMessage {...messages.caraKTP} />",
+      "props": " {...messages.caraKTP} ",
+      "spread": " {...messages.caraKTP} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedHTMLMessage {...messages.informasiKota} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedHTMLMessage {...messages.informasiKota} />",
+      "props": " {...messages.informasiKota} ",
+      "spread": " {...messages.informasiKota} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

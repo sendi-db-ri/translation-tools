@@ -1,0 +1,124 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/ProfileMenu.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/ProfileMenu.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.myProfile} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.myProfile} />",
+      "all_regex": "\n          <FormattedMessage {...messages.myProfile} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.myProfile} />",
+      "main_clean": "<FormattedMessage {...messages.myProfile} />",
+      "main_regex": "<FormattedMessage {...messages.myProfile} />",
+      "props": " {...messages.myProfile} ",
+      "spread": " {...messages.myProfile} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.fundingAccount} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "all_regex": "\n          <FormattedMessage {...messages.fundingAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.spendingAccount} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "all_regex": "\n          <FormattedMessage {...messages.spendingAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.spendingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.smsfAccount} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.smsfAccount} />",
+      "all_regex": "\n          <FormattedMessage {...messages.smsfAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.smsfAccount} />",
+      "main_clean": "<FormattedMessage {...messages.smsfAccount} />",
+      "main_regex": "<FormattedMessage {...messages.smsfAccount} />",
+      "props": " {...messages.smsfAccount} ",
+      "spread": " {...messages.smsfAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.fundingAccount} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "all_regex": "\n          <FormattedMessage {...messages.fundingAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.withdrawalAccount} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "all_regex": "\n          <FormattedMessage {...messages.withdrawalAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "main_clean": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "main_regex": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "props": " {...messages.withdrawalAccount} ",
+      "spread": " {...messages.withdrawalAccount} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.changePassword} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.changePassword} />",
+      "all_regex": "\n        <FormattedMessage {...messages.changePassword} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.changePassword} />",
+      "main_clean": "<FormattedMessage {...messages.changePassword} />",
+      "main_regex": "<FormattedMessage {...messages.changePassword} />",
+      "props": " {...messages.changePassword} ",
+      "spread": " {...messages.changePassword} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.statements} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.statements} />",
+      "all_regex": "\n          <FormattedMessage {...messages.statements} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.statements} />",
+      "main_clean": "<FormattedMessage {...messages.statements} />",
+      "main_regex": "<FormattedMessage {...messages.statements} />",
+      "props": " {...messages.statements} ",
+      "spread": " {...messages.statements} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.support} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.support} />",
+      "all_regex": "\n        <FormattedMessage {...messages.support} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.support} />",
+      "main_clean": "<FormattedMessage {...messages.support} />",
+      "main_regex": "<FormattedMessage {...messages.support} />",
+      "props": " {...messages.support} ",
+      "spread": " {...messages.support} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

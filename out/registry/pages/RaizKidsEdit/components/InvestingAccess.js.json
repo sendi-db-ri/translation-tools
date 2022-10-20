@@ -1,0 +1,121 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/components/InvestingAccess.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/components/InvestingAccess.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.notAllowInvestment} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.notAllowInvestment} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.notAllowInvestment} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.notAllowInvestment} />",
+      "main_clean": "<FormattedMessage {...messages.notAllowInvestment} />",
+      "main_regex": "<FormattedMessage {...messages.notAllowInvestment} />",
+      "props": " {...messages.notAllowInvestment} ",
+      "spread": " {...messages.notAllowInvestment} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowUnlimited} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.allowUnlimited} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.allowUnlimited} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowUnlimited} />",
+      "main_clean": "<FormattedMessage {...messages.allowUnlimited} />",
+      "main_regex": "<FormattedMessage {...messages.allowUnlimited} />",
+      "props": " {...messages.allowUnlimited} ",
+      "spread": " {...messages.allowUnlimited} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowWeekly} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.allowWeekly} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.allowWeekly} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowWeekly} />",
+      "main_clean": "<FormattedMessage {...messages.allowWeekly} />",
+      "main_regex": "<FormattedMessage {...messages.allowWeekly} />",
+      "props": " {...messages.allowWeekly} ",
+      "spread": " {...messages.allowWeekly} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.weeklyLimit} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.weeklyLimit} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.weeklyLimit} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.weeklyLimit} />",
+      "main_clean": "<FormattedMessage {...messages.weeklyLimit} />",
+      "main_regex": "<FormattedMessage {...messages.weeklyLimit} />",
+      "props": " {...messages.weeklyLimit} ",
+      "spread": " {...messages.weeklyLimit} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.allowRaizKid} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.allowRaizKid} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.allowRaizKid} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.allowRaizKid} />",
+      "main_clean": "<FormattedMessage {...messages.allowRaizKid} />",
+      "main_regex": "<FormattedMessage {...messages.allowRaizKid} />",
+      "props": " {...messages.allowRaizKid} ",
+      "spread": " {...messages.allowRaizKid} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.kidEmail} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.kidEmail} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.kidEmail} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.kidEmail} />",
+      "main_clean": "<FormattedMessage {...messages.kidEmail} />",
+      "main_regex": "<FormattedMessage {...messages.kidEmail} />",
+      "props": " {...messages.kidEmail} ",
+      "spread": " {...messages.kidEmail} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.doNotAllow} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.doNotAllow} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.doNotAllow} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.doNotAllow} />",
+      "main_clean": "<FormattedMessage {...messages.doNotAllow} />",
+      "main_regex": "<FormattedMessage {...messages.doNotAllow} />",
+      "props": " {...messages.doNotAllow} ",
+      "spread": " {...messages.doNotAllow} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.save} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.save} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.save} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.save} />",
+      "main_clean": "<FormattedMessage {...messages.save} />",
+      "main_regex": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.decide} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.decide} />",
+      "props": " {...messages.decide} ",
+      "spread": " {...messages.decide} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

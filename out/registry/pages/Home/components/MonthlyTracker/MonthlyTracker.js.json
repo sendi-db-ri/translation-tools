@@ -1,0 +1,70 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Home/components/MonthlyTracker/MonthlyTracker.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Home/components/MonthlyTracker/MonthlyTracker.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Home/components/MonthlyTracker/MonthlyTracker.i18n.js",
+      "replace": "import messages from './MonthlyTracker.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.monthlyTracker} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.monthlyTracker} />",
+      "all_regex": "\n          <FormattedMessage {...messages.monthlyTracker} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.monthlyTracker} />",
+      "main_clean": "<FormattedMessage {...messages.monthlyTracker} />",
+      "main_regex": "<FormattedMessage {...messages.monthlyTracker} />",
+      "props": " {...messages.monthlyTracker} ",
+      "spread": " {...messages.monthlyTracker} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.moreThan} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.moreThan} />",
+      "all_regex": "\n            <FormattedMessage {...messages.moreThan} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.moreThan} />",
+      "main_clean": "<FormattedMessage {...messages.moreThan} />",
+      "main_regex": "<FormattedMessage {...messages.moreThan} />",
+      "props": " {...messages.moreThan} ",
+      "spread": " {...messages.moreThan} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.spendingThisMonth} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.spendingThisMonth} />",
+      "all_regex": "\n            <FormattedMessage {...messages.spendingThisMonth} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.spendingThisMonth} />",
+      "main_clean": "<FormattedMessage {...messages.spendingThisMonth} />",
+      "main_regex": "<FormattedMessage {...messages.spendingThisMonth} />",
+      "props": " {...messages.spendingThisMonth} ",
+      "spread": " {...messages.spendingThisMonth} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.averageThisMonth} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.averageThisMonth} />",
+      "all_regex": "\n            <FormattedMessage {...messages.averageThisMonth} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.averageThisMonth} />",
+      "main_clean": "<FormattedMessage {...messages.averageThisMonth} />",
+      "main_regex": "<FormattedMessage {...messages.averageThisMonth} />",
+      "props": " {...messages.averageThisMonth} ",
+      "spread": " {...messages.averageThisMonth} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

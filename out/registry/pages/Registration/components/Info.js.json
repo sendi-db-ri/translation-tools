@@ -1,0 +1,256 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Info.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Info.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.fullName} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.fullName} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.fullName} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.fullName} />",
+      "main_clean": "<FormattedMessage {...messages.fullName} />",
+      "main_regex": "<FormattedMessage {...messages.fullName} />",
+      "props": " {...messages.fullName} ",
+      "spread": " {...messages.fullName} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.myKadNo} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.myKadNo} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.myKadNo} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.myKadNo} />",
+      "main_clean": "<FormattedMessage {...messages.myKadNo} />",
+      "main_regex": "<FormattedMessage {...messages.myKadNo} />",
+      "props": " {...messages.myKadNo} ",
+      "spread": " {...messages.myKadNo} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.birthDate} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.birthDate} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.birthDate} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.birthDate} />",
+      "main_clean": "<FormattedMessage {...messages.birthDate} />",
+      "main_regex": "<FormattedMessage {...messages.birthDate} />",
+      "props": " {...messages.birthDate} ",
+      "spread": " {...messages.birthDate} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.gender} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.gender} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.gender} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.gender} />",
+      "main_clean": "<FormattedMessage {...messages.gender} />",
+      "main_regex": "<FormattedMessage {...messages.gender} />",
+      "props": " {...messages.gender} ",
+      "spread": " {...messages.gender} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.legalFirst} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.legalFirst} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.legalFirst} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.legalFirst} />",
+      "main_clean": "<FormattedMessage {...messages.legalFirst} />",
+      "main_regex": "<FormattedMessage {...messages.legalFirst} />",
+      "props": " {...messages.legalFirst} ",
+      "spread": " {...messages.legalFirst} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.legalLast} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.legalLast} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.legalLast} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.legalLast} />",
+      "main_clean": "<FormattedMessage {...messages.legalLast} />",
+      "main_regex": "<FormattedMessage {...messages.legalLast} />",
+      "props": " {...messages.legalLast} ",
+      "spread": " {...messages.legalLast} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.phoneNumber} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.phoneNumber} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.phoneNumber} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.phoneNumber} />",
+      "main_clean": "<FormattedMessage {...messages.phoneNumber} />",
+      "main_regex": "<FormattedMessage {...messages.phoneNumber} />",
+      "props": " {...messages.phoneNumber} ",
+      "spread": " {...messages.phoneNumber} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.dateOfBirth} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.dateOfBirth} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.dateOfBirth} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.dateOfBirth} />",
+      "main_clean": "<FormattedMessage {...messages.dateOfBirth} />",
+      "main_regex": "<FormattedMessage {...messages.dateOfBirth} />",
+      "props": " {...messages.dateOfBirth} ",
+      "spread": " {...messages.dateOfBirth} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.gender} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.gender} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.gender} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.gender} />",
+      "main_clean": "<FormattedMessage {...messages.gender} />",
+      "main_regex": "<FormattedMessage {...messages.gender} />",
+      "props": " {...messages.gender} ",
+      "spread": " {...messages.gender} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.birthPlace} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.birthPlace} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.birthPlace} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.birthPlace} />",
+      "main_clean": "<FormattedMessage {...messages.birthPlace} />",
+      "main_regex": "<FormattedMessage {...messages.birthPlace} />",
+      "props": " {...messages.birthPlace} ",
+      "spread": " {...messages.birthPlace} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.nomorKTP} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.nomorKTP} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.nomorKTP} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.nomorKTP} />",
+      "main_clean": "<FormattedMessage {...messages.nomorKTP} />",
+      "main_regex": "<FormattedMessage {...messages.nomorKTP} />",
+      "props": " {...messages.nomorKTP} ",
+      "spread": " {...messages.nomorKTP} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.statusPernikahan} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.statusPernikahan} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.statusPernikahan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.statusPernikahan} />",
+      "main_clean": "<FormattedMessage {...messages.statusPernikahan} />",
+      "main_regex": "<FormattedMessage {...messages.statusPernikahan} />",
+      "props": " {...messages.statusPernikahan} ",
+      "spread": " {...messages.statusPernikahan} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.usResident} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.usResident} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.usResident} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.usResident} />",
+      "main_clean": "<FormattedMessage {...messages.usResident} />",
+      "main_regex": "<FormattedMessage {...messages.usResident} />",
+      "props": " {...messages.usResident} ",
+      "spread": " {...messages.usResident} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.rightNow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.rightNow} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.rightNow} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.rightNow} />",
+      "main_clean": "<FormattedMessage {...messages.rightNow} />",
+      "main_regex": "<FormattedMessage {...messages.rightNow} />",
+      "props": " {...messages.rightNow} ",
+      "spread": " {...messages.rightNow} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.securityQuestion} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.securityQuestion} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.securityQuestion} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.securityQuestion} />",
+      "main_clean": "<FormattedMessage {...messages.securityQuestion} />",
+      "main_regex": "<FormattedMessage {...messages.securityQuestion} />",
+      "props": " {...messages.securityQuestion} ",
+      "spread": " {...messages.securityQuestion} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n                label={<FormattedMessage {...messages.yourAnswer} />}\n              ",
+      "all_clean": "label={<FormattedMessage {...messages.yourAnswer} />}",
+      "all_regex": "\n                label={<FormattedMessage {...messages.yourAnswer} />}\n              ",
+      "before": "\n                label={",
+      "main": "<FormattedMessage {...messages.yourAnswer} />",
+      "main_clean": "<FormattedMessage {...messages.yourAnswer} />",
+      "main_regex": "<FormattedMessage {...messages.yourAnswer} />",
+      "props": " {...messages.yourAnswer} ",
+      "spread": " {...messages.yourAnswer} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.inviteCode} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.inviteCode} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.inviteCode} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.inviteCode} />",
+      "main_clean": "<FormattedMessage {...messages.inviteCode} />",
+      "main_regex": "<FormattedMessage {...messages.inviteCode} />",
+      "props": " {...messages.inviteCode} ",
+      "spread": " {...messages.inviteCode} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  label={<FormattedMessage {...messages.inviteCode} />}\n                ",
+      "all_clean": "label={<FormattedMessage {...messages.inviteCode} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.inviteCode} />}\n                ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.inviteCode} />",
+      "main_clean": "<FormattedMessage {...messages.inviteCode} />",
+      "main_regex": "<FormattedMessage {...messages.inviteCode} />",
+      "props": " {...messages.inviteCode} ",
+      "spread": " {...messages.inviteCode} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.back} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.next} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

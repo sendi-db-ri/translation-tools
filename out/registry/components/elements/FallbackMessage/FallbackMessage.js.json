@@ -1,0 +1,28 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/elements/FallbackMessage/FallbackMessage.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/elements/FallbackMessage/FallbackMessage.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n        ",
+      "all": "\n          {text || <FormattedMessage {...message} />}\n        ",
+      "all_clean": "{text || <FormattedMessage {...message} />}",
+      "all_regex": "\n          {text || <FormattedMessage {...message} />}\n        ",
+      "before": "\n          {text || ",
+      "main": "<FormattedMessage {...message} />",
+      "main_clean": "<FormattedMessage {...message} />",
+      "main_regex": "<FormattedMessage {...message} />",
+      "props": " {...message} ",
+      "spread": " {...message} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

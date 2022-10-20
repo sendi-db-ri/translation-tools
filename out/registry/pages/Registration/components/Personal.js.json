@@ -1,0 +1,76 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Personal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Personal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.weJust} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.weJust} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.weJust} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.weJust} />",
+      "main_clean": "<FormattedMessage {...messages.weJust} />",
+      "main_regex": "<FormattedMessage {...messages.weJust} />",
+      "props": " {...messages.weJust} ",
+      "spread": " {...messages.weJust} "
+    },
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.homeAddress} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.homeAddress} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.homeAddress} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.homeAddress} />",
+      "main_clean": "<FormattedMessage {...messages.homeAddress} />",
+      "main_regex": "<FormattedMessage {...messages.homeAddress} />",
+      "props": " {...messages.homeAddress} ",
+      "spread": " {...messages.homeAddress} "
+    },
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.raizApplication} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.raizApplication} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.raizApplication} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.raizApplication} />",
+      "main_clean": "<FormattedMessage {...messages.raizApplication} />",
+      "main_regex": "<FormattedMessage {...messages.raizApplication} />",
+      "props": " {...messages.raizApplication} ",
+      "spread": " {...messages.raizApplication} "
+    },
+    {
+      "after": "",
+      "all": "\n      contentFillTitle = <FormattedMessage {...messages.weJust} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.weJust} />",
+      "all_regex": "\n      contentFillTitle = <FormattedMessage {...messages.weJust} />",
+      "before": "\n      contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.weJust} />",
+      "main_clean": "<FormattedMessage {...messages.weJust} />",
+      "main_regex": "<FormattedMessage {...messages.weJust} />",
+      "props": " {...messages.weJust} ",
+      "spread": " {...messages.weJust} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.stepThreeBottomText} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.stepThreeBottomText} />",
+      "all_regex": "\n              <FormattedMessage {...messages.stepThreeBottomText} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.stepThreeBottomText} />",
+      "main_clean": "<FormattedMessage {...messages.stepThreeBottomText} />",
+      "main_regex": "<FormattedMessage {...messages.stepThreeBottomText} />",
+      "props": " {...messages.stepThreeBottomText} ",
+      "spread": " {...messages.stepThreeBottomText} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

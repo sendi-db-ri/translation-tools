@@ -1,0 +1,146 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/AccountQuestions.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/AccountQuestions.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.accordance} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.accordance} />",
+      "all_regex": "\n            <FormattedMessage {...messages.accordance} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.accordance} />",
+      "main_clean": "<FormattedMessage {...messages.accordance} />",
+      "main_regex": "<FormattedMessage {...messages.accordance} />",
+      "props": " {...messages.accordance} ",
+      "spread": " {...messages.accordance} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.informationYouEnter} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.informationYouEnter} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.informationYouEnter} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.informationYouEnter} />",
+      "main_clean": "<FormattedMessage {...messages.informationYouEnter} />",
+      "main_regex": "<FormattedMessage {...messages.informationYouEnter} />",
+      "props": " {...messages.informationYouEnter} ",
+      "spread": " {...messages.informationYouEnter} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.fundingAccount} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.fundingAccount} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.fundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.incurredInPortfolio} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.incurredInPortfolio} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.incurredInPortfolio} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.incurredInPortfolio} />",
+      "main_clean": "<FormattedMessage {...messages.incurredInPortfolio} />",
+      "main_regex": "<FormattedMessage {...messages.incurredInPortfolio} />",
+      "props": " {...messages.incurredInPortfolio} ",
+      "spread": " {...messages.incurredInPortfolio} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.acknowledge} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.acknowledge} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.acknowledge} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.acknowledge} />",
+      "main_clean": "<FormattedMessage {...messages.acknowledge} />",
+      "main_regex": "<FormattedMessage {...messages.acknowledge} />",
+      "props": " {...messages.acknowledge} ",
+      "spread": " {...messages.acknowledge} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.fundingNotCredit} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.fundingNotCredit} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.fundingNotCredit} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.fundingNotCredit} />",
+      "main_clean": "<FormattedMessage {...messages.fundingNotCredit} />",
+      "main_regex": "<FormattedMessage {...messages.fundingNotCredit} />",
+      "props": " {...messages.fundingNotCredit} ",
+      "spread": " {...messages.fundingNotCredit} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.haveReceived} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.haveReceived} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.haveReceived} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.haveReceived} />",
+      "main_clean": "<FormattedMessage {...messages.haveReceived} />",
+      "main_regex": "<FormattedMessage {...messages.haveReceived} />",
+      "props": " {...messages.haveReceived} ",
+      "spread": " {...messages.haveReceived} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                    label={<FormattedMessage {...messages.understand} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.understand} />}",
+      "all_regex": "\n                    label={<FormattedMessage {...messages.understand} />}\n                  ",
+      "before": "\n                    label={",
+      "main": "<FormattedMessage {...messages.understand} />",
+      "main_clean": "<FormattedMessage {...messages.understand} />",
+      "main_regex": "<FormattedMessage {...messages.understand} />",
+      "props": " {...messages.understand} ",
+      "spread": " {...messages.understand} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "\n                        title={<FormattedMessage {...messages.back} />}\n                        ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                        title={<FormattedMessage {...messages.back} />}\n                        ",
+      "before": "\n                        title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.next} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.next} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedHTMLMessage\n                        {...messages.confirmPersonalInformation}\n                        values={{\n                          privacy_link: PRIVACY_LINK_MY,\n                        }}\n                      />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedHTMLMessage\n                        {...messages.confirmPersonalInformation}\n                        values={{\n                          privacy_link: PRIVACY_LINK_MY,\n                        }}\n                      />",
+      "props": "\n                        {...messages.confirmPersonalInformation}\n                        values={{\n                          privacy_link: PRIVACY_LINK_MY,\n                        }}\n                      ",
+      "spread": "\n                        {...messages.confirmPersonalInformation}\n                        ",
+      "values": "values={{\n                          privacy_link: PRIVACY_LINK_MY,\n                        }}\n                      "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

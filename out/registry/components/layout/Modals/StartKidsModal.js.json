@@ -1,0 +1,55 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/StartKidsModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/StartKidsModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKids/RaizKids.i18n.js",
+      "replace": "import messages from '../../../pages/RaizKids/RaizKids.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.startKidsTitle} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.startKidsTitle} />",
+      "all_regex": "\n        <FormattedMessage {...messages.startKidsTitle} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.startKidsTitle} />",
+      "main_clean": "<FormattedMessage {...messages.startKidsTitle} />",
+      "main_regex": "<FormattedMessage {...messages.startKidsTitle} />",
+      "props": " {...messages.startKidsTitle} ",
+      "spread": " {...messages.startKidsTitle} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.startKidsBtn} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.startKidsBtn} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.startKidsBtn} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.startKidsBtn} />",
+      "main_clean": "<FormattedMessage {...messages.startKidsBtn} />",
+      "main_regex": "<FormattedMessage {...messages.startKidsBtn} />",
+      "props": " {...messages.startKidsBtn} ",
+      "spread": " {...messages.startKidsBtn} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedHTMLMessage {...messages.startKidsText} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedHTMLMessage {...messages.startKidsText} />",
+      "props": " {...messages.startKidsText} ",
+      "spread": " {...messages.startKidsText} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

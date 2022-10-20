@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/VerificationModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/VerificationModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.cancel} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.perbaiki} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.perbaiki} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.perbaiki} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.perbaiki} />",
+      "main_clean": "<FormattedMessage {...messages.perbaiki} />",
+      "main_regex": "<FormattedMessage {...messages.perbaiki} />",
+      "props": " {...messages.perbaiki} ",
+      "spread": " {...messages.perbaiki} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

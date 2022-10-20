@@ -1,0 +1,383 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/CapitalProtected/CapitalProtectedView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/CapitalProtected/CapitalProtectedView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.current} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.current} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.current} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.current} />",
+      "main_clean": "<FormattedMessage {...messages.current} />",
+      "main_regex": "<FormattedMessage {...messages.current} />",
+      "props": " {...messages.current} ",
+      "spread": " {...messages.current} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.available} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.available} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.available} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.available} />",
+      "main_clean": "<FormattedMessage {...messages.available} />",
+      "main_regex": "<FormattedMessage {...messages.available} />",
+      "props": " {...messages.available} ",
+      "spread": " {...messages.available} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.contactSupport} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.contactSupport} />",
+      "all_regex": "\n              <FormattedMessage {...messages.contactSupport} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.contactSupport} />",
+      "main_clean": "<FormattedMessage {...messages.contactSupport} />",
+      "main_regex": "<FormattedMessage {...messages.contactSupport} />",
+      "props": " {...messages.contactSupport} ",
+      "spread": " {...messages.contactSupport} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.closing} values={{ date: <Time>{fund.price.date}</Time>, }} />",
+      "all_regex": "\n                          <FormattedMessage\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          />",
+      "main_clean": "<FormattedMessage {...messages.closing} values={{ date: <Time>{fund.price.date}</Time>, }} />",
+      "main_regex": "<FormattedMessage\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          />",
+      "props": "\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          ",
+      "spread": "\n                            {...messages.closing}\n                            ",
+      "values": "values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.issuerName} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.issuerName} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.issuerName} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.issuerName} />",
+      "main_clean": "<FormattedMessage {...messages.issuerName} />",
+      "main_regex": "<FormattedMessage {...messages.issuerName} />",
+      "props": " {...messages.issuerName} ",
+      "spread": " {...messages.issuerName} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.couponRate} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.couponRate} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.couponRate} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.couponRate} />",
+      "main_clean": "<FormattedMessage {...messages.couponRate} />",
+      "main_regex": "<FormattedMessage {...messages.couponRate} />",
+      "props": " {...messages.couponRate} ",
+      "spread": " {...messages.couponRate} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.couponPaid} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.couponPaid} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.couponPaid} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.couponPaid} />",
+      "main_clean": "<FormattedMessage {...messages.couponPaid} />",
+      "main_regex": "<FormattedMessage {...messages.couponPaid} />",
+      "props": " {...messages.couponPaid} ",
+      "spread": " {...messages.couponPaid} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.term} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.term} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.term} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.term} />",
+      "main_clean": "<FormattedMessage {...messages.term} />",
+      "main_regex": "<FormattedMessage {...messages.term} />",
+      "props": " {...messages.term} ",
+      "spread": " {...messages.term} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.asset} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.asset} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.asset} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.asset} />",
+      "main_clean": "<FormattedMessage {...messages.asset} />",
+      "main_regex": "<FormattedMessage {...messages.asset} />",
+      "props": " {...messages.asset} ",
+      "spread": " {...messages.asset} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.rating} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.rating} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.rating} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.rating} />",
+      "main_clean": "<FormattedMessage {...messages.rating} />",
+      "main_regex": "<FormattedMessage {...messages.rating} />",
+      "props": " {...messages.rating} ",
+      "spread": " {...messages.rating} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.nab} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.nab} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.nab} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.nab} />",
+      "main_clean": "<FormattedMessage {...messages.nab} />",
+      "main_regex": "<FormattedMessage {...messages.nab} />",
+      "props": " {...messages.nab} ",
+      "spread": " {...messages.nab} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.unit} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.unit} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.unit} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.unit} />",
+      "main_clean": "<FormattedMessage {...messages.unit} />",
+      "main_regex": "<FormattedMessage {...messages.unit} />",
+      "props": " {...messages.unit} ",
+      "spread": " {...messages.unit} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.maturityDate} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.maturityDate} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.maturityDate} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.maturityDate} />",
+      "main_clean": "<FormattedMessage {...messages.maturityDate} />",
+      "main_regex": "<FormattedMessage {...messages.maturityDate} />",
+      "props": " {...messages.maturityDate} ",
+      "spread": " {...messages.maturityDate} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.termsheet} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.termsheet} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.termsheet} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.termsheet} />",
+      "main_clean": "<FormattedMessage {...messages.termsheet} />",
+      "main_regex": "<FormattedMessage {...messages.termsheet} />",
+      "props": " {...messages.termsheet} ",
+      "spread": " {...messages.termsheet} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.prospectus} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.prospectus} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.prospectus} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.prospectus} />",
+      "main_clean": "<FormattedMessage {...messages.prospectus} />",
+      "main_regex": "<FormattedMessage {...messages.prospectus} />",
+      "props": " {...messages.prospectus} ",
+      "spread": " {...messages.prospectus} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.product} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.product} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.product} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.product} />",
+      "main_clean": "<FormattedMessage {...messages.product} />",
+      "main_regex": "<FormattedMessage {...messages.product} />",
+      "props": " {...messages.product} ",
+      "spread": " {...messages.product} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.closing} values={{ date: <Time>{fund.offer_close_date}</Time>, }} />",
+      "all_regex": "\n                      <FormattedMessage\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      />",
+      "main_clean": "<FormattedMessage {...messages.closing} values={{ date: <Time>{fund.offer_close_date}</Time>, }} />",
+      "main_regex": "<FormattedMessage\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      />",
+      "props": "\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      ",
+      "spread": "\n                        {...messages.closing}\n                        ",
+      "values": "values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.issuerName} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.issuerName} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.issuerName} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.issuerName} />",
+      "main_clean": "<FormattedMessage {...messages.issuerName} />",
+      "main_regex": "<FormattedMessage {...messages.issuerName} />",
+      "props": " {...messages.issuerName} ",
+      "spread": " {...messages.issuerName} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.couponRate} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.couponRate} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.couponRate} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.couponRate} />",
+      "main_clean": "<FormattedMessage {...messages.couponRate} />",
+      "main_regex": "<FormattedMessage {...messages.couponRate} />",
+      "props": " {...messages.couponRate} ",
+      "spread": " {...messages.couponRate} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.couponPaid} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.couponPaid} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.couponPaid} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.couponPaid} />",
+      "main_clean": "<FormattedMessage {...messages.couponPaid} />",
+      "main_regex": "<FormattedMessage {...messages.couponPaid} />",
+      "props": " {...messages.couponPaid} ",
+      "spread": " {...messages.couponPaid} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.term} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.term} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.term} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.term} />",
+      "main_clean": "<FormattedMessage {...messages.term} />",
+      "main_regex": "<FormattedMessage {...messages.term} />",
+      "props": " {...messages.term} ",
+      "spread": " {...messages.term} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.asset} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.asset} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.asset} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.asset} />",
+      "main_clean": "<FormattedMessage {...messages.asset} />",
+      "main_regex": "<FormattedMessage {...messages.asset} />",
+      "props": " {...messages.asset} ",
+      "spread": " {...messages.asset} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.rating} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.rating} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.rating} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.rating} />",
+      "main_clean": "<FormattedMessage {...messages.rating} />",
+      "main_regex": "<FormattedMessage {...messages.rating} />",
+      "props": " {...messages.rating} ",
+      "spread": " {...messages.rating} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.maturityDate} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.maturityDate} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.maturityDate} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.maturityDate} />",
+      "main_clean": "<FormattedMessage {...messages.maturityDate} />",
+      "main_regex": "<FormattedMessage {...messages.maturityDate} />",
+      "props": " {...messages.maturityDate} ",
+      "spread": " {...messages.maturityDate} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.termsheet} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.termsheet} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.termsheet} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.termsheet} />",
+      "main_clean": "<FormattedMessage {...messages.termsheet} />",
+      "main_regex": "<FormattedMessage {...messages.termsheet} />",
+      "props": " {...messages.termsheet} ",
+      "spread": " {...messages.termsheet} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.prospectus} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.prospectus} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.prospectus} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.prospectus} />",
+      "main_clean": "<FormattedMessage {...messages.prospectus} />",
+      "main_regex": "<FormattedMessage {...messages.prospectus} />",
+      "props": " {...messages.prospectus} ",
+      "spread": " {...messages.prospectus} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.product} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.product} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.product} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.product} />",
+      "main_clean": "<FormattedMessage {...messages.product} />",
+      "main_regex": "<FormattedMessage {...messages.product} />",
+      "props": " {...messages.product} ",
+      "spread": " {...messages.product} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.applyNow} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.applyNow} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.applyNow} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.applyNow} />",
+      "main_clean": "<FormattedMessage {...messages.applyNow} />",
+      "main_regex": "<FormattedMessage {...messages.applyNow} />",
+      "props": " {...messages.applyNow} ",
+      "spread": " {...messages.applyNow} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.applyInvestment} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.applyInvestment} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.applyInvestment} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.applyInvestment} />",
+      "main_clean": "<FormattedMessage {...messages.applyInvestment} />",
+      "main_regex": "<FormattedMessage {...messages.applyInvestment} />",
+      "props": " {...messages.applyInvestment} ",
+      "spread": " {...messages.applyInvestment} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                              }\n                              ",
+      "all": "{\n                                <FormattedHTMLMessage {...messages.download} />\n                              }\n                              ",
+      "before": "{\n                                ",
+      "main": "<FormattedHTMLMessage {...messages.download} />",
+      "props": " {...messages.download} ",
+      "spread": " {...messages.download} "
+    },
+    {
+      "after": "\n                              }\n                              ",
+      "all": "{\n                                <FormattedHTMLMessage {...messages.download} />\n                              }\n                              ",
+      "before": "{\n                                ",
+      "main": "<FormattedHTMLMessage {...messages.download} />",
+      "props": " {...messages.download} ",
+      "spread": " {...messages.download} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

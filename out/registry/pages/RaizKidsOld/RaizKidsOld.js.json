@@ -1,0 +1,39 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsOld/RaizKidsOld.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsOld/RaizKidsOld.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/translates/pages/RaizKids/RaizKids.ms.i18n.js",
+      "replace": "import messagesMS from '../../translates/pages/RaizKids/RaizKids.ms.i18n';",
+      "name": "messagesMS"
+    },
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsOld/RaizKidsOld.i18n.js",
+      "replace": "import messages from './RaizKidsOld.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.page} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.page} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.page} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.page} />",
+      "main_clean": "<FormattedMessage {...messages.page} />",
+      "main_regex": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, injectIntl } from 'react-intl';",
+      "named": "FormattedMessage, injectIntl "
+    }
+  ]
+}

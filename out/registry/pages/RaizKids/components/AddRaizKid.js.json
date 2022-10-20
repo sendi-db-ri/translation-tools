@@ -1,0 +1,100 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKids/components/AddRaizKid.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKids/components/AddRaizKid.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addRaizKid} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.addRaizKid} />",
+      "all_regex": "\n                <FormattedMessage {...messages.addRaizKid} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addRaizKid} />",
+      "main_clean": "<FormattedMessage {...messages.addRaizKid} />",
+      "main_regex": "<FormattedMessage {...messages.addRaizKid} />",
+      "props": " {...messages.addRaizKid} ",
+      "spread": " {...messages.addRaizKid} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.chooseAvatar} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.chooseAvatar} />",
+      "all_regex": "\n              <FormattedMessage {...messages.chooseAvatar} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.chooseAvatar} />",
+      "main_clean": "<FormattedMessage {...messages.chooseAvatar} />",
+      "main_regex": "<FormattedMessage {...messages.chooseAvatar} />",
+      "props": " {...messages.chooseAvatar} ",
+      "spread": " {...messages.chooseAvatar} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  label={<FormattedMessage {...messages.name} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.name} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.name} />}\n                  ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.name} />",
+      "main_clean": "<FormattedMessage {...messages.name} />",
+      "main_regex": "<FormattedMessage {...messages.name} />",
+      "props": " {...messages.name} ",
+      "spread": " {...messages.name} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  label={<FormattedMessage {...messages.birthday} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.birthday} />}",
+      "all_regex": "\n                  label={<FormattedMessage {...messages.birthday} />}\n                  ",
+      "before": "\n                  label={",
+      "main": "<FormattedMessage {...messages.birthday} />",
+      "main_clean": "<FormattedMessage {...messages.birthday} />",
+      "main_regex": "<FormattedMessage {...messages.birthday} />",
+      "props": " {...messages.birthday} ",
+      "spread": " {...messages.birthday} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.addARaizKid} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.addARaizKid} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.addARaizKid} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.addARaizKid} />",
+      "main_clean": "<FormattedMessage {...messages.addARaizKid} />",
+      "main_regex": "<FormattedMessage {...messages.addARaizKid} />",
+      "props": " {...messages.addARaizKid} ",
+      "spread": " {...messages.addARaizKid} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.save} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.save} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.save} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.save} />",
+      "main_clean": "<FormattedMessage {...messages.save} />",
+      "main_regex": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.delete} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.delete} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.delete} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.delete} />",
+      "main_clean": "<FormattedMessage {...messages.delete} />",
+      "main_regex": "<FormattedMessage {...messages.delete} />",
+      "props": " {...messages.delete} ",
+      "spread": " {...messages.delete} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

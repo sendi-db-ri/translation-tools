@@ -1,0 +1,160 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Agreement.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Agreement.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n      ",
+      "all": "\n      title={<FormattedMessage {...messages.agree} />}\n      ",
+      "all_clean": "title={<FormattedMessage {...messages.agree} />}",
+      "all_regex": "\n      title={<FormattedMessage {...messages.agree} />}\n      ",
+      "before": "\n      title={",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "main_clean": "<FormattedMessage {...messages.agree} />",
+      "main_regex": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.agree} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.agree} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.agree} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "main_clean": "<FormattedMessage {...messages.agree} />",
+      "main_regex": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.agree} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.agree} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.agree} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "main_clean": "<FormattedMessage {...messages.agree} />",
+      "main_regex": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.agree} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.agree} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.agree} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "main_clean": "<FormattedMessage {...messages.agree} />",
+      "main_regex": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                    label={<FormattedMessage {...messages.yearsOld} />}\n                  ",
+      "all_clean": "label={<FormattedMessage {...messages.yearsOld} />}",
+      "all_regex": "\n                    label={<FormattedMessage {...messages.yearsOld} />}\n                  ",
+      "before": "\n                    label={",
+      "main": "<FormattedMessage {...messages.yearsOld} />",
+      "main_clean": "<FormattedMessage {...messages.yearsOld} />",
+      "main_regex": "<FormattedMessage {...messages.yearsOld} />",
+      "props": " {...messages.yearsOld} ",
+      "spread": " {...messages.yearsOld} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.disagree} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.disagree} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.disagree} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.disagree} />",
+      "main_clean": "<FormattedMessage {...messages.disagree} />",
+      "main_regex": "<FormattedMessage {...messages.disagree} />",
+      "props": " {...messages.disagree} ",
+      "spread": " {...messages.disagree} "
+    },
+    {
+      "after": "\n                }\n                ",
+      "all": "{\n                  <FormattedMessage {...messages.programAgreement} />\n                }\n                ",
+      "all_clean": "{ <FormattedMessage {...messages.programAgreement} /> }",
+      "all_regex": "{\n                  <FormattedMessage {...messages.programAgreement} />\n                }\n                ",
+      "before": "{\n                  ",
+      "main": "<FormattedMessage {...messages.programAgreement} />",
+      "main_clean": "<FormattedMessage {...messages.programAgreement} />",
+      "main_regex": "<FormattedMessage {...messages.programAgreement} />",
+      "props": " {...messages.programAgreement} ",
+      "spread": " {...messages.programAgreement} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.choose} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.choose} />",
+      "all_regex": "\n                <FormattedMessage {...messages.choose} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.choose} />",
+      "main_clean": "<FormattedMessage {...messages.choose} />",
+      "main_regex": "<FormattedMessage {...messages.choose} />",
+      "props": " {...messages.choose} ",
+      "spread": " {...messages.choose} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.iAmIndividual} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.iAmIndividual} />",
+      "all_regex": "\n                <FormattedMessage {...messages.iAmIndividual} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.iAmIndividual} />",
+      "main_clean": "<FormattedMessage {...messages.iAmIndividual} />",
+      "main_regex": "<FormattedMessage {...messages.iAmIndividual} />",
+      "props": " {...messages.iAmIndividual} ",
+      "spread": " {...messages.iAmIndividual} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.yearsOld} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.yearsOld} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.yearsOld} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.yearsOld} />",
+      "main_clean": "<FormattedMessage {...messages.yearsOld} />",
+      "main_regex": "<FormattedMessage {...messages.yearsOld} />",
+      "props": " {...messages.yearsOld} ",
+      "spread": " {...messages.yearsOld} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.iAmTrustee} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.iAmTrustee} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.iAmTrustee} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.iAmTrustee} />",
+      "main_clean": "<FormattedMessage {...messages.iAmTrustee} />",
+      "main_regex": "<FormattedMessage {...messages.iAmTrustee} />",
+      "props": " {...messages.iAmTrustee} ",
+      "spread": " {...messages.iAmTrustee} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.continueRegistration} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.continueRegistration} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.continueRegistration} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.continueRegistration} />",
+      "main_clean": "<FormattedMessage {...messages.continueRegistration} />",
+      "main_regex": "<FormattedMessage {...messages.continueRegistration} />",
+      "props": " {...messages.continueRegistration} ",
+      "spread": " {...messages.continueRegistration} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

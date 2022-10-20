@@ -1,0 +1,70 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RecurringNoteModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RecurringNoteModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/RecurringInvestment.i18n.js",
+      "replace": "import messages from '../../../pages/RecurringInvestment/RecurringInvestment.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.stopRecurring} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.stopRecurring} />",
+      "all_regex": "\n        <FormattedMessage {...messages.stopRecurring} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.stopRecurring} />",
+      "main_clean": "<FormattedMessage {...messages.stopRecurring} />",
+      "main_regex": "<FormattedMessage {...messages.stopRecurring} />",
+      "props": " {...messages.stopRecurring} ",
+      "spread": " {...messages.stopRecurring} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.youHavePending} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.youHavePending} />",
+      "all_regex": "\n        <FormattedMessage {...messages.youHavePending} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.youHavePending} />",
+      "main_clean": "<FormattedMessage {...messages.youHavePending} />",
+      "main_regex": "<FormattedMessage {...messages.youHavePending} />",
+      "props": " {...messages.youHavePending} ",
+      "spread": " {...messages.youHavePending} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n          title={<FormattedMessage {...messages.later} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.later} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.later} />}\n        ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.later} />",
+      "main_clean": "<FormattedMessage {...messages.later} />",
+      "main_regex": "<FormattedMessage {...messages.later} />",
+      "props": " {...messages.later} ",
+      "spread": " {...messages.later} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.viewHistory} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.viewHistory} />",
+      "all_regex": "\n          <FormattedMessage {...messages.viewHistory} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "main_clean": "<FormattedMessage {...messages.viewHistory} />",
+      "main_regex": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

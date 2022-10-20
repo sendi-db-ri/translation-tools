@@ -1,0 +1,58 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundingErrorModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundingErrorModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../../../pages/Settings/Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.no} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.no} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.no} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.no} />",
+      "main_clean": "<FormattedMessage {...messages.no} />",
+      "main_regex": "<FormattedMessage {...messages.no} />",
+      "props": " {...messages.no} ",
+      "spread": " {...messages.no} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.yes} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.yes} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.yes} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.yes} />",
+      "main_clean": "<FormattedMessage {...messages.yes} />",
+      "main_regex": "<FormattedMessage {...messages.yes} />",
+      "props": " {...messages.yes} ",
+      "spread": " {...messages.yes} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.ok} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.ok} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

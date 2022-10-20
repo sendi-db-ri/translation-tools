@@ -1,0 +1,100 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/RecurringInvestmentBanner.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/RecurringInvestmentBanner.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.investmentFrequency} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.investmentFrequency} />",
+      "all_regex": "\n          <FormattedMessage {...messages.investmentFrequency} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.investmentFrequency} />",
+      "main_clean": "<FormattedMessage {...messages.investmentFrequency} />",
+      "main_regex": "<FormattedMessage {...messages.investmentFrequency} />",
+      "props": " {...messages.investmentFrequency} ",
+      "spread": " {...messages.investmentFrequency} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recurringInvestment} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.recurringInvestment} />",
+      "all_regex": "\n          <FormattedMessage {...messages.recurringInvestment} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recurringInvestment} />",
+      "main_clean": "<FormattedMessage {...messages.recurringInvestment} />",
+      "main_regex": "<FormattedMessage {...messages.recurringInvestment} />",
+      "props": " {...messages.recurringInvestment} ",
+      "spread": " {...messages.recurringInvestment} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.daily} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.daily} />",
+      "all_regex": "\n            <FormattedMessage {...messages.daily} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.daily} />",
+      "main_clean": "<FormattedMessage {...messages.daily} />",
+      "main_regex": "<FormattedMessage {...messages.daily} />",
+      "props": " {...messages.daily} ",
+      "spread": " {...messages.daily} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.weekly} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.weekly} />",
+      "all_regex": "\n            <FormattedMessage {...messages.weekly} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.weekly} />",
+      "main_clean": "<FormattedMessage {...messages.weekly} />",
+      "main_regex": "<FormattedMessage {...messages.weekly} />",
+      "props": " {...messages.weekly} ",
+      "spread": " {...messages.weekly} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.fortnightly} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.fortnightly} />",
+      "all_regex": "\n            <FormattedMessage {...messages.fortnightly} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fortnightly} />",
+      "main_clean": "<FormattedMessage {...messages.fortnightly} />",
+      "main_regex": "<FormattedMessage {...messages.fortnightly} />",
+      "props": " {...messages.fortnightly} ",
+      "spread": " {...messages.fortnightly} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.monthly} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.monthly} />",
+      "all_regex": "\n            <FormattedMessage {...messages.monthly} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.monthly} />",
+      "main_clean": "<FormattedMessage {...messages.monthly} />",
+      "main_regex": "<FormattedMessage {...messages.monthly} />",
+      "props": " {...messages.monthly} ",
+      "spread": " {...messages.monthly} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.chooseDay} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.chooseDay} />",
+      "all_regex": "\n          <FormattedMessage {...messages.chooseDay} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.chooseDay} />",
+      "main_clean": "<FormattedMessage {...messages.chooseDay} />",
+      "main_regex": "<FormattedMessage {...messages.chooseDay} />",
+      "props": " {...messages.chooseDay} ",
+      "spread": " {...messages.chooseDay} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

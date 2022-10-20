@@ -1,0 +1,34 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/PertanyaanInfoModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/PertanyaanInfoModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/Registration.i18n.js",
+      "replace": "import messages from '../../../pages/Registration/Registration.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.pertanyaanInfo} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.pertanyaanInfo} />",
+      "all_regex": "\n        <FormattedMessage {...messages.pertanyaanInfo} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.pertanyaanInfo} />",
+      "main_clean": "<FormattedMessage {...messages.pertanyaanInfo} />",
+      "main_regex": "<FormattedMessage {...messages.pertanyaanInfo} />",
+      "props": " {...messages.pertanyaanInfo} ",
+      "spread": " {...messages.pertanyaanInfo} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

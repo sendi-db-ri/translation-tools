@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RDVModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RDVModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.empty} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.empty} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.empty} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "main_clean": "<FormattedMessage {...messages.empty} />",
+      "main_regex": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.confirm} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.confirm} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.confirm} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "main_clean": "<FormattedMessage {...messages.confirm} />",
+      "main_regex": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

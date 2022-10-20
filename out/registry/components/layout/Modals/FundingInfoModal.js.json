@@ -1,0 +1,91 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundingInfoModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundingInfoModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/Modal.i18n.js",
+      "replace": "import messages from './Modal.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.roundUps} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.roundUps} />",
+      "all_regex": "\n        <FormattedMessage {...messages.roundUps} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.roundUps} />",
+      "main_clean": "<FormattedMessage {...messages.roundUps} />",
+      "main_regex": "<FormattedMessage {...messages.roundUps} />",
+      "props": " {...messages.roundUps} ",
+      "spread": " {...messages.roundUps} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.whatAreRound} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.whatAreRound} />",
+      "all_regex": "\n        <FormattedMessage {...messages.whatAreRound} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.whatAreRound} />",
+      "main_clean": "<FormattedMessage {...messages.whatAreRound} />",
+      "main_regex": "<FormattedMessage {...messages.whatAreRound} />",
+      "props": " {...messages.whatAreRound} ",
+      "spread": " {...messages.whatAreRound} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkFundingSpending} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.linkFundingSpending} />",
+      "all_regex": "\n          <FormattedMessage {...messages.linkFundingSpending} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkFundingSpending} />",
+      "main_clean": "<FormattedMessage {...messages.linkFundingSpending} />",
+      "main_regex": "<FormattedMessage {...messages.linkFundingSpending} />",
+      "props": " {...messages.linkFundingSpending} ",
+      "spread": " {...messages.linkFundingSpending} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkDebitCard} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.linkDebitCard} />",
+      "all_regex": "\n          <FormattedMessage {...messages.linkDebitCard} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkDebitCard} />",
+      "main_clean": "<FormattedMessage {...messages.linkDebitCard} />",
+      "main_regex": "<FormattedMessage {...messages.linkDebitCard} />",
+      "props": " {...messages.linkDebitCard} ",
+      "spread": " {...messages.linkDebitCard} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkFunding} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "all_regex": "\n          <FormattedMessage {...messages.linkFunding} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "main_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "main_regex": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedHTMLMessage {...messages.whatAreRoundInfo} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedHTMLMessage {...messages.whatAreRoundInfo} />",
+      "props": " {...messages.whatAreRoundInfo} ",
+      "spread": " {...messages.whatAreRoundInfo} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

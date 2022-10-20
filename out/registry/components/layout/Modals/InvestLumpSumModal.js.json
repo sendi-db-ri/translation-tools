@@ -1,0 +1,58 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/InvestLumpSumModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/InvestLumpSumModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/Super.i18n.js",
+      "replace": "import messages from '../../../pages/Super/Super.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.invest} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.invest} />",
+      "all_regex": "\n              <FormattedMessage {...messages.invest} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "main_clean": "<FormattedMessage {...messages.invest} />",
+      "main_regex": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.minimumOf} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.minimumOf} />",
+      "all_regex": "\n              <FormattedMessage {...messages.minimumOf} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.minimumOf} />",
+      "main_clean": "<FormattedMessage {...messages.minimumOf} />",
+      "main_regex": "<FormattedMessage {...messages.minimumOf} />",
+      "props": " {...messages.minimumOf} ",
+      "spread": " {...messages.minimumOf} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.investBtn} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.investBtn} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.investBtn} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.investBtn} />",
+      "main_clean": "<FormattedMessage {...messages.investBtn} />",
+      "main_regex": "<FormattedMessage {...messages.investBtn} />",
+      "props": " {...messages.investBtn} ",
+      "spread": " {...messages.investBtn} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

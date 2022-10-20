@@ -1,0 +1,52 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/SMSFAccount.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/SMSFAccount.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.superFundInformation} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.superFundInformation} />",
+      "all_regex": "\n          <FormattedMessage {...messages.superFundInformation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.superFundInformation} />",
+      "main_clean": "<FormattedMessage {...messages.superFundInformation} />",
+      "main_regex": "<FormattedMessage {...messages.superFundInformation} />",
+      "props": " {...messages.superFundInformation} ",
+      "spread": " {...messages.superFundInformation} "
+    },
+    {
+      "after": "",
+      "all": "\n        contentFillTitle = <FormattedMessage {...messages.memberDirector} />",
+      "all_clean": "contentFillTitle = <FormattedMessage {...messages.memberDirector} />",
+      "all_regex": "\n        contentFillTitle = <FormattedMessage {...messages.memberDirector} />",
+      "before": "\n        contentFillTitle = ",
+      "main": "<FormattedMessage {...messages.memberDirector} />",
+      "main_clean": "<FormattedMessage {...messages.memberDirector} />",
+      "main_regex": "<FormattedMessage {...messages.memberDirector} />",
+      "props": " {...messages.memberDirector} ",
+      "spread": " {...messages.memberDirector} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.stepTwoBottomText} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "all_regex": "\n                <FormattedMessage {...messages.stepTwoBottomText} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "main_clean": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "main_regex": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "props": " {...messages.stepTwoBottomText} ",
+      "spread": " {...messages.stepTwoBottomText} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

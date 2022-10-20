@@ -1,0 +1,44 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/EmailSentModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/EmailSentModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKids/RaizKids.i18n.js",
+      "replace": "import messages from '../../../pages/RaizKids/RaizKids.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.ok} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.ok} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedHTMLMessage\n          {...messages.accountSetUp}\n          values={{\n            name: userName,\n          }}\n        />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedHTMLMessage\n          {...messages.accountSetUp}\n          values={{\n            name: userName,\n          }}\n        />",
+      "props": "\n          {...messages.accountSetUp}\n          values={{\n            name: userName,\n          }}\n        ",
+      "spread": "\n          {...messages.accountSetUp}\n          ",
+      "values": "values={{\n            name: userName,\n          }}\n        "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

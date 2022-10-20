@@ -1,0 +1,52 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/PotentialFreeCash/PotentialFreeCashView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/PotentialFreeCash/PotentialFreeCashView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialSpareDays} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.potentialSpareDays} />",
+      "all_regex": "\n          <FormattedMessage {...messages.potentialSpareDays} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialSpareDays} />",
+      "main_clean": "<FormattedMessage {...messages.potentialSpareDays} />",
+      "main_regex": "<FormattedMessage {...messages.potentialSpareDays} />",
+      "props": " {...messages.potentialSpareDays} ",
+      "spread": " {...messages.potentialSpareDays} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.assumedTransactions} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.assumedTransactions} />",
+      "all_regex": "\n          <FormattedMessage {...messages.assumedTransactions} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.assumedTransactions} />",
+      "main_clean": "<FormattedMessage {...messages.assumedTransactions} />",
+      "main_regex": "<FormattedMessage {...messages.assumedTransactions} />",
+      "props": " {...messages.assumedTransactions} ",
+      "spread": " {...messages.assumedTransactions} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialSpare} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.potentialSpare} />",
+      "all_regex": "\n          <FormattedMessage {...messages.potentialSpare} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialSpare} />",
+      "main_clean": "<FormattedMessage {...messages.potentialSpare} />",
+      "main_regex": "<FormattedMessage {...messages.potentialSpare} />",
+      "props": " {...messages.potentialSpare} ",
+      "spread": " {...messages.potentialSpare} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

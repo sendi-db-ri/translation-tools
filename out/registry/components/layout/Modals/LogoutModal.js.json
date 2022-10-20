@@ -1,0 +1,70 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/LogoutModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/LogoutModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/Modal.i18n.js",
+      "replace": "import messages from './Modal.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.logout} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.logout} />",
+      "all_regex": "\n          <FormattedMessage {...messages.logout} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.logout} />",
+      "main_clean": "<FormattedMessage {...messages.logout} />",
+      "main_regex": "<FormattedMessage {...messages.logout} />",
+      "props": " {...messages.logout} ",
+      "spread": " {...messages.logout} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.areYouSureLogout} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.areYouSureLogout} />",
+      "all_regex": "\n          <FormattedMessage {...messages.areYouSureLogout} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.areYouSureLogout} />",
+      "main_clean": "<FormattedMessage {...messages.areYouSureLogout} />",
+      "main_regex": "<FormattedMessage {...messages.areYouSureLogout} />",
+      "props": " {...messages.areYouSureLogout} ",
+      "spread": " {...messages.areYouSureLogout} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.logout} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.logout} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.logout} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.logout} />",
+      "main_clean": "<FormattedMessage {...messages.logout} />",
+      "main_regex": "<FormattedMessage {...messages.logout} />",
+      "props": " {...messages.logout} ",
+      "spread": " {...messages.logout} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

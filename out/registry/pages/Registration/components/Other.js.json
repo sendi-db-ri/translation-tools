@@ -1,0 +1,76 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Other.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Other.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n              ",
+      "all": "\n                label={<FormattedMessage {...messages.inviteCode} />}\n              ",
+      "all_clean": "label={<FormattedMessage {...messages.inviteCode} />}",
+      "all_regex": "\n                label={<FormattedMessage {...messages.inviteCode} />}\n              ",
+      "before": "\n                label={",
+      "main": "<FormattedMessage {...messages.inviteCode} />",
+      "main_clean": "<FormattedMessage {...messages.inviteCode} />",
+      "main_regex": "<FormattedMessage {...messages.inviteCode} />",
+      "props": " {...messages.inviteCode} ",
+      "spread": " {...messages.inviteCode} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n                label={<FormattedMessage {...messages.inviteCode} />}\n              ",
+      "all_clean": "label={<FormattedMessage {...messages.inviteCode} />}",
+      "all_regex": "\n                label={<FormattedMessage {...messages.inviteCode} />}\n              ",
+      "before": "\n                label={",
+      "main": "<FormattedMessage {...messages.inviteCode} />",
+      "main_clean": "<FormattedMessage {...messages.inviteCode} />",
+      "main_regex": "<FormattedMessage {...messages.inviteCode} />",
+      "props": " {...messages.inviteCode} ",
+      "spread": " {...messages.inviteCode} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n              errorMessage={<FormattedMessage {...messages.netWorthInfo} />}\n            ",
+      "all_clean": "errorMessage={<FormattedMessage {...messages.netWorthInfo} />}",
+      "all_regex": "\n              errorMessage={<FormattedMessage {...messages.netWorthInfo} />}\n            ",
+      "before": "\n              errorMessage={",
+      "main": "<FormattedMessage {...messages.netWorthInfo} />",
+      "main_clean": "<FormattedMessage {...messages.netWorthInfo} />",
+      "main_regex": "<FormattedMessage {...messages.netWorthInfo} />",
+      "props": " {...messages.netWorthInfo} ",
+      "spread": " {...messages.netWorthInfo} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

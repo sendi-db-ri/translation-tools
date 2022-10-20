@@ -1,0 +1,169 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/CloseAccountModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/CloseAccountModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.requestCloseAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.requestCloseAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.requestCloseAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.requestCloseAccount} />",
+      "main_clean": "<FormattedMessage {...messages.requestCloseAccount} />",
+      "main_regex": "<FormattedMessage {...messages.requestCloseAccount} />",
+      "props": " {...messages.requestCloseAccount} ",
+      "spread": " {...messages.requestCloseAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.sorryToSee} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.sorryToSee} />",
+      "all_regex": "\n                <FormattedMessage {...messages.sorryToSee} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.sorryToSee} />",
+      "main_clean": "<FormattedMessage {...messages.sorryToSee} />",
+      "main_regex": "<FormattedMessage {...messages.sorryToSee} />",
+      "props": " {...messages.sorryToSee} ",
+      "spread": " {...messages.sorryToSee} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.accountValue} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.accountValue} />",
+      "all_regex": "\n                <FormattedMessage {...messages.accountValue} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "main_clean": "<FormattedMessage {...messages.accountValue} />",
+      "main_regex": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.name} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.name} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.name} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.name} />",
+      "main_clean": "<FormattedMessage {...messages.name} />",
+      "main_regex": "<FormattedMessage {...messages.name} />",
+      "props": " {...messages.name} ",
+      "spread": " {...messages.name} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.emailLabel} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.emailLabel} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.emailLabel} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.emailLabel} />",
+      "main_clean": "<FormattedMessage {...messages.emailLabel} />",
+      "main_regex": "<FormattedMessage {...messages.emailLabel} />",
+      "props": " {...messages.emailLabel} ",
+      "spread": " {...messages.emailLabel} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.closeMyAccount} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.closeMyAccount} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.closeMyAccount} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.closeMyAccount} />",
+      "main_clean": "<FormattedMessage {...messages.closeMyAccount} />",
+      "main_regex": "<FormattedMessage {...messages.closeMyAccount} />",
+      "props": " {...messages.closeMyAccount} ",
+      "spread": " {...messages.closeMyAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.mayChange} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.mayChange} />",
+      "all_regex": "\n                <FormattedMessage {...messages.mayChange} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.mayChange} />",
+      "main_clean": "<FormattedMessage {...messages.mayChange} />",
+      "main_regex": "<FormattedMessage {...messages.mayChange} />",
+      "props": " {...messages.mayChange} ",
+      "spread": " {...messages.mayChange} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.sorryYouGo} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.sorryYouGo} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.sorryYouGo} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.sorryYouGo} />",
+      "main_clean": "<FormattedMessage {...messages.sorryYouGo} />",
+      "main_regex": "<FormattedMessage {...messages.sorryYouGo} />",
+      "props": " {...messages.sorryYouGo} ",
+      "spread": " {...messages.sorryYouGo} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.logOut} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.logOut} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.logOut} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.logOut} />",
+      "main_clean": "<FormattedMessage {...messages.logOut} />",
+      "main_regex": "<FormattedMessage {...messages.logOut} />",
+      "props": " {...messages.logOut} ",
+      "spread": " {...messages.logOut} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.closureRequest} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.closureRequest} />",
+      "all_regex": "\n              <FormattedMessage {...messages.closureRequest} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.closureRequest} />",
+      "main_clean": "<FormattedMessage {...messages.closureRequest} />",
+      "main_regex": "<FormattedMessage {...messages.closureRequest} />",
+      "props": " {...messages.closureRequest} ",
+      "spread": " {...messages.closureRequest} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.ok} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.ok} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.ok} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.ok} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.ok} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.requestToClose} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.requestToClose} />",
+      "props": " {...messages.requestToClose} ",
+      "spread": " {...messages.requestToClose} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage, injectIntl } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage, injectIntl "
+    }
+  ]
+}

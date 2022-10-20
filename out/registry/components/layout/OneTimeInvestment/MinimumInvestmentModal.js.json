@@ -1,0 +1,91 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/OneTimeInvestment/MinimumInvestmentModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/OneTimeInvestment/MinimumInvestmentModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />\n            ",
+      "all_clean": "<FormattedMessage {...messages.oneTimeInvestMinimum} values={{ minimum: <NumberField value={MIN_INVEST} />, }} />",
+      "all_regex": "\n              <FormattedMessage\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.oneTimeInvestMinimum} values={{ minimum: <NumberField value={MIN_INVEST} />, }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />",
+      "props": "\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              ",
+      "spread": "\n                {...messages.oneTimeInvestMinimum}\n                ",
+      "values": "values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.oneTimeInvestError} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.oneTimeInvestError} />",
+      "all_regex": "\n              <FormattedMessage {...messages.oneTimeInvestError} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.oneTimeInvestError} />",
+      "main_clean": "<FormattedMessage {...messages.oneTimeInvestError} />",
+      "main_regex": "<FormattedMessage {...messages.oneTimeInvestError} />",
+      "props": " {...messages.oneTimeInvestError} ",
+      "spread": " {...messages.oneTimeInvestError} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />\n            ",
+      "all_clean": "<FormattedMessage {...messages.oneTimeInvestMinError} values={{ minimum: <NumberField value={MIN_INVEST} />, }} />",
+      "all_regex": "\n              <FormattedMessage\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.oneTimeInvestMinError} values={{ minimum: <NumberField value={MIN_INVEST} />, }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />",
+      "props": "\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              ",
+      "spread": "\n                {...messages.oneTimeInvestMinError}\n                ",
+      "values": "values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                }\n                ",
+      "all": "{\n                  <FormattedMessage\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  />\n                }\n                ",
+      "all_clean": "{ <FormattedMessage {...messages.investBtn} values={{ minimum: <NumberField value={MIN_INVEST} />, }} /> }",
+      "all_regex": "{\n                  <FormattedMessage\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  />\n                }\n                ",
+      "before": "{\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  />",
+      "main_clean": "<FormattedMessage {...messages.investBtn} values={{ minimum: <NumberField value={MIN_INVEST} />, }} />",
+      "main_regex": "<FormattedMessage\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  />",
+      "props": "\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  ",
+      "spread": "\n                    {...messages.investBtn}\n                    ",
+      "values": "values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NotFound/NotFound.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/NotFound/NotFound.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NotFound/NotFound.i18n.js",
+      "replace": "import messages from './NotFound.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.page} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.page} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.page} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.page} />",
+      "main_clean": "<FormattedMessage {...messages.page} />",
+      "main_regex": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

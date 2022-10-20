@@ -1,0 +1,34 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RecurringModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/RecurringModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/RecurringInvestment.i18n.js",
+      "replace": "import messages from '../../../pages/RecurringInvestment/RecurringInvestment.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n  buttonTitle: <FormattedMessage {...messages.ok} />",
+      "all_clean": "buttonTitle: <FormattedMessage {...messages.ok} />",
+      "all_regex": "\n  buttonTitle: <FormattedMessage {...messages.ok} />",
+      "before": "\n  buttonTitle: ",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

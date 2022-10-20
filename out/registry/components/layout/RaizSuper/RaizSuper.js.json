@@ -1,0 +1,70 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/RaizSuper/RaizSuper.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/RaizSuper/RaizSuper.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/RaizSuper/RaizSuper.i18n.js",
+      "replace": "import messages from './RaizSuper.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizSuper} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.raizSuper} />",
+      "all_regex": "\n          <FormattedMessage {...messages.raizSuper} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizSuper} />",
+      "main_clean": "<FormattedMessage {...messages.raizSuper} />",
+      "main_regex": "<FormattedMessage {...messages.raizSuper} />",
+      "props": " {...messages.raizSuper} ",
+      "spread": " {...messages.raizSuper} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.connectedToFuture} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.connectedToFuture} />",
+      "all_regex": "\n              <FormattedMessage {...messages.connectedToFuture} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.connectedToFuture} />",
+      "main_clean": "<FormattedMessage {...messages.connectedToFuture} />",
+      "main_regex": "<FormattedMessage {...messages.connectedToFuture} />",
+      "props": " {...messages.connectedToFuture} ",
+      "spread": " {...messages.connectedToFuture} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.connecteEmployer} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.connecteEmployer} />",
+      "all_regex": "\n              <FormattedMessage {...messages.connecteEmployer} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.connecteEmployer} />",
+      "main_clean": "<FormattedMessage {...messages.connecteEmployer} />",
+      "main_regex": "<FormattedMessage {...messages.connecteEmployer} />",
+      "props": " {...messages.connecteEmployer} ",
+      "spread": " {...messages.connecteEmployer} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n            title={<FormattedMessage {...messages.discover} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.discover} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.discover} />}\n          ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.discover} />",
+      "main_clean": "<FormattedMessage {...messages.discover} />",
+      "main_regex": "<FormattedMessage {...messages.discover} />",
+      "props": " {...messages.discover} ",
+      "spread": " {...messages.discover} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

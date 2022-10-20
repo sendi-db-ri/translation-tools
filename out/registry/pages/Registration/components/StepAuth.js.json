@@ -1,0 +1,303 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/StepAuth.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/StepAuth.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Login/Login.i18n.js",
+      "replace": "import messages from '../../Login/Login.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.createYourRaizAccount} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.createYourRaizAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.createYourRaizAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.createYourRaizAccount} />",
+      "main_clean": "<FormattedMessage {...messages.createYourRaizAccount} />",
+      "main_regex": "<FormattedMessage {...messages.createYourRaizAccount} />",
+      "props": " {...messages.createYourRaizAccount} ",
+      "spread": " {...messages.createYourRaizAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.createYour} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.createYour} />",
+      "all_regex": "\n                <FormattedMessage {...messages.createYour} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.createYour} />",
+      "main_clean": "<FormattedMessage {...messages.createYour} />",
+      "main_regex": "<FormattedMessage {...messages.createYour} />",
+      "props": " {...messages.createYour} ",
+      "spread": " {...messages.createYour} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizAccount} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.raizAccount} />",
+      "all_regex": "\n                <FormattedMessage {...messages.raizAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizAccount} />",
+      "main_clean": "<FormattedMessage {...messages.raizAccount} />",
+      "main_regex": "<FormattedMessage {...messages.raizAccount} />",
+      "props": " {...messages.raizAccount} ",
+      "spread": " {...messages.raizAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.contactUs} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.contactUs} />",
+      "all_regex": "\n              <FormattedMessage {...messages.contactUs} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.contactUs} />",
+      "main_clean": "<FormattedMessage {...messages.contactUs} />",
+      "main_regex": "<FormattedMessage {...messages.contactUs} />",
+      "props": " {...messages.contactUs} ",
+      "spread": " {...messages.contactUs} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.byCreating} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.byCreating} />",
+      "all_regex": "\n              <FormattedMessage {...messages.byCreating} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.byCreating} />",
+      "main_clean": "<FormattedMessage {...messages.byCreating} />",
+      "main_regex": "<FormattedMessage {...messages.byCreating} />",
+      "props": " {...messages.byCreating} ",
+      "spread": " {...messages.byCreating} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.conditions} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.conditions} />",
+      "all_regex": "\n                <FormattedMessage {...messages.conditions} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.conditions} />",
+      "main_clean": "<FormattedMessage {...messages.conditions} />",
+      "main_regex": "<FormattedMessage {...messages.conditions} />",
+      "props": " {...messages.conditions} ",
+      "spread": " {...messages.conditions} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.contactUsTextId} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.contactUsTextId} />",
+      "all_regex": "\n            <FormattedMessage {...messages.contactUsTextId} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.contactUsTextId} />",
+      "main_clean": "<FormattedMessage {...messages.contactUsTextId} />",
+      "main_regex": "<FormattedMessage {...messages.contactUsTextId} />",
+      "props": " {...messages.contactUsTextId} ",
+      "spread": " {...messages.contactUsTextId} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.syarat} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.syarat} />",
+      "all_regex": "\n                <FormattedMessage {...messages.syarat} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.syarat} />",
+      "main_clean": "<FormattedMessage {...messages.syarat} />",
+      "main_regex": "<FormattedMessage {...messages.syarat} />",
+      "props": " {...messages.syarat} ",
+      "spread": " {...messages.syarat} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.dan} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.dan} />",
+      "all_regex": "\n              <FormattedMessage {...messages.dan} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.dan} />",
+      "main_clean": "<FormattedMessage {...messages.dan} />",
+      "main_regex": "<FormattedMessage {...messages.dan} />",
+      "props": " {...messages.dan} ",
+      "spread": " {...messages.dan} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.kebijakan} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.kebijakan} />",
+      "all_regex": "\n                <FormattedMessage {...messages.kebijakan} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.kebijakan} />",
+      "main_clean": "<FormattedMessage {...messages.kebijakan} />",
+      "main_regex": "<FormattedMessage {...messages.kebijakan} />",
+      "props": " {...messages.kebijakan} ",
+      "spread": " {...messages.kebijakan} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.millennial} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.millennial} />",
+      "all_regex": "\n            <FormattedMessage {...messages.millennial} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.millennial} />",
+      "main_clean": "<FormattedMessage {...messages.millennial} />",
+      "main_regex": "<FormattedMessage {...messages.millennial} />",
+      "props": " {...messages.millennial} ",
+      "spread": " {...messages.millennial} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.investAustraliaLimited} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.investAustraliaLimited} />",
+      "all_regex": "\n              <FormattedMessage {...messages.investAustraliaLimited} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.investAustraliaLimited} />",
+      "main_clean": "<FormattedMessage {...messages.investAustraliaLimited} />",
+      "main_regex": "<FormattedMessage {...messages.investAustraliaLimited} />",
+      "props": " {...messages.investAustraliaLimited} ",
+      "spread": " {...messages.investAustraliaLimited} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedHTMLMessage {...messages.tipsOnGrowing} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.tipsOnGrowing} />",
+      "props": " {...messages.tipsOnGrowing} ",
+      "spread": " {...messages.tipsOnGrowing} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedHTMLMessage {...messages.getStarted} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedHTMLMessage {...messages.getStarted} />",
+      "props": " {...messages.getStarted} ",
+      "spread": " {...messages.getStarted} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.readTerms} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.readTerms} />",
+      "props": " {...messages.readTerms} ",
+      "spread": " {...messages.readTerms} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.executing} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.executing} />",
+      "props": " {...messages.executing} ",
+      "spread": " {...messages.executing} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.executingDescription} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.executingDescription} />",
+      "props": " {...messages.executingDescription} ",
+      "spread": " {...messages.executingDescription} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.investSpareChange} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.investSpareChange} />",
+      "props": " {...messages.investSpareChange} ",
+      "spread": " {...messages.investSpareChange} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.investSpareChangeDescription} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.investSpareChangeDescription} />",
+      "props": " {...messages.investSpareChangeDescription} ",
+      "spread": " {...messages.investSpareChangeDescription} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.raizSolution} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.raizSolution} />",
+      "props": " {...messages.raizSolution} ",
+      "spread": " {...messages.raizSolution} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.newInTime} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.newInTime} />",
+      "props": " {...messages.newInTime} ",
+      "spread": " {...messages.newInTime} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.takeaway} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.takeaway} />",
+      "props": " {...messages.takeaway} ",
+      "spread": " {...messages.takeaway} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.savingAndInvesting} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.savingAndInvesting} />",
+      "props": " {...messages.savingAndInvesting} ",
+      "spread": " {...messages.savingAndInvesting} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.raizSolution} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.raizSolution} />",
+      "props": " {...messages.raizSolution} ",
+      "spread": " {...messages.raizSolution} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.firstReason} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.firstReason} />",
+      "props": " {...messages.firstReason} ",
+      "spread": " {...messages.firstReason} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.secondReason} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.secondReason} />",
+      "props": " {...messages.secondReason} ",
+      "spread": " {...messages.secondReason} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.thirdReason} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.thirdReason} />",
+      "props": " {...messages.thirdReason} ",
+      "spread": " {...messages.thirdReason} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.takeaway} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.takeaway} />",
+      "props": " {...messages.takeaway} ",
+      "spread": " {...messages.takeaway} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.savingAndInvesting} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.savingAndInvesting} />",
+      "props": " {...messages.savingAndInvesting} ",
+      "spread": " {...messages.savingAndInvesting} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

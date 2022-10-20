@@ -1,0 +1,28 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/components/EditProfile.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsEdit/components/EditProfile.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.save} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.save} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.save} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.save} />",
+      "main_clean": "<FormattedMessage {...messages.save} />",
+      "main_regex": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

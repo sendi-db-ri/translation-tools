@@ -1,0 +1,172 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/BankCardModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/BankCardModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.empty} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.empty} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "main_clean": "<FormattedMessage {...messages.empty} />",
+      "main_regex": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.linkSpending} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.linkSpending} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.linkSpending} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.linkSpending} />",
+      "main_clean": "<FormattedMessage {...messages.linkSpending} />",
+      "main_regex": "<FormattedMessage {...messages.linkSpending} />",
+      "props": " {...messages.linkSpending} ",
+      "spread": " {...messages.linkSpending} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.linkFunding} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.linkFunding} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "main_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "main_regex": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                  {!MY_APP && <FormattedMessage {...messages.bankSignIn} />}\n                ",
+      "all_clean": "{!MY_APP && <FormattedMessage {...messages.bankSignIn} />}",
+      "all_regex": "\n                  {!MY_APP && <FormattedMessage {...messages.bankSignIn} />}\n                ",
+      "before": "\n                  {!MY_APP && ",
+      "main": "<FormattedMessage {...messages.bankSignIn} />",
+      "main_clean": "<FormattedMessage {...messages.bankSignIn} />",
+      "main_regex": "<FormattedMessage {...messages.bankSignIn} />",
+      "props": " {...messages.bankSignIn} ",
+      "spread": " {...messages.bankSignIn} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.secured} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "main_clean": "<FormattedMessage {...messages.secured} />",
+      "main_regex": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.cardNumber} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.cardNumber} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.cardNumber} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.cardNumber} />",
+      "main_clean": "<FormattedMessage {...messages.cardNumber} />",
+      "main_regex": "<FormattedMessage {...messages.cardNumber} />",
+      "props": " {...messages.cardNumber} ",
+      "spread": " {...messages.cardNumber} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.month} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.month} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.month} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.month} />",
+      "main_clean": "<FormattedMessage {...messages.month} />",
+      "main_regex": "<FormattedMessage {...messages.month} />",
+      "props": " {...messages.month} ",
+      "spread": " {...messages.month} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.year} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.year} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.year} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.year} />",
+      "main_clean": "<FormattedMessage {...messages.year} />",
+      "main_regex": "<FormattedMessage {...messages.year} />",
+      "props": " {...messages.year} ",
+      "spread": " {...messages.year} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.cvv} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.cvv} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.cvv} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.cvv} />",
+      "main_clean": "<FormattedMessage {...messages.cvv} />",
+      "main_regex": "<FormattedMessage {...messages.cvv} />",
+      "props": " {...messages.cvv} ",
+      "spread": " {...messages.cvv} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        label={<FormattedMessage {...messages.cardHolder} />}\n                      ",
+      "all_clean": "label={<FormattedMessage {...messages.cardHolder} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.cardHolder} />}\n                      ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.cardHolder} />",
+      "main_clean": "<FormattedMessage {...messages.cardHolder} />",
+      "main_regex": "<FormattedMessage {...messages.cardHolder} />",
+      "props": " {...messages.cardHolder} ",
+      "spread": " {...messages.cardHolder} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.noteCard} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.noteCard} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.noteCard} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.noteCard} />",
+      "main_clean": "<FormattedMessage {...messages.noteCard} />",
+      "main_regex": "<FormattedMessage {...messages.noteCard} />",
+      "props": " {...messages.noteCard} ",
+      "spread": " {...messages.noteCard} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.partner} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.partner} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.partner} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.partner} />",
+      "main_clean": "<FormattedMessage {...messages.partner} />",
+      "main_regex": "<FormattedMessage {...messages.partner} />",
+      "props": " {...messages.partner} ",
+      "spread": " {...messages.partner} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.signIn} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.signIn} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.signIn} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.signIn} />",
+      "main_clean": "<FormattedMessage {...messages.signIn} />",
+      "main_regex": "<FormattedMessage {...messages.signIn} />",
+      "props": " {...messages.signIn} ",
+      "spread": " {...messages.signIn} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/TransactionCategorisation/TransactionCategorisationView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/TransactionCategorisation/TransactionCategorisationView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/TransactionCategorisation/TransactionCategorisation.i18n.js",
+      "replace": "import messages from './TransactionCategorisation.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.transactionCategorisation} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "all_regex": "\n          <FormattedMessage {...messages.transactionCategorisation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "main_clean": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "main_regex": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "props": " {...messages.transactionCategorisation} ",
+      "spread": " {...messages.transactionCategorisation} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.all} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.all} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.all} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.all} />",
+      "main_clean": "<FormattedMessage {...messages.all} />",
+      "main_regex": "<FormattedMessage {...messages.all} />",
+      "props": " {...messages.all} ",
+      "spread": " {...messages.all} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.uncategorised} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.uncategorised} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.uncategorised} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.uncategorised} />",
+      "main_clean": "<FormattedMessage {...messages.uncategorised} />",
+      "main_regex": "<FormattedMessage {...messages.uncategorised} />",
+      "props": " {...messages.uncategorised} ",
+      "spread": " {...messages.uncategorised} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.byAmount} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.byAmount} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.byAmount} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.byAmount} />",
+      "main_clean": "<FormattedMessage {...messages.byAmount} />",
+      "main_regex": "<FormattedMessage {...messages.byAmount} />",
+      "props": " {...messages.byAmount} ",
+      "spread": " {...messages.byAmount} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.byDate} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.byDate} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.byDate} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.byDate} />",
+      "main_clean": "<FormattedMessage {...messages.byDate} />",
+      "main_regex": "<FormattedMessage {...messages.byDate} />",
+      "props": " {...messages.byDate} ",
+      "spread": " {...messages.byDate} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialSpare} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.potentialSpare} />",
+      "all_regex": "\n          <FormattedMessage {...messages.potentialSpare} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialSpare} />",
+      "main_clean": "<FormattedMessage {...messages.potentialSpare} />",
+      "main_regex": "<FormattedMessage {...messages.potentialSpare} />",
+      "props": " {...messages.potentialSpare} ",
+      "spread": " {...messages.potentialSpare} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, injectIntl } from 'react-intl';",
+      "named": "FormattedMessage, injectIntl "
+    }
+  ]
+}

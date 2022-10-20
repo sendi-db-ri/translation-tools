@@ -1,0 +1,50 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/FailedPage/FailedPage.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/FailedPage/FailedPage.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/FailedPage/FailedPage.i18n.js",
+      "replace": "import messages from './FailedPage.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.oops} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.oops} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.oops} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.oops} />",
+      "main_clean": "<FormattedMessage {...messages.oops} />",
+      "main_regex": "<FormattedMessage {...messages.oops} />",
+      "props": " {...messages.oops} ",
+      "spread": " {...messages.oops} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.goHome} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.goHome} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.goHome} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.goHome} />",
+      "main_clean": "<FormattedMessage {...messages.goHome} />",
+      "main_regex": "<FormattedMessage {...messages.goHome} />",
+      "props": " {...messages.goHome} ",
+      "spread": " {...messages.goHome} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.somethingWrong} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.somethingWrong} />",
+      "props": " {...messages.somethingWrong} ",
+      "spread": " {...messages.somethingWrong} "
+    }
+  ],
+  "reactIntlUsage": []
+}

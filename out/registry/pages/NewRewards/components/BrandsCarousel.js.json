@@ -1,0 +1,71 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/BrandsCarousel.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/BrandsCarousel.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/Rewards.i18n.js",
+      "replace": "import messages from '../Rewards.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.featured} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.featured} />",
+      "all_regex": "\n            <FormattedMessage {...messages.featured} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.featured} />",
+      "main_clean": "<FormattedMessage {...messages.featured} />",
+      "main_regex": "<FormattedMessage {...messages.featured} />",
+      "props": " {...messages.featured} ",
+      "spread": " {...messages.featured} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  />\n                ",
+      "all_clean": "<FormattedMessage {...messages.investedPercent} values={{ amount: brand.invested_value }} />",
+      "all_regex": "\n                  <FormattedMessage\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  />",
+      "main_clean": "<FormattedMessage {...messages.investedPercent} values={{ amount: brand.invested_value }} />",
+      "main_regex": "<FormattedMessage\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  />",
+      "props": "\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  ",
+      "spread": "\n                    {...messages.investedPercent}\n                    ",
+      "values": "values={{ amount: brand.invested_value }}\n                  "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.recommended} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.recommended} />",
+      "all_regex": "\n              <FormattedMessage {...messages.recommended} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.recommended} />",
+      "main_clean": "<FormattedMessage {...messages.recommended} />",
+      "main_regex": "<FormattedMessage {...messages.recommended} />",
+      "props": " {...messages.recommended} ",
+      "spread": " {...messages.recommended} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.featured} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.featured} />",
+      "all_regex": "\n              <FormattedMessage {...messages.featured} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.featured} />",
+      "main_clean": "<FormattedMessage {...messages.featured} />",
+      "main_regex": "<FormattedMessage {...messages.featured} />",
+      "props": " {...messages.featured} ",
+      "spread": " {...messages.featured} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

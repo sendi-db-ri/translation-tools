@@ -1,0 +1,232 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/FeePayment/FeePaymentView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/FeePayment/FeePaymentView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.lembarTagihan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.lembarTagihan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.lembarTagihan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.lembarTagihan} />",
+      "main_clean": "<FormattedMessage {...messages.lembarTagihan} />",
+      "main_regex": "<FormattedMessage {...messages.lembarTagihan} />",
+      "props": " {...messages.lembarTagihan} ",
+      "spread": " {...messages.lembarTagihan} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.lembar} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.lembar} />",
+      "all_regex": "\n              <FormattedMessage {...messages.lembar} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.lembar} />",
+      "main_clean": "<FormattedMessage {...messages.lembar} />",
+      "main_regex": "<FormattedMessage {...messages.lembar} />",
+      "props": " {...messages.lembar} ",
+      "spread": " {...messages.lembar} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.paket} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.paket} />",
+      "all_regex": "\n              <FormattedMessage {...messages.paket} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.paket} />",
+      "main_clean": "<FormattedMessage {...messages.paket} />",
+      "main_regex": "<FormattedMessage {...messages.paket} />",
+      "props": " {...messages.paket} ",
+      "spread": " {...messages.paket} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pilihan} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.pilihan} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.pilihan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pilihan} />",
+      "main_clean": "<FormattedMessage {...messages.pilihan} />",
+      "main_regex": "<FormattedMessage {...messages.pilihan} />",
+      "props": " {...messages.pilihan} ",
+      "spread": " {...messages.pilihan} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.rincian} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.rincian} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.rincian} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.rincian} />",
+      "main_clean": "<FormattedMessage {...messages.rincian} />",
+      "main_regex": "<FormattedMessage {...messages.rincian} />",
+      "props": " {...messages.rincian} ",
+      "spread": " {...messages.rincian} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.periodeButan} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.periodeButan} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.periodeButan} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.periodeButan} />",
+      "main_clean": "<FormattedMessage {...messages.periodeButan} />",
+      "main_regex": "<FormattedMessage {...messages.periodeButan} />",
+      "props": " {...messages.periodeButan} ",
+      "spread": " {...messages.periodeButan} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.tanggalPembayaran} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.tanggalPembayaran} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.tanggalPembayaran} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.tanggalPembayaran} />",
+      "main_clean": "<FormattedMessage {...messages.tanggalPembayaran} />",
+      "main_regex": "<FormattedMessage {...messages.tanggalPembayaran} />",
+      "props": " {...messages.tanggalPembayaran} ",
+      "spread": " {...messages.tanggalPembayaran} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.metodePembayaram} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.metodePembayaram} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.metodePembayaram} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.metodePembayaram} />",
+      "main_clean": "<FormattedMessage {...messages.metodePembayaram} />",
+      "main_regex": "<FormattedMessage {...messages.metodePembayaram} />",
+      "props": " {...messages.metodePembayaram} ",
+      "spread": " {...messages.metodePembayaram} "
+    },
+    {
+      "after": "}\n                            ",
+      "all": "\n                              label={<FormattedMessage {...messages.CIMB} />}\n                            ",
+      "all_clean": "label={<FormattedMessage {...messages.CIMB} />}",
+      "all_regex": "\n                              label={<FormattedMessage {...messages.CIMB} />}\n                            ",
+      "before": "\n                              label={",
+      "main": "<FormattedMessage {...messages.CIMB} />",
+      "main_clean": "<FormattedMessage {...messages.CIMB} />",
+      "main_regex": "<FormattedMessage {...messages.CIMB} />",
+      "props": " {...messages.CIMB} ",
+      "spread": " {...messages.CIMB} "
+    },
+    {
+      "after": "}\n                            ",
+      "all": "\n                              label={<FormattedMessage {...messages.linkAja} />}\n                            ",
+      "all_clean": "label={<FormattedMessage {...messages.linkAja} />}",
+      "all_regex": "\n                              label={<FormattedMessage {...messages.linkAja} />}\n                            ",
+      "before": "\n                              label={",
+      "main": "<FormattedMessage {...messages.linkAja} />",
+      "main_clean": "<FormattedMessage {...messages.linkAja} />",
+      "main_regex": "<FormattedMessage {...messages.linkAja} />",
+      "props": " {...messages.linkAja} ",
+      "spread": " {...messages.linkAja} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage {...messages.danaText} />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.danaText} />",
+      "all_regex": "\n                                <FormattedMessage {...messages.danaText} />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage {...messages.danaText} />",
+      "main_clean": "<FormattedMessage {...messages.danaText} />",
+      "main_regex": "<FormattedMessage {...messages.danaText} />",
+      "props": " {...messages.danaText} ",
+      "spread": " {...messages.danaText} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage {...messages.DANA} />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.DANA} />",
+      "all_regex": "\n                                <FormattedMessage {...messages.DANA} />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage {...messages.DANA} />",
+      "main_clean": "<FormattedMessage {...messages.DANA} />",
+      "main_regex": "<FormattedMessage {...messages.DANA} />",
+      "props": " {...messages.DANA} ",
+      "spread": " {...messages.DANA} "
+    },
+    {
+      "after": "\n                                }\n                                ",
+      "all": "{\n                                  <FormattedMessage {...messages.aktifkan} />\n                                }\n                                ",
+      "all_clean": "{ <FormattedMessage {...messages.aktifkan} /> }",
+      "all_regex": "{\n                                  <FormattedMessage {...messages.aktifkan} />\n                                }\n                                ",
+      "before": "{\n                                  ",
+      "main": "<FormattedMessage {...messages.aktifkan} />",
+      "main_clean": "<FormattedMessage {...messages.aktifkan} />",
+      "main_regex": "<FormattedMessage {...messages.aktifkan} />",
+      "props": " {...messages.aktifkan} ",
+      "spread": " {...messages.aktifkan} "
+    },
+    {
+      "after": "\n                                  }\n                                ",
+      "all": "{\n                                    <FormattedMessage {...messages.DANA} />\n                                  }\n                                ",
+      "all_clean": "{ <FormattedMessage {...messages.DANA} /> }",
+      "all_regex": "{\n                                    <FormattedMessage {...messages.DANA} />\n                                  }\n                                ",
+      "before": "{\n                                    ",
+      "main": "<FormattedMessage {...messages.DANA} />",
+      "main_clean": "<FormattedMessage {...messages.DANA} />",
+      "main_regex": "<FormattedMessage {...messages.DANA} />",
+      "props": " {...messages.DANA} ",
+      "spread": " {...messages.DANA} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.promo} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.promo} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.promo} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.promo} />",
+      "main_clean": "<FormattedMessage {...messages.promo} />",
+      "main_regex": "<FormattedMessage {...messages.promo} />",
+      "props": " {...messages.promo} ",
+      "spread": " {...messages.promo} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                        title={<FormattedMessage {...messages.proses} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.proses} />}",
+      "all_regex": "\n                        title={<FormattedMessage {...messages.proses} />}\n                      ",
+      "before": "\n                        title={",
+      "main": "<FormattedMessage {...messages.proses} />",
+      "main_clean": "<FormattedMessage {...messages.proses} />",
+      "main_regex": "<FormattedMessage {...messages.proses} />",
+      "props": " {...messages.proses} ",
+      "spread": " {...messages.proses} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pilihan} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.pilihan} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.pilihan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pilihan} />",
+      "main_clean": "<FormattedMessage {...messages.pilihan} />",
+      "main_regex": "<FormattedMessage {...messages.pilihan} />",
+      "props": " {...messages.pilihan} ",
+      "spread": " {...messages.pilihan} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.ok} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.ok} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

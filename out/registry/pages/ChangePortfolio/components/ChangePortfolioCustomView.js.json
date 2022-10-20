@@ -1,0 +1,148 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/ChangePortfolio/components/ChangePortfolioCustomView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/ChangePortfolio/components/ChangePortfolioCustomView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.class} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.class} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.class} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.class} />",
+      "main_clean": "<FormattedMessage {...messages.class} />",
+      "main_regex": "<FormattedMessage {...messages.class} />",
+      "props": " {...messages.class} ",
+      "spread": " {...messages.class} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.risk} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.risk} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.risk} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.risk} />",
+      "main_clean": "<FormattedMessage {...messages.risk} />",
+      "main_regex": "<FormattedMessage {...messages.risk} />",
+      "props": " {...messages.risk} ",
+      "spread": " {...messages.risk} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                      <FormattedMessage {...messages.min} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.min} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.min} />\n                      ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.min} />",
+      "main_clean": "<FormattedMessage {...messages.min} />",
+      "main_regex": "<FormattedMessage {...messages.min} />",
+      "props": " {...messages.min} ",
+      "spread": " {...messages.min} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.max} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.max} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.max} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.max} />",
+      "main_clean": "<FormattedMessage {...messages.max} />",
+      "main_regex": "<FormattedMessage {...messages.max} />",
+      "props": " {...messages.max} ",
+      "spread": " {...messages.max} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.riskScale} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.riskScale} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.riskScale} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.riskScale} />",
+      "main_clean": "<FormattedMessage {...messages.riskScale} />",
+      "main_regex": "<FormattedMessage {...messages.riskScale} />",
+      "props": " {...messages.riskScale} ",
+      "spread": " {...messages.riskScale} "
+    },
+    {
+      "after": "",
+      "all": "{{\n                    0: <FormattedMessage {...messages.low} />",
+      "all_clean": "{{ 0: <FormattedMessage {...messages.low} />",
+      "all_regex": "{{\n                    0: <FormattedMessage {...messages.low} />",
+      "before": "{{\n                    0: ",
+      "main": "<FormattedMessage {...messages.low} />",
+      "main_clean": "<FormattedMessage {...messages.low} />",
+      "main_regex": "<FormattedMessage {...messages.low} />",
+      "props": " {...messages.low} ",
+      "spread": " {...messages.low} "
+    },
+    {
+      "after": "",
+      "all": "\n                    100: <FormattedMessage {...messages.high} />",
+      "all_clean": "100: <FormattedMessage {...messages.high} />",
+      "all_regex": "\n                    100: <FormattedMessage {...messages.high} />",
+      "before": "\n                    100: ",
+      "main": "<FormattedMessage {...messages.high} />",
+      "main_clean": "<FormattedMessage {...messages.high} />",
+      "main_regex": "<FormattedMessage {...messages.high} />",
+      "props": " {...messages.high} ",
+      "spread": " {...messages.high} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.beforeYou} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.beforeYou} />",
+      "all_regex": "\n              <FormattedMessage {...messages.beforeYou} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.beforeYou} />",
+      "main_clean": "<FormattedMessage {...messages.beforeYou} />",
+      "main_regex": "<FormattedMessage {...messages.beforeYou} />",
+      "props": " {...messages.beforeYou} ",
+      "spread": " {...messages.beforeYou} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "\n                        label={<FormattedMessage {...messages.dontShow} />}\n                        ",
+      "all_clean": "label={<FormattedMessage {...messages.dontShow} />}",
+      "all_regex": "\n                        label={<FormattedMessage {...messages.dontShow} />}\n                        ",
+      "before": "\n                        label={",
+      "main": "<FormattedMessage {...messages.dontShow} />",
+      "main_clean": "<FormattedMessage {...messages.dontShow} />",
+      "main_regex": "<FormattedMessage {...messages.dontShow} />",
+      "props": " {...messages.dontShow} ",
+      "spread": " {...messages.dontShow} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

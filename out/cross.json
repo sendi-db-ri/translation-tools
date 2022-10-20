@@ -1,0 +1,870 @@
+{
+  "crossImport": {
+    "pages/NewRewards/components/CategoriesView": [
+      "components/elements/Grid/Grid"
+    ],
+    "pages/NewRewards/components/OnlineOfferItem": [
+      "components/elements/Grid/Grid"
+    ],
+    "pages/Rewards/components/OfferItem": [
+      "components/elements/Grid/Grid"
+    ],
+    "components/layout/Alerts/FundingAlertsModal/components/FundingAlertsModalItem": [
+      "components/layout/Alerts/Alerts",
+      "components/layout/Alerts/FundingAlertsModal/FundingAlertsModal"
+    ],
+    "components/layout/Alerts/MissingDocumentUploaderContent/components/PDFDocumentUploaderPreview": [
+      "components/layout/Alerts/MissingDocumentUploaderContent/MissingDocumentUploader"
+    ],
+    "components/layout/Alerts/MissingDocumentUploaderContent/components/PDFDocumentUploaderContent": [
+      "components/layout/Alerts/MissingDocumentUploaderContent/MissingDocumentUploader"
+    ],
+    "pages/Registration/components/UploadId/components/UploadIdContent/UploadIdContent": [
+      "components/layout/Alerts/UploaderDocumentsModal/UploaderDocumentsModal"
+    ],
+    "components/layout/Alerts/UploaderDocumentsModal/components/UploadDocumentAlertDescription": [
+      "components/layout/Alerts/UploaderDocumentsModal/UploaderDocumentsModal"
+    ],
+    "pages/Registration/components/UploadId/components/IdDocumentUploader": [
+      "components/layout/Alerts/UploaderMYSDocuments/UploaderMYSDocuments",
+      "pages/Registration/components/UploadID"
+    ],
+    "pages/Settings/components/ProfileMenu": [
+      "components/layout/Menu/Menu"
+    ],
+    "pages/NewRewards/components/RewardsMenu": [
+      "components/layout/Menu/Menu"
+    ],
+    "pages/Super/components/SuperMenu/SuperMenu": [
+      "components/layout/Menu/Menu"
+    ],
+    "pages/NewRewards/consts": [
+      "components/layout/Modals/ChangeLocationModal"
+    ],
+    "pages/RecurringInvestment/components/FrequencyChange": [
+      "components/layout/Modals/FrequencyModal",
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "pages/Payment/Payment": [
+      "components/layout/OneTimeInvestment/OneTimeInvestmentModal",
+      "components/layout/RoundUps/RoundUpsInfo"
+    ],
+    "pages/FailedPage/FailedPage": [
+      "components/layout/Page/Page"
+    ],
+    "pages/PerfomanceDetails/PerfomanceDetails": [
+      "components/layout/Perfomance/Perfomance"
+    ],
+    "pages/ChangePortfolio/ChangePortfolio": [
+      "components/layout/Portfolio/Portfolio"
+    ],
+    "pages/HistoryDetails/consts": [
+      "components/layout/Widgets/History/History"
+    ],
+    "components/layout/Modals/FundingInfoModal": [
+      "pages/AccountStrengthPage/AccountStrengthPageView",
+      "pages/RoundUps/RoundUpsView"
+    ],
+    "pages/AccountStrengthPage/components/Achievement": [
+      "pages/AccountStrengthPage/AccountStrengthPageView"
+    ],
+    "components/elements/Time/Time": [
+      "pages/CapitalProtected/CapitalProtectedView",
+      "pages/HistoryDetails/components/HistoryTransactionItem",
+      "pages/HistoryDetails/components/RewardTransaction",
+      "pages/HistoryDetails/components/TransactionItem",
+      "pages/NewRewards/components/CardsView",
+      "pages/NewRewards/components/RewardsHistoryView",
+      "pages/PotentialFreeCash/PotentialFreeCashView",
+      "pages/RecurringInvestment/components/FrequencyChange",
+      "pages/RecurringInvestment/components/FrequencySetTable",
+      "pages/RecurringInvestment/components/GoalSetTable",
+      "pages/RecurringInvestment/components/RecurringBannerInfo",
+      "pages/Registration/components/SMSFMembers",
+      "pages/RewardInternal/components/RaizHistoryItem",
+      "pages/Rewards/components/HistoryTransactions",
+      "pages/Rewards/components/RewardsHistoryAmount",
+      "pages/Settings/components/Forms/ProfileForm",
+      "pages/Settings/components/Forms/SmsfForm",
+      "pages/Statements/components/Statement"
+    ],
+    "components/elements/Button/Button": [
+      "pages/CapitalProtected/CapitalProtectedView",
+      "pages/ChangePortfolio/ChangePortfolioView",
+      "pages/ChangePortfolio/components/ChangePortfolioCustomView",
+      "pages/Crs/CrsView",
+      "pages/FailedPage/FailedPage",
+      "pages/FeePayment/FeePaymentView",
+      "pages/HistoryDetails/components/EventsTransaction",
+      "pages/HistoryDetails/components/HistoryInfoPanel",
+      "pages/HistoryDetails/components/HistoryTransactionItemBody",
+      "pages/HistoryDetails/components/RewardTransaction",
+      "pages/HistoryDetails/components/SuperHistoryBannerLabelInfo",
+      "pages/HistoryDetails/components/TransactionItem",
+      "pages/Home/components/MyFinance/MyFinance",
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView",
+      "pages/Login/components/Button",
+      "pages/Login/components/LoginForRegistrationForm",
+      "pages/Login/components/VerificationForm",
+      "pages/MyFinance/components/Categorisation",
+      "pages/MyFinance/components/PotentialCash",
+      "pages/MyFinance/components/ReceiveNotification",
+      "pages/MyFinance/components/WhereYouSpend",
+      "pages/NewPassword/components/NewPasswordForm",
+      "pages/NewRewards/components/InStoreRewardsView",
+      "pages/NewRewards/components/NewRewardInternalView",
+      "pages/NewRewards/components/RewardsCarousel",
+      "pages/NewRewards/components/RewardsHistoryView",
+      "pages/NewRewards/components/RewardsMap",
+      "pages/NewRewards/components/RewardsSearchView",
+      "pages/NewRewards/NewRewardsView",
+      "pages/NotFound/NotFoundView",
+      "pages/OffsettersDetails/OffsettersDetailsView",
+      "pages/PerfomanceDetails/PerfomanceDetailsView",
+      "pages/RaizKids/components/AddRaizKid",
+      "pages/RaizKids/components/ApplyRaizKid",
+      "pages/RaizKids/RaizKidsView",
+      "pages/RaizKidsEdit/components/EditProfile",
+      "pages/RaizKidsEdit/components/InvestingAccess",
+      "pages/RaizKidsOld/components/AddRaizKid",
+      "pages/RaizKidsOld/components/ApplyRaizKid",
+      "pages/RaizKidsOld/RaizKidsOldView",
+      "pages/RaizKidsRegistration/components/KidsAccess",
+      "pages/RaizKidsRegistration/components/KidsInfo",
+      "pages/RaizKidsRegistration/components/KidsInitialInvestment",
+      "pages/RaizKidsRegistration/components/KidsNotification",
+      "pages/RaizKidsRegistration/components/KidsRecurringInvestment",
+      "pages/RaizKidsRegistration/components/Terms",
+      "pages/RaizKidsRegistration/components/TransferIn",
+      "pages/RecoverPassword/components/ForgotForm",
+      "pages/RecoverPassword/RecoverPasswordView",
+      "pages/RecurringInvestment/components/EmptyRecurring",
+      "pages/RecurringInvestment/components/FrequencyChange",
+      "pages/RecurringInvestment/components/FrequencySetTable",
+      "pages/RecurringInvestment/components/GoalNameChange",
+      "pages/RecurringInvestment/components/GoalSetTable",
+      "pages/RecurringInvestment/components/RecurringInvestmentBanner",
+      "pages/RecurringInvestment/RecurringInvestmentView",
+      "pages/Registration/components/AccountQuestions",
+      "pages/Registration/components/Address",
+      "pages/Registration/components/Agreement",
+      "pages/Registration/components/BankAccount",
+      "pages/Registration/components/Banks",
+      "pages/Registration/components/IndoSuitability",
+      "pages/Registration/components/Info",
+      "pages/Registration/components/Information",
+      "pages/Registration/components/Investment",
+      "pages/Registration/components/KidsPassword",
+      "pages/Registration/components/LinkWithdrawalAccountModal/LinkWithdrawalAccountModal",
+      "pages/Registration/components/Other",
+      "pages/Registration/components/SMSFInformation",
+      "pages/Registration/components/SMSFMembers",
+      "pages/Registration/components/StepAuth",
+      "pages/Registration/components/TaxResident",
+      "pages/Registration/components/UploadID",
+      "pages/Registration/components/UploadIdSuccessModal/UploadIdSuccessModal",
+      "pages/Registration/RegistrationView",
+      "pages/ResetPin/components/ResetPinForm",
+      "pages/RewardInternal/components/InternalDetails",
+      "pages/Rewards/components/ActiveInsuranceBanner",
+      "pages/Rewards/components/InsurenceItem",
+      "pages/Rewards/components/RewardDetailsButtons",
+      "pages/Rewards/components/RewardsCarousel",
+      "pages/Rewards/components/RewardsHistory",
+      "pages/RoundUps/components/RoundUpsExtendedHelpCard",
+      "pages/RoundUps/components/RoundUpsHelpCard",
+      "pages/RoundUps/components/RoundUpsModal",
+      "pages/RoundUps/RoundUpsView",
+      "pages/Settings/components/Banks",
+      "pages/Settings/components/Forms/ChangePasswordForm",
+      "pages/Settings/components/Forms/ProfileForm",
+      "pages/Settings/components/Forms/SmsfForm",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/SpendingAccountView",
+      "pages/Settings/components/SubAccounts/components/SubFundingAccount",
+      "pages/Settings/components/SubAccounts/SubAccounts",
+      "pages/Settings/components/WithdrawalAccountView",
+      "pages/Statements/components/Statement",
+      "pages/Statements/components/StatementsInfoPanel",
+      "pages/Statements/StatementsView",
+      "pages/Subscriptions/components/ActiveOfferItem",
+      "pages/Subscriptions/components/DefaultOfferItem",
+      "pages/Super/components/SuperInfo/SuperInfoView",
+      "pages/Super/components/SuperMenu/SuperMenu",
+      "pages/Super/components/SuperRegistration/Forms/InsuranceCoverForm",
+      "pages/Super/components/SuperRegistration/Forms/TfnForm",
+      "pages/Super/components/SuperRegistration/SuperRegistrationView",
+      "pages/Super/components/SuperRollovers/SuperRolloversView",
+      "pages/TransactionCategorisation/TransactionCategorisationView",
+      "pages/WhereSpend/WhereSpendView"
+    ],
+    "components/elements/Loader/Loader": [
+      "pages/CapitalProtected/CapitalProtectedView",
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView",
+      "pages/NewRewards/components/InStoreRewardsView",
+      "pages/NewRewards/components/RewardsHistoryView",
+      "pages/NewRewards/components/RewardsSearchView",
+      "pages/PaymentGateway/PaymentGatewayView",
+      "pages/RaizKids/RaizKidsView",
+      "pages/RaizKidsEdit/RaizKidsEditView",
+      "pages/RaizKidsOld/RaizKidsOldView",
+      "pages/RecurringInvestment/RecurringInvestmentView",
+      "pages/Registration/components/KidsPassword",
+      "pages/Rewards/components/Insurances",
+      "pages/Rewards/components/RewardsHistory",
+      "pages/Settings/components/Banks",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/Profile",
+      "pages/Settings/components/SmsfAccountSettings",
+      "pages/Settings/components/SpendingAccountView",
+      "pages/Settings/components/WithdrawalAccountView",
+      "pages/Statements/components/StatementsInfoPanel",
+      "pages/Super/components/SuperRegistration/SuperRegistrationView",
+      "pages/Super/SuperView"
+    ],
+    "components/layout/Modals/FundAmountModal": [
+      "pages/CapitalProtected/CapitalProtectedView"
+    ],
+    "components/elements/DotsLoader/DotsLoader": [
+      "pages/CapitalProtected/CapitalProtectedView",
+      "pages/ChangePortfolio/ChangePortfolioView",
+      "pages/ChangePortfolio/components/ChangePortfolioCustomView",
+      "pages/Crs/CrsView",
+      "pages/HistoryDetails/components/TransactionItem",
+      "pages/Login/components/LoginForRegistrationForm",
+      "pages/PerfomanceDetails/PerfomanceDetailsView",
+      "pages/RaizKids/components/AddRaizKid",
+      "pages/RaizKidsOld/components/AddRaizKid",
+      "pages/RecurringInvestment/RecurringInvestmentView",
+      "pages/Registration/components/AccountQuestions",
+      "pages/RewardInternal/components/InternalDetails",
+      "pages/Super/components/SuperRegistration/Forms/TfnForm",
+      "pages/Super/components/SuperRegistration/SuperRegistrationView",
+      "pages/WhereSpend/WhereSpendView"
+    ],
+    "components/layout/Modals/DiscliamerCPFModal": [
+      "pages/CapitalProtected/CapitalProtectedView"
+    ],
+    "components/layout/Modals/CPFPaymentInfoModal": [
+      "pages/CapitalProtected/CapitalProtectedView"
+    ],
+    "components/elements/NumberField/NumberField": [
+      "pages/CapitalProtected/CapitalProtectedView",
+      "pages/Crs/CrsView",
+      "pages/HistoryDetails/components/EventsTransaction",
+      "pages/HistoryDetails/components/HistoryAllocation",
+      "pages/HistoryDetails/components/RewardItem",
+      "pages/HistoryDetails/components/RewardTransaction",
+      "pages/HistoryDetails/components/SuperHistoryBannerRows/components/SuperHistoryBannerSubValue",
+      "pages/HistoryDetails/components/TransactionItem",
+      "pages/Home/components/HomePastBanner",
+      "pages/Home/components/MonthlyTracker/MonthlyTracker",
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView",
+      "pages/MyFinance/components/Categorisation",
+      "pages/MyFinance/components/PotentialCash",
+      "pages/MyFinance/components/WhereYouSpend",
+      "pages/MyFinance/MyFinanceView",
+      "pages/NewRewards/components/RewardsCarousel",
+      "pages/NewRewards/NewRewardsView",
+      "pages/PaymentGateway/components/GatewayItem",
+      "pages/PerfomanceDetails/PerfomanceDetailsView",
+      "pages/PotentialFreeCash/PotentialFreeCashView",
+      "pages/RaizKids/components/ApplyRaizKid",
+      "pages/RaizKids/RaizKidsView",
+      "pages/RaizKidsEdit/RaizKidsEditView",
+      "pages/RaizKidsEditHistory/RaizKidsEditHistoryView",
+      "pages/RaizKidsOld/components/ApplyRaizKid",
+      "pages/RaizKidsOld/RaizKidsOldView",
+      "pages/RecurringInvestment/components/GoalSetTable",
+      "pages/RecurringInvestment/components/RecurringBannerInfo",
+      "pages/Rewards/components/RewardsCarousel",
+      "pages/RoundUps/components/RoundUpsModal",
+      "pages/RoundUps/RoundUpsView",
+      "pages/Statements/StatementsView",
+      "pages/Subscriptions/components/DefaultOfferItem",
+      "pages/Super/components/SuperBanner",
+      "pages/Super/components/SuperInfo/SuperInfoView",
+      "pages/Super/components/SuperRegistration/Forms/InsuranceCoverForm",
+      "pages/Super/components/SuperRollovers/SuperRolloversView",
+      "pages/TransactionCategorisation/TransactionCategorisationView",
+      "pages/WhereSpend/WhereSpendView"
+    ],
+    "components/elements/FallbackMessage/FallbackMessage": [
+      "pages/CapitalProtected/CapitalProtectedView",
+      "pages/HistoryDetails/components/HistoryInfoPanel",
+      "pages/MyFinance/components/Categorisation",
+      "pages/PotentialFreeCash/PotentialFreeCashView",
+      "pages/TransactionCategorisation/TransactionCategorisationView",
+      "pages/WhereSpend/WhereSpendView"
+    ],
+    "components/layout/Modals/HelpCardsModalAU": [
+      "pages/ChangePortfolio/ChangePortfolioView",
+      "pages/Home/HomeView",
+      "pages/NewRewards/NewRewardsView",
+      "pages/RaizKids/RaizKidsView",
+      "pages/RaizKidsOld/RaizKidsOldView",
+      "pages/RecurringInvestment/RecurringInvestmentView",
+      "pages/Registration/components/Account",
+      "pages/Rewards/RewardsView",
+      "pages/RoundUps/RoundUpsView",
+      "pages/TransactionCategorisation/TransactionCategorisationView",
+      "pages/WhereSpend/WhereSpendView"
+    ],
+    "components/layout/Modals/InvestmentObjectiveModal": [
+      "pages/ChangePortfolio/ChangePortfolioView"
+    ],
+    "components/layout/Modals/ChangePortfolioConfirmModal": [
+      "pages/ChangePortfolio/ChangePortfolioView"
+    ],
+    "pages/ChangePortfolio/components/ChangePortfolioCustomView": [
+      "pages/ChangePortfolio/ChangePortfolioView"
+    ],
+    "components/elements/CheckboxFF/CheckboxFF": [
+      "pages/ChangePortfolio/components/ChangePortfolioCustomView",
+      "pages/FeePayment/FeePaymentView",
+      "pages/Login/components/CheckBox",
+      "pages/Login/components/LoginForRegistrationForm",
+      "pages/RaizKidsEdit/components/InvestingAccess",
+      "pages/RaizKidsRegistration/components/KidsInfo",
+      "pages/RaizKidsRegistration/components/KidsInitialInvestment",
+      "pages/RaizKidsRegistration/components/Terms",
+      "pages/Registration/components/AccountQuestions",
+      "pages/Registration/components/Address",
+      "pages/Registration/components/Agreement",
+      "pages/Registration/components/Info",
+      "pages/Registration/components/Investment",
+      "pages/Registration/components/SMSFInformation",
+      "pages/Registration/components/TaxResident",
+      "pages/Settings/components/Forms/ProfileForm",
+      "pages/Super/components/SuperRegistration/Forms/InsuranceCoverForm",
+      "pages/Super/components/SuperRegistration/Forms/TfnForm"
+    ],
+    "components/elements/SelectFF/SelectFF": [
+      "pages/Crs/CrsView",
+      "pages/Registration/components/Address",
+      "pages/Registration/components/IndoSuitability",
+      "pages/Registration/components/Info",
+      "pages/Registration/components/Information",
+      "pages/Registration/components/KidsPassword",
+      "pages/Registration/components/Other",
+      "pages/Registration/components/SMSFMembers",
+      "pages/Registration/components/TaxResident",
+      "pages/Settings/components/Forms/ProfileForm"
+    ],
+    "components/elements/FinalFormInput/FinalFormInput": [
+      "pages/Crs/CrsView",
+      "pages/Login/components/LoginForRegistrationForm",
+      "pages/Login/components/TextField",
+      "pages/Login/components/VerificationForm",
+      "pages/NewPassword/components/NewPasswordForm",
+      "pages/RaizKidsEdit/components/InvestingAccess",
+      "pages/RaizKidsRegistration/components/KidsInfo",
+      "pages/RecoverPassword/components/ForgotForm",
+      "pages/Registration/components/Address",
+      "pages/Registration/components/IndoSuitability",
+      "pages/Registration/components/Info",
+      "pages/Registration/components/Investment",
+      "pages/Registration/components/KidsPassword",
+      "pages/Registration/components/Other",
+      "pages/Registration/components/SMSFInformation",
+      "pages/Registration/components/SMSFMembers",
+      "pages/Registration/components/TaxResident",
+      "pages/ResetPin/components/ResetPinForm",
+      "pages/Settings/components/Forms/ChangePasswordForm",
+      "pages/Settings/components/Forms/ProfileForm",
+      "pages/Settings/components/Forms/SmsfForm",
+      "pages/Super/components/SuperRegistration/Forms/TfnForm"
+    ],
+    "components/layout/Modals/PaymentModal": [
+      "pages/FeePayment/FeePaymentView",
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView",
+      "pages/Payment/PaymentView"
+    ],
+    "pages/HistoryDetails/components/SuperHistoryBannerRows/components/SuperHistoryBannerSubValue": [
+      "pages/HistoryDetails/components/SuperHistoryBanner",
+      "pages/HistoryDetails/components/SuperHistoryBannerRows/SuperHistoryBannerRows"
+    ],
+    "components/layout/Modals/CancelTransactionModal": [
+      "pages/HistoryDetails/HistoryDetailsView"
+    ],
+    "components/layout/Modals/BankErrorModal": [
+      "pages/HistoryDetails/HistoryDetailsView",
+      "pages/Registration/components/Agreement",
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/Forms/ProfileForm",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/SpendingAccountView",
+      "pages/Super/components/SuperRewardContribution/SuperRewardContributionView",
+      "pages/Super/components/SuperRollovers/SuperRolloversView"
+    ],
+    "components/layout/Modals/RecurringModal": [
+      "pages/HistoryDetails/HistoryDetailsView",
+      "pages/Home/HomeView",
+      "pages/RaizKidsEdit/RaizKidsEditView",
+      "pages/RaizKidsRegistration/RaizKidsRegistrationView",
+      "pages/RecurringInvestment/components/GoalNameChange",
+      "pages/RecurringInvestment/RecurringInvestmentView",
+      "pages/Registration/components/Address",
+      "pages/RewardInternal/RewardInternalView"
+    ],
+    "components/layout/Modals/InviteModal": [
+      "pages/HistoryDetails/HistoryDetailsView"
+    ],
+    "pages/HistoryDetails/components/SuperHistoryBanner": [
+      "pages/HistoryDetails/HistoryDetailsView"
+    ],
+    "pages/HistoryDetails/components/HistoryInfoPanel": [
+      "pages/HistoryDetails/HistoryDetailsView"
+    ],
+    "components/layout/Perfomance/Perfomance": [
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView",
+      "pages/Super/SuperView"
+    ],
+    "components/layout/OneTimeInvestment/OneTimeInvestment": [
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/Offsetters/Offsetters": [
+      "pages/Home/HomeView"
+    ],
+    "components/layout/RaizSuper/RaizSuper": [
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/Widgets/Blog/Blog": [
+      "pages/Home/HomeView"
+    ],
+    "components/layout/RaizKidsDashboard/RaizKidsDashboard": [
+      "pages/Home/HomeView",
+      "pages/Invest/InvestView"
+    ],
+    "pages/Home/components/HomePastBanner": [
+      "pages/Home/HomeView"
+    ],
+    "pages/Home/components/MyFinance/MyFinance": [
+      "pages/Home/HomeView"
+    ],
+    "components/layout/Portfolio/Portfolio": [
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/RaizKidsDashboardOld/RaizKidsDashboardOld": [
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/RoundUps/RoundUpsInfo": [
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/Widgets/RecurringWidget/RecurringWidget": [
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/Modals/WithdrawModal": [
+      "pages/Invest/InvestView",
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "components/layout/Modals/AccountBalanceModal": [
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/Modals/DenyKidsModal": [
+      "pages/Invest/InvestView"
+    ],
+    "components/layout/Modals/LoginErrorModal": [
+      "pages/Login/LoginView"
+    ],
+    "pages/Login/components/LoginForm": [
+      "pages/Login/LoginView"
+    ],
+    "pages/Login/components/VerificationForm": [
+      "pages/Login/LoginView"
+    ],
+    "pages/Login/components/Headers": [
+      "pages/Login/LoginView"
+    ],
+    "pages/Login/components/ContactUsLink": [
+      "pages/Login/LoginView"
+    ],
+    "pages/Home/components/MonthlyTracker/MonthlyTracker": [
+      "pages/MyFinance/MyFinanceView"
+    ],
+    "pages/MyFinance/components/Categorisation": [
+      "pages/MyFinance/MyFinanceView"
+    ],
+    "pages/MyFinance/components/PotentialCash": [
+      "pages/MyFinance/MyFinanceView"
+    ],
+    "pages/MyFinance/components/WhereYouSpend": [
+      "pages/MyFinance/MyFinanceView"
+    ],
+    "pages/MyFinance/components/ReceiveNotification": [
+      "pages/MyFinance/MyFinanceView"
+    ],
+    "pages/NewPassword/components/NewPasswordForm": [
+      "pages/NewPassword/NewPasswordView"
+    ],
+    "components/layout/Modals/CardRemoveConfirmModal": [
+      "pages/NewRewards/components/CardsView"
+    ],
+    "components/layout/Modals/ChangeLocationModal": [
+      "pages/NewRewards/components/InStoreRewardsView",
+      "pages/NewRewards/components/RewardsSearchView"
+    ],
+    "components/layout/Modals/GiftCardModal": [
+      "pages/NewRewards/components/NewRewardInternalView"
+    ],
+    "components/elements/Input/Input": [
+      "pages/NewRewards/components/RewardsSearchView",
+      "pages/NewRewards/NewRewardsView",
+      "pages/Settings/components/BanksSearch",
+      "pages/Super/components/SuperRollovers/SuperRolloversView"
+    ],
+    "pages/NewRewards/components/NewRewardInternalView": [
+      "pages/NewRewards/NewRewards"
+    ],
+    "pages/NewRewards/components/InStoreRewardsView": [
+      "pages/NewRewards/NewRewards"
+    ],
+    "pages/NewRewards/components/RewardsSearchView": [
+      "pages/NewRewards/NewRewards"
+    ],
+    "pages/NewRewards/components/RewardsHistoryView": [
+      "pages/NewRewards/NewRewards"
+    ],
+    "pages/NewRewards/components/CardsView": [
+      "pages/NewRewards/NewRewards"
+    ],
+    "components/elements/Grid/Grid": [
+      "pages/NewRewards/NewRewardsView",
+      "pages/Rewards/RewardsView",
+      "pages/Settings/components/Banks"
+    ],
+    "pages/NewRewards/components/BrandsCarousel": [
+      "pages/NewRewards/NewRewardsView"
+    ],
+    "components/layout/Modals/InvestmentErrorModal": [
+      "pages/OffsettersDetails/OffsettersDetailsView",
+      "pages/Registration/components/Other",
+      "pages/Registration/components/TaxResident",
+      "pages/RoundUps/RoundUpsView",
+      "pages/Settings/components/Forms/ProfileForm",
+      "pages/Settings/components/Support"
+    ],
+    "components/layout/Modals/BatchPaymentModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/DiscliamerPaymentModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/AlfamartPaymentModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/PaymentChoiceRecurringModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/GoPaySuccessModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/GoPayLinkModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/XenditLinkModal": [
+      "pages/Payment/PaymentView"
+    ],
+    "components/layout/Modals/GatawayFeeModal": [
+      "pages/PaymentGateway/PaymentGatewayView"
+    ],
+    "components/layout/Modals/ErrorModal": [
+      "pages/PaymentGateway/PaymentGatewayView",
+      "pages/RaizKids/RaizKidsView",
+      "pages/RaizKidsEdit/RaizKidsEditView",
+      "pages/RaizKidsRegistration/RaizKidsRegistrationView",
+      "pages/RoundUps/RoundUpsView",
+      "pages/Statements/StatementsView",
+      "pages/Subscriptions/SubscriptionsView"
+    ],
+    "pages/PaymentGateway/components/GatewayItem": [
+      "pages/PaymentGateway/PaymentGatewayView"
+    ],
+    "pages/PaymentGateway/components/GatewayBanner": [
+      "pages/PaymentGateway/PaymentGatewayView"
+    ],
+    "pages/PaymentGateway/components/GatewayType": [
+      "pages/PaymentGateway/PaymentGatewayView"
+    ],
+    "components/layout/Modals/PerfomanceErrorModal": [
+      "pages/PerfomanceDetails/PerfomanceDetailsView"
+    ],
+    "components/layout/Modals/EmailSentModal": [
+      "pages/RaizKids/RaizKidsView"
+    ],
+    "pages/RaizKidsRegistration/components/KidsInitialInvestment": [
+      "pages/RaizKids/RaizKidsView",
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "components/layout/Modals/StartKidsModal": [
+      "pages/RaizKids/RaizKidsView"
+    ],
+    "components/layout/Modals/RelSentModal": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "components/layout/Modals/ConvertToFullModal": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "components/layout/Modals/CloseAccountKidsModal": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "pages/RaizKidsRegistration/components/KidsAccess": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "pages/RaizKidsRegistration/components/KidsNotification": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "pages/RaizKidsRegistration/components/KidsInfo": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "pages/RaizKidsRegistration/components/KidsRecurringInvestment": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "pages/RaizKidsRegistration/components/TransferIn": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "components/layout/Modals/SuccessModal": [
+      "pages/RaizKidsEdit/RaizKidsEditView",
+      "pages/RaizKidsRegistration/components/RaizOther"
+    ],
+    "components/layout/Modals/ReactivateAccountModal": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "pages/RaizKidsEdit/components/InvestingAccess": [
+      "pages/RaizKidsEdit/RaizKidsEditView"
+    ],
+    "components/layout/Modals/StartSavingKidsModal": [
+      "pages/RaizKidsOld/RaizKidsOldView"
+    ],
+    "pages/RaizKidsOld/components/ApplyRaizKid": [
+      "pages/RaizKidsOld/RaizKidsOldView"
+    ],
+    "pages/RaizKidsOld/components/AddRaizKid": [
+      "pages/RaizKidsOld/RaizKidsOldView"
+    ],
+    "components/layout/Modals/FrequencyModal": [
+      "pages/RaizKidsRegistration/components/KidsRecurringInvestment"
+    ],
+    "components/layout/Modals/ConfirmationModal": [
+      "pages/RaizKidsRegistration/components/TransferIn"
+    ],
+    "pages/RaizKidsRegistration/components/RaizPersonal": [
+      "pages/RaizKidsRegistration/RaizKidsRegistrationView"
+    ],
+    "pages/RaizKidsRegistration/components/RaizPortfolio": [
+      "pages/RaizKidsRegistration/RaizKidsRegistrationView"
+    ],
+    "pages/RaizKidsRegistration/components/RaizInvestment": [
+      "pages/RaizKidsRegistration/RaizKidsRegistrationView"
+    ],
+    "pages/RaizKidsRegistration/components/RaizOther": [
+      "pages/RaizKidsRegistration/RaizKidsRegistrationView"
+    ],
+    "components/layout/Modals/RDVModal": [
+      "pages/RDV/RDVView"
+    ],
+    "pages/RecoverPassword/components/ForgotForm": [
+      "pages/RecoverPassword/RecoverPasswordView"
+    ],
+    "components/layout/Modals/RecurringNoteModal": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "components/layout/Modals/FundingModal": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "pages/RecurringInvestment/components/RecurringInvestmentBanner": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "pages/RecurringInvestment/components/GoalNameChange": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "pages/RecurringInvestment/components/GoalSetTable": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "pages/RecurringInvestment/components/EmptyRecurring": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "pages/RecurringInvestment/components/FrequencySetTable": [
+      "pages/RecurringInvestment/RecurringInvestmentView"
+    ],
+    "components/layout/Modals/KTPInfoModal": [
+      "pages/Registration/components/Address"
+    ],
+    "pages/Settings/components/Banks": [
+      "pages/Registration/components/Banks"
+    ],
+    "components/layout/Modals/BankSignInModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/SpendingAccountView"
+    ],
+    "pages/Settings/components/BanksSearch": [
+      "pages/Registration/components/Banks"
+    ],
+    "components/layout/Modals/BankSignInDifferentModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView"
+    ],
+    "components/layout/Modals/BankCardModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/SpendingAccountView"
+    ],
+    "components/layout/Modals/WithdrawalSignInModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/WithdrawalAccountView"
+    ],
+    "components/layout/Modals/BankConnectModal": [
+      "pages/Registration/components/Banks"
+    ],
+    "components/layout/Modals/BankLinkModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView"
+    ],
+    "components/layout/Modals/PaymentSuccessModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView",
+      "pages/Settings/components/SpendingAccountView"
+    ],
+    "components/layout/Modals/BankInformationModal": [
+      "pages/Registration/components/Banks",
+      "pages/Settings/components/FundingAccountView"
+    ],
+    "components/layout/Modals/PertanyaanInfoModal": [
+      "pages/Registration/components/Info"
+    ],
+    "pages/Login/components/LoginForRegistrationForm": [
+      "pages/Registration/components/StepAuth"
+    ],
+    "pages/Registration/components/StepAuth": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/Registration/components/Account": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/Registration/components/Investments": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/Registration/components/Personal": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/Registration/components/BankAccount": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/Registration/components/SMSFAccount": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/Registration/components/KidsSign": [
+      "pages/Registration/RegistrationView"
+    ],
+    "pages/ResetPin/components/ResetPinForm": [
+      "pages/ResetPin/ResetPinView"
+    ],
+    "components/layout/Modals/RewardActivatedErrorModal": [
+      "pages/RewardInternal/RewardInternalView"
+    ],
+    "pages/RewardInternal/components/InternalDetails": [
+      "pages/RewardInternal/RewardInternalView"
+    ],
+    "pages/RewardInternal/components/RaizHistory": [
+      "pages/RewardInternal/RewardInternalView"
+    ],
+    "components/layout/Modals/StatementsPreviewModal": [
+      "pages/Rewards/components/Insurances",
+      "pages/Statements/StatementsView"
+    ],
+    "pages/Statements/components/StatementsSkeleton": [
+      "pages/Rewards/components/InsurancesSkeleton"
+    ],
+    "pages/Rewards/components/Insurances": [
+      "pages/Rewards/Rewards"
+    ],
+    "pages/Rewards/components/RewardsHistory": [
+      "pages/Rewards/Rewards"
+    ],
+    "pages/Rewards/components/RewardDetails": [
+      "pages/Rewards/Rewards"
+    ],
+    "pages/Rewards/components/RewardsCarousel": [
+      "pages/Rewards/RewardsView"
+    ],
+    "components/elements/ModalComponent/ModalComponent": [
+      "pages/RoundUps/RoundUpsView"
+    ],
+    "pages/RoundUps/components/RoundUpsModal": [
+      "pages/RoundUps/RoundUpsView",
+      "pages/Settings/components/SpendingAccountView"
+    ],
+    "components/layout/Modals/ChangePasswordSuccessModal": [
+      "pages/Settings/components/Forms/ChangePasswordForm"
+    ],
+    "components/layout/Modals/FundingConnectConfirmModal": [
+      "pages/Settings/components/FundingAccountView"
+    ],
+    "components/layout/Modals/FundingErrorModal": [
+      "pages/Settings/components/FundingAccountView"
+    ],
+    "components/layout/Modals/AddCardModal": [
+      "pages/Settings/components/SpendingAccountView"
+    ],
+    "components/layout/Modals/SpendingConnectConfirmModal": [
+      "pages/Settings/components/SpendingAccountView"
+    ],
+    "pages/Settings/components/SubAccounts/components/SubFundingAccount": [
+      "pages/Settings/components/SubAccounts/SubAccounts"
+    ],
+    "components/layout/Modals/CloseAccountModal": [
+      "pages/Settings/components/Support"
+    ],
+    "components/layout/Modals/OffsettersUnsubscribeModal": [
+      "pages/Settings/components/Support"
+    ],
+    "pages/Settings/components/ProfileContent": [
+      "pages/Settings/SettingsView"
+    ],
+    "components/layout/Modals/SendStatementsModal": [
+      "pages/Statements/StatementsView"
+    ],
+    "pages/Statements/components/StatementsInfoPanel": [
+      "pages/Statements/StatementsView"
+    ],
+    "pages/Subscriptions/components/ActiveOfferItem": [
+      "pages/Subscriptions/SubscriptionsView"
+    ],
+    "pages/Subscriptions/components/DefaultOfferItem": [
+      "pages/Subscriptions/SubscriptionsView"
+    ],
+    "components/layout/Modals/InvestLumpSumModal": [
+      "pages/Super/components/SuperMenu/SuperMenu"
+    ],
+    "components/layout/Modals/SuperRegistrationModal": [
+      "pages/Super/components/SuperRegistration/SuperRegistrationView"
+    ],
+    "components/layout/Modals/RolloverAgreementModal": [
+      "pages/Super/components/SuperRollovers/SuperRolloversView"
+    ],
+    "components/layout/Modals/RolloverFundModal": [
+      "pages/Super/components/SuperRollovers/SuperRolloversView"
+    ],
+    "components/layout/Modals/RolloverRemoveConfirmModal": [
+      "pages/Super/components/SuperRollovers/SuperRolloversView"
+    ],
+    "components/layout/Widgets/History/History": [
+      "pages/Super/SuperView"
+    ],
+    "pages/Super/components/SuperBanner": [
+      "pages/Super/SuperView"
+    ],
+    "components/layout/Modals/CategorisationInfoModal": [
+      "pages/TransactionCategorisation/TransactionCategorisationView"
+    ]
+  }
+}

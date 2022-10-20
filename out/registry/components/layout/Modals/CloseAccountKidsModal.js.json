@@ -1,0 +1,55 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/CloseAccountKidsModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/CloseAccountKidsModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKids/RaizKids.i18n.js",
+      "replace": "import messages from '../../../pages/RaizKids/RaizKids.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.yesClose} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.yesClose} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.yesClose} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.yesClose} />",
+      "main_clean": "<FormattedMessage {...messages.yesClose} />",
+      "main_regex": "<FormattedMessage {...messages.yesClose} />",
+      "props": " {...messages.yesClose} ",
+      "spread": " {...messages.yesClose} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          title={<FormattedMessage {...messages.cancel} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.cancel} />}\n          ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedHTMLMessage {...messages.areYouSureConvert} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedHTMLMessage {...messages.areYouSureConvert} />",
+      "props": " {...messages.areYouSureConvert} ",
+      "spread": " {...messages.areYouSureConvert} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

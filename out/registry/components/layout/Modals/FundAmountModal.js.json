@@ -1,0 +1,78 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundAmountModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundAmountModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/CapitalProtected/CapitalProtected.i18n.js",
+      "replace": "import messages from '../../../pages/CapitalProtected/CapitalProtected.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.lembar} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.lembar} />",
+      "all_regex": "\n        <FormattedMessage {...messages.lembar} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.lembar} />",
+      "main_clean": "<FormattedMessage {...messages.lembar} />",
+      "main_regex": "<FormattedMessage {...messages.lembar} />",
+      "props": " {...messages.lembar} ",
+      "spread": " {...messages.lembar} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        />\n      ",
+      "all_clean": "<FormattedMessage {...messages.nominalMinimum} values={{ min: <NumberField value={Number(fund.min_amount)} />, }} />",
+      "all_regex": "\n        <FormattedMessage\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        />",
+      "main_clean": "<FormattedMessage {...messages.nominalMinimum} values={{ min: <NumberField value={Number(fund.min_amount)} />, }} />",
+      "main_regex": "<FormattedMessage\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        />",
+      "props": "\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        ",
+      "spread": "\n          {...messages.nominalMinimum}\n          ",
+      "values": "values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n            title={<FormattedMessage {...messages.invest} />}\n          ",
+      "all_clean": "title={<FormattedMessage {...messages.invest} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.invest} />}\n          ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "main_clean": "<FormattedMessage {...messages.invest} />",
+      "main_regex": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage\n              {...messages.biaya}\n              values={{\n                percent: fund.percentage_upfront_fee,\n              }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage\n              {...messages.biaya}\n              values={{\n                percent: fund.percentage_upfront_fee,\n              }}\n            />",
+      "props": "\n              {...messages.biaya}\n              values={{\n                percent: fund.percentage_upfront_fee,\n              }}\n            ",
+      "spread": "\n              {...messages.biaya}\n              ",
+      "values": "values={{\n                percent: fund.percentage_upfront_fee,\n              }}\n            "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage\n              {...messages.biayaTransfer}\n              values={{\n                value: transferFee.replace(/\\s/g, ''),\n              }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage\n              {...messages.biayaTransfer}\n              values={{\n                value: transferFee.replace(/\\s/g, ''),\n              }}\n            />",
+      "props": "\n              {...messages.biayaTransfer}\n              values={{\n                value: transferFee.replace(/\\s/g, ''),\n              }}\n            ",
+      "spread": "\n              {...messages.biayaTransfer}\n              ",
+      "values": "values={{\n                value: transferFee.replace(/\\s/g, ''),\n              }}\n            "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

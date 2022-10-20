@@ -1,0 +1,163 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/RewardsSearchView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/RewardsSearchView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/Rewards.i18n.js",
+      "replace": "import messages from '../Rewards.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.meter} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.meter} />",
+      "all_regex": "\n          <FormattedMessage {...messages.meter} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.meter} />",
+      "main_clean": "<FormattedMessage {...messages.meter} />",
+      "main_regex": "<FormattedMessage {...messages.meter} />",
+      "props": " {...messages.meter} ",
+      "spread": " {...messages.meter} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.km} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.km} />",
+      "all_regex": "\n          <FormattedMessage {...messages.km} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.km} />",
+      "main_clean": "<FormattedMessage {...messages.km} />",
+      "main_regex": "<FormattedMessage {...messages.km} />",
+      "props": " {...messages.km} ",
+      "spread": " {...messages.km} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.online} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.online} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.online} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.online} />",
+      "main_clean": "<FormattedMessage {...messages.online} />",
+      "main_regex": "<FormattedMessage {...messages.online} />",
+      "props": " {...messages.online} ",
+      "spread": " {...messages.online} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.inStore} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.inStore} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.inStore} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.inStore} />",
+      "main_clean": "<FormattedMessage {...messages.inStore} />",
+      "main_regex": "<FormattedMessage {...messages.inStore} />",
+      "props": " {...messages.inStore} ",
+      "spread": " {...messages.inStore} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.offersNear} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.offersNear} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.offersNear} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.offersNear} />",
+      "main_clean": "<FormattedMessage {...messages.offersNear} />",
+      "main_regex": "<FormattedMessage {...messages.offersNear} />",
+      "props": " {...messages.offersNear} ",
+      "spread": " {...messages.offersNear} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.change} />\n                        ",
+      "all_clean": "<FormattedMessage {...messages.change} />",
+      "all_regex": "\n                          <FormattedMessage {...messages.change} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.change} />",
+      "main_clean": "<FormattedMessage {...messages.change} />",
+      "main_regex": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.noResultsFound}\n                                />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.noResultsFound} />",
+      "all_regex": "\n                                <FormattedMessage\n                                  {...messages.noResultsFound}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.noResultsFound}\n                                />",
+      "main_clean": "<FormattedMessage {...messages.noResultsFound} />",
+      "main_regex": "<FormattedMessage\n                                  {...messages.noResultsFound}\n                                />",
+      "props": "\n                                  {...messages.noResultsFound}\n                                ",
+      "spread": "\n                                  {...messages.noResultsFound}\n                                "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.switchingToOnline}\n                                />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.switchingToOnline} />",
+      "all_regex": "\n                                <FormattedMessage\n                                  {...messages.switchingToOnline}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.switchingToOnline}\n                                />",
+      "main_clean": "<FormattedMessage {...messages.switchingToOnline} />",
+      "main_regex": "<FormattedMessage\n                                  {...messages.switchingToOnline}\n                                />",
+      "props": "\n                                  {...messages.switchingToOnline}\n                                ",
+      "spread": "\n                                  {...messages.switchingToOnline}\n                                "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.noResultsFound}\n                                />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.noResultsFound} />",
+      "all_regex": "\n                                <FormattedMessage\n                                  {...messages.noResultsFound}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.noResultsFound}\n                                />",
+      "main_clean": "<FormattedMessage {...messages.noResultsFound} />",
+      "main_regex": "<FormattedMessage\n                                  {...messages.noResultsFound}\n                                />",
+      "props": "\n                                  {...messages.noResultsFound}\n                                ",
+      "spread": "\n                                  {...messages.noResultsFound}\n                                "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.switchingToStore}\n                                />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.switchingToStore} />",
+      "all_regex": "\n                                <FormattedMessage\n                                  {...messages.switchingToStore}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.switchingToStore}\n                                />",
+      "main_clean": "<FormattedMessage {...messages.switchingToStore} />",
+      "main_regex": "<FormattedMessage\n                                  {...messages.switchingToStore}\n                                />",
+      "props": "\n                                  {...messages.switchingToStore}\n                                ",
+      "spread": "\n                                  {...messages.switchingToStore}\n                                "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.categories} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.categories} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.categories} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "main_clean": "<FormattedMessage {...messages.categories} />",
+      "main_regex": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n                                ",
+      "all": "\n                                  <FormattedHTMLMessage\n                                    {...messages.youHavent}\n                                  />\n                                ",
+      "before": "\n                                  ",
+      "main": "<FormattedHTMLMessage\n                                    {...messages.youHavent}\n                                  />",
+      "props": "\n                                    {...messages.youHavent}\n                                  ",
+      "spread": "\n                                    {...messages.youHavent}\n                                  "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, FormattedHTMLMessage } from 'react-intl';",
+      "named": "FormattedMessage, FormattedHTMLMessage "
+    }
+  ]
+}

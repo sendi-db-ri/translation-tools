@@ -1,0 +1,64 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/FrequencySetTable.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/FrequencySetTable.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recurringInvestmentAmount} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.recurringInvestmentAmount} />",
+      "all_regex": "\n          <FormattedMessage {...messages.recurringInvestmentAmount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recurringInvestmentAmount} />",
+      "main_clean": "<FormattedMessage {...messages.recurringInvestmentAmount} />",
+      "main_regex": "<FormattedMessage {...messages.recurringInvestmentAmount} />",
+      "props": " {...messages.recurringInvestmentAmount} ",
+      "spread": " {...messages.recurringInvestmentAmount} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.frequency} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.frequency} />",
+      "all_regex": "\n            <FormattedMessage {...messages.frequency} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.frequency} />",
+      "main_clean": "<FormattedMessage {...messages.frequency} />",
+      "main_regex": "<FormattedMessage {...messages.frequency} />",
+      "props": " {...messages.frequency} ",
+      "spread": " {...messages.frequency} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.nextInvestment} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.nextInvestment} />",
+      "all_regex": "\n            <FormattedMessage {...messages.nextInvestment} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.nextInvestment} />",
+      "main_clean": "<FormattedMessage {...messages.nextInvestment} />",
+      "main_regex": "<FormattedMessage {...messages.nextInvestment} />",
+      "props": " {...messages.nextInvestment} ",
+      "spread": " {...messages.nextInvestment} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.changePlan} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.changePlan} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.changePlan} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.changePlan} />",
+      "main_clean": "<FormattedMessage {...messages.changePlan} />",
+      "main_regex": "<FormattedMessage {...messages.changePlan} />",
+      "props": " {...messages.changePlan} ",
+      "spread": " {...messages.changePlan} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

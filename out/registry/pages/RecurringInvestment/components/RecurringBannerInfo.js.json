@@ -1,0 +1,78 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/RecurringBannerInfo.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/components/RecurringBannerInfo.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            />\n          ",
+      "all_clean": "<FormattedMessage {...messages.fortnightlyOn} values={{ day: <Time format=\"dddd\">{startDate}</Time>, }} />",
+      "all_regex": "\n            <FormattedMessage\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            />",
+      "main_clean": "<FormattedMessage {...messages.fortnightlyOn} values={{ day: <Time format=\"dddd\">{startDate}</Time>, }} />",
+      "main_regex": "<FormattedMessage\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            />",
+      "props": "\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            ",
+      "spread": "\n              {...messages.fortnightlyOn}\n              ",
+      "values": "values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            />\n          ",
+      "all_clean": "<FormattedMessage {...messages.every} values={{ day: week[frequencyDay - 2], }} />",
+      "all_regex": "\n            <FormattedMessage\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            />",
+      "main_clean": "<FormattedMessage {...messages.every} values={{ day: week[frequencyDay - 2], }} />",
+      "main_regex": "<FormattedMessage\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            />",
+      "props": "\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            ",
+      "spread": "\n              {...messages.every}\n              ",
+      "values": "values={{\n                day: week[frequencyDay - 2],\n              }}\n            "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.everyDay} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.everyDay} />",
+      "all_regex": "\n          <FormattedMessage {...messages.everyDay} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.everyDay} />",
+      "main_clean": "<FormattedMessage {...messages.everyDay} />",
+      "main_regex": "<FormattedMessage {...messages.everyDay} />",
+      "props": " {...messages.everyDay} ",
+      "spread": " {...messages.everyDay} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.chooseInvestmentFrequency} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.chooseInvestmentFrequency} />",
+      "all_regex": "\n            <FormattedMessage {...messages.chooseInvestmentFrequency} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.chooseInvestmentFrequency} />",
+      "main_clean": "<FormattedMessage {...messages.chooseInvestmentFrequency} />",
+      "main_regex": "<FormattedMessage {...messages.chooseInvestmentFrequency} />",
+      "props": " {...messages.chooseInvestmentFrequency} ",
+      "spread": " {...messages.chooseInvestmentFrequency} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.currentBalance} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.currentBalance} />",
+      "all_regex": "\n          <FormattedMessage {...messages.currentBalance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.currentBalance} />",
+      "main_clean": "<FormattedMessage {...messages.currentBalance} />",
+      "main_regex": "<FormattedMessage {...messages.currentBalance} />",
+      "props": " {...messages.currentBalance} ",
+      "spread": " {...messages.currentBalance} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, injectIntl } from 'react-intl';",
+      "named": "FormattedMessage, injectIntl "
+    }
+  ]
+}

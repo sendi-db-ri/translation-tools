@@ -1,0 +1,100 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/Forms/TfnForm.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/Forms/TfnForm.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.fileNumber} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.fileNumber} />",
+      "all_regex": "\n              <FormattedMessage {...messages.fileNumber} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.fileNumber} />",
+      "main_clean": "<FormattedMessage {...messages.fileNumber} />",
+      "main_regex": "<FormattedMessage {...messages.fileNumber} />",
+      "props": " {...messages.fileNumber} ",
+      "spread": " {...messages.fileNumber} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.pleaseProvide} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.pleaseProvide} />",
+      "all_regex": "\n              <FormattedMessage {...messages.pleaseProvide} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.pleaseProvide} />",
+      "main_clean": "<FormattedMessage {...messages.pleaseProvide} />",
+      "main_regex": "<FormattedMessage {...messages.pleaseProvide} />",
+      "props": " {...messages.pleaseProvide} ",
+      "spread": " {...messages.pleaseProvide} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  label=<FormattedMessage {...messages.taxFile} />\n                ",
+      "all_clean": "label=<FormattedMessage {...messages.taxFile} />",
+      "all_regex": "\n                  label=<FormattedMessage {...messages.taxFile} />\n                ",
+      "before": "\n                  label=",
+      "main": "<FormattedMessage {...messages.taxFile} />",
+      "main_clean": "<FormattedMessage {...messages.taxFile} />",
+      "main_regex": "<FormattedMessage {...messages.taxFile} />",
+      "props": " {...messages.taxFile} ",
+      "spread": " {...messages.taxFile} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.iUnderstand} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.iUnderstand} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.iUnderstand} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iUnderstand} />",
+      "main_clean": "<FormattedMessage {...messages.iUnderstand} />",
+      "main_regex": "<FormattedMessage {...messages.iUnderstand} />",
+      "props": " {...messages.iUnderstand} ",
+      "spread": " {...messages.iUnderstand} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.ifTheTFN} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.ifTheTFN} />",
+      "all_regex": "\n                <FormattedMessage {...messages.ifTheTFN} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.ifTheTFN} />",
+      "main_clean": "<FormattedMessage {...messages.ifTheTFN} />",
+      "main_regex": "<FormattedMessage {...messages.ifTheTFN} />",
+      "props": " {...messages.ifTheTFN} ",
+      "spread": " {...messages.ifTheTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.back} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.back} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.back} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.continue} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.continue} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.continue} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "main_clean": "<FormattedMessage {...messages.continue} />",
+      "main_regex": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

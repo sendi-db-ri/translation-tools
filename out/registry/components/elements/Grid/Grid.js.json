@@ -1,0 +1,143 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/elements/Grid/Grid.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/elements/Grid/Grid.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messages from '../../../pages/Settings/Settings.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            />\n          ",
+      "all_clean": "<FormattedMessage {...messages.investedPercent} values={{ amount: brand.invested_value }} />",
+      "all_regex": "\n            <FormattedMessage\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            />",
+      "main_clean": "<FormattedMessage {...messages.investedPercent} values={{ amount: brand.invested_value }} />",
+      "main_regex": "<FormattedMessage\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            />",
+      "props": "\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            ",
+      "spread": "\n              {...messages.investedPercent}\n              ",
+      "values": "values={{ amount: brand.invested_value }}\n            "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.otherBanks} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.otherBanks} />",
+      "all_regex": "\n              <FormattedMessage {...messages.otherBanks} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.otherBanks} />",
+      "main_clean": "<FormattedMessage {...messages.otherBanks} />",
+      "main_regex": "<FormattedMessage {...messages.otherBanks} />",
+      "props": " {...messages.otherBanks} ",
+      "spread": " {...messages.otherBanks} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n            {isNewRewards && <FormattedMessage {...messages.categories} />}\n          ",
+      "all_clean": "{isNewRewards && <FormattedMessage {...messages.categories} />}",
+      "all_regex": "\n            {isNewRewards && <FormattedMessage {...messages.categories} />}\n          ",
+      "before": "\n            {isNewRewards && ",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "main_clean": "<FormattedMessage {...messages.categories} />",
+      "main_regex": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.visa} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.visa} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.visa} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.visa} />",
+      "main_clean": "<FormattedMessage {...messages.visa} />",
+      "main_regex": "<FormattedMessage {...messages.visa} />",
+      "props": " {...messages.visa} ",
+      "spread": " {...messages.visa} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.debitCards} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.debitCards} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.debitCards} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.debitCards} />",
+      "main_clean": "<FormattedMessage {...messages.debitCards} />",
+      "main_regex": "<FormattedMessage {...messages.debitCards} />",
+      "props": " {...messages.debitCards} ",
+      "spread": " {...messages.debitCards} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.mastercard} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.mastercard} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.mastercard} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.mastercard} />",
+      "main_clean": "<FormattedMessage {...messages.mastercard} />",
+      "main_regex": "<FormattedMessage {...messages.mastercard} />",
+      "props": " {...messages.mastercard} ",
+      "spread": " {...messages.mastercard} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.debit} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.debit} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.debit} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.debit} />",
+      "main_clean": "<FormattedMessage {...messages.debit} />",
+      "main_regex": "<FormattedMessage {...messages.debit} />",
+      "props": " {...messages.debit} ",
+      "spread": " {...messages.debit} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.mastercard} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.mastercard} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.mastercard} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.mastercard} />",
+      "main_clean": "<FormattedMessage {...messages.mastercard} />",
+      "main_regex": "<FormattedMessage {...messages.mastercard} />",
+      "props": " {...messages.mastercard} ",
+      "spread": " {...messages.mastercard} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.debit} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.debit} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.debit} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.debit} />",
+      "main_clean": "<FormattedMessage {...messages.debit} />",
+      "main_regex": "<FormattedMessage {...messages.debit} />",
+      "props": " {...messages.debit} ",
+      "spread": " {...messages.debit} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.different} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.different} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.different} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.different} />",
+      "main_clean": "<FormattedMessage {...messages.different} />",
+      "main_regex": "<FormattedMessage {...messages.different} />",
+      "props": " {...messages.different} ",
+      "spread": " {...messages.different} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

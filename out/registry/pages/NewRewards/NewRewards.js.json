@@ -1,0 +1,34 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/NewRewards.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/NewRewards.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/Rewards.i18n.js",
+      "replace": "import messages from './Rewards.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          categoryTitle={<FormattedMessage {...messages.categories} />}\n          ",
+      "all_clean": "categoryTitle={<FormattedMessage {...messages.categories} />}",
+      "all_regex": "\n          categoryTitle={<FormattedMessage {...messages.categories} />}\n          ",
+      "before": "\n          categoryTitle={",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "main_clean": "<FormattedMessage {...messages.categories} />",
+      "main_regex": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

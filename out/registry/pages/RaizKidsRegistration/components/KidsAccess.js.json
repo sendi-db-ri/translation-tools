@@ -1,0 +1,196 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/KidsAccess.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/KidsAccess.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.allowRaizKid} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.allowRaizKid} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.allowRaizKid} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.allowRaizKid} />",
+      "main_clean": "<FormattedMessage {...messages.allowRaizKid} />",
+      "main_regex": "<FormattedMessage {...messages.allowRaizKid} />",
+      "props": " {...messages.allowRaizKid} ",
+      "spread": " {...messages.allowRaizKid} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.allowed} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.allowed} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.allowed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.allowed} />",
+      "main_clean": "<FormattedMessage {...messages.allowed} />",
+      "main_regex": "<FormattedMessage {...messages.allowed} />",
+      "props": " {...messages.allowed} ",
+      "spread": " {...messages.allowed} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.notAllowed} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.notAllowed} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.notAllowed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.notAllowed} />",
+      "main_clean": "<FormattedMessage {...messages.notAllowed} />",
+      "main_regex": "<FormattedMessage {...messages.notAllowed} />",
+      "props": " {...messages.notAllowed} ",
+      "spread": " {...messages.notAllowed} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.change} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.change} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.change} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.change} />",
+      "main_clean": "<FormattedMessage {...messages.change} />",
+      "main_regex": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.investmentByKid} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.investmentByKid} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.investmentByKid} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.investmentByKid} />",
+      "main_clean": "<FormattedMessage {...messages.investmentByKid} />",
+      "main_regex": "<FormattedMessage {...messages.investmentByKid} />",
+      "props": " {...messages.investmentByKid} ",
+      "spread": " {...messages.investmentByKid} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.weekly} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.weekly} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.weekly} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.weekly} />",
+      "main_clean": "<FormattedMessage {...messages.weekly} />",
+      "main_regex": "<FormattedMessage {...messages.weekly} />",
+      "props": " {...messages.weekly} ",
+      "spread": " {...messages.weekly} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.allowed} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.allowed} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.allowed} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.allowed} />",
+      "main_clean": "<FormattedMessage {...messages.allowed} />",
+      "main_regex": "<FormattedMessage {...messages.allowed} />",
+      "props": " {...messages.allowed} ",
+      "spread": " {...messages.allowed} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.notAllowed} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.notAllowed} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.notAllowed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.notAllowed} />",
+      "main_clean": "<FormattedMessage {...messages.notAllowed} />",
+      "main_regex": "<FormattedMessage {...messages.notAllowed} />",
+      "props": " {...messages.notAllowed} ",
+      "spread": " {...messages.notAllowed} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.change} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.change} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.change} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.change} />",
+      "main_clean": "<FormattedMessage {...messages.change} />",
+      "main_regex": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.allowPortfolio} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.allowPortfolio} />",
+      "all_regex": "\n                <FormattedMessage {...messages.allowPortfolio} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.allowPortfolio} />",
+      "main_clean": "<FormattedMessage {...messages.allowPortfolio} />",
+      "main_regex": "<FormattedMessage {...messages.allowPortfolio} />",
+      "props": " {...messages.allowPortfolio} ",
+      "spread": " {...messages.allowPortfolio} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.allowRecurring} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.allowRecurring} />",
+      "all_regex": "\n                <FormattedMessage {...messages.allowRecurring} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.allowRecurring} />",
+      "main_clean": "<FormattedMessage {...messages.allowRecurring} />",
+      "main_regex": "<FormattedMessage {...messages.allowRecurring} />",
+      "props": " {...messages.allowRecurring} ",
+      "spread": " {...messages.allowRecurring} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.allowRewards} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.allowRewards} />",
+      "all_regex": "\n                <FormattedMessage {...messages.allowRewards} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.allowRewards} />",
+      "main_clean": "<FormattedMessage {...messages.allowRewards} />",
+      "main_regex": "<FormattedMessage {...messages.allowRewards} />",
+      "props": " {...messages.allowRewards} ",
+      "spread": " {...messages.allowRewards} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.save} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.save} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.save} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.save} />",
+      "main_clean": "<FormattedMessage {...messages.save} />",
+      "main_regex": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

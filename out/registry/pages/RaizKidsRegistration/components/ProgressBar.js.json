@@ -1,0 +1,64 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/ProgressBar.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/components/ProgressBar.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.personal} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.personal} />",
+      "all_regex": "\n            <FormattedMessage {...messages.personal} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.personal} />",
+      "main_clean": "<FormattedMessage {...messages.personal} />",
+      "main_regex": "<FormattedMessage {...messages.personal} />",
+      "props": " {...messages.personal} ",
+      "spread": " {...messages.personal} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.investments} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.investments} />",
+      "all_regex": "\n            <FormattedMessage {...messages.investments} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.investments} />",
+      "main_clean": "<FormattedMessage {...messages.investments} />",
+      "main_regex": "<FormattedMessage {...messages.investments} />",
+      "props": " {...messages.investments} ",
+      "spread": " {...messages.investments} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.portfolio} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.portfolio} />",
+      "all_regex": "\n            <FormattedMessage {...messages.portfolio} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.portfolio} />",
+      "main_clean": "<FormattedMessage {...messages.portfolio} />",
+      "main_regex": "<FormattedMessage {...messages.portfolio} />",
+      "props": " {...messages.portfolio} ",
+      "spread": " {...messages.portfolio} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.account} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.account} />",
+      "all_regex": "\n            <FormattedMessage {...messages.account} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.account} />",
+      "main_clean": "<FormattedMessage {...messages.account} />",
+      "main_regex": "<FormattedMessage {...messages.account} />",
+      "props": " {...messages.account} ",
+      "spread": " {...messages.account} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

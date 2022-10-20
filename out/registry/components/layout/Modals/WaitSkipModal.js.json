@@ -1,0 +1,52 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/WaitSkipModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/WaitSkipModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.bankAlert} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.bankAlert} />",
+      "all_regex": "\n          <FormattedMessage {...messages.bankAlert} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.bankAlert} />",
+      "main_clean": "<FormattedMessage {...messages.bankAlert} />",
+      "main_regex": "<FormattedMessage {...messages.bankAlert} />",
+      "props": " {...messages.bankAlert} ",
+      "spread": " {...messages.bankAlert} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.wait} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.wait} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.wait} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.wait} />",
+      "main_clean": "<FormattedMessage {...messages.wait} />",
+      "main_regex": "<FormattedMessage {...messages.wait} />",
+      "props": " {...messages.wait} ",
+      "spread": " {...messages.wait} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            title={<FormattedMessage {...messages.skip} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.skip} />}",
+      "all_regex": "\n            title={<FormattedMessage {...messages.skip} />}\n            ",
+      "before": "\n            title={",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "main_clean": "<FormattedMessage {...messages.skip} />",
+      "main_regex": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Support.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Support.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.support} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.support} />",
+      "all_regex": "\n            <FormattedMessage {...messages.support} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.support} />",
+      "main_clean": "<FormattedMessage {...messages.support} />",
+      "main_regex": "<FormattedMessage {...messages.support} />",
+      "props": " {...messages.support} ",
+      "spread": " {...messages.support} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.faq} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.faq} />",
+      "all_regex": "\n            <FormattedMessage {...messages.faq} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.faq} />",
+      "main_clean": "<FormattedMessage {...messages.faq} />",
+      "main_regex": "<FormattedMessage {...messages.faq} />",
+      "props": " {...messages.faq} ",
+      "spread": " {...messages.faq} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.contactSupport} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.contactSupport} />",
+      "all_regex": "\n            <FormattedMessage {...messages.contactSupport} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.contactSupport} />",
+      "main_clean": "<FormattedMessage {...messages.contactSupport} />",
+      "main_regex": "<FormattedMessage {...messages.contactSupport} />",
+      "props": " {...messages.contactSupport} ",
+      "spread": " {...messages.contactSupport} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.security} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.security} />",
+      "all_regex": "\n            <FormattedMessage {...messages.security} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.security} />",
+      "main_clean": "<FormattedMessage {...messages.security} />",
+      "main_regex": "<FormattedMessage {...messages.security} />",
+      "props": " {...messages.security} ",
+      "spread": " {...messages.security} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.legal} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.legal} />",
+      "all_regex": "\n            <FormattedMessage {...messages.legal} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.legal} />",
+      "main_clean": "<FormattedMessage {...messages.legal} />",
+      "main_regex": "<FormattedMessage {...messages.legal} />",
+      "props": " {...messages.legal} ",
+      "spread": " {...messages.legal} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.offsettersUnsubscribe} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.offsettersUnsubscribe} />",
+      "all_regex": "\n                <FormattedMessage {...messages.offsettersUnsubscribe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.offsettersUnsubscribe} />",
+      "main_clean": "<FormattedMessage {...messages.offsettersUnsubscribe} />",
+      "main_regex": "<FormattedMessage {...messages.offsettersUnsubscribe} />",
+      "props": " {...messages.offsettersUnsubscribe} ",
+      "spread": " {...messages.offsettersUnsubscribe} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.fees} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.fees} />",
+      "all_regex": "\n              <FormattedMessage {...messages.fees} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.fees} />",
+      "main_clean": "<FormattedMessage {...messages.fees} />",
+      "main_regex": "<FormattedMessage {...messages.fees} />",
+      "props": " {...messages.fees} ",
+      "spread": " {...messages.fees} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.closeAccount} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.closeAccount} />",
+      "all_regex": "\n              <FormattedMessage {...messages.closeAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.closeAccount} />",
+      "main_clean": "<FormattedMessage {...messages.closeAccount} />",
+      "main_regex": "<FormattedMessage {...messages.closeAccount} />",
+      "props": " {...messages.closeAccount} ",
+      "spread": " {...messages.closeAccount} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage {...messages.contactSupportToClose} />\n            }\n            ",
+      "all_clean": "{ <FormattedMessage {...messages.contactSupportToClose} /> }",
+      "all_regex": "{\n              <FormattedMessage {...messages.contactSupportToClose} />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage {...messages.contactSupportToClose} />",
+      "main_clean": "<FormattedMessage {...messages.contactSupportToClose} />",
+      "main_regex": "<FormattedMessage {...messages.contactSupportToClose} />",
+      "props": " {...messages.contactSupportToClose} ",
+      "spread": " {...messages.contactSupportToClose} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

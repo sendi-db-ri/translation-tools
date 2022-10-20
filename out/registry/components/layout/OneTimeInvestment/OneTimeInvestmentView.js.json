@@ -1,0 +1,133 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/OneTimeInvestment/OneTimeInvestmentView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/OneTimeInvestment/OneTimeInvestmentView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n    ",
+      "all": "\n      <FormattedMessage {...messages.congrats} />\n    ",
+      "all_clean": "<FormattedMessage {...messages.congrats} />",
+      "all_regex": "\n      <FormattedMessage {...messages.congrats} />\n    ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages.congrats} />",
+      "main_clean": "<FormattedMessage {...messages.congrats} />",
+      "main_regex": "<FormattedMessage {...messages.congrats} />",
+      "props": " {...messages.congrats} ",
+      "spread": " {...messages.congrats} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.ok} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.ok} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.viewHistory} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.viewHistory} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.viewHistory} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "main_clean": "<FormattedMessage {...messages.viewHistory} />",
+      "main_regex": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    },
+    {
+      "after": "\n    ",
+      "all": "\n      <FormattedMessage {...messages.nice} />\n    ",
+      "all_clean": "<FormattedMessage {...messages.nice} />",
+      "all_regex": "\n      <FormattedMessage {...messages.nice} />\n    ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages.nice} />",
+      "main_clean": "<FormattedMessage {...messages.nice} />",
+      "main_regex": "<FormattedMessage {...messages.nice} />",
+      "props": " {...messages.nice} ",
+      "spread": " {...messages.nice} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.cancel} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.cancel} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.invest} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.invest} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.invest} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "main_clean": "<FormattedMessage {...messages.invest} />",
+      "main_regex": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.oneTimeInvestment} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.oneTimeInvestment} />",
+      "all_regex": "\n        <FormattedMessage {...messages.oneTimeInvestment} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.oneTimeInvestment} />",
+      "main_clean": "<FormattedMessage {...messages.oneTimeInvestment} />",
+      "main_regex": "<FormattedMessage {...messages.oneTimeInvestment} />",
+      "props": " {...messages.oneTimeInvestment} ",
+      "spread": " {...messages.oneTimeInvestment} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.makeRaizWork} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.makeRaizWork} />",
+      "all_regex": "\n            <FormattedMessage {...messages.makeRaizWork} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.makeRaizWork} />",
+      "main_clean": "<FormattedMessage {...messages.makeRaizWork} />",
+      "main_regex": "<FormattedMessage {...messages.makeRaizWork} />",
+      "props": " {...messages.makeRaizWork} ",
+      "spread": " {...messages.makeRaizWork} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.other} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.other} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.other} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.other} />",
+      "main_clean": "<FormattedMessage {...messages.other} />",
+      "main_regex": "<FormattedMessage {...messages.other} />",
+      "props": " {...messages.other} ",
+      "spread": " {...messages.other} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n    ",
+      "all": "\n      <FormattedHTMLMessage {...messages.yourInvestmentInDays} />\n    ",
+      "before": "\n      ",
+      "main": "<FormattedHTMLMessage {...messages.yourInvestmentInDays} />",
+      "props": " {...messages.yourInvestmentInDays} ",
+      "spread": " {...messages.yourInvestmentInDays} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

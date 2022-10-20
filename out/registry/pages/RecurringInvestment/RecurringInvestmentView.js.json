@@ -1,0 +1,112 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/RecurringInvestmentView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RecurringInvestment/RecurringInvestmentView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": " {\n      title = <FormattedMessage {...messages.setuju} />",
+      "all_clean": "{ title = <FormattedMessage {...messages.setuju} />",
+      "all_regex": " {\n      title = <FormattedMessage {...messages.setuju} />",
+      "before": " {\n      title = ",
+      "main": "<FormattedMessage {...messages.setuju} />",
+      "main_clean": "<FormattedMessage {...messages.setuju} />",
+      "main_regex": "<FormattedMessage {...messages.setuju} />",
+      "props": " {...messages.setuju} ",
+      "spread": " {...messages.setuju} "
+    },
+    {
+      "after": "",
+      "all": " {\n      title = <FormattedMessage {...messages.pengaturanTarget} />",
+      "all_clean": "{ title = <FormattedMessage {...messages.pengaturanTarget} />",
+      "all_regex": " {\n      title = <FormattedMessage {...messages.pengaturanTarget} />",
+      "before": " {\n      title = ",
+      "main": "<FormattedMessage {...messages.pengaturanTarget} />",
+      "main_clean": "<FormattedMessage {...messages.pengaturanTarget} />",
+      "main_regex": "<FormattedMessage {...messages.pengaturanTarget} />",
+      "props": " {...messages.pengaturanTarget} ",
+      "spread": " {...messages.pengaturanTarget} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n        title={<FormattedMessage {...messages.setSavingGoal} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.setSavingGoal} />}",
+      "all_regex": "\n        title={<FormattedMessage {...messages.setSavingGoal} />}\n        ",
+      "before": "\n        title={",
+      "main": "<FormattedMessage {...messages.setSavingGoal} />",
+      "main_clean": "<FormattedMessage {...messages.setSavingGoal} />",
+      "main_regex": "<FormattedMessage {...messages.setSavingGoal} />",
+      "props": " {...messages.setSavingGoal} ",
+      "spread": " {...messages.setSavingGoal} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.oops} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.oops} />",
+      "all_regex": "\n              <FormattedMessage {...messages.oops} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.oops} />",
+      "main_clean": "<FormattedMessage {...messages.oops} />",
+      "main_regex": "<FormattedMessage {...messages.oops} />",
+      "props": " {...messages.oops} ",
+      "spread": " {...messages.oops} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          modalContent={<FormattedMessage {...messages.noteImportant} />}\n          ",
+      "all_clean": "modalContent={<FormattedMessage {...messages.noteImportant} />}",
+      "all_regex": "\n          modalContent={<FormattedMessage {...messages.noteImportant} />}\n          ",
+      "before": "\n          modalContent={",
+      "main": "<FormattedMessage {...messages.noteImportant} />",
+      "main_clean": "<FormattedMessage {...messages.noteImportant} />",
+      "main_regex": "<FormattedMessage {...messages.noteImportant} />",
+      "props": " {...messages.noteImportant} ",
+      "spread": " {...messages.noteImportant} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.cancel} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n          modalTitle={<FormattedMessage {...messages.stopRecurring} />}\n          ",
+      "all_clean": "modalTitle={<FormattedMessage {...messages.stopRecurring} />}",
+      "all_regex": "\n          modalTitle={<FormattedMessage {...messages.stopRecurring} />}\n          ",
+      "before": "\n          modalTitle={",
+      "main": "<FormattedMessage {...messages.stopRecurring} />",
+      "main_clean": "<FormattedMessage {...messages.stopRecurring} />",
+      "main_regex": "<FormattedMessage {...messages.stopRecurring} />",
+      "props": " {...messages.stopRecurring} ",
+      "spread": " {...messages.stopRecurring} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n              title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

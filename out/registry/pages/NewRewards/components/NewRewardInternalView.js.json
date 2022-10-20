@@ -1,0 +1,142 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/NewRewardInternalView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/components/NewRewardInternalView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/NewRewards/Rewards.i18n.js",
+      "replace": "import messages from '../Rewards.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.featured} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.featured} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.featured} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.featured} />",
+      "main_clean": "<FormattedMessage {...messages.featured} />",
+      "main_regex": "<FormattedMessage {...messages.featured} />",
+      "props": " {...messages.featured} ",
+      "spread": " {...messages.featured} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.recommended} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.recommended} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.recommended} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.recommended} />",
+      "main_clean": "<FormattedMessage {...messages.recommended} />",
+      "main_regex": "<FormattedMessage {...messages.recommended} />",
+      "props": " {...messages.recommended} ",
+      "spread": " {...messages.recommended} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.location} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.location} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.location} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.location} />",
+      "main_clean": "<FormattedMessage {...messages.location} />",
+      "main_regex": "<FormattedMessage {...messages.location} />",
+      "props": " {...messages.location} ",
+      "spread": " {...messages.location} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage {...messages.moreLocations} />\n                              ",
+      "all_clean": "<FormattedMessage {...messages.moreLocations} />",
+      "all_regex": "\n                                <FormattedMessage {...messages.moreLocations} />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage {...messages.moreLocations} />",
+      "main_clean": "<FormattedMessage {...messages.moreLocations} />",
+      "main_regex": "<FormattedMessage {...messages.moreLocations} />",
+      "props": " {...messages.moreLocations} ",
+      "spread": " {...messages.moreLocations} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.investmentTips} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.investmentTips} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.investmentTips} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.investmentTips} />",
+      "main_clean": "<FormattedMessage {...messages.investmentTips} />",
+      "main_regex": "<FormattedMessage {...messages.investmentTips} />",
+      "props": " {...messages.investmentTips} ",
+      "spread": " {...messages.investmentTips} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.howItWorks} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.howItWorks} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.howItWorks} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.howItWorks} />",
+      "main_clean": "<FormattedMessage {...messages.howItWorks} />",
+      "main_regex": "<FormattedMessage {...messages.howItWorks} />",
+      "props": " {...messages.howItWorks} ",
+      "spread": " {...messages.howItWorks} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage\n                                {...messages.aboutTheGiftCard}\n                              />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.aboutTheGiftCard} />",
+      "all_regex": "\n                              <FormattedMessage\n                                {...messages.aboutTheGiftCard}\n                              />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage\n                                {...messages.aboutTheGiftCard}\n                              />",
+      "main_clean": "<FormattedMessage {...messages.aboutTheGiftCard} />",
+      "main_regex": "<FormattedMessage\n                                {...messages.aboutTheGiftCard}\n                              />",
+      "props": "\n                                {...messages.aboutTheGiftCard}\n                              ",
+      "spread": "\n                                {...messages.aboutTheGiftCard}\n                              "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.aboutTheBrand} />\n                            ",
+      "all_clean": "<FormattedMessage {...messages.aboutTheBrand} />",
+      "all_regex": "\n                              <FormattedMessage {...messages.aboutTheBrand} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.aboutTheBrand} />",
+      "main_clean": "<FormattedMessage {...messages.aboutTheBrand} />",
+      "main_regex": "<FormattedMessage {...messages.aboutTheBrand} />",
+      "props": " {...messages.aboutTheBrand} ",
+      "spread": " {...messages.aboutTheBrand} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.termsConditions} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.termsConditions} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.termsConditions} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.termsConditions} />",
+      "main_clean": "<FormattedMessage {...messages.termsConditions} />",
+      "main_regex": "<FormattedMessage {...messages.termsConditions} />",
+      "props": " {...messages.termsConditions} ",
+      "spread": " {...messages.termsConditions} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.moreLocations} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.moreLocations} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.moreLocations} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.moreLocations} />",
+      "main_clean": "<FormattedMessage {...messages.moreLocations} />",
+      "main_regex": "<FormattedMessage {...messages.moreLocations} />",
+      "props": " {...messages.moreLocations} ",
+      "spread": " {...messages.moreLocations} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

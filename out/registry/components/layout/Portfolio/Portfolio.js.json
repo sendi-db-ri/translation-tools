@@ -1,0 +1,46 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Portfolio/Portfolio.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Portfolio/Portfolio.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Portfolio/Portfolio.i18n.js",
+      "replace": "import messages from './Portfolio.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.portfolio} />\n      ",
+      "all_clean": "<FormattedMessage {...messages.portfolio} />",
+      "all_regex": "\n        <FormattedMessage {...messages.portfolio} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.portfolio} />",
+      "main_clean": "<FormattedMessage {...messages.portfolio} />",
+      "main_regex": "<FormattedMessage {...messages.portfolio} />",
+      "props": " {...messages.portfolio} ",
+      "spread": " {...messages.portfolio} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n          title={<FormattedMessage {...messages.changePortfolio} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.changePortfolio} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.changePortfolio} />}\n        ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.changePortfolio} />",
+      "main_clean": "<FormattedMessage {...messages.changePortfolio} />",
+      "main_regex": "<FormattedMessage {...messages.changePortfolio} />",
+      "props": " {...messages.changePortfolio} ",
+      "spread": " {...messages.changePortfolio} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

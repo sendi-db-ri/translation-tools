@@ -1,0 +1,58 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundingModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/FundingModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Widgets/RecurringWidget/RecurringWidget.i18n.js",
+      "replace": "import messages from '../Widgets/RecurringWidget/RecurringWidget.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recurringInvestments} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.recurringInvestments} />",
+      "all_regex": "\n          <FormattedMessage {...messages.recurringInvestments} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recurringInvestments} />",
+      "main_clean": "<FormattedMessage {...messages.recurringInvestments} />",
+      "main_regex": "<FormattedMessage {...messages.recurringInvestments} />",
+      "props": " {...messages.recurringInvestments} ",
+      "spread": " {...messages.recurringInvestments} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkFunding} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "all_regex": "\n          <FormattedMessage {...messages.linkFunding} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "main_clean": "<FormattedMessage {...messages.linkFunding} />",
+      "main_regex": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n          title={<FormattedMessage {...messages.linkFundingAccount} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.linkFundingAccount} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.linkFundingAccount} />}\n        ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "props": " {...messages.linkFundingAccount} ",
+      "spread": " {...messages.linkFundingAccount} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

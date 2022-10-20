@@ -1,0 +1,88 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Legal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/components/Legal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.legal} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.legal} />",
+      "all_regex": "\n            <FormattedMessage {...messages.legal} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.legal} />",
+      "main_clean": "<FormattedMessage {...messages.legal} />",
+      "main_regex": "<FormattedMessage {...messages.legal} />",
+      "props": " {...messages.legal} ",
+      "spread": " {...messages.legal} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.termsConditions} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.termsConditions} />",
+      "all_regex": "\n            <FormattedMessage {...messages.termsConditions} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.termsConditions} />",
+      "main_clean": "<FormattedMessage {...messages.termsConditions} />",
+      "main_regex": "<FormattedMessage {...messages.termsConditions} />",
+      "props": " {...messages.termsConditions} ",
+      "spread": " {...messages.termsConditions} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.accountOpeningAgreement} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.accountOpeningAgreement} />",
+      "all_regex": "\n              <FormattedMessage {...messages.accountOpeningAgreement} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountOpeningAgreement} />",
+      "main_clean": "<FormattedMessage {...messages.accountOpeningAgreement} />",
+      "main_regex": "<FormattedMessage {...messages.accountOpeningAgreement} />",
+      "props": " {...messages.accountOpeningAgreement} ",
+      "spread": " {...messages.accountOpeningAgreement} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.productDisclosure} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.productDisclosure} />",
+      "all_regex": "\n              <FormattedMessage {...messages.productDisclosure} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.productDisclosure} />",
+      "main_clean": "<FormattedMessage {...messages.productDisclosure} />",
+      "main_regex": "<FormattedMessage {...messages.productDisclosure} />",
+      "props": " {...messages.productDisclosure} ",
+      "spread": " {...messages.productDisclosure} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.privacyPolicy} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.privacyPolicy} />",
+      "all_regex": "\n            <FormattedMessage {...messages.privacyPolicy} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.privacyPolicy} />",
+      "main_clean": "<FormattedMessage {...messages.privacyPolicy} />",
+      "main_regex": "<FormattedMessage {...messages.privacyPolicy} />",
+      "props": " {...messages.privacyPolicy} ",
+      "spread": " {...messages.privacyPolicy} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.disclosures} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.disclosures} />",
+      "all_regex": "\n            <FormattedMessage {...messages.disclosures} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.disclosures} />",
+      "main_clean": "<FormattedMessage {...messages.disclosures} />",
+      "main_regex": "<FormattedMessage {...messages.disclosures} />",
+      "props": " {...messages.disclosures} ",
+      "spread": " {...messages.disclosures} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

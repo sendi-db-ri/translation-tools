@@ -1,0 +1,370 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/SuperRegistrationModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/SuperRegistrationModal.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/SuperRegistration.i18n.js",
+      "replace": "import messages from '../../../pages/Super/components/SuperRegistration/SuperRegistration.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.byOpening} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.byOpening} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.byOpening} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.byOpening} />",
+      "main_clean": "<FormattedMessage {...messages.byOpening} />",
+      "main_regex": "<FormattedMessage {...messages.byOpening} />",
+      "props": " {...messages.byOpening} ",
+      "spread": " {...messages.byOpening} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.iveRead} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.iveRead} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.iveRead} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iveRead} />",
+      "main_clean": "<FormattedMessage {...messages.iveRead} />",
+      "main_regex": "<FormattedMessage {...messages.iveRead} />",
+      "props": " {...messages.iveRead} ",
+      "spread": " {...messages.iveRead} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.continueToBeDeducted} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.continueToBeDeducted} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.continueToBeDeducted} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.continueToBeDeducted} />",
+      "main_clean": "<FormattedMessage {...messages.continueToBeDeducted} />",
+      "main_regex": "<FormattedMessage {...messages.continueToBeDeducted} />",
+      "props": " {...messages.continueToBeDeducted} ",
+      "spread": " {...messages.continueToBeDeducted} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.haveSufficient} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.haveSufficient} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.haveSufficient} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.haveSufficient} />",
+      "main_clean": "<FormattedMessage {...messages.haveSufficient} />",
+      "main_regex": "<FormattedMessage {...messages.haveSufficient} />",
+      "props": " {...messages.haveSufficient} ",
+      "spread": " {...messages.haveSufficient} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.choosine} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.choosine} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.choosine} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.choosine} />",
+      "main_clean": "<FormattedMessage {...messages.choosine} />",
+      "main_regex": "<FormattedMessage {...messages.choosine} />",
+      "props": " {...messages.choosine} ",
+      "spread": " {...messages.choosine} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.myAccount} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.myAccount} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.myAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.myAccount} />",
+      "main_clean": "<FormattedMessage {...messages.myAccount} />",
+      "main_regex": "<FormattedMessage {...messages.myAccount} />",
+      "props": " {...messages.myAccount} ",
+      "spread": " {...messages.myAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.iAmBelow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.iAmBelow} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.iAmBelow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iAmBelow} />",
+      "main_clean": "<FormattedMessage {...messages.iAmBelow} />",
+      "main_regex": "<FormattedMessage {...messages.iAmBelow} />",
+      "props": " {...messages.iAmBelow} ",
+      "spread": " {...messages.iAmBelow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.mySuperAccount} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.mySuperAccount} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.mySuperAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.mySuperAccount} />",
+      "main_clean": "<FormattedMessage {...messages.mySuperAccount} />",
+      "main_regex": "<FormattedMessage {...messages.mySuperAccount} />",
+      "props": " {...messages.mySuperAccount} ",
+      "spread": " {...messages.mySuperAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.iUnderstandThat} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.iUnderstandThat} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.iUnderstandThat} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.iUnderstandThat} />",
+      "main_clean": "<FormattedMessage {...messages.iUnderstandThat} />",
+      "main_regex": "<FormattedMessage {...messages.iUnderstandThat} />",
+      "props": " {...messages.iUnderstandThat} ",
+      "spread": " {...messages.iUnderstandThat} "
+    },
+    {
+      "after": "",
+      "all": "\n                  <FormattedMessage {...messages.forInformation} />",
+      "all_clean": "<FormattedMessage {...messages.forInformation} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.forInformation} />",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.forInformation} />",
+      "main_clean": "<FormattedMessage {...messages.forInformation} />",
+      "main_regex": "<FormattedMessage {...messages.forInformation} />",
+      "props": " {...messages.forInformation} ",
+      "spread": " {...messages.forInformation} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.provideTFN1} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.provideTFN1} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.provideTFN1} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.provideTFN1} />",
+      "main_clean": "<FormattedMessage {...messages.provideTFN1} />",
+      "main_regex": "<FormattedMessage {...messages.provideTFN1} />",
+      "props": " {...messages.provideTFN1} ",
+      "spread": " {...messages.provideTFN1} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.validateTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.validateTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.validateTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.validateTFN} />",
+      "main_clean": "<FormattedMessage {...messages.validateTFN} />",
+      "main_regex": "<FormattedMessage {...messages.validateTFN} />",
+      "props": " {...messages.validateTFN} ",
+      "spread": " {...messages.validateTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.primaryTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.primaryTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.primaryTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.primaryTFN} />",
+      "main_clean": "<FormattedMessage {...messages.primaryTFN} />",
+      "main_regex": "<FormattedMessage {...messages.primaryTFN} />",
+      "props": " {...messages.primaryTFN} ",
+      "spread": " {...messages.primaryTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.matchTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.matchTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.matchTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.matchTFN} />",
+      "main_clean": "<FormattedMessage {...messages.matchTFN} />",
+      "main_regex": "<FormattedMessage {...messages.matchTFN} />",
+      "props": " {...messages.matchTFN} ",
+      "spread": " {...messages.matchTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.identifyTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.identifyTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.identifyTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.identifyTFN} />",
+      "main_clean": "<FormattedMessage {...messages.identifyTFN} />",
+      "main_regex": "<FormattedMessage {...messages.identifyTFN} />",
+      "props": " {...messages.identifyTFN} ",
+      "spread": " {...messages.identifyTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.provideTFN2} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.provideTFN2} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.provideTFN2} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.provideTFN2} />",
+      "main_clean": "<FormattedMessage {...messages.provideTFN2} />",
+      "main_regex": "<FormattedMessage {...messages.provideTFN2} />",
+      "props": " {...messages.provideTFN2} ",
+      "spread": " {...messages.provideTFN2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.searchTFN1} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.searchTFN1} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.searchTFN1} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.searchTFN1} />",
+      "main_clean": "<FormattedMessage {...messages.searchTFN1} />",
+      "main_regex": "<FormattedMessage {...messages.searchTFN1} />",
+      "props": " {...messages.searchTFN1} ",
+      "spread": " {...messages.searchTFN1} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.searchTFN2} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.searchTFN2} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.searchTFN2} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.searchTFN2} />",
+      "main_clean": "<FormattedMessage {...messages.searchTFN2} />",
+      "main_regex": "<FormattedMessage {...messages.searchTFN2} />",
+      "props": " {...messages.searchTFN2} ",
+      "spread": " {...messages.searchTFN2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.seekTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.seekTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.seekTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.seekTFN} />",
+      "main_clean": "<FormattedMessage {...messages.seekTFN} />",
+      "main_regex": "<FormattedMessage {...messages.seekTFN} />",
+      "props": " {...messages.seekTFN} ",
+      "spread": " {...messages.seekTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.facilitateTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.facilitateTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.facilitateTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.facilitateTFN} />",
+      "main_clean": "<FormattedMessage {...messages.facilitateTFN} />",
+      "main_regex": "<FormattedMessage {...messages.facilitateTFN} />",
+      "props": " {...messages.facilitateTFN} ",
+      "spread": " {...messages.facilitateTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.requestTFN} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.requestTFN} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.requestTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.requestTFN} />",
+      "main_clean": "<FormattedMessage {...messages.requestTFN} />",
+      "main_regex": "<FormattedMessage {...messages.requestTFN} />",
+      "props": " {...messages.requestTFN} ",
+      "spread": " {...messages.requestTFN} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.acknowledgeTFN} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.acknowledgeTFN} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.acknowledgeTFN} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.acknowledgeTFN} />",
+      "main_clean": "<FormattedMessage {...messages.acknowledgeTFN} />",
+      "main_regex": "<FormattedMessage {...messages.acknowledgeTFN} />",
+      "props": " {...messages.acknowledgeTFN} ",
+      "spread": " {...messages.acknowledgeTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.searchAknow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.searchAknow} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.searchAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.searchAknow} />",
+      "main_clean": "<FormattedMessage {...messages.searchAknow} />",
+      "main_regex": "<FormattedMessage {...messages.searchAknow} />",
+      "props": " {...messages.searchAknow} ",
+      "spread": " {...messages.searchAknow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.seekAknow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.seekAknow} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.seekAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.seekAknow} />",
+      "main_clean": "<FormattedMessage {...messages.seekAknow} />",
+      "main_regex": "<FormattedMessage {...messages.seekAknow} />",
+      "props": " {...messages.seekAknow} ",
+      "spread": " {...messages.seekAknow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.facilitateAknow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.facilitateAknow} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.facilitateAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.facilitateAknow} />",
+      "main_clean": "<FormattedMessage {...messages.facilitateAknow} />",
+      "main_regex": "<FormattedMessage {...messages.facilitateAknow} />",
+      "props": " {...messages.facilitateAknow} ",
+      "spread": " {...messages.facilitateAknow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.requestAknow} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.requestAknow} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.requestAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.requestAknow} />",
+      "main_clean": "<FormattedMessage {...messages.requestAknow} />",
+      "main_regex": "<FormattedMessage {...messages.requestAknow} />",
+      "props": " {...messages.requestAknow} ",
+      "spread": " {...messages.requestAknow} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

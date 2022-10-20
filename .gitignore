@@ -1,0 +1,6 @@
+node_modules
+out/debug
+out/error
+.tmp
+*.code-workspace
+.env

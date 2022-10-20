@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/PaymentChoiceRecurringModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/PaymentChoiceRecurringModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.pilihGerbang} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.pilihGerbang} />",
+      "all_regex": "\n                <FormattedMessage {...messages.pilihGerbang} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.pilihGerbang} />",
+      "main_clean": "<FormattedMessage {...messages.pilihGerbang} />",
+      "main_regex": "<FormattedMessage {...messages.pilihGerbang} />",
+      "props": " {...messages.pilihGerbang} ",
+      "spread": " {...messages.pilihGerbang} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.DANA} />\n                          ",
+      "all_clean": "<FormattedMessage {...messages.DANA} />",
+      "all_regex": "\n                            <FormattedMessage {...messages.DANA} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.DANA} />",
+      "main_clean": "<FormattedMessage {...messages.DANA} />",
+      "main_regex": "<FormattedMessage {...messages.DANA} />",
+      "props": " {...messages.DANA} ",
+      "spread": " {...messages.DANA} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

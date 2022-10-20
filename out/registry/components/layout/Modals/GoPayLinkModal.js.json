@@ -1,0 +1,76 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/GoPayLinkModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/GoPayLinkModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.empty} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.empty} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "main_clean": "<FormattedMessage {...messages.empty} />",
+      "main_regex": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.kamuMasukkan} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.kamuMasukkan} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.kamuMasukkan} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.kamuMasukkan} />",
+      "main_clean": "<FormattedMessage {...messages.kamuMasukkan} />",
+      "main_regex": "<FormattedMessage {...messages.kamuMasukkan} />",
+      "props": " {...messages.kamuMasukkan} ",
+      "spread": " {...messages.kamuMasukkan} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.raizMenggunakan} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.raizMenggunakan} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.raizMenggunakan} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.raizMenggunakan} />",
+      "main_clean": "<FormattedMessage {...messages.raizMenggunakan} />",
+      "main_regex": "<FormattedMessage {...messages.raizMenggunakan} />",
+      "props": " {...messages.raizMenggunakan} ",
+      "spread": " {...messages.raizMenggunakan} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.noHP} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.noHP} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.noHP} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.noHP} />",
+      "main_clean": "<FormattedMessage {...messages.noHP} />",
+      "main_regex": "<FormattedMessage {...messages.noHP} />",
+      "props": " {...messages.noHP} ",
+      "spread": " {...messages.noHP} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "\n                      title={<FormattedMessage {...messages.hubungkan} />}\n                      ",
+      "all_clean": "title={<FormattedMessage {...messages.hubungkan} />}",
+      "all_regex": "\n                      title={<FormattedMessage {...messages.hubungkan} />}\n                      ",
+      "before": "\n                      title={",
+      "main": "<FormattedMessage {...messages.hubungkan} />",
+      "main_clean": "<FormattedMessage {...messages.hubungkan} />",
+      "main_regex": "<FormattedMessage {...messages.hubungkan} />",
+      "props": " {...messages.hubungkan} ",
+      "spread": " {...messages.hubungkan} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

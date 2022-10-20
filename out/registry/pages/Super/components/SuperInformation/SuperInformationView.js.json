@@ -1,0 +1,64 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperInformation/SuperInformationView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperInformation/SuperInformationView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superInformation} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.superInformation} />",
+      "all_regex": "\n            <FormattedMessage {...messages.superInformation} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superInformation} />",
+      "main_clean": "<FormattedMessage {...messages.superInformation} />",
+      "main_regex": "<FormattedMessage {...messages.superInformation} />",
+      "props": " {...messages.superInformation} ",
+      "spread": " {...messages.superInformation} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.productDisclosureStatement} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.productDisclosureStatement} />",
+      "all_regex": "\n            <FormattedMessage {...messages.productDisclosureStatement} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.productDisclosureStatement} />",
+      "main_clean": "<FormattedMessage {...messages.productDisclosureStatement} />",
+      "main_regex": "<FormattedMessage {...messages.productDisclosureStatement} />",
+      "props": " {...messages.productDisclosureStatement} ",
+      "spread": " {...messages.productDisclosureStatement} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superFAQ} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.superFAQ} />",
+      "all_regex": "\n            <FormattedMessage {...messages.superFAQ} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superFAQ} />",
+      "main_clean": "<FormattedMessage {...messages.superFAQ} />",
+      "main_regex": "<FormattedMessage {...messages.superFAQ} />",
+      "props": " {...messages.superFAQ} ",
+      "spread": " {...messages.superFAQ} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superForms} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.superForms} />",
+      "all_regex": "\n            <FormattedMessage {...messages.superForms} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superForms} />",
+      "main_clean": "<FormattedMessage {...messages.superForms} />",
+      "main_regex": "<FormattedMessage {...messages.superForms} />",
+      "props": " {...messages.superForms} ",
+      "spread": " {...messages.superForms} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/WithdrawAcceptModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/WithdrawAcceptModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              />\n            ",
+      "all_clean": "<FormattedMessage {...messages.sureToWithdrawSuperFund} values={{ value: <NumberField value={withdrawValue} /> }} />",
+      "all_regex": "\n              <FormattedMessage\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              />",
+      "main_clean": "<FormattedMessage {...messages.sureToWithdrawSuperFund} values={{ value: <NumberField value={withdrawValue} /> }} />",
+      "main_regex": "<FormattedMessage\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              />",
+      "props": "\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              ",
+      "spread": "\n                {...messages.sureToWithdrawSuperFund}\n                ",
+      "values": "values={{ value: <NumberField value={withdrawValue} /> }}\n              "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n            {isSuperFund && <FormattedMessage {...messages.note} />}\n          ",
+      "all_clean": "{isSuperFund && <FormattedMessage {...messages.note} />}",
+      "all_regex": "\n            {isSuperFund && <FormattedMessage {...messages.note} />}\n          ",
+      "before": "\n            {isSuperFund && ",
+      "main": "<FormattedMessage {...messages.note} />",
+      "main_clean": "<FormattedMessage {...messages.note} />",
+      "main_regex": "<FormattedMessage {...messages.note} />",
+      "props": " {...messages.note} ",
+      "spread": " {...messages.note} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.cancel} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.cancel} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "main_clean": "<FormattedMessage {...messages.cancel} />",
+      "main_regex": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.confirm} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.confirm} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.confirm} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "main_clean": "<FormattedMessage {...messages.confirm} />",
+      "main_regex": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.whatsappModal} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.whatsappModal} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.whatsappModal} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.whatsappModal} />",
+      "main_clean": "<FormattedMessage {...messages.whatsappModal} />",
+      "main_regex": "<FormattedMessage {...messages.whatsappModal} />",
+      "props": " {...messages.whatsappModal} ",
+      "spread": " {...messages.whatsappModal} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.emailModal} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.emailModal} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.emailModal} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.emailModal} />",
+      "main_clean": "<FormattedMessage {...messages.emailModal} />",
+      "main_regex": "<FormattedMessage {...messages.emailModal} />",
+      "props": " {...messages.emailModal} ",
+      "spread": " {...messages.emailModal} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.telephone} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.telephone} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.telephone} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.telephone} />",
+      "main_clean": "<FormattedMessage {...messages.telephone} />",
+      "main_regex": "<FormattedMessage {...messages.telephone} />",
+      "props": " {...messages.telephone} ",
+      "spread": " {...messages.telephone} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedHTMLMessage {...messages.confirmWithdrawal} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedHTMLMessage {...messages.confirmWithdrawal} />",
+      "props": " {...messages.confirmWithdrawal} ",
+      "spread": " {...messages.confirmWithdrawal} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.informasiPenting} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.informasiPenting} />",
+      "props": " {...messages.informasiPenting} ",
+      "spread": " {...messages.informasiPenting} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.perjalananProses} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.perjalananProses} />",
+      "props": " {...messages.perjalananProses} ",
+      "spread": " {...messages.perjalananProses} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedHTMLMessage {...messages.setelahKamu} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.setelahKamu} />",
+      "props": " {...messages.setelahKamu} ",
+      "spread": " {...messages.setelahKamu} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.hariLibur} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.hariLibur} />",
+      "props": " {...messages.hariLibur} ",
+      "spread": " {...messages.hariLibur} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.pastikanKembali} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.pastikanKembali} />",
+      "props": " {...messages.pastikanKembali} ",
+      "spread": " {...messages.pastikanKembali} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedHTMLMessage {...messages.saldoInvestasi} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.saldoInvestasi} />",
+      "props": " {...messages.saldoInvestasi} ",
+      "spread": " {...messages.saldoInvestasi} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.bukanReken} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.bukanReken} />",
+      "props": " {...messages.bukanReken} ",
+      "spread": " {...messages.bukanReken} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.atasNama} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.atasNama} />",
+      "props": " {...messages.atasNama} ",
+      "spread": " {...messages.atasNama} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.alasanKamu} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.alasanKamu} />",
+      "props": " {...messages.alasanKamu} ",
+      "spread": " {...messages.alasanKamu} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedHTMLMessage {...messages.hariLiburNasional} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedHTMLMessage {...messages.hariLiburNasional} />",
+      "props": " {...messages.hariLiburNasional} ",
+      "spread": " {...messages.hariLiburNasional} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedHTMLMessage {...messages.akunBank} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedHTMLMessage {...messages.akunBank} />",
+      "props": " {...messages.akunBank} ",
+      "spread": " {...messages.akunBank} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedHTMLMessage {...messages.mendaftarkanRekening} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedHTMLMessage {...messages.mendaftarkanRekening} />",
+      "props": " {...messages.mendaftarkanRekening} ",
+      "spread": " {...messages.mendaftarkanRekening} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedHTMLMessage {...messages.nomorRekening} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedHTMLMessage {...messages.nomorRekening} />",
+      "props": " {...messages.nomorRekening} ",
+      "spread": " {...messages.nomorRekening} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.customerSupport} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.customerSupport} />",
+      "props": " {...messages.customerSupport} ",
+      "spread": " {...messages.customerSupport} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedHTMLMessage {...messages.apabilaKamu} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedHTMLMessage {...messages.apabilaKamu} />",
+      "props": " {...messages.apabilaKamu} ",
+      "spread": " {...messages.apabilaKamu} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedHTMLMessage\n                {...messages.sayaTelah}\n                values={{\n                  link: documentUrl,\n                }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedHTMLMessage\n                {...messages.sayaTelah}\n                values={{\n                  link: documentUrl,\n                }}\n              />",
+      "props": "\n                {...messages.sayaTelah}\n                values={{\n                  link: documentUrl,\n                }}\n              ",
+      "spread": "\n                {...messages.sayaTelah}\n                ",
+      "values": "values={{\n                  link: documentUrl,\n                }}\n              "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

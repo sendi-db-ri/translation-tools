@@ -1,0 +1,46 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Rewards/Rewards.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Rewards/Rewards.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Rewards/Rewards.i18n.js",
+      "replace": "import messages from './Rewards.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n      ",
+      "all": "\n      title={<FormattedMessage {...messages.page} />}\n      ",
+      "all_clean": "title={<FormattedMessage {...messages.page} />}",
+      "all_regex": "\n      title={<FormattedMessage {...messages.page} />}\n      ",
+      "before": "\n      title={",
+      "main": "<FormattedMessage {...messages.page} />",
+      "main_clean": "<FormattedMessage {...messages.page} />",
+      "main_regex": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    },
+    {
+      "after": "}\n      ",
+      "all": "categoryTitle={<FormattedMessage {...messages.categories} />}\n      ",
+      "all_clean": "categoryTitle={<FormattedMessage {...messages.categories} />}",
+      "all_regex": "categoryTitle={<FormattedMessage {...messages.categories} />}\n      ",
+      "before": "categoryTitle={",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "main_clean": "<FormattedMessage {...messages.categories} />",
+      "main_regex": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

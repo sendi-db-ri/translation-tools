@@ -1,0 +1,118 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Banks.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Banks.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Settings/Settings.i18n.js",
+      "replace": "import messagesForBank from '../../Settings/Settings.i18n';",
+      "name": "messagesForBank"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.linkAF} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.linkAF} />",
+      "all_regex": "\n            <FormattedMessage {...messages.linkAF} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.linkAF} />",
+      "main_clean": "<FormattedMessage {...messages.linkAF} />",
+      "main_regex": "<FormattedMessage {...messages.linkAF} />",
+      "props": " {...messages.linkAF} ",
+      "spread": " {...messages.linkAF} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.linkA} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.linkA} />",
+      "all_regex": "\n            <FormattedMessage {...messages.linkA} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.linkA} />",
+      "main_clean": "<FormattedMessage {...messages.linkA} />",
+      "main_regex": "<FormattedMessage {...messages.linkA} />",
+      "props": " {...messages.linkA} ",
+      "spread": " {...messages.linkA} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n          {isWithdrawal && <FormattedMessage {...messages.linkW} />}\n        ",
+      "all_clean": "{isWithdrawal && <FormattedMessage {...messages.linkW} />}",
+      "all_regex": "\n          {isWithdrawal && <FormattedMessage {...messages.linkW} />}\n        ",
+      "before": "\n          {isWithdrawal && ",
+      "main": "<FormattedMessage {...messages.linkW} />",
+      "main_clean": "<FormattedMessage {...messages.linkW} />",
+      "main_regex": "<FormattedMessage {...messages.linkW} />",
+      "props": " {...messages.linkW} ",
+      "spread": " {...messages.linkW} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.fundInvestments} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.fundInvestments} />",
+      "all_regex": "\n              <FormattedMessage {...messages.fundInvestments} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.fundInvestments} />",
+      "main_clean": "<FormattedMessage {...messages.fundInvestments} />",
+      "main_regex": "<FormattedMessage {...messages.fundInvestments} />",
+      "props": " {...messages.fundInvestments} ",
+      "spread": " {...messages.fundInvestments} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n            {isSpending && <FormattedMessage {...messages.creditCard} />}\n            ",
+      "all_clean": "{isSpending && <FormattedMessage {...messages.creditCard} />}",
+      "all_regex": "\n            {isSpending && <FormattedMessage {...messages.creditCard} />}\n            ",
+      "before": "\n            {isSpending && ",
+      "main": "<FormattedMessage {...messages.creditCard} />",
+      "main_clean": "<FormattedMessage {...messages.creditCard} />",
+      "main_regex": "<FormattedMessage {...messages.creditCard} />",
+      "props": " {...messages.creditCard} ",
+      "spread": " {...messages.creditCard} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.withdrawalSendBand} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.withdrawalSendBand} />",
+      "all_regex": "\n              <FormattedMessage {...messages.withdrawalSendBand} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.withdrawalSendBand} />",
+      "main_clean": "<FormattedMessage {...messages.withdrawalSendBand} />",
+      "main_regex": "<FormattedMessage {...messages.withdrawalSendBand} />",
+      "props": " {...messages.withdrawalSendBand} ",
+      "spread": " {...messages.withdrawalSendBand} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "\n                  title={<FormattedMessage {...messages.skip} />}\n                  ",
+      "all_clean": "title={<FormattedMessage {...messages.skip} />}",
+      "all_regex": "\n                  title={<FormattedMessage {...messages.skip} />}\n                  ",
+      "before": "\n                  title={",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "main_clean": "<FormattedMessage {...messages.skip} />",
+      "main_regex": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

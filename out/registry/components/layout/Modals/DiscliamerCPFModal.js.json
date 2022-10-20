@@ -1,0 +1,81 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/DiscliamerCPFModal.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Modals/DiscliamerCPFModal.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pernyataan} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.pernyataan} />",
+      "all_regex": "\n          <FormattedMessage {...messages.pernyataan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pernyataan} />",
+      "main_clean": "<FormattedMessage {...messages.pernyataan} />",
+      "main_regex": "<FormattedMessage {...messages.pernyataan} />",
+      "props": " {...messages.pernyataan} ",
+      "spread": " {...messages.pernyataan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.bahwa} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.bahwa} />",
+      "all_regex": "\n          <FormattedMessage {...messages.bahwa} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.bahwa} />",
+      "main_clean": "<FormattedMessage {...messages.bahwa} />",
+      "main_regex": "<FormattedMessage {...messages.bahwa} />",
+      "props": " {...messages.bahwa} ",
+      "spread": " {...messages.bahwa} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investasi} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.investasi} />",
+      "all_regex": "\n                <FormattedMessage {...messages.investasi} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investasi} />",
+      "main_clean": "<FormattedMessage {...messages.investasi} />",
+      "main_regex": "<FormattedMessage {...messages.investasi} />",
+      "props": " {...messages.investasi} ",
+      "spread": " {...messages.investasi} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.batal} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.batal} />",
+      "all_regex": "\n                <FormattedMessage {...messages.batal} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.batal} />",
+      "main_clean": "<FormattedMessage {...messages.batal} />",
+      "main_regex": "<FormattedMessage {...messages.batal} />",
+      "props": " {...messages.batal} ",
+      "spread": " {...messages.batal} "
+    }
+  ],
+  "formattedHtmlMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedHTMLMessage {...messages.memahami} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedHTMLMessage {...messages.memahami} />",
+      "props": " {...messages.memahami} ",
+      "spread": " {...messages.memahami} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedHTMLMessage {...messages.risiko} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedHTMLMessage {...messages.risiko} />",
+      "props": " {...messages.risiko} ",
+      "spread": " {...messages.risiko} "
+    }
+  ],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedHTMLMessage, FormattedMessage } from 'react-intl';",
+      "named": "FormattedHTMLMessage, FormattedMessage "
+    }
+  ]
+}

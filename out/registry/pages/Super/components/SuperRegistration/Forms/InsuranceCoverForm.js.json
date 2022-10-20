@@ -1,0 +1,172 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/Forms/InsuranceCoverForm.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRegistration/Forms/InsuranceCoverForm.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.insurance} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.insurance} />",
+      "all_regex": "\n              <FormattedMessage {...messages.insurance} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.insurance} />",
+      "main_clean": "<FormattedMessage {...messages.insurance} />",
+      "main_regex": "<FormattedMessage {...messages.insurance} />",
+      "props": " {...messages.insurance} ",
+      "spread": " {...messages.insurance} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.lifeTpd} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.lifeTpd} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.lifeTpd} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.lifeTpd} />",
+      "main_clean": "<FormattedMessage {...messages.lifeTpd} />",
+      "main_regex": "<FormattedMessage {...messages.lifeTpd} />",
+      "props": " {...messages.lifeTpd} ",
+      "spread": " {...messages.lifeTpd} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.providedPart1} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.providedPart1} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.providedPart1} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.providedPart1} />",
+      "main_clean": "<FormattedMessage {...messages.providedPart1} />",
+      "main_regex": "<FormattedMessage {...messages.providedPart1} />",
+      "props": " {...messages.providedPart1} ",
+      "spread": " {...messages.providedPart1} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.providedPart2} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.providedPart2} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.providedPart2} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.providedPart2} />",
+      "main_clean": "<FormattedMessage {...messages.providedPart2} />",
+      "main_regex": "<FormattedMessage {...messages.providedPart2} />",
+      "props": " {...messages.providedPart2} ",
+      "spread": " {...messages.providedPart2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.providedPart3} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.providedPart3} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.providedPart3} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.providedPart3} />",
+      "main_clean": "<FormattedMessage {...messages.providedPart3} />",
+      "main_regex": "<FormattedMessage {...messages.providedPart3} />",
+      "props": " {...messages.providedPart3} ",
+      "spread": " {...messages.providedPart3} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.confirm} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.confirm} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.confirm} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "main_clean": "<FormattedMessage {...messages.confirm} />",
+      "main_regex": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.disclosureStatement} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.disclosureStatement} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.disclosureStatement} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.disclosureStatement} />",
+      "main_clean": "<FormattedMessage {...messages.disclosureStatement} />",
+      "main_regex": "<FormattedMessage {...messages.disclosureStatement} />",
+      "props": " {...messages.disclosureStatement} ",
+      "spread": " {...messages.disclosureStatement} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.existingInsurance} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.existingInsurance} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.existingInsurance} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.existingInsurance} />",
+      "main_clean": "<FormattedMessage {...messages.existingInsurance} />",
+      "main_regex": "<FormattedMessage {...messages.existingInsurance} />",
+      "props": " {...messages.existingInsurance} ",
+      "spread": " {...messages.existingInsurance} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.intoReceiving} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.intoReceiving} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.intoReceiving} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.intoReceiving} />",
+      "main_clean": "<FormattedMessage {...messages.intoReceiving} />",
+      "main_regex": "<FormattedMessage {...messages.intoReceiving} />",
+      "props": " {...messages.intoReceiving} ",
+      "spread": " {...messages.intoReceiving} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.backIn} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.backIn} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.backIn} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.backIn} />",
+      "main_clean": "<FormattedMessage {...messages.backIn} />",
+      "main_regex": "<FormattedMessage {...messages.backIn} />",
+      "props": " {...messages.backIn} ",
+      "spread": " {...messages.backIn} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.iAgree} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.iAgree} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.iAgree} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iAgree} />",
+      "main_clean": "<FormattedMessage {...messages.iAgree} />",
+      "main_regex": "<FormattedMessage {...messages.iAgree} />",
+      "props": " {...messages.iAgree} ",
+      "spread": " {...messages.iAgree} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.back} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.back} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.continue} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.continue} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.continue} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "main_clean": "<FormattedMessage {...messages.continue} />",
+      "main_regex": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

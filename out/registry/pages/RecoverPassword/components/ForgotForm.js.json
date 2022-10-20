@@ -1,0 +1,40 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RecoverPassword/components/ForgotForm.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RecoverPassword/components/ForgotForm.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n            label={<FormattedMessage {...messages.email} />}\n          ",
+      "all_clean": "label={<FormattedMessage {...messages.email} />}",
+      "all_regex": "\n            label={<FormattedMessage {...messages.email} />}\n          ",
+      "before": "\n            label={",
+      "main": "<FormattedMessage {...messages.email} />",
+      "main_clean": "<FormattedMessage {...messages.email} />",
+      "main_regex": "<FormattedMessage {...messages.email} />",
+      "props": " {...messages.email} ",
+      "spread": " {...messages.email} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.sendEmail} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.sendEmail} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.sendEmail} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.sendEmail} />",
+      "main_clean": "<FormattedMessage {...messages.sendEmail} />",
+      "main_regex": "<FormattedMessage {...messages.sendEmail} />",
+      "props": " {...messages.sendEmail} ",
+      "spread": " {...messages.sendEmail} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

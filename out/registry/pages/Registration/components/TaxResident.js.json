@@ -1,0 +1,142 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/TaxResident.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/TaxResident.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/translates/pages/Crs/Crs.ms.i18n.js",
+      "replace": "import messagesMS from '../../../translates/pages/Crs/Crs.ms.i18n';",
+      "name": "messagesMS"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.completeInvestmentAccount} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.completeInvestmentAccount} />",
+      "all_regex": "\n            <FormattedMessage {...messages.completeInvestmentAccount} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.completeInvestmentAccount} />",
+      "main_clean": "<FormattedMessage {...messages.completeInvestmentAccount} />",
+      "main_regex": "<FormattedMessage {...messages.completeInvestmentAccount} />",
+      "props": " {...messages.completeInvestmentAccount} ",
+      "spread": " {...messages.completeInvestmentAccount} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "\n              label={<FormattedMessage {...messages.areYouTaxResident} />}\n            ",
+      "all_clean": "label={<FormattedMessage {...messages.areYouTaxResident} />}",
+      "all_regex": "\n              label={<FormattedMessage {...messages.areYouTaxResident} />}\n            ",
+      "before": "\n              label={",
+      "main": "<FormattedMessage {...messages.areYouTaxResident} />",
+      "main_clean": "<FormattedMessage {...messages.areYouTaxResident} />",
+      "main_regex": "<FormattedMessage {...messages.areYouTaxResident} />",
+      "props": " {...messages.areYouTaxResident} ",
+      "spread": " {...messages.areYouTaxResident} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.taxResidencyStatus} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.taxResidencyStatus} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.taxResidencyStatus} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.taxResidencyStatus} />",
+      "main_clean": "<FormattedMessage {...messages.taxResidencyStatus} />",
+      "main_regex": "<FormattedMessage {...messages.taxResidencyStatus} />",
+      "props": " {...messages.taxResidencyStatus} ",
+      "spread": " {...messages.taxResidencyStatus} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n                label={<FormattedMessage {...messages.indicateTaxpayer} />}\n              ",
+      "all_clean": "label={<FormattedMessage {...messages.indicateTaxpayer} />}",
+      "all_regex": "\n                label={<FormattedMessage {...messages.indicateTaxpayer} />}\n              ",
+      "before": "\n                label={",
+      "main": "<FormattedMessage {...messages.indicateTaxpayer} />",
+      "main_clean": "<FormattedMessage {...messages.indicateTaxpayer} />",
+      "main_regex": "<FormattedMessage {...messages.indicateTaxpayer} />",
+      "props": " {...messages.indicateTaxpayer} ",
+      "spread": " {...messages.indicateTaxpayer} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n                label={<FormattedMessage {...messages.noTinNumber} />}\n              ",
+      "all_clean": "label={<FormattedMessage {...messages.noTinNumber} />}",
+      "all_regex": "\n                label={<FormattedMessage {...messages.noTinNumber} />}\n              ",
+      "before": "\n                label={",
+      "main": "<FormattedMessage {...messages.noTinNumber} />",
+      "main_clean": "<FormattedMessage {...messages.noTinNumber} />",
+      "main_regex": "<FormattedMessage {...messages.noTinNumber} />",
+      "props": " {...messages.noTinNumber} ",
+      "spread": " {...messages.noTinNumber} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.indicateReason} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.indicateReason} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.indicateReason} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.indicateReason} />",
+      "main_clean": "<FormattedMessage {...messages.indicateReason} />",
+      "main_regex": "<FormattedMessage {...messages.indicateReason} />",
+      "props": " {...messages.indicateReason} ",
+      "spread": " {...messages.indicateReason} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage\n                    {...messages.areYouPoliticallyExposedPerson}\n                  />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.areYouPoliticallyExposedPerson} />",
+      "all_regex": "\n                  <FormattedMessage\n                    {...messages.areYouPoliticallyExposedPerson}\n                  />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.areYouPoliticallyExposedPerson}\n                  />",
+      "main_clean": "<FormattedMessage {...messages.areYouPoliticallyExposedPerson} />",
+      "main_regex": "<FormattedMessage\n                    {...messages.areYouPoliticallyExposedPerson}\n                  />",
+      "props": "\n                    {...messages.areYouPoliticallyExposedPerson}\n                  ",
+      "spread": "\n                    {...messages.areYouPoliticallyExposedPerson}\n                  "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.back} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.next} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "\n            errorMessage={<FormattedMessage {...messages.pepInfo} />}\n          ",
+      "all_clean": "errorMessage={<FormattedMessage {...messages.pepInfo} />}",
+      "all_regex": "\n            errorMessage={<FormattedMessage {...messages.pepInfo} />}\n          ",
+      "before": "\n            errorMessage={",
+      "main": "<FormattedMessage {...messages.pepInfo} />",
+      "main_clean": "<FormattedMessage {...messages.pepInfo} />",
+      "main_regex": "<FormattedMessage {...messages.pepInfo} />",
+      "props": " {...messages.pepInfo} ",
+      "spread": " {...messages.pepInfo} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

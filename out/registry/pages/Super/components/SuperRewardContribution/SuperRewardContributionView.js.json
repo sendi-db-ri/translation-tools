@@ -1,0 +1,88 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRewardContribution/SuperRewardContributionView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Super/components/SuperRewardContribution/SuperRewardContributionView.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.rewardContribution} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.rewardContribution} />",
+      "all_regex": "\n            <FormattedMessage {...messages.rewardContribution} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.rewardContribution} />",
+      "main_clean": "<FormattedMessage {...messages.rewardContribution} />",
+      "main_regex": "<FormattedMessage {...messages.rewardContribution} />",
+      "props": " {...messages.rewardContribution} ",
+      "spread": " {...messages.rewardContribution} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.securedByRaiz} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.securedByRaiz} />",
+      "all_regex": "\n              <FormattedMessage {...messages.securedByRaiz} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.securedByRaiz} />",
+      "main_clean": "<FormattedMessage {...messages.securedByRaiz} />",
+      "main_regex": "<FormattedMessage {...messages.securedByRaiz} />",
+      "props": " {...messages.securedByRaiz} ",
+      "spread": " {...messages.securedByRaiz} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.chooseToTransfer} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.chooseToTransfer} />",
+      "all_regex": "\n              <FormattedMessage {...messages.chooseToTransfer} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.chooseToTransfer} />",
+      "main_clean": "<FormattedMessage {...messages.chooseToTransfer} />",
+      "main_regex": "<FormattedMessage {...messages.chooseToTransfer} />",
+      "props": " {...messages.chooseToTransfer} ",
+      "spread": " {...messages.chooseToTransfer} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.personalContributions} />\n                      ",
+      "all_clean": "<FormattedMessage {...messages.personalContributions} />",
+      "all_regex": "\n                        <FormattedMessage {...messages.personalContributions} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.personalContributions} />",
+      "main_clean": "<FormattedMessage {...messages.personalContributions} />",
+      "main_regex": "<FormattedMessage {...messages.personalContributions} />",
+      "props": " {...messages.personalContributions} ",
+      "spread": " {...messages.personalContributions} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.youCanChoose} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.youCanChoose} />",
+      "all_regex": "\n            <FormattedMessage {...messages.youCanChoose} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.youCanChoose} />",
+      "main_clean": "<FormattedMessage {...messages.youCanChoose} />",
+      "main_regex": "<FormattedMessage {...messages.youCanChoose} />",
+      "props": " {...messages.youCanChoose} ",
+      "spread": " {...messages.youCanChoose} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.rewardsVoluntary} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.rewardsVoluntary} />",
+      "all_regex": "\n            <FormattedMessage {...messages.rewardsVoluntary} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.rewardsVoluntary} />",
+      "main_clean": "<FormattedMessage {...messages.rewardsVoluntary} />",
+      "main_regex": "<FormattedMessage {...messages.rewardsVoluntary} />",
+      "props": " {...messages.rewardsVoluntary} ",
+      "spread": " {...messages.rewardsVoluntary} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

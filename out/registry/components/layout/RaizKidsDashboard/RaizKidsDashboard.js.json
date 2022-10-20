@@ -1,0 +1,106 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/RaizKidsDashboard/RaizKidsDashboard.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/RaizKidsDashboard/RaizKidsDashboard.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/RaizKidsDashboard/RaizKidsDashboard.i18n.js",
+      "replace": "import messages from './RaizKidsDashboard.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKidsBalance} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.raizKidsBalance} />",
+      "all_regex": "\n          <FormattedMessage {...messages.raizKidsBalance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKidsBalance} />",
+      "main_clean": "<FormattedMessage {...messages.raizKidsBalance} />",
+      "main_regex": "<FormattedMessage {...messages.raizKidsBalance} />",
+      "props": " {...messages.raizKidsBalance} ",
+      "spread": " {...messages.raizKidsBalance} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKids} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.raizKids} />",
+      "all_regex": "\n          <FormattedMessage {...messages.raizKids} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "main_clean": "<FormattedMessage {...messages.raizKids} />",
+      "main_regex": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.automaticSavings} />\n                  ",
+      "all_clean": "<FormattedMessage {...messages.automaticSavings} />",
+      "all_regex": "\n                    <FormattedMessage {...messages.automaticSavings} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.automaticSavings} />",
+      "main_clean": "<FormattedMessage {...messages.automaticSavings} />",
+      "main_regex": "<FormattedMessage {...messages.automaticSavings} />",
+      "props": " {...messages.automaticSavings} ",
+      "spread": " {...messages.automaticSavings} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.simpleWay} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.simpleWay} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.simpleWay} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.simpleWay} />",
+      "main_clean": "<FormattedMessage {...messages.simpleWay} />",
+      "main_regex": "<FormattedMessage {...messages.simpleWay} />",
+      "props": " {...messages.simpleWay} ",
+      "spread": " {...messages.simpleWay} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.simpleWaySetup} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.simpleWaySetup} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.simpleWaySetup} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.simpleWaySetup} />",
+      "main_clean": "<FormattedMessage {...messages.simpleWaySetup} />",
+      "main_regex": "<FormattedMessage {...messages.simpleWaySetup} />",
+      "props": " {...messages.simpleWaySetup} ",
+      "spread": " {...messages.simpleWaySetup} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.checkYourKids} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.checkYourKids} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.checkYourKids} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.checkYourKids} />",
+      "main_clean": "<FormattedMessage {...messages.checkYourKids} />",
+      "main_regex": "<FormattedMessage {...messages.checkYourKids} />",
+      "props": " {...messages.checkYourKids} ",
+      "spread": " {...messages.checkYourKids} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.addRaizKidNow} />\n                ",
+      "all_clean": "<FormattedMessage {...messages.addRaizKidNow} />",
+      "all_regex": "\n                  <FormattedMessage {...messages.addRaizKidNow} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.addRaizKidNow} />",
+      "main_clean": "<FormattedMessage {...messages.addRaizKidNow} />",
+      "main_regex": "<FormattedMessage {...messages.addRaizKidNow} />",
+      "props": " {...messages.addRaizKidNow} ",
+      "spread": " {...messages.addRaizKidNow} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/RaizKidsRegistration.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/RaizKidsRegistration.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/RaizKidsRegistration/RaizKidsRegistration.i18n.js",
+      "replace": "import messages from './RaizKidsRegistration.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "",
+      "all": "\n            text: <FormattedMessage {...messages.chooseAvatarWarning} />",
+      "all_clean": "text: <FormattedMessage {...messages.chooseAvatarWarning} />",
+      "all_regex": "\n            text: <FormattedMessage {...messages.chooseAvatarWarning} />",
+      "before": "\n            text: ",
+      "main": "<FormattedMessage {...messages.chooseAvatarWarning} />",
+      "main_clean": "<FormattedMessage {...messages.chooseAvatarWarning} />",
+      "main_regex": "<FormattedMessage {...messages.chooseAvatarWarning} />",
+      "props": " {...messages.chooseAvatarWarning} ",
+      "spread": " {...messages.chooseAvatarWarning} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage, injectIntl } from 'react-intl';",
+      "named": "FormattedMessage, injectIntl "
+    }
+  ]
+}

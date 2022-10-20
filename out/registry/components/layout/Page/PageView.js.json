@@ -1,0 +1,178 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Page/PageView.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Page/PageView.js"
+  },
+  "import": [
+    {
+      "file": "file:///home/sendidb/RAIZ/raiz-react-mys/src/components/layout/Page/Page.i18n.js",
+      "replace": "import messages from './Page.i18n';",
+      "name": "messages"
+    }
+  ],
+  "formattedMessage": [
+    {
+      "after": "}\n          ",
+      "all": "\n          home={<FormattedMessage {...messages.home} />}\n          ",
+      "all_clean": "home={<FormattedMessage {...messages.home} />}",
+      "all_regex": "\n          home={<FormattedMessage {...messages.home} />}\n          ",
+      "before": "\n          home={",
+      "main": "<FormattedMessage {...messages.home} />",
+      "main_clean": "<FormattedMessage {...messages.home} />",
+      "main_regex": "<FormattedMessage {...messages.home} />",
+      "props": " {...messages.home} ",
+      "spread": " {...messages.home} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "about={<FormattedMessage {...messages.about} />}\n          ",
+      "all_clean": "about={<FormattedMessage {...messages.about} />}",
+      "all_regex": "about={<FormattedMessage {...messages.about} />}\n          ",
+      "before": "about={",
+      "main": "<FormattedMessage {...messages.about} />",
+      "main_clean": "<FormattedMessage {...messages.about} />",
+      "main_regex": "<FormattedMessage {...messages.about} />",
+      "props": " {...messages.about} ",
+      "spread": " {...messages.about} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "message={<FormattedMessage {...messages.welcome} />}\n          ",
+      "all_clean": "message={<FormattedMessage {...messages.welcome} />}",
+      "all_regex": "message={<FormattedMessage {...messages.welcome} />}\n          ",
+      "before": "message={",
+      "main": "<FormattedMessage {...messages.welcome} />",
+      "main_clean": "<FormattedMessage {...messages.welcome} />",
+      "main_regex": "<FormattedMessage {...messages.welcome} />",
+      "props": " {...messages.welcome} ",
+      "spread": " {...messages.welcome} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "login={<FormattedMessage {...messages.login} />}\n          ",
+      "all_clean": "login={<FormattedMessage {...messages.login} />}",
+      "all_regex": "login={<FormattedMessage {...messages.login} />}\n          ",
+      "before": "login={",
+      "main": "<FormattedMessage {...messages.login} />",
+      "main_clean": "<FormattedMessage {...messages.login} />",
+      "main_regex": "<FormattedMessage {...messages.login} />",
+      "props": " {...messages.login} ",
+      "spread": " {...messages.login} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "registration={<FormattedMessage {...messages.registration} />}\n          ",
+      "all_clean": "registration={<FormattedMessage {...messages.registration} />}",
+      "all_regex": "registration={<FormattedMessage {...messages.registration} />}\n          ",
+      "before": "registration={",
+      "main": "<FormattedMessage {...messages.registration} />",
+      "main_clean": "<FormattedMessage {...messages.registration} />",
+      "main_regex": "<FormattedMessage {...messages.registration} />",
+      "props": " {...messages.registration} ",
+      "spread": " {...messages.registration} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.internetConnection} />\n              ",
+      "all_clean": "<FormattedMessage {...messages.internetConnection} />",
+      "all_regex": "\n                <FormattedMessage {...messages.internetConnection} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.internetConnection} />",
+      "main_clean": "<FormattedMessage {...messages.internetConnection} />",
+      "main_regex": "<FormattedMessage {...messages.internetConnection} />",
+      "props": " {...messages.internetConnection} ",
+      "spread": " {...messages.internetConnection} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                title={<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "\n                title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.stilThere} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.stilThere} />",
+      "all_regex": "\n            <FormattedMessage {...messages.stilThere} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.stilThere} />",
+      "main_clean": "<FormattedMessage {...messages.stilThere} />",
+      "main_regex": "<FormattedMessage {...messages.stilThere} />",
+      "props": " {...messages.stilThere} ",
+      "spread": " {...messages.stilThere} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.yourSession} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.yourSession} />",
+      "all_regex": "\n            <FormattedMessage {...messages.yourSession} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.yourSession} />",
+      "main_clean": "<FormattedMessage {...messages.yourSession} />",
+      "main_regex": "<FormattedMessage {...messages.yourSession} />",
+      "props": " {...messages.yourSession} ",
+      "spread": " {...messages.yourSession} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.min} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.min} />",
+      "all_regex": "\n              <FormattedMessage {...messages.min} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.min} />",
+      "main_clean": "<FormattedMessage {...messages.min} />",
+      "main_regex": "<FormattedMessage {...messages.min} />",
+      "props": " {...messages.min} ",
+      "spread": " {...messages.min} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.sec} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.sec} />",
+      "all_regex": "\n              <FormattedMessage {...messages.sec} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.sec} />",
+      "main_clean": "<FormattedMessage {...messages.sec} />",
+      "main_regex": "<FormattedMessage {...messages.sec} />",
+      "props": " {...messages.sec} ",
+      "spread": " {...messages.sec} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.continue} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.continue} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.continue} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "main_clean": "<FormattedMessage {...messages.continue} />",
+      "main_regex": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "\n              title={<FormattedMessage {...messages.logOut} />}\n              ",
+      "all_clean": "title={<FormattedMessage {...messages.logOut} />}",
+      "all_regex": "\n              title={<FormattedMessage {...messages.logOut} />}\n              ",
+      "before": "\n              title={",
+      "main": "<FormattedMessage {...messages.logOut} />",
+      "main_clean": "<FormattedMessage {...messages.logOut} />",
+      "main_regex": "<FormattedMessage {...messages.logOut} />",
+      "props": " {...messages.logOut} ",
+      "spread": " {...messages.logOut} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

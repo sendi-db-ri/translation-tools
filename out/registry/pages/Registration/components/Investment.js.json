@@ -1,0 +1,138 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Investment.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/Registration/components/Investment.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.account} />\n          ",
+      "all_clean": "<FormattedMessage {...messages.account} />",
+      "all_regex": "\n            <FormattedMessage {...messages.account} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.account} />",
+      "main_clean": "<FormattedMessage {...messages.account} />",
+      "main_regex": "<FormattedMessage {...messages.account} />",
+      "props": " {...messages.account} ",
+      "spread": " {...messages.account} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage defaultMessage={choice.text} id={choice.id} />\n          ",
+      "all_clean": "<FormattedMessage defaultMessage={choice.text} id={choice.id} />",
+      "all_regex": "\n            <FormattedMessage defaultMessage={choice.text} id={choice.id} />\n          ",
+      "before": "\n            ",
+      "defaultMessage": " defaultMessage={choice.text} ",
+      "id": "id={choice.id} ",
+      "main": "<FormattedMessage defaultMessage={choice.text} id={choice.id} />",
+      "main_clean": "<FormattedMessage defaultMessage={choice.text} id={choice.id} />",
+      "main_regex": "<FormattedMessage defaultMessage={choice.text} id={choice.id} />",
+      "props": " defaultMessage={choice.text} id={choice.id} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              />\n            ",
+      "all_clean": "<FormattedMessage defaultMessage={choice.textPlaceholder} id={choice.id} />",
+      "all_regex": "\n              <FormattedMessage\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              />\n            ",
+      "before": "\n              ",
+      "defaultMessage": "\n                defaultMessage={choice.textPlaceholder}\n                ",
+      "id": "id={choice.id}\n              ",
+      "main": "<FormattedMessage\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              />",
+      "main_clean": "<FormattedMessage defaultMessage={choice.textPlaceholder} id={choice.id} />",
+      "main_regex": "<FormattedMessage\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              />",
+      "props": "\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "\n                        title={<FormattedMessage {...messages.ok} />}\n                        ",
+      "all_clean": "title={<FormattedMessage {...messages.ok} />}",
+      "all_regex": "\n                        title={<FormattedMessage {...messages.ok} />}\n                        ",
+      "before": "\n                        title={",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "main_clean": "<FormattedMessage {...messages.ok} />",
+      "main_regex": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.depositFailed} />\n                    ",
+      "all_clean": "<FormattedMessage {...messages.depositFailed} />",
+      "all_regex": "\n                      <FormattedMessage {...messages.depositFailed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.depositFailed} />",
+      "main_clean": "<FormattedMessage {...messages.depositFailed} />",
+      "main_regex": "<FormattedMessage {...messages.depositFailed} />",
+      "props": " {...messages.depositFailed} ",
+      "spread": " {...messages.depositFailed} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "\n                        title={<FormattedMessage {...messages.skip} />}\n                        ",
+      "all_clean": "title={<FormattedMessage {...messages.skip} />}",
+      "all_regex": "\n                        title={<FormattedMessage {...messages.skip} />}\n                        ",
+      "before": "\n                        title={",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "main_clean": "<FormattedMessage {...messages.skip} />",
+      "main_regex": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "\n                        title={<FormattedMessage {...messages.linkAnAccount} />}\n                        ",
+      "all_clean": "title={<FormattedMessage {...messages.linkAnAccount} />}",
+      "all_regex": "\n                        title={<FormattedMessage {...messages.linkAnAccount} />}\n                        ",
+      "before": "\n                        title={",
+      "main": "<FormattedMessage {...messages.linkAnAccount} />",
+      "main_clean": "<FormattedMessage {...messages.linkAnAccount} />",
+      "main_regex": "<FormattedMessage {...messages.linkAnAccount} />",
+      "props": " {...messages.linkAnAccount} ",
+      "spread": " {...messages.linkAnAccount} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.back} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.back} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.back} />",
+      "main_clean": "<FormattedMessage {...messages.back} />",
+      "main_regex": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.skip} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.skip} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.skip} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "main_clean": "<FormattedMessage {...messages.skip} />",
+      "main_regex": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "\n                    title={<FormattedMessage {...messages.next} />}\n                    ",
+      "all_clean": "title={<FormattedMessage {...messages.next} />}",
+      "all_regex": "\n                    title={<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "\n                    title={",
+      "main": "<FormattedMessage {...messages.next} />",
+      "main_clean": "<FormattedMessage {...messages.next} />",
+      "main_regex": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}

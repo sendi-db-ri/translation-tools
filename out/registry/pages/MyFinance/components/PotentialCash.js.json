@@ -1,0 +1,76 @@
+{
+  "file": {
+    "click": "file:///home/sendidb/RAIZ/raiz-react-mys/src/pages/MyFinance/components/PotentialCash.js",
+    "name": "/home/sendidb/RAIZ/raiz-react-mys/src/pages/MyFinance/components/PotentialCash.js"
+  },
+  "import": [],
+  "formattedMessage": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialFreeCashTo} />\n        ",
+      "all_clean": "<FormattedMessage {...messages.potentialFreeCashTo} />",
+      "all_regex": "\n          <FormattedMessage {...messages.potentialFreeCashTo} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialFreeCashTo} />",
+      "main_clean": "<FormattedMessage {...messages.potentialFreeCashTo} />",
+      "main_regex": "<FormattedMessage {...messages.potentialFreeCashTo} />",
+      "props": " {...messages.potentialFreeCashTo} ",
+      "spread": " {...messages.potentialFreeCashTo} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.potentialFreeCash} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.potentialFreeCash} />",
+      "all_regex": "\n              <FormattedMessage {...messages.potentialFreeCash} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.potentialFreeCash} />",
+      "main_clean": "<FormattedMessage {...messages.potentialFreeCash} />",
+      "main_regex": "<FormattedMessage {...messages.potentialFreeCash} />",
+      "props": " {...messages.potentialFreeCash} ",
+      "spread": " {...messages.potentialFreeCash} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.estimatedIncome} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.estimatedIncome} />",
+      "all_regex": "\n              <FormattedMessage {...messages.estimatedIncome} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.estimatedIncome} />",
+      "main_clean": "<FormattedMessage {...messages.estimatedIncome} />",
+      "main_regex": "<FormattedMessage {...messages.estimatedIncome} />",
+      "props": " {...messages.estimatedIncome} ",
+      "spread": " {...messages.estimatedIncome} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.estimatedExpenses} />\n            ",
+      "all_clean": "<FormattedMessage {...messages.estimatedExpenses} />",
+      "all_regex": "\n              <FormattedMessage {...messages.estimatedExpenses} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.estimatedExpenses} />",
+      "main_clean": "<FormattedMessage {...messages.estimatedExpenses} />",
+      "main_regex": "<FormattedMessage {...messages.estimatedExpenses} />",
+      "props": " {...messages.estimatedExpenses} ",
+      "spread": " {...messages.estimatedExpenses} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "\n          title={<FormattedMessage {...messages.forecast} />}\n        ",
+      "all_clean": "title={<FormattedMessage {...messages.forecast} />}",
+      "all_regex": "\n          title={<FormattedMessage {...messages.forecast} />}\n        ",
+      "before": "\n          title={",
+      "main": "<FormattedMessage {...messages.forecast} />",
+      "main_clean": "<FormattedMessage {...messages.forecast} />",
+      "main_regex": "<FormattedMessage {...messages.forecast} />",
+      "props": " {...messages.forecast} ",
+      "spread": " {...messages.forecast} "
+    }
+  ],
+  "formattedHtmlMessage": [],
+  "reactIntlUsage": [
+    {
+      "replace": "import { FormattedMessage } from 'react-intl';",
+      "named": "FormattedMessage "
+    }
+  ]
+}
