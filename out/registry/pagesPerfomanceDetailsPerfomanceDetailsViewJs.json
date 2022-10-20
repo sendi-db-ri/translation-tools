@@ -1,0 +1,229 @@
+{
+  "file": "/pages/PerfomanceDetails/PerfomanceDetailsView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.sharesOwned} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.sharesOwned} />",
+      "props": " {...messages.sharesOwned} ",
+      "spread": " {...messages.sharesOwned} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.holdingValue} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.holdingValue} />",
+      "props": " {...messages.holdingValue} ",
+      "spread": " {...messages.holdingValue} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.openingPrice} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.openingPrice} />",
+      "props": " {...messages.openingPrice} ",
+      "spread": " {...messages.openingPrice} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.todaysPrice} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.todaysPrice} />",
+      "props": " {...messages.todaysPrice} ",
+      "spread": " {...messages.todaysPrice} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.yesterdaysPrice} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.yesterdaysPrice} />",
+      "props": " {...messages.yesterdaysPrice} ",
+      "spread": " {...messages.yesterdaysPrice} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.previousClosingPrice} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.previousClosingPrice} />",
+      "props": " {...messages.previousClosingPrice} ",
+      "spread": " {...messages.previousClosingPrice} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.wkRange} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.wkRange} />",
+      "props": " {...messages.wkRange} ",
+      "spread": " {...messages.wkRange} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.volume} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.volume} />",
+      "props": " {...messages.volume} ",
+      "spread": " {...messages.volume} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.perfomance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.perfomance} />",
+      "props": " {...messages.perfomance} ",
+      "spread": " {...messages.perfomance} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.oneDay} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.oneDay} />",
+      "props": " {...messages.oneDay} ",
+      "spread": " {...messages.oneDay} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.oneWeek} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.oneWeek} />",
+      "props": " {...messages.oneWeek} ",
+      "spread": " {...messages.oneWeek} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.oneMonth} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.oneMonth} />",
+      "props": " {...messages.oneMonth} ",
+      "spread": " {...messages.oneMonth} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.treeMonth} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.treeMonth} />",
+      "props": " {...messages.treeMonth} ",
+      "spread": " {...messages.treeMonth} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.halfYear} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.halfYear} />",
+      "props": " {...messages.halfYear} ",
+      "spread": " {...messages.halfYear} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.oneYear} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.oneYear} />",
+      "props": " {...messages.oneYear} ",
+      "spread": " {...messages.oneYear} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.all} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.all} />",
+      "props": " {...messages.all} ",
+      "spread": " {...messages.all} "
+    },
+    {
+      "after": "}\n          ",
+      "all": " <FormattedMessage {...messages.sharePrice} />}\n          ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.sharePrice} />",
+      "props": " {...messages.sharePrice} ",
+      "spread": " {...messages.sharePrice} "
+    },
+    {
+      "after": "}\n        ",
+      "all": " <FormattedMessage {...messages.accountValue} />}\n        ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "}\n        ",
+      "all": " <FormattedMessage {...messages.changeInValueM} />}\n        ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.changeInValueM} />",
+      "props": " {...messages.changeInValueM} ",
+      "spread": " {...messages.changeInValueM} "
+    },
+    {
+      "after": "}",
+      "all": " <FormattedMessage {...messages.changeInValue} />}",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.changeInValue} />",
+      "props": " {...messages.changeInValue} ",
+      "spread": " {...messages.changeInValue} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.noData} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.noData} />",
+      "props": " {...messages.noData} ",
+      "spread": " {...messages.noData} "
+    },
+    {
+      "after": "}\n                ",
+      "all": " <FormattedMessage {...messages.dollar} />}\n                ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.dollar} />",
+      "props": " {...messages.dollar} ",
+      "spread": " {...messages.dollar} "
+    },
+    {
+      "after": "}\n              ",
+      "all": " <FormattedMessage {...messages.ringgit} />}\n              ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.ringgit} />",
+      "props": " {...messages.ringgit} ",
+      "spread": " {...messages.ringgit} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.percentage} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.percentage} />",
+      "props": " {...messages.percentage} ",
+      "spread": " {...messages.percentage} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.shares} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.shares} />",
+      "props": " {...messages.shares} ",
+      "spread": " {...messages.shares} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.noProfiles} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.noProfiles} />",
+      "props": " {...messages.noProfiles} ",
+      "spread": " {...messages.noProfiles} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.marketOpen} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.marketOpen} />",
+      "props": " {...messages.marketOpen} ",
+      "spread": " {...messages.marketOpen} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.marketClosed} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.marketClosed} />",
+      "props": " {...messages.marketClosed} ",
+      "spread": " {...messages.marketClosed} "
+    }
+  ]
+}

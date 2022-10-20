@@ -1,0 +1,13 @@
+{
+  "file": "/pages/OffsettersDetails/OffsettersDetailsView.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "{<FormattedMessage {...messages.congratulations} />}\n        />\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.congratulations} />}\n        />",
+      "props": " {...messages.congratulations} />}\n        ",
+      "spread": " {...messages.congratulations} />}\n        "
+    }
+  ]
+}

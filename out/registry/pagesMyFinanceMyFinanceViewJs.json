@@ -1,0 +1,13 @@
+{
+  "file": "/pages/MyFinance/MyFinanceView.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.myFinance} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.myFinance} />",
+      "props": " {...messages.myFinance} ",
+      "spread": " {...messages.myFinance} "
+    }
+  ]
+}

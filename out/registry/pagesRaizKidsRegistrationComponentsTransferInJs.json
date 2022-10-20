@@ -1,0 +1,101 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/TransferIn.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.transferAmount} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.transferAmount} />",
+      "props": " {...messages.transferAmount} ",
+      "spread": " {...messages.transferAmount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyToAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "props": " {...messages.transferMoneyToAccount} ",
+      "spread": " {...messages.transferMoneyToAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyFromAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "props": " {...messages.transferMoneyFromAccount} ",
+      "spread": " {...messages.transferMoneyFromAccount} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.transferOut} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.transferOut} />",
+      "props": " {...messages.transferOut} ",
+      "spread": " {...messages.transferOut} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.transferIn} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.transferIn} />",
+      "props": " {...messages.transferIn} ",
+      "spread": " {...messages.transferIn} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.areYouSureOut} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.areYouSureOut} />",
+      "props": " {...messages.areYouSureOut} ",
+      "spread": " {...messages.areYouSureOut} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.areYouSureIn} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.areYouSureIn} />",
+      "props": " {...messages.areYouSureIn} ",
+      "spread": " {...messages.areYouSureIn} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyToAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyToAccount} />",
+      "props": " {...messages.transferMoneyToAccount} ",
+      "spread": " {...messages.transferMoneyToAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.transferMoneyFromAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.transferMoneyFromAccount} />",
+      "props": " {...messages.transferMoneyFromAccount} ",
+      "spread": " {...messages.transferMoneyFromAccount} "
+    }
+  ]
+}

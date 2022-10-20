@@ -1,0 +1,109 @@
+{
+  "file": "/pages/Crs/CrsView.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.country} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.country} />",
+      "props": " {...messages.country} ",
+      "spread": " {...messages.country} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.taxIdentifierList} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.taxIdentifierList} />",
+      "props": " {...messages.taxIdentifierList} ",
+      "spread": " {...messages.taxIdentifierList} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.remove} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.remove} />",
+      "props": " {...messages.remove} ",
+      "spread": " {...messages.remove} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.CRS} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.CRS} />",
+      "props": " {...messages.CRS} ",
+      "spread": " {...messages.CRS} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.accountValue} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.crsText} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.crsText} />",
+      "props": " {...messages.crsText} ",
+      "spread": " {...messages.crsText} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.crsRead} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.crsRead} />",
+      "props": " {...messages.crsRead} ",
+      "spread": " {...messages.crsRead} "
+    },
+    {
+      "after": "\n                                }\n                              ",
+      "all": "{\n                                  <FormattedMessage\n                                    {...messages.taxIdentifier}\n                                  />\n                                }\n                              ",
+      "before": "{\n                                  ",
+      "main": "<FormattedMessage\n                                    {...messages.taxIdentifier}\n                                  />",
+      "props": "\n                                    {...messages.taxIdentifier}\n                                  ",
+      "spread": "\n                                    {...messages.taxIdentifier}\n                                  "
+    },
+    {
+      "after": "\n                                ",
+      "all": "\n                                  <FormattedMessage {...messages.cancel} />\n                                ",
+      "before": "\n                                  ",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                                ",
+      "all": "\n                                  <FormattedMessage {...messages.save} />\n                                ",
+      "before": "\n                                  ",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.crsText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.crsText} />",
+      "props": " {...messages.crsText} ",
+      "spread": " {...messages.crsText} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.crsRead} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.crsRead} />",
+      "props": " {...messages.crsRead} ",
+      "spread": " {...messages.crsRead} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.addTax} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addTax} />",
+      "props": " {...messages.addTax} ",
+      "spread": " {...messages.addTax} "
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "file": "/components/elements/Input/Input.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages[error]} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages[error]} />",
+      "props": " {...messages[error]} ",
+      "spread": " {...messages[error]} "
+    }
+  ]
+}

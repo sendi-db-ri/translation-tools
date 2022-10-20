@@ -1,0 +1,77 @@
+{
+  "file": "/pages/RecurringInvestment/RecurringInvestmentView.js",
+  "match": [
+    {
+      "after": "\n    ",
+      "all": "\n      <FormattedMessage {...messages[`set${currentFrequency}Investment`]} />\n    ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages[`set${currentFrequency}Investment`]} />",
+      "props": " {...messages[`set${currentFrequency}Investment`]} ",
+      "spread": " {...messages[`set${currentFrequency}Investment`]} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.setuju} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.setuju} />",
+      "props": " {...messages.setuju} ",
+      "spread": " {...messages.setuju} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.pengaturanTarget} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.pengaturanTarget} />",
+      "props": " {...messages.pengaturanTarget} ",
+      "spread": " {...messages.pengaturanTarget} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.setSavingGoal} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.setSavingGoal} />",
+      "props": " {...messages.setSavingGoal} ",
+      "spread": " {...messages.setSavingGoal} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.oops} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.oops} />",
+      "props": " {...messages.oops} ",
+      "spread": " {...messages.oops} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.noteImportant} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.noteImportant} />",
+      "props": " {...messages.noteImportant} ",
+      "spread": " {...messages.noteImportant} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.stopRecurring} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.stopRecurring} />",
+      "props": " {...messages.stopRecurring} ",
+      "spread": " {...messages.stopRecurring} "
+    },
+    {
+      "after": "\n          }\n          ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            />\n          }\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />}\n            />",
+      "props": " {...messages.cancel} />}\n            ",
+      "spread": " {...messages.cancel} />}\n            "
+    }
+  ]
+}

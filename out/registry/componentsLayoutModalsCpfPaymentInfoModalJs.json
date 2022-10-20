@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Modals/CPFPaymentInfoModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.harap} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.harap} />",
+      "props": " {...messages.harap} ",
+      "spread": " {...messages.harap} "
+    }
+  ]
+}

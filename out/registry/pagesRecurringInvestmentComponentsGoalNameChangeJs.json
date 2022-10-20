@@ -1,0 +1,46 @@
+{
+  "file": "/pages/RecurringInvestment/components/GoalNameChange.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.selectYourGoal} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.selectYourGoal} />",
+      "props": " {...messages.selectYourGoal} ",
+      "spread": " {...messages.selectYourGoal} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              />",
+      "props": "\n                {...messages.setGoalName}\n                values={{ goalName: buttonGoalName }}\n              ",
+      "spread": "\n                {...messages.setGoalName}\n                ",
+      "values": "values={{ goalName: buttonGoalName }}\n              "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.addCustomGoalName} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addCustomGoalName} />",
+      "props": " {...messages.addCustomGoalName} ",
+      "spread": " {...messages.addCustomGoalName} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.yourGoal} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yourGoal} />",
+      "props": " {...messages.yourGoal} ",
+      "spread": " {...messages.yourGoal} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ]
+}

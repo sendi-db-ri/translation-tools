@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/CloseAccountKidsModal.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.yesClose} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yesClose} />",
+      "props": " {...messages.yesClose} ",
+      "spread": " {...messages.yesClose} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ]
+}

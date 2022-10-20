@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/RolloverRemoveConfirmModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.please} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.please} />",
+      "props": " {...messages.please} ",
+      "spread": " {...messages.please} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.delete} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.delete} />",
+      "props": " {...messages.delete} ",
+      "spread": " {...messages.delete} "
+    }
+  ]
+}

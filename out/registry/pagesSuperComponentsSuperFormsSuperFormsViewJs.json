@@ -1,0 +1,53 @@
+{
+  "file": "/pages/Super/components/SuperForms/SuperFormsView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superForms} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superForms} />",
+      "props": " {...messages.superForms} ",
+      "spread": " {...messages.superForms} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.nominationBinding} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.nominationBinding} />",
+      "props": " {...messages.nominationBinding} ",
+      "spread": " {...messages.nominationBinding} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.nonNominationBinding} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.nonNominationBinding} />",
+      "props": " {...messages.nonNominationBinding} ",
+      "spread": " {...messages.nonNominationBinding} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.rollover} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.rollover} />",
+      "props": " {...messages.rollover} ",
+      "spread": " {...messages.rollover} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.retirement} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.retirement} />",
+      "props": " {...messages.retirement} ",
+      "spread": " {...messages.retirement} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.compliance} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.compliance} />",
+      "props": " {...messages.compliance} ",
+      "spread": " {...messages.compliance} "
+    }
+  ]
+}

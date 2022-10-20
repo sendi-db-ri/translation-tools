@@ -1,0 +1,87 @@
+{
+  "file": "/pages/Registration/components/Investment.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.account} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.account} />",
+      "props": " {...messages.account} ",
+      "spread": " {...messages.account} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage defaultMessage={choice.text} id={choice.id} />\n          ",
+      "before": "\n            ",
+      "defaultMessage": " defaultMessage={choice.text} ",
+      "id": "id={choice.id} ",
+      "main": "<FormattedMessage defaultMessage={choice.text} id={choice.id} />",
+      "props": " defaultMessage={choice.text} id={choice.id} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              />\n            ",
+      "before": "\n              ",
+      "defaultMessage": "\n                defaultMessage={choice.textPlaceholder}\n                ",
+      "id": "id={choice.id}\n              ",
+      "main": "<FormattedMessage\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              />",
+      "props": "\n                defaultMessage={choice.textPlaceholder}\n                id={choice.id}\n              "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.depositFailed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.depositFailed} />",
+      "props": " {...messages.depositFailed} ",
+      "spread": " {...messages.depositFailed} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.linkAnAccount} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.linkAnAccount} />",
+      "props": " {...messages.linkAnAccount} ",
+      "spread": " {...messages.linkAnAccount} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ]
+}

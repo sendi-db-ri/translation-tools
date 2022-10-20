@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/FundingErrorModal.js",
+  "match": [
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.no} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.no} />",
+      "props": " {...messages.no} ",
+      "spread": " {...messages.no} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.yes} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yes} />",
+      "props": " {...messages.yes} ",
+      "spread": " {...messages.yes} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

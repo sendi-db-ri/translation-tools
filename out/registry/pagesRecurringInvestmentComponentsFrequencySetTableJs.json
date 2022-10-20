@@ -1,0 +1,62 @@
+{
+  "file": "/pages/RecurringInvestment/components/FrequencySetTable.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recurringInvestmentAmount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recurringInvestmentAmount} />",
+      "props": " {...messages.recurringInvestmentAmount} ",
+      "spread": " {...messages.recurringInvestmentAmount} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.frequency} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.frequency} />",
+      "props": " {...messages.frequency} ",
+      "spread": " {...messages.frequency} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                  />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                  />",
+      "props": "\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                  ",
+      "spread": "\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                  "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages[recurringDepositSettings.frequency_identifier]}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages[recurringDepositSettings.frequency_identifier]}\n              />",
+      "props": "\n                {...messages[recurringDepositSettings.frequency_identifier]}\n              ",
+      "spread": "\n                {...messages[recurringDepositSettings.frequency_identifier]}\n              "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.nextInvestment} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.nextInvestment} />",
+      "props": " {...messages.nextInvestment} ",
+      "spread": " {...messages.nextInvestment} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.changePlan} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.changePlan} />",
+      "props": " {...messages.changePlan} ",
+      "spread": " {...messages.changePlan} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                    values={{ day: '' }}\n                  />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                    values={{ day: '' }}\n                  />",
+      "props": "\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                    values={{ day: '' }}\n                  ",
+      "spread": "\n                    {...messages[recurringDepositSettings.frequency_identifier]}\n                    ",
+      "values": "values={{ day: '' }}\n                  "
+    }
+  ]
+}

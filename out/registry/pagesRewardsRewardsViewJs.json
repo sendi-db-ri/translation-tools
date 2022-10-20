@@ -1,0 +1,14 @@
+{
+  "file": "/pages/Rewards/RewardsView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            />",
+      "props": "\n              {...messages.notFound}\n              values={{ name: searchValue }}\n            ",
+      "spread": "\n              {...messages.notFound}\n              ",
+      "values": "values={{ name: searchValue }}\n            "
+    }
+  ]
+}

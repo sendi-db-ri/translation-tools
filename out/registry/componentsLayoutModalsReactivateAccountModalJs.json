@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/ReactivateAccountModal.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.yesActivate} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yesActivate} />",
+      "props": " {...messages.yesActivate} ",
+      "spread": " {...messages.yesActivate} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ]
+}

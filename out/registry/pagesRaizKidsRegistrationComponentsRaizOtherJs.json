@@ -1,0 +1,61 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/RaizOther.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.required} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.required} />",
+      "props": " {...messages.required} ",
+      "spread": " {...messages.required} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.pushNotifications} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.pushNotifications} />",
+      "props": " {...messages.pushNotifications} ",
+      "spread": " {...messages.pushNotifications} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.kidsAccess} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.kidsAccess} />",
+      "props": " {...messages.kidsAccess} ",
+      "spread": " {...messages.kidsAccess} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.transferIn} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.transferIn} />",
+      "props": " {...messages.transferIn} ",
+      "spread": " {...messages.transferIn} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.kidsSimplyWay} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "props": " {...messages.kidsSimplyWay} ",
+      "spread": " {...messages.kidsSimplyWay} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage {...messages.investmentWillTransferred} />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage {...messages.investmentWillTransferred} />",
+      "props": " {...messages.investmentWillTransferred} ",
+      "spread": " {...messages.investmentWillTransferred} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.congrats} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.congrats} />",
+      "props": " {...messages.congrats} ",
+      "spread": " {...messages.congrats} "
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "file": "/components/layout/Modals/RelSentModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.sendInvitationLink} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.sendInvitationLink} />",
+      "props": " {...messages.sendInvitationLink} ",
+      "spread": " {...messages.sendInvitationLink} "
+    },
+    {
+      "after": "\n\n        ",
+      "all": "\n        <FormattedMessage\n          {...messages.wasSent}\n          values={{\n            email: childEmail,\n          }}\n        />\n\n        ",
+      "before": "\n        ",
+      "main": "<FormattedMessage\n          {...messages.wasSent}\n          values={{\n            email: childEmail,\n          }}\n        />",
+      "props": "\n          {...messages.wasSent}\n          values={{\n            email: childEmail,\n          }}\n        ",
+      "spread": "\n          {...messages.wasSent}\n          ",
+      "values": "values={{\n            email: childEmail,\n          }}\n        "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

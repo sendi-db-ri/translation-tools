@@ -1,0 +1,13 @@
+{
+  "file": "/pages/RaizKidsEdit/components/EditProfile.js",
+  "match": [
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ]
+}

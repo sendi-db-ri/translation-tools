@@ -1,0 +1,21 @@
+{
+  "file": "/pages/MyFinance/components/Categorisation.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.transactionCategorisation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "props": " {...messages.transactionCategorisation} ",
+      "spread": " {...messages.transactionCategorisation} "
+    },
+    {
+      "after": "\n        ",
+      "all": "{<FormattedMessage {...messages.seeMore} />}\n          />\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.seeMore} />}\n          />",
+      "props": " {...messages.seeMore} />}\n          ",
+      "spread": " {...messages.seeMore} />}\n          "
+    }
+  ]
+}

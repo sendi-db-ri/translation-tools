@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/WaitSkipModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.bankAlert} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.bankAlert} />",
+      "props": " {...messages.bankAlert} ",
+      "spread": " {...messages.bankAlert} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.wait} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.wait} />",
+      "props": " {...messages.wait} ",
+      "spread": " {...messages.wait} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    }
+  ]
+}

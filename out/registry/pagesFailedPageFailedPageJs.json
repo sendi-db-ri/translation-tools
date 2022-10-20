@@ -1,0 +1,21 @@
+{
+  "file": "/pages/FailedPage/FailedPage.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.oops} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.oops} />",
+      "props": " {...messages.oops} ",
+      "spread": " {...messages.oops} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.goHome} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.goHome} />",
+      "props": " {...messages.goHome} ",
+      "spread": " {...messages.goHome} "
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Modals/PertanyaanInfoModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.pertanyaanInfo} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.pertanyaanInfo} />",
+      "props": " {...messages.pertanyaanInfo} ",
+      "spread": " {...messages.pertanyaanInfo} "
+    }
+  ]
+}

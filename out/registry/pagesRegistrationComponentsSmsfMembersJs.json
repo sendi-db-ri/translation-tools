@@ -1,0 +1,109 @@
+{
+  "file": "/pages/Registration/components/SMSFMembers.js",
+  "match": [
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.firstName} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.firstName} />}\n                      />",
+      "props": " {...messages.firstName} />}\n                      ",
+      "spread": " {...messages.firstName} />}\n                      "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.lastName} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.lastName} />}\n                      />",
+      "props": " {...messages.lastName} />}\n                      ",
+      "spread": " {...messages.lastName} />}\n                      "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.email} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.email} />}\n                      />",
+      "props": " {...messages.email} />}\n                      ",
+      "spread": " {...messages.email} />}\n                      "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.dateOfBirth} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.dateOfBirth} />",
+      "props": " {...messages.dateOfBirth} ",
+      "spread": " {...messages.dateOfBirth} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.streetNumber} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.streetNumber} />}\n                      />",
+      "props": " {...messages.streetNumber} />}\n                      ",
+      "spread": " {...messages.streetNumber} />}\n                      "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.streetName} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.streetName} />}\n                      />",
+      "props": " {...messages.streetName} />}\n                      ",
+      "spread": " {...messages.streetName} />}\n                      "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.suburb} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.suburb} />}\n                      />",
+      "props": " {...messages.suburb} />}\n                      ",
+      "spread": " {...messages.suburb} />}\n                      "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.state} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.state} />",
+      "props": " {...messages.state} ",
+      "spread": " {...messages.state} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.postCode} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.postCode} />}\n                      />",
+      "props": " {...messages.postCode} />}\n                      ",
+      "spread": " {...messages.postCode} />}\n                      "
+    },
+    {
+      "after": "\n                        }\n                        ",
+      "all": "{\n                          <FormattedMessage {...messages.saveMemberDirector} />\n                        }\n                        ",
+      "before": "{\n                          ",
+      "main": "<FormattedMessage {...messages.saveMemberDirector} />",
+      "props": " {...messages.saveMemberDirector} ",
+      "spread": " {...messages.saveMemberDirector} "
+    },
+    {
+      "after": "}\n                          ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                      }\n                      ",
+      "all": "{\n                        <FormattedMessage\n                          {...messages.addAnotherMemberDirector}\n                        />\n                      }\n                      ",
+      "before": "{\n                        ",
+      "main": "<FormattedMessage\n                          {...messages.addAnotherMemberDirector}\n                        />",
+      "props": "\n                          {...messages.addAnotherMemberDirector}\n                        ",
+      "spread": "\n                          {...messages.addAnotherMemberDirector}\n                        "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ]
+}

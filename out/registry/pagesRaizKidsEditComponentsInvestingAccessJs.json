@@ -1,0 +1,69 @@
+{
+  "file": "/pages/RaizKidsEdit/components/InvestingAccess.js",
+  "match": [
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.notAllowInvestment} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.notAllowInvestment} />",
+      "props": " {...messages.notAllowInvestment} ",
+      "spread": " {...messages.notAllowInvestment} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowUnlimited} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowUnlimited} />",
+      "props": " {...messages.allowUnlimited} ",
+      "spread": " {...messages.allowUnlimited} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowWeekly} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowWeekly} />",
+      "props": " {...messages.allowWeekly} ",
+      "spread": " {...messages.allowWeekly} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.weeklyLimit} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.weeklyLimit} />",
+      "props": " {...messages.weeklyLimit} ",
+      "spread": " {...messages.weeklyLimit} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.allowRaizKid} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.allowRaizKid} />",
+      "props": " {...messages.allowRaizKid} ",
+      "spread": " {...messages.allowRaizKid} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.kidEmail} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.kidEmail} />}\n                      />",
+      "props": " {...messages.kidEmail} />}\n                      ",
+      "spread": " {...messages.kidEmail} />}\n                      "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.doNotAllow} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.doNotAllow} />",
+      "props": " {...messages.doNotAllow} ",
+      "spread": " {...messages.doNotAllow} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ]
+}

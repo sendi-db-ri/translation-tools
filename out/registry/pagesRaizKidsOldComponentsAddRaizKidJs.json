@@ -1,0 +1,61 @@
+{
+  "file": "/pages/RaizKidsOld/components/AddRaizKid.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addRaizKid} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addRaizKid} />",
+      "props": " {...messages.addRaizKid} ",
+      "spread": " {...messages.addRaizKid} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.chooseAvatar} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.chooseAvatar} />",
+      "props": " {...messages.chooseAvatar} ",
+      "spread": " {...messages.chooseAvatar} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.name} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.name} />",
+      "props": " {...messages.name} ",
+      "spread": " {...messages.name} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.birthday} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.birthday} />",
+      "props": " {...messages.birthday} ",
+      "spread": " {...messages.birthday} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.addARaizKid} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addARaizKid} />",
+      "props": " {...messages.addARaizKid} ",
+      "spread": " {...messages.addARaizKid} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.delete} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.delete} />",
+      "props": " {...messages.delete} ",
+      "spread": " {...messages.delete} "
+    }
+  ]
+}

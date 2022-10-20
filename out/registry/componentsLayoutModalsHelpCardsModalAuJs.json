@@ -1,0 +1,45 @@
+{
+  "file": "/components/layout/Modals/HelpCardsModalAU.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages[content.greenBtn.title]} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages[content.greenBtn.title]} />",
+      "props": " {...messages[content.greenBtn.title]} ",
+      "spread": " {...messages[content.greenBtn.title]} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages[content.greenBtn.title]} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages[content.greenBtn.title]} />",
+      "props": " {...messages[content.greenBtn.title]} ",
+      "spread": " {...messages[content.greenBtn.title]} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages[content.greenBtn.title]} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages[content.greenBtn.title]} />",
+      "props": " {...messages[content.greenBtn.title]} ",
+      "spread": " {...messages[content.greenBtn.title]} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages[content.greenBtn.title]} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages[content.greenBtn.title]} />",
+      "props": " {...messages[content.greenBtn.title]} ",
+      "spread": " {...messages[content.greenBtn.title]} "
+    },
+    {
+      "after": "\n              }\n              ",
+      "all": "{\n                <FormattedMessage {...messages[content.transparentBtn.title]} />\n              }\n              ",
+      "before": "{\n                ",
+      "main": "<FormattedMessage {...messages[content.transparentBtn.title]} />",
+      "props": " {...messages[content.transparentBtn.title]} ",
+      "spread": " {...messages[content.transparentBtn.title]} "
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "file": "/components/layout/Modals/PaymentModal.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.xenditContinue} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.xenditContinue} />",
+      "props": " {...messages.xenditContinue} ",
+      "spread": " {...messages.xenditContinue} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.paymentSuccess} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.paymentSuccess} />",
+      "props": " {...messages.paymentSuccess} ",
+      "spread": " {...messages.paymentSuccess} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.paymentFailed} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.paymentFailed} />",
+      "props": " {...messages.paymentFailed} ",
+      "spread": " {...messages.paymentFailed} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.danaText} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.danaText} />",
+      "props": " {...messages.danaText} ",
+      "spread": " {...messages.danaText} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.akunGoPay} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.akunGoPay} />",
+      "props": " {...messages.akunGoPay} ",
+      "spread": " {...messages.akunGoPay} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.verifyGoPay} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.verifyGoPay} />",
+      "props": " {...messages.verifyGoPay} ",
+      "spread": " {...messages.verifyGoPay} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage\n                    {...messages.akunXendit}\n                    values={{\n                      serviceName,\n                    }}\n                  />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.akunXendit}\n                    values={{\n                      serviceName,\n                    }}\n                  />",
+      "props": "\n                    {...messages.akunXendit}\n                    values={{\n                      serviceName,\n                    }}\n                  ",
+      "spread": "\n                    {...messages.akunXendit}\n                    ",
+      "values": "values={{\n                      serviceName,\n                    }}\n                  "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.tutup} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.tutup} />",
+      "props": " {...messages.tutup} ",
+      "spread": " {...messages.tutup} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.verifikasi} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.verifikasi} />",
+      "props": " {...messages.verifikasi} ",
+      "spread": " {...messages.verifikasi} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.aktifkan} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.aktifkan} />",
+      "props": " {...messages.aktifkan} ",
+      "spread": " {...messages.aktifkan} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file": "/pages/Registration/components/KidsSign.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.setYourPassword} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.setYourPassword} />",
+      "props": " {...messages.setYourPassword} ",
+      "spread": " {...messages.setYourPassword} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.kidsBottomText} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.kidsBottomText} />",
+      "props": " {...messages.kidsBottomText} ",
+      "spread": " {...messages.kidsBottomText} "
+    }
+  ]
+}

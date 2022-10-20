@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/DiscliamerCPFModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pernyataan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pernyataan} />",
+      "props": " {...messages.pernyataan} ",
+      "spread": " {...messages.pernyataan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.bahwa} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.bahwa} />",
+      "props": " {...messages.bahwa} ",
+      "spread": " {...messages.bahwa} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investasi} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investasi} />",
+      "props": " {...messages.investasi} ",
+      "spread": " {...messages.investasi} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.batal} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.batal} />",
+      "props": " {...messages.batal} ",
+      "spread": " {...messages.batal} "
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "file": "/pages/ChangePortfolio/components/ChangePortfolioCustomView.js",
+  "match": [
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.class} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.class} />",
+      "props": " {...messages.class} ",
+      "spread": " {...messages.class} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.risk} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.risk} />",
+      "props": " {...messages.risk} ",
+      "spread": " {...messages.risk} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                      <FormattedMessage {...messages.min} />\n                      ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.min} />",
+      "props": " {...messages.min} ",
+      "spread": " {...messages.min} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.max} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.max} />",
+      "props": " {...messages.max} ",
+      "spread": " {...messages.max} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.riskScale} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.riskScale} />",
+      "props": " {...messages.riskScale} ",
+      "spread": " {...messages.riskScale} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.low} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.low} />",
+      "props": " {...messages.low} ",
+      "spread": " {...messages.low} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.high} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.high} />",
+      "props": " {...messages.high} ",
+      "spread": " {...messages.high} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.beforeYou} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.beforeYou} />",
+      "props": " {...messages.beforeYou} ",
+      "spread": " {...messages.beforeYou} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.dontShow} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.dontShow} />",
+      "props": " {...messages.dontShow} ",
+      "spread": " {...messages.dontShow} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

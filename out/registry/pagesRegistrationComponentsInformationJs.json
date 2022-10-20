@@ -1,0 +1,45 @@
+{
+  "file": "/pages/Registration/components/Information.js",
+  "match": [
+    {
+      "after": " }",
+      "all": " <FormattedMessage {...messages.yes} /> }",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.yes} />",
+      "props": " {...messages.yes} ",
+      "spread": " {...messages.yes} "
+    },
+    {
+      "after": " }",
+      "all": " <FormattedMessage {...messages.no} /> }",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.no} />",
+      "props": " {...messages.no} ",
+      "spread": " {...messages.no} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.apakahAndaReksaDana} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.apakahAndaReksaDana} />",
+      "props": " {...messages.apakahAndaReksaDana} ",
+      "spread": " {...messages.apakahAndaReksaDana} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ]
+}

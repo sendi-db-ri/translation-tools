@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/LogoutModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.logout} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.logout} />",
+      "props": " {...messages.logout} ",
+      "spread": " {...messages.logout} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.areYouSureLogout} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.areYouSureLogout} />",
+      "props": " {...messages.areYouSureLogout} ",
+      "spread": " {...messages.areYouSureLogout} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.logout} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.logout} />",
+      "props": " {...messages.logout} ",
+      "spread": " {...messages.logout} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ]
+}

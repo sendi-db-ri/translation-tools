@@ -1,0 +1,13 @@
+{
+  "file": "/pages/PotentialFreeCash/PotentialFreeCash.js",
+  "match": [
+    {
+      "after": "\n    ",
+      "all": "{<FormattedMessage {...messages.page} />}\n      />\n    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.page} />}\n      />",
+      "props": " {...messages.page} />}\n      ",
+      "spread": " {...messages.page} />}\n      "
+    }
+  ]
+}

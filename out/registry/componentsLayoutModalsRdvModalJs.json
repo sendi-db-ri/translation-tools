@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/RDVModal.js",
+  "match": [
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.confirm} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    }
+  ]
+}

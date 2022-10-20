@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/GoPaySuccessModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.terimaKasih} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.terimaKasih} />",
+      "props": " {...messages.terimaKasih} ",
+      "spread": " {...messages.terimaKasih} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

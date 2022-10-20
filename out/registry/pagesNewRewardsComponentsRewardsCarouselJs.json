@@ -1,0 +1,37 @@
+{
+  "file": "/pages/NewRewards/components/RewardsCarousel.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.raizRewards} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.raizRewards} />",
+      "props": " {...messages.raizRewards} ",
+      "spread": " {...messages.raizRewards} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.investedText} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.investedText} />",
+      "props": " {...messages.investedText} ",
+      "spread": " {...messages.investedText} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.pending} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.pending} />",
+      "props": " {...messages.pending} ",
+      "spread": " {...messages.pending} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.totalEarned} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.totalEarned} />",
+      "props": " {...messages.totalEarned} ",
+      "spread": " {...messages.totalEarned} "
+    }
+  ]
+}

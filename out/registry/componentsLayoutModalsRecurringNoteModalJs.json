@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/RecurringNoteModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.stopRecurring} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.stopRecurring} />",
+      "props": " {...messages.stopRecurring} ",
+      "spread": " {...messages.stopRecurring} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.youHavePending} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.youHavePending} />",
+      "props": " {...messages.youHavePending} ",
+      "spread": " {...messages.youHavePending} "
+    },
+    {
+      "after": "\n        ",
+      "all": "{<FormattedMessage {...messages.later} />}\n        />\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.later} />}\n        />",
+      "props": " {...messages.later} />}\n        ",
+      "spread": " {...messages.later} />}\n        "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.viewHistory} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    }
+  ]
+}

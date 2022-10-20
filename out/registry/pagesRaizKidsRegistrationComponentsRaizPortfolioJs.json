@@ -1,0 +1,21 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/RaizPortfolio.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.raizKids} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.kidsSimplyWay} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.kidsSimplyWay} />",
+      "props": " {...messages.kidsSimplyWay} ",
+      "spread": " {...messages.kidsSimplyWay} "
+    }
+  ]
+}

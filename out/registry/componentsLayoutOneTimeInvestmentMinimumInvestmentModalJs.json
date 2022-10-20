@@ -1,0 +1,56 @@
+{
+  "file": "/components/layout/OneTimeInvestment/MinimumInvestmentModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />",
+      "props": "\n                {...messages.oneTimeInvestMinimum}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              ",
+      "spread": "\n                {...messages.oneTimeInvestMinimum}\n                ",
+      "values": "values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.oneTimeInvestError} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.oneTimeInvestError} />",
+      "props": " {...messages.oneTimeInvestError} ",
+      "spread": " {...messages.oneTimeInvestError} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              />",
+      "props": "\n                {...messages.oneTimeInvestMinError}\n                values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              ",
+      "spread": "\n                {...messages.oneTimeInvestMinError}\n                ",
+      "values": "values={{\n                  minimum: <NumberField value={MIN_INVEST} />,\n                }}\n              "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                }\n                ",
+      "all": "{\n                  <FormattedMessage\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  />\n                }\n                ",
+      "before": "{\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  />",
+      "props": "\n                    {...messages.investBtn}\n                    values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  ",
+      "spread": "\n                    {...messages.investBtn}\n                    ",
+      "values": "values={{\n                      minimum: <NumberField value={MIN_INVEST} />,\n                    }}\n                  "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

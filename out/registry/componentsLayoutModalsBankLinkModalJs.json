@@ -1,0 +1,77 @@
+{
+  "file": "/components/layout/Modals/BankLinkModal.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.linkFunding} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.fundingAccount} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.secured} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.theSame} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.theSame} />",
+      "props": " {...messages.theSame} ",
+      "spread": " {...messages.theSame} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.addDebit} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.addDebit} />",
+      "props": " {...messages.addDebit} ",
+      "spread": " {...messages.addDebit} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messagesForBank.skip} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messagesForBank.skip} />",
+      "props": " {...messagesForBank.skip} ",
+      "spread": " {...messagesForBank.skip} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.addFundingAccount} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addFundingAccount} />",
+      "props": " {...messages.addFundingAccount} ",
+      "spread": " {...messages.addFundingAccount} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.addFundingAccount} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addFundingAccount} />",
+      "props": " {...messages.addFundingAccount} ",
+      "spread": " {...messages.addFundingAccount} "
+    }
+  ]
+}

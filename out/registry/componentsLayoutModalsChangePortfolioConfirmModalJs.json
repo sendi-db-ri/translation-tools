@@ -1,0 +1,181 @@
+{
+  "file": "/components/layout/Modals/ChangePortfolioConfirmModal.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n          <FormattedMessage {...messages.changePort} />\n          ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.changePort} />",
+      "props": " {...messages.changePort} ",
+      "spread": " {...messages.changePort} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.changePortSwitching} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.changePortSwitching} />",
+      "props": " {...messages.changePortSwitching} ",
+      "spread": " {...messages.changePortSwitching} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n          <FormattedMessage {...messages.areYouSureFirst} />\n          ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.areYouSureFirst} />",
+      "props": " {...messages.areYouSureFirst} ",
+      "spread": " {...messages.areYouSureFirst} "
+    },
+    {
+      "after": "}\n          ",
+      "all": " <FormattedMessage {...messages.areYouSureSecond} />}\n          ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.areYouSureSecond} />",
+      "props": " {...messages.areYouSureSecond} ",
+      "spread": " {...messages.areYouSureSecond} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.no} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.no} />",
+      "props": " {...messages.no} ",
+      "spread": " {...messages.no} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.yes} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yes} />",
+      "props": " {...messages.yes} ",
+      "spread": " {...messages.yes} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.perjalanan} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.perjalanan} />",
+      "props": " {...messages.perjalanan} ",
+      "spread": " {...messages.perjalanan} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.setelahKamu} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.setelahKamu} />",
+      "props": " {...messages.setelahKamu} ",
+      "spread": " {...messages.setelahKamu} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.hariLibur} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.hariLibur} />",
+      "props": " {...messages.hariLibur} ",
+      "spread": " {...messages.hariLibur} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.customerSupport} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.customerSupport} />",
+      "props": " {...messages.customerSupport} ",
+      "spread": " {...messages.customerSupport} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.apabilaPemindahan} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.apabilaPemindahan} />",
+      "props": " {...messages.apabilaPemindahan} ",
+      "spread": " {...messages.apabilaPemindahan} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.hariLiburNasional} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.hariLiburNasional} />",
+      "props": " {...messages.hariLiburNasional} ",
+      "spread": " {...messages.hariLiburNasional} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.langsungSaja} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.langsungSaja} />",
+      "props": " {...messages.langsungSaja} ",
+      "spread": " {...messages.langsungSaja} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.whatsapp} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.whatsapp} />",
+      "props": " {...messages.whatsapp} ",
+      "spread": " {...messages.whatsapp} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.email} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.email} />",
+      "props": " {...messages.email} ",
+      "spread": " {...messages.email} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.telephone} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.telephone} />",
+      "props": " {...messages.telephone} ",
+      "spread": " {...messages.telephone} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.denganMerubahFirst} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.denganMerubahFirst} />",
+      "props": " {...messages.denganMerubahFirst} ",
+      "spread": " {...messages.denganMerubahFirst} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.produkYangFirst} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.produkYangFirst} />",
+      "props": " {...messages.produkYangFirst} ",
+      "spread": " {...messages.produkYangFirst} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.prospektus} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.prospektus} />",
+      "props": " {...messages.prospektus} ",
+      "spread": " {...messages.prospektus} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.serta} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.serta} />",
+      "props": " {...messages.serta} ",
+      "spread": " {...messages.serta} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.saratDan} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.saratDan} />",
+      "props": " {...messages.saratDan} ",
+      "spread": " {...messages.saratDan} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.produkYangSecond} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.produkYangSecond} />",
+      "props": " {...messages.produkYangSecond} ",
+      "spread": " {...messages.produkYangSecond} "
+    }
+  ]
+}

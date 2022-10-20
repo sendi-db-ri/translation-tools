@@ -1,0 +1,117 @@
+{
+  "file": "/pages/Super/components/SuperRegistration/Forms/InsuranceCoverForm.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.insurance} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.insurance} />",
+      "props": " {...messages.insurance} ",
+      "spread": " {...messages.insurance} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.insuranceСover} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.insuranceСover} />",
+      "props": " {...messages.insuranceСover} ",
+      "spread": " {...messages.insuranceСover} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.lifeTpd} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.lifeTpd} />",
+      "props": " {...messages.lifeTpd} ",
+      "spread": " {...messages.lifeTpd} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.providedPart1} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.providedPart1} />",
+      "props": " {...messages.providedPart1} ",
+      "spread": " {...messages.providedPart1} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.providedPart2} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.providedPart2} />",
+      "props": " {...messages.providedPart2} ",
+      "spread": " {...messages.providedPart2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.providedPart3} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.providedPart3} />",
+      "props": " {...messages.providedPart3} ",
+      "spread": " {...messages.providedPart3} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.confirm} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.disclosureStatement} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.disclosureStatement} />",
+      "props": " {...messages.disclosureStatement} ",
+      "spread": " {...messages.disclosureStatement} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.existingInsurance} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.existingInsurance} />",
+      "props": " {...messages.existingInsurance} ",
+      "spread": " {...messages.existingInsurance} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.intoReceiving} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.intoReceiving} />",
+      "props": " {...messages.intoReceiving} ",
+      "spread": " {...messages.intoReceiving} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.backIn} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.backIn} />",
+      "props": " {...messages.backIn} ",
+      "spread": " {...messages.backIn} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.iAgree} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iAgree} />",
+      "props": " {...messages.iAgree} ",
+      "spread": " {...messages.iAgree} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.continue} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    }
+  ]
+}

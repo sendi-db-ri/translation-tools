@@ -1,0 +1,61 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/Terms.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "{<FormattedMessage {...messages.infoTrue} />}\n                />\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.infoTrue} />}\n                />",
+      "props": " {...messages.infoTrue} />}\n                ",
+      "spread": " {...messages.infoTrue} />}\n                "
+    },
+    {
+      "after": "\n                ",
+      "all": "{<FormattedMessage {...messages.fundingNeverCredit} />}\n                />\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.fundingNeverCredit} />}\n                />",
+      "props": " {...messages.fundingNeverCredit} />}\n                ",
+      "spread": " {...messages.fundingNeverCredit} />}\n                "
+    },
+    {
+      "after": "\n                ",
+      "all": "{<FormattedMessage {...messages.acknowledge} />}\n                />\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.acknowledge} />}\n                />",
+      "props": " {...messages.acknowledge} />}\n                ",
+      "spread": " {...messages.acknowledge} />}\n                "
+    },
+    {
+      "after": "\n                ",
+      "all": "{<FormattedMessage {...messages.productDisclosure} />}\n                />\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.productDisclosure} />}\n                />",
+      "props": " {...messages.productDisclosure} />}\n                ",
+      "spread": " {...messages.productDisclosure} />}\n                "
+    },
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.agreeUnderstand} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.agreeUnderstand} />}\n                />",
+      "props": " {...messages.agreeUnderstand} />}\n                ",
+      "spread": " {...messages.agreeUnderstand} />}\n                "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ]
+}

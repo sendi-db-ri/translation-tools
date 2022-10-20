@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/OffsettersUnsubscribeModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.offsettersUnsubscribe} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.offsettersUnsubscribe} />",
+      "props": " {...messages.offsettersUnsubscribe} ",
+      "spread": " {...messages.offsettersUnsubscribe} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.unsubscribeAreYouShure} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.unsubscribeAreYouShure} />",
+      "props": " {...messages.unsubscribeAreYouShure} ",
+      "spread": " {...messages.unsubscribeAreYouShure} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.yes} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yes} />",
+      "props": " {...messages.yes} ",
+      "spread": " {...messages.yes} "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/StartKidsModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.startKidsTitle} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.startKidsTitle} />",
+      "props": " {...messages.startKidsTitle} ",
+      "spread": " {...messages.startKidsTitle} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.startKidsBtn} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.startKidsBtn} />",
+      "props": " {...messages.startKidsBtn} ",
+      "spread": " {...messages.startKidsBtn} "
+    }
+  ]
+}

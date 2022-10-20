@@ -1,0 +1,45 @@
+{
+  "file": "/pages/MyFinance/components/PotentialCash.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialFreeCashTo} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialFreeCashTo} />",
+      "props": " {...messages.potentialFreeCashTo} ",
+      "spread": " {...messages.potentialFreeCashTo} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.potentialFreeCash} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.potentialFreeCash} />",
+      "props": " {...messages.potentialFreeCash} ",
+      "spread": " {...messages.potentialFreeCash} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.estimatedIncome} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.estimatedIncome} />",
+      "props": " {...messages.estimatedIncome} ",
+      "spread": " {...messages.estimatedIncome} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.estimatedExpenses} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.estimatedExpenses} />",
+      "props": " {...messages.estimatedExpenses} ",
+      "spread": " {...messages.estimatedExpenses} "
+    },
+    {
+      "after": "\n      ",
+      "all": "{<FormattedMessage {...messages.forecast} />}\n        />\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.forecast} />}\n        />",
+      "props": " {...messages.forecast} />}\n        ",
+      "spread": " {...messages.forecast} />}\n        "
+    }
+  ]
+}

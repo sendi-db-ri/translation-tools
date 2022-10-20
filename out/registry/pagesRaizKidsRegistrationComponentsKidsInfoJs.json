@@ -1,0 +1,93 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/KidsInfo.js",
+  "match": [
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.chooseAvatar} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.chooseAvatar} />",
+      "props": " {...messages.chooseAvatar} ",
+      "spread": " {...messages.chooseAvatar} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.name} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.name} />}\n                      />",
+      "props": " {...messages.name} />}\n                      ",
+      "spread": " {...messages.name} />}\n                      "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.birthday} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.birthday} />",
+      "props": " {...messages.birthday} ",
+      "spread": " {...messages.birthday} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.kidEmail} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.kidEmail} />}\n                      />",
+      "props": " {...messages.kidEmail} />}\n                      ",
+      "spread": " {...messages.kidEmail} />}\n                      "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizKidAccess} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizKidAccess} />",
+      "props": " {...messages.raizKidAccess} ",
+      "spread": " {...messages.raizKidAccess} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowRaizKid} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowRaizKid} />",
+      "props": " {...messages.allowRaizKid} ",
+      "spread": " {...messages.allowRaizKid} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.kidEmail} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.kidEmail} />}\n                    />",
+      "props": " {...messages.kidEmail} />}\n                    ",
+      "spread": " {...messages.kidEmail} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.doNotAllow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.doNotAllow} />",
+      "props": " {...messages.doNotAllow} ",
+      "spread": " {...messages.doNotAllow} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ]
+}

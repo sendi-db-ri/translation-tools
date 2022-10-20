@@ -1,0 +1,37 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/KidsNotification.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.notifyMe} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.notifyMe} />",
+      "props": " {...messages.notifyMe} ",
+      "spread": " {...messages.notifyMe} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/FundingConnectConfirmModal.js",
+  "match": [
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.connect} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.connect} />",
+      "props": " {...messages.connect} ",
+      "spread": " {...messages.connect} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.connect} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.connect} />",
+      "props": " {...messages.connect} ",
+      "spread": " {...messages.connect} "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file": "/pages/Registration/components/IndoSuitability.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.inviteCode} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.inviteCode} />}\n                />",
+      "props": " {...messages.inviteCode} />}\n                ",
+      "spread": " {...messages.inviteCode} />}\n                "
+    },
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.inviteCode} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.inviteCode} />}\n                />",
+      "props": " {...messages.inviteCode} />}\n                ",
+      "spread": " {...messages.inviteCode} />}\n                "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "file": "/pages/OffsettersDetails/OffsettersDetails.js",
+  "match": [
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.page} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    }
+  ]
+}

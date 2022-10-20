@@ -1,0 +1,45 @@
+{
+  "file": "/components/layout/Modals/FundingInfoModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.roundUps} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.roundUps} />",
+      "props": " {...messages.roundUps} ",
+      "spread": " {...messages.roundUps} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.whatAreRound} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.whatAreRound} />",
+      "props": " {...messages.whatAreRound} ",
+      "spread": " {...messages.whatAreRound} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkFundingSpending} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkFundingSpending} />",
+      "props": " {...messages.linkFundingSpending} ",
+      "spread": " {...messages.linkFundingSpending} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkDebitCard} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkDebitCard} />",
+      "props": " {...messages.linkDebitCard} ",
+      "spread": " {...messages.linkDebitCard} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkFunding} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    }
+  ]
+}

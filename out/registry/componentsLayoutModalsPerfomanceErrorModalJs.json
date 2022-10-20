@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/PerfomanceErrorModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.accountValue} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.calculated} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.calculated} />",
+      "props": " {...messages.calculated} ",
+      "spread": " {...messages.calculated} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "file": "/components/layout/Modals/XenditLinkModal.js",
+  "match": [
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.selamat} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.selamat} />",
+      "props": " {...messages.selamat} ",
+      "spread": " {...messages.selamat} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.hubungkanKartu} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.hubungkanKartu} />",
+      "props": " {...messages.hubungkanKartu} ",
+      "spread": " {...messages.hubungkanKartu} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.masukkan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.masukkan} />",
+      "props": " {...messages.masukkan} ",
+      "spread": " {...messages.masukkan} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.raizMenggunakan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.raizMenggunakan} />",
+      "props": " {...messages.raizMenggunakan} ",
+      "spread": " {...messages.raizMenggunakan} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.kode} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.kode} />}\n                        />",
+      "props": " {...messages.kode} />}\n                        ",
+      "spread": " {...messages.kode} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.diterima} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.diterima} />",
+      "props": " {...messages.diterima} ",
+      "spread": " {...messages.diterima} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.noHP} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.noHP} />",
+      "props": " {...messages.noHP} ",
+      "spread": " {...messages.noHP} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "{<FormattedMessage {...messages.digit} />}\n                          />\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.digit} />}\n                          />",
+      "props": " {...messages.digit} />}\n                          ",
+      "spread": " {...messages.digit} />}\n                          "
+    },
+    {
+      "after": "\n                        ",
+      "all": "{<FormattedMessage {...messages.berlaku} />}\n                          />\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.berlaku} />}\n                          />",
+      "props": " {...messages.berlaku} />}\n                          ",
+      "spread": " {...messages.berlaku} />}\n                          "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.alamat} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.alamat} />}\n                        />",
+      "props": " {...messages.alamat} />}\n                        ",
+      "spread": " {...messages.alamat} />}\n                        "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.hubungkan} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.hubungkan} />",
+      "props": " {...messages.hubungkan} ",
+      "spread": " {...messages.hubungkan} "
+    }
+  ]
+}

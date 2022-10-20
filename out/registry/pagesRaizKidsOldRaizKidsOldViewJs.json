@@ -1,0 +1,95 @@
+{
+  "file": "/pages/RaizKidsOld/RaizKidsOldView.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.readyTransfer} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.readyTransfer} />",
+      "props": " {...messages.readyTransfer} ",
+      "spread": " {...messages.readyTransfer} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage\n                  {...messages.readyTransferIn}\n                  values={{ year: transferPeriodYearsFormatted }}\n                />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage\n                  {...messages.readyTransferIn}\n                  values={{ year: transferPeriodYearsFormatted }}\n                />",
+      "props": "\n                  {...messages.readyTransferIn}\n                  values={{ year: transferPeriodYearsFormatted }}\n                ",
+      "spread": "\n                  {...messages.readyTransferIn}\n                  ",
+      "values": "values={{ year: transferPeriodYearsFormatted }}\n                "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage\n                    {...messages.readyTransferInDays}\n                    values={{ days: transferPeriodFormatted }}\n                  />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.readyTransferInDays}\n                    values={{ days: transferPeriodFormatted }}\n                  />",
+      "props": "\n                    {...messages.readyTransferInDays}\n                    values={{ days: transferPeriodFormatted }}\n                  ",
+      "spread": "\n                    {...messages.readyTransferInDays}\n                    ",
+      "values": "values={{ days: transferPeriodFormatted }}\n                  "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.edit} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.edit} />",
+      "props": " {...messages.edit} ",
+      "spread": " {...messages.edit} "
+    },
+    {
+      "after": "",
+      "all": "\n                <FormattedMessage {...messages.current} />",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.current} />",
+      "props": " {...messages.current} ",
+      "spread": " {...messages.current} "
+    },
+    {
+      "after": "",
+      "all": "\n                <FormattedMessage {...messages.futureValue} />",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.futureValue} />",
+      "props": " {...messages.futureValue} ",
+      "spread": " {...messages.futureValue} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKids} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.kids} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.kids} />",
+      "props": " {...messages.kids} ",
+      "spread": " {...messages.kids} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addKid} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addKid} />",
+      "props": " {...messages.addKid} ",
+      "spread": " {...messages.addKid} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.selectHowMuch} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.selectHowMuch} />",
+      "props": " {...messages.selectHowMuch} ",
+      "spread": " {...messages.selectHowMuch} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.apply} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.apply} />",
+      "props": " {...messages.apply} ",
+      "spread": " {...messages.apply} "
+    }
+  ]
+}

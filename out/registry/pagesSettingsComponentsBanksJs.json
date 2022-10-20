@@ -1,0 +1,21 @@
+{
+  "file": "/pages/Settings/components/Banks.js",
+  "match": [
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.useAnother} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.useAnother} />",
+      "props": " {...messages.useAnother} ",
+      "spread": " {...messages.useAnother} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.moreBanks} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.moreBanks} />",
+      "props": " {...messages.moreBanks} ",
+      "spread": " {...messages.moreBanks} "
+    }
+  ]
+}

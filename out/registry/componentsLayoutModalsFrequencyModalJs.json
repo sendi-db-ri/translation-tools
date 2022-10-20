@@ -1,0 +1,95 @@
+{
+  "file": "/components/layout/Modals/FrequencyModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.investmentFrequency} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.investmentFrequency} />",
+      "props": " {...messages.investmentFrequency} ",
+      "spread": " {...messages.investmentFrequency} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.lastDayOfMonth} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.lastDayOfMonth} />",
+      "props": " {...messages.lastDayOfMonth} ",
+      "spread": " {...messages.lastDayOfMonth} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage\n                  {...messages.fortnightlyOn}\n                  values={{\n                    day: dayjs(startDate).format('dddd'),\n                  }}\n                />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage\n                  {...messages.fortnightlyOn}\n                  values={{\n                    day: dayjs(startDate).format('dddd'),\n                  }}\n                />",
+      "props": "\n                  {...messages.fortnightlyOn}\n                  values={{\n                    day: dayjs(startDate).format('dddd'),\n                  }}\n                ",
+      "spread": "\n                  {...messages.fortnightlyOn}\n                  ",
+      "values": "values={{\n                    day: dayjs(startDate).format('dddd'),\n                  }}\n                "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage\n                  {...messages.every}\n                  values={{\n                    day: week[frequencyDay - 2],\n                  }}\n                />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage\n                  {...messages.every}\n                  values={{\n                    day: week[frequencyDay - 2],\n                  }}\n                />",
+      "props": "\n                  {...messages.every}\n                  values={{\n                    day: week[frequencyDay - 2],\n                  }}\n                ",
+      "spread": "\n                  {...messages.every}\n                  ",
+      "values": "values={{\n                    day: week[frequencyDay - 2],\n                  }}\n                "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.everyDay} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.everyDay} />",
+      "props": " {...messages.everyDay} ",
+      "spread": " {...messages.everyDay} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.chooseInvestmentFrequency} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.chooseInvestmentFrequency} />",
+      "props": " {...messages.chooseInvestmentFrequency} ",
+      "spread": " {...messages.chooseInvestmentFrequency} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.daily} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.daily} />",
+      "props": " {...messages.daily} ",
+      "spread": " {...messages.daily} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.weekly} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.weekly} />",
+      "props": " {...messages.weekly} ",
+      "spread": " {...messages.weekly} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.fortnightly} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.fortnightly} />",
+      "props": " {...messages.fortnightly} ",
+      "spread": " {...messages.fortnightly} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.monthly} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.monthly} />",
+      "props": " {...messages.monthly} ",
+      "spread": " {...messages.monthly} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.chooseFrequency} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.chooseFrequency} />",
+      "props": " {...messages.chooseFrequency} ",
+      "spread": " {...messages.chooseFrequency} "
+    }
+  ]
+}

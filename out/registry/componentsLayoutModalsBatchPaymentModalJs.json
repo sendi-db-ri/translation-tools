@@ -1,0 +1,69 @@
+{
+  "file": "/components/layout/Modals/BatchPaymentModal.js",
+  "match": [
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.kamuMemiliki} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.kamuMemiliki} />",
+      "props": " {...messages.kamuMemiliki} ",
+      "spread": " {...messages.kamuMemiliki} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.transaksi} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.transaksi} />",
+      "props": " {...messages.transaksi} ",
+      "spread": " {...messages.transaksi} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.tertundaDengan} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.tertundaDengan} />",
+      "props": " {...messages.tertundaDengan} ",
+      "spread": " {...messages.tertundaDengan} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.pilihMetode} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.pilihMetode} />",
+      "props": " {...messages.pilihMetode} ",
+      "spread": " {...messages.pilihMetode} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.promo} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.promo} />",
+      "props": " {...messages.promo} ",
+      "spread": " {...messages.promo} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.tutup} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.tutup} />",
+      "props": " {...messages.tutup} ",
+      "spread": " {...messages.tutup} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.andaDepat} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.andaDepat} />",
+      "props": " {...messages.andaDepat} ",
+      "spread": " {...messages.andaDepat} "
+    }
+  ]
+}

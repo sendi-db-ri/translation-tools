@@ -1,0 +1,45 @@
+{
+  "file": "/components/layout/Widgets/History/HistoryView.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.pending} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.pending} />",
+      "props": " {...messages.pending} ",
+      "spread": " {...messages.pending} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.history} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.history} />",
+      "props": " {...messages.history} ",
+      "spread": " {...messages.history} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recenthistory} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recenthistory} />",
+      "props": " {...messages.recenthistory} ",
+      "spread": " {...messages.recenthistory} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.historyDetails} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.historyDetails} />",
+      "props": " {...messages.historyDetails} ",
+      "spread": " {...messages.historyDetails} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.historyDetails} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.historyDetails} />",
+      "props": " {...messages.historyDetails} ",
+      "spread": " {...messages.historyDetails} "
+    }
+  ]
+}

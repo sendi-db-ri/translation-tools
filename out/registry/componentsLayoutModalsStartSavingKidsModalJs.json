@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/StartSavingKidsModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.kids} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.kids} />",
+      "props": " {...messages.kids} ",
+      "spread": " {...messages.kids} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.automaticSaving} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.automaticSaving} />",
+      "props": " {...messages.automaticSaving} ",
+      "spread": " {...messages.automaticSaving} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.isSimpleWay} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.isSimpleWay} />",
+      "props": " {...messages.isSimpleWay} ",
+      "spread": " {...messages.isSimpleWay} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.startSaving} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.startSaving} />",
+      "props": " {...messages.startSaving} ",
+      "spread": " {...messages.startSaving} "
+    }
+  ]
+}

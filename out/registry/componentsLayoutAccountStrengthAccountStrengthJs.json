@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/AccountStrength/AccountStrength.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.accountStrength} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountStrength} />",
+      "props": " {...messages.accountStrength} ",
+      "spread": " {...messages.accountStrength} "
+    }
+  ]
+}

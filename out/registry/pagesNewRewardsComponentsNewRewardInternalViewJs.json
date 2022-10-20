@@ -1,0 +1,85 @@
+{
+  "file": "/pages/NewRewards/components/NewRewardInternalView.js",
+  "match": [
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.featured} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.featured} />",
+      "props": " {...messages.featured} ",
+      "spread": " {...messages.featured} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.recommended} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.recommended} />",
+      "props": " {...messages.recommended} ",
+      "spread": " {...messages.recommended} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.location} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.location} />",
+      "props": " {...messages.location} ",
+      "spread": " {...messages.location} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage {...messages.moreLocations} />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage {...messages.moreLocations} />",
+      "props": " {...messages.moreLocations} ",
+      "spread": " {...messages.moreLocations} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.investmentTips} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.investmentTips} />",
+      "props": " {...messages.investmentTips} ",
+      "spread": " {...messages.investmentTips} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.howItWorks} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.howItWorks} />",
+      "props": " {...messages.howItWorks} ",
+      "spread": " {...messages.howItWorks} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage\n                                {...messages.aboutTheGiftCard}\n                              />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage\n                                {...messages.aboutTheGiftCard}\n                              />",
+      "props": "\n                                {...messages.aboutTheGiftCard}\n                              ",
+      "spread": "\n                                {...messages.aboutTheGiftCard}\n                              "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.aboutTheBrand} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.aboutTheBrand} />",
+      "props": " {...messages.aboutTheBrand} ",
+      "spread": " {...messages.aboutTheBrand} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.termsConditions} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.termsConditions} />",
+      "props": " {...messages.termsConditions} ",
+      "spread": " {...messages.termsConditions} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.moreLocations} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.moreLocations} />",
+      "props": " {...messages.moreLocations} ",
+      "spread": " {...messages.moreLocations} "
+    }
+  ]
+}

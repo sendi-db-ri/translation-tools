@@ -1,0 +1,45 @@
+{
+  "file": "/components/layout/RaizKidsDashboardOld/RaizKidsDashboardOld.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKids} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.automaticSavings} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.automaticSavings} />",
+      "props": " {...messages.automaticSavings} ",
+      "spread": " {...messages.automaticSavings} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.simpleWay} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.simpleWay} />",
+      "props": " {...messages.simpleWay} ",
+      "spread": " {...messages.simpleWay} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.checkYourKids} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.checkYourKids} />",
+      "props": " {...messages.checkYourKids} ",
+      "spread": " {...messages.checkYourKids} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.startSaving} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.startSaving} />",
+      "props": " {...messages.startSaving} ",
+      "spread": " {...messages.startSaving} "
+    }
+  ]
+}

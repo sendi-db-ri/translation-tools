@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/RaizSuper/RaizSuper.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizSuper} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizSuper} />",
+      "props": " {...messages.raizSuper} ",
+      "spread": " {...messages.raizSuper} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.connectedToFuture} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.connectedToFuture} />",
+      "props": " {...messages.connectedToFuture} ",
+      "spread": " {...messages.connectedToFuture} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.connecteEmployer} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.connecteEmployer} />",
+      "props": " {...messages.connecteEmployer} ",
+      "spread": " {...messages.connecteEmployer} "
+    },
+    {
+      "after": "\n        ",
+      "all": "{<FormattedMessage {...messages.discover} />}\n          />\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.discover} />}\n          />",
+      "props": " {...messages.discover} />}\n          ",
+      "spread": " {...messages.discover} />}\n          "
+    }
+  ]
+}

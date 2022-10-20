@@ -1,0 +1,69 @@
+{
+  "file": "/pages/Registration/components/ProgressBar.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.superFundAccount} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.superFundAccount} />",
+      "props": " {...messages.superFundAccount} ",
+      "spread": " {...messages.superFundAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.fundingAccountTitle} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fundingAccountTitle} />",
+      "props": " {...messages.fundingAccountTitle} ",
+      "spread": " {...messages.fundingAccountTitle} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.withdrawalTitle} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.withdrawalTitle} />",
+      "props": " {...messages.withdrawalTitle} ",
+      "spread": " {...messages.withdrawalTitle} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.personal} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.personal} />",
+      "props": " {...messages.personal} ",
+      "spread": " {...messages.personal} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.account} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.account} />",
+      "props": " {...messages.account} ",
+      "spread": " {...messages.account} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.investments} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.investments} />",
+      "props": " {...messages.investments} ",
+      "spread": " {...messages.investments} "
+    }
+  ]
+}

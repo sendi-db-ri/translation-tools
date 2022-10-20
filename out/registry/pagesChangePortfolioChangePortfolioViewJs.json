@@ -1,0 +1,221 @@
+{
+  "file": "/pages/ChangePortfolio/ChangePortfolioView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n        <FormattedMessage {...messages.featuredHoldings} />\n        ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.featuredHoldings} />",
+      "props": " {...messages.featuredHoldings} ",
+      "spread": " {...messages.featuredHoldings} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.conservativePortfolio} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.conservativePortfolio} />",
+      "props": " {...messages.conservativePortfolio} ",
+      "spread": " {...messages.conservativePortfolio} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.aggressivePortfolio} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.aggressivePortfolio} />",
+      "props": " {...messages.aggressivePortfolio} ",
+      "spread": " {...messages.aggressivePortfolio} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.moderatePortfolio} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.moderatePortfolio} />",
+      "props": " {...messages.moderatePortfolio} ",
+      "spread": " {...messages.moderatePortfolio} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.thisPortfolio} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.thisPortfolio} />",
+      "props": " {...messages.thisPortfolio} ",
+      "spread": " {...messages.thisPortfolio} "
+    },
+    {
+      "after": "\n                            }\n                            ",
+      "all": "{\n                              <FormattedMessage {...messages.editPortfolio} />\n                            }\n                            ",
+      "before": "{\n                              ",
+      "main": "<FormattedMessage {...messages.editPortfolio} />",
+      "props": " {...messages.editPortfolio} ",
+      "spread": " {...messages.editPortfolio} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.portfolios} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.portfolios} />",
+      "props": " {...messages.portfolios} ",
+      "spread": " {...messages.portfolios} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.monthlyAmount} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.monthlyAmount} />",
+      "props": " {...messages.monthlyAmount} ",
+      "spread": " {...messages.monthlyAmount} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.monthlyText1} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.monthlyText1} />",
+      "props": " {...messages.monthlyText1} ",
+      "spread": " {...messages.monthlyText1} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.monthlyText2} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.monthlyText2} />",
+      "props": " {...messages.monthlyText2} ",
+      "spread": " {...messages.monthlyText2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.recommendedPortfolio} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.recommendedPortfolio} />",
+      "props": " {...messages.recommendedPortfolio} ",
+      "spread": " {...messages.recommendedPortfolio} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.thisPortfolioConstructed} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.thisPortfolioConstructed} />",
+      "props": " {...messages.thisPortfolioConstructed} ",
+      "spread": " {...messages.thisPortfolioConstructed} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.iAgree} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.iAgree} />",
+      "props": " {...messages.iAgree} ",
+      "spread": " {...messages.iAgree} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.notRecommended} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.notRecommended} />",
+      "props": " {...messages.notRecommended} ",
+      "spread": " {...messages.notRecommended} "
+    },
+    {
+      "after": "\n                      }\n                      ",
+      "all": "{\n                        <FormattedMessage {...messages.changeMyPortfolio} />\n                      }\n                      ",
+      "before": "{\n                        ",
+      "main": "<FormattedMessage {...messages.changeMyPortfolio} />",
+      "props": " {...messages.changeMyPortfolio} ",
+      "spread": " {...messages.changeMyPortfolio} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.goToPortfolio} />}\n              />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.goToPortfolio} />}\n              />",
+      "props": " {...messages.goToPortfolio} />}\n              ",
+      "spread": " {...messages.goToPortfolio} />}\n              "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.cancelEdit} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancelEdit} />",
+      "props": " {...messages.cancelEdit} ",
+      "spread": " {...messages.cancelEdit} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.saveChanges} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.saveChanges} />",
+      "props": " {...messages.saveChanges} ",
+      "spread": " {...messages.saveChanges} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.saveAllocation} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.saveAllocation} />",
+      "props": " {...messages.saveAllocation} ",
+      "spread": " {...messages.saveAllocation} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.penyingkapan} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.penyingkapan} />",
+      "props": " {...messages.penyingkapan} ",
+      "spread": " {...messages.penyingkapan} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundFactSheet} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundFactSheet} />",
+      "props": " {...messages.fundFactSheet} ",
+      "spread": " {...messages.fundFactSheet} "
+    },
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.investmentObjective} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.investmentObjective} />}\n                />",
+      "props": " {...messages.investmentObjective} />}\n                ",
+      "spread": " {...messages.investmentObjective} />}\n                "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.batalkan} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.batalkan} />",
+      "props": " {...messages.batalkan} ",
+      "spread": " {...messages.batalkan} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.lanjutkan} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.lanjutkan} />",
+      "props": " {...messages.lanjutkan} ",
+      "spread": " {...messages.lanjutkan} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

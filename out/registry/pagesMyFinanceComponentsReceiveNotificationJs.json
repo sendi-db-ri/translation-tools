@@ -1,0 +1,29 @@
+{
+  "file": "/pages/MyFinance/components/ReceiveNotification.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.receiveNotificationsTips} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.receiveNotificationsTips} />",
+      "props": " {...messages.receiveNotificationsTips} ",
+      "spread": " {...messages.receiveNotificationsTips} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.no} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.no} />",
+      "props": " {...messages.no} ",
+      "spread": " {...messages.no} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.yes} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yes} />",
+      "props": " {...messages.yes} ",
+      "spread": " {...messages.yes} "
+    }
+  ]
+}

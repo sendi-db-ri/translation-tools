@@ -1,0 +1,101 @@
+{
+  "file": "/pages/Registration/components/StepAuth.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.createYourRaizAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.createYourRaizAccount} />",
+      "props": " {...messages.createYourRaizAccount} ",
+      "spread": " {...messages.createYourRaizAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.createYour} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.createYour} />",
+      "props": " {...messages.createYour} ",
+      "spread": " {...messages.createYour} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizAccount} />",
+      "props": " {...messages.raizAccount} ",
+      "spread": " {...messages.raizAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.contactUs} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.contactUs} />",
+      "props": " {...messages.contactUs} ",
+      "spread": " {...messages.contactUs} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.byCreating} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.byCreating} />",
+      "props": " {...messages.byCreating} ",
+      "spread": " {...messages.byCreating} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.conditions} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.conditions} />",
+      "props": " {...messages.conditions} ",
+      "spread": " {...messages.conditions} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.contactUsTextId} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.contactUsTextId} />",
+      "props": " {...messages.contactUsTextId} ",
+      "spread": " {...messages.contactUsTextId} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.syarat} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.syarat} />",
+      "props": " {...messages.syarat} ",
+      "spread": " {...messages.syarat} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.dan} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.dan} />",
+      "props": " {...messages.dan} ",
+      "spread": " {...messages.dan} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.kebijakan} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.kebijakan} />",
+      "props": " {...messages.kebijakan} ",
+      "spread": " {...messages.kebijakan} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.millennial} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.millennial} />",
+      "props": " {...messages.millennial} ",
+      "spread": " {...messages.millennial} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.investAustraliaLimited} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.investAustraliaLimited} />",
+      "props": " {...messages.investAustraliaLimited} ",
+      "spread": " {...messages.investAustraliaLimited} "
+    }
+  ]
+}

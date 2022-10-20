@@ -1,0 +1,37 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/ProgressBar.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.personal} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.personal} />",
+      "props": " {...messages.personal} ",
+      "spread": " {...messages.personal} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.investments} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.investments} />",
+      "props": " {...messages.investments} ",
+      "spread": " {...messages.investments} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.portfolio} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.portfolio} />",
+      "props": " {...messages.portfolio} ",
+      "spread": " {...messages.portfolio} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.account} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.account} />",
+      "props": " {...messages.account} ",
+      "spread": " {...messages.account} "
+    }
+  ]
+}

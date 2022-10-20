@@ -1,0 +1,125 @@
+{
+  "file": "/components/layout/Modals/BankSignInModal.js",
+  "match": [
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pleaseWait} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pleaseWait} />",
+      "props": " {...messages.pleaseWait} ",
+      "spread": " {...messages.pleaseWait} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.beingProcessed} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.beingProcessed} />",
+      "props": " {...messages.beingProcessed} ",
+      "spread": " {...messages.beingProcessed} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.bankAlert} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.bankAlert} />",
+      "props": " {...messages.bankAlert} ",
+      "spread": " {...messages.bankAlert} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.wait} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.wait} />",
+      "props": " {...messages.wait} ",
+      "spread": " {...messages.wait} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.bankSignInFunding} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.bankSignInFunding} />",
+      "props": " {...messages.bankSignInFunding} ",
+      "spread": " {...messages.bankSignInFunding} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": " <FormattedMessage {...messages.bankSignIn} />}\n                  ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.bankSignIn} />",
+      "props": " {...messages.bankSignIn} ",
+      "spread": " {...messages.bankSignIn} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.secured} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n                              }\n                            ",
+      "all": "{\n                                <FormattedMessage\n                                  {...messages.automaticRoundUps}\n                                />\n                              }\n                            ",
+      "before": "{\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.automaticRoundUps}\n                                />",
+      "props": "\n                                  {...messages.automaticRoundUps}\n                                ",
+      "spread": "\n                                  {...messages.automaticRoundUps}\n                                "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.tidakMenerima} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.tidakMenerima} />",
+      "props": " {...messages.tidakMenerima} ",
+      "spread": " {...messages.tidakMenerima} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.kirimUlang} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.kirimUlang} />",
+      "props": " {...messages.kirimUlang} ",
+      "spread": " {...messages.kirimUlang} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.pembulatanDari} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.pembulatanDari} />",
+      "props": " {...messages.pembulatanDari} ",
+      "spread": " {...messages.pembulatanDari} "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.signIn} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.signIn} />",
+      "props": " {...messages.signIn} ",
+      "spread": " {...messages.signIn} "
+    }
+  ]
+}

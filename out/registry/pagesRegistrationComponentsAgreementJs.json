@@ -1,0 +1,101 @@
+{
+  "file": "/pages/Registration/components/Agreement.js",
+  "match": [
+    {
+      "after": "}\n      ",
+      "all": "{<FormattedMessage {...messages.agree} />}\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.agree} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.agree} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.agree} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.agree} />",
+      "props": " {...messages.agree} ",
+      "spread": " {...messages.agree} "
+    },
+    {
+      "after": "\n                ",
+      "all": "{<FormattedMessage {...messages.yearsOld} />}\n                  />\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.yearsOld} />}\n                  />",
+      "props": " {...messages.yearsOld} />}\n                  ",
+      "spread": " {...messages.yearsOld} />}\n                  "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.disagree} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.disagree} />",
+      "props": " {...messages.disagree} ",
+      "spread": " {...messages.disagree} "
+    },
+    {
+      "after": "\n                }\n                ",
+      "all": "{\n                  <FormattedMessage {...messages.programAgreement} />\n                }\n                ",
+      "before": "{\n                  ",
+      "main": "<FormattedMessage {...messages.programAgreement} />",
+      "props": " {...messages.programAgreement} ",
+      "spread": " {...messages.programAgreement} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.choose} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.choose} />",
+      "props": " {...messages.choose} ",
+      "spread": " {...messages.choose} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.iAmIndividual} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.iAmIndividual} />",
+      "props": " {...messages.iAmIndividual} ",
+      "spread": " {...messages.iAmIndividual} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.yearsOld} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.yearsOld} />",
+      "props": " {...messages.yearsOld} ",
+      "spread": " {...messages.yearsOld} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.iAmTrustee} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.iAmTrustee} />",
+      "props": " {...messages.iAmTrustee} ",
+      "spread": " {...messages.iAmTrustee} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.continueRegistration} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.continueRegistration} />",
+      "props": " {...messages.continueRegistration} ",
+      "spread": " {...messages.continueRegistration} "
+    }
+  ]
+}

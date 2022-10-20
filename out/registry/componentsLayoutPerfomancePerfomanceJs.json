@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Perfomance/Perfomance.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.superPerfomance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.superPerfomance} />",
+      "props": " {...messages.superPerfomance} ",
+      "spread": " {...messages.superPerfomance} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.perfomance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.perfomance} />",
+      "props": " {...messages.perfomance} ",
+      "spread": " {...messages.perfomance} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.perfomanceDetails} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.perfomanceDetails} />",
+      "props": " {...messages.perfomanceDetails} ",
+      "spread": " {...messages.perfomanceDetails} "
+    }
+  ]
+}

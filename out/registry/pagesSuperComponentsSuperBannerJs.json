@@ -1,0 +1,13 @@
+{
+  "file": "/pages/Super/components/SuperBanner.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizInvestSuper} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizInvestSuper} />",
+      "props": " {...messages.raizInvestSuper} ",
+      "spread": " {...messages.raizInvestSuper} "
+    }
+  ]
+}

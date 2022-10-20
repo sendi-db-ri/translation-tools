@@ -1,0 +1,69 @@
+{
+  "file": "/pages/Registration/components/Banks.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.linkAF} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.linkAF} />",
+      "props": " {...messages.linkAF} ",
+      "spread": " {...messages.linkAF} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.linkA} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.linkA} />",
+      "props": " {...messages.linkA} ",
+      "spread": " {...messages.linkA} "
+    },
+    {
+      "after": "}\n        ",
+      "all": " <FormattedMessage {...messages.linkW} />}\n        ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.linkW} />",
+      "props": " {...messages.linkW} ",
+      "spread": " {...messages.linkW} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.fundInvestments} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.fundInvestments} />",
+      "props": " {...messages.fundInvestments} ",
+      "spread": " {...messages.fundInvestments} "
+    },
+    {
+      "after": "}\n            ",
+      "all": " <FormattedMessage {...messages.creditCard} />}\n            ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.creditCard} />",
+      "props": " {...messages.creditCard} ",
+      "spread": " {...messages.creditCard} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.withdrawalSendBand} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.withdrawalSendBand} />",
+      "props": " {...messages.withdrawalSendBand} ",
+      "spread": " {...messages.withdrawalSendBand} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/SpendingConnectConfirmModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.unlinkAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.unlinkAccount} />",
+      "props": " {...messages.unlinkAccount} ",
+      "spread": " {...messages.unlinkAccount} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.unlinkShure} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.unlinkShure} />",
+      "props": " {...messages.unlinkShure} ",
+      "spread": " {...messages.unlinkShure} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.unlink} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    }
+  ]
+}

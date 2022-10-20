@@ -1,0 +1,101 @@
+{
+  "file": "/components/layout/Modals/CloseAccountModal.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.requestCloseAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.requestCloseAccount} />",
+      "props": " {...messages.requestCloseAccount} ",
+      "spread": " {...messages.requestCloseAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.sorryToSee} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.sorryToSee} />",
+      "props": " {...messages.sorryToSee} ",
+      "spread": " {...messages.sorryToSee} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.accountValue} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.name} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.name} />",
+      "props": " {...messages.name} ",
+      "spread": " {...messages.name} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.emailLabel} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.emailLabel} />",
+      "props": " {...messages.emailLabel} ",
+      "spread": " {...messages.emailLabel} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.closeMyAccount} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.closeMyAccount} />",
+      "props": " {...messages.closeMyAccount} ",
+      "spread": " {...messages.closeMyAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.mayChange} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.mayChange} />",
+      "props": " {...messages.mayChange} ",
+      "spread": " {...messages.mayChange} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.sorryYouGo} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.sorryYouGo} />",
+      "props": " {...messages.sorryYouGo} ",
+      "spread": " {...messages.sorryYouGo} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.logOut} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.logOut} />",
+      "props": " {...messages.logOut} ",
+      "spread": " {...messages.logOut} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.closureRequest} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.closureRequest} />",
+      "props": " {...messages.closureRequest} ",
+      "spread": " {...messages.closureRequest} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.ok} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file": "/pages/NewRewards/components/CardsView.js",
+  "match": [
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.yourCredit} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.yourCredit} />",
+      "props": " {...messages.yourCredit} ",
+      "spread": " {...messages.yourCredit} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkedCards} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkedCards} />",
+      "props": " {...messages.linkedCards} ",
+      "spread": " {...messages.linkedCards} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkYour} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkYour} />",
+      "props": " {...messages.linkYour} ",
+      "spread": " {...messages.linkYour} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addCard} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addCard} />",
+      "props": " {...messages.addCard} ",
+      "spread": " {...messages.addCard} "
+    }
+  ]
+}

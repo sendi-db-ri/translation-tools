@@ -1,0 +1,29 @@
+{
+  "file": "/pages/Registration/components/SMSFAccount.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.superFundInformation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.superFundInformation} />",
+      "props": " {...messages.superFundInformation} ",
+      "spread": " {...messages.superFundInformation} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.memberDirector} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.memberDirector} />",
+      "props": " {...messages.memberDirector} ",
+      "spread": " {...messages.memberDirector} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.stepTwoBottomText} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "props": " {...messages.stepTwoBottomText} ",
+      "spread": " {...messages.stepTwoBottomText} "
+    }
+  ]
+}

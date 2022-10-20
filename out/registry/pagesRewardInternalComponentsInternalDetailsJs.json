@@ -1,0 +1,101 @@
+{
+  "file": "/pages/RewardInternal/components/InternalDetails.js",
+  "match": [
+    {
+      "after": "\n    ",
+      "all": "\n      <FormattedMessage {...messages.joinOffsettersNow} />\n    ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages.joinOffsettersNow} />",
+      "props": " {...messages.joinOffsettersNow} ",
+      "spread": " {...messages.joinOffsettersNow} "
+    },
+    {
+      "after": "\n  ",
+      "all": "\n    <FormattedMessage {...messages.unavailable} />\n  ",
+      "before": "\n    ",
+      "main": "<FormattedMessage {...messages.unavailable} />",
+      "props": " {...messages.unavailable} ",
+      "spread": " {...messages.unavailable} "
+    },
+    {
+      "after": "\n  ",
+      "all": "\n    <FormattedMessage {...messages.active} />\n  ",
+      "before": "\n    ",
+      "main": "<FormattedMessage {...messages.active} />",
+      "props": " {...messages.active} ",
+      "spread": " {...messages.active} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.theSurveyPanel} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.theSurveyPanel} />",
+      "props": " {...messages.theSurveyPanel} ",
+      "spread": " {...messages.theSurveyPanel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.details} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.details} />",
+      "props": " {...messages.details} ",
+      "spread": " {...messages.details} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.details} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.details} />",
+      "props": " {...messages.details} ",
+      "spread": " {...messages.details} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.about} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.about} />",
+      "props": " {...messages.about} ",
+      "spread": " {...messages.about} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.linkCard} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.linkCard} />",
+      "props": " {...messages.linkCard} ",
+      "spread": " {...messages.linkCard} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.activateNow} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.activateNow} />",
+      "props": " {...messages.activateNow} ",
+      "spread": " {...messages.activateNow} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.unavailable} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.unavailable} />",
+      "props": " {...messages.unavailable} ",
+      "spread": " {...messages.unavailable} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.termsConditions} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.termsConditions} />",
+      "props": " {...messages.termsConditions} ",
+      "spread": " {...messages.termsConditions} "
+    }
+  ]
+}

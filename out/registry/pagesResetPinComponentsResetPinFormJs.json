@@ -1,0 +1,69 @@
+{
+  "file": "/pages/ResetPin/components/ResetPinForm.js",
+  "match": [
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.newPincode} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.newPincode} />",
+      "props": " {...messages.newPincode} ",
+      "spread": " {...messages.newPincode} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.confirmNewPincode} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.confirmNewPincode} />",
+      "props": " {...messages.confirmNewPincode} ",
+      "spread": " {...messages.confirmNewPincode} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...securityQuestion} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...securityQuestion} />",
+      "props": " {...securityQuestion} ",
+      "spread": " {...securityQuestion} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.securityQuestionAnswer} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.securityQuestionAnswer} />",
+      "props": " {...messages.securityQuestionAnswer} ",
+      "spread": " {...messages.securityQuestionAnswer} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.passwordRule} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.passwordRule} />",
+      "props": " {...messages.passwordRule} ",
+      "spread": " {...messages.passwordRule} "
+    },
+    {
+      "after": "}\n            ",
+      "all": " <FormattedMessage {...messages.expired} />}\n            ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.expired} />",
+      "props": " {...messages.expired} ",
+      "spread": " {...messages.expired} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.questionIncorrect} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.questionIncorrect} />",
+      "props": " {...messages.questionIncorrect} ",
+      "spread": " {...messages.questionIncorrect} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.resetNow} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.resetNow} />",
+      "props": " {...messages.resetNow} ",
+      "spread": " {...messages.resetNow} "
+    }
+  ]
+}

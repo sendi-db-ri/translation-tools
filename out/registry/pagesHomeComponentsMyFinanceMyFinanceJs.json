@@ -1,0 +1,61 @@
+{
+  "file": "/pages/Home/components/MyFinance/MyFinance.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.myFinance} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.myFinance} />",
+      "props": " {...messages.myFinance} ",
+      "spread": " {...messages.myFinance} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.foodDining} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.foodDining} />",
+      "props": " {...messages.foodDining} ",
+      "spread": " {...messages.foodDining} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.healthFitness} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.healthFitness} />",
+      "props": " {...messages.healthFitness} ",
+      "spread": " {...messages.healthFitness} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.cash} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.cash} />",
+      "props": " {...messages.cash} ",
+      "spread": " {...messages.cash} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.spendSmarter} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.spendSmarter} />",
+      "props": " {...messages.spendSmarter} ",
+      "spread": " {...messages.spendSmarter} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.dailySpending} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.dailySpending} />",
+      "props": " {...messages.dailySpending} ",
+      "spread": " {...messages.dailySpending} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.discover} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.discover} />",
+      "props": " {...messages.discover} ",
+      "spread": " {...messages.discover} "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "file": "/pages/Registration/components/Investments.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.letsMake} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.letsMake} />",
+      "props": " {...messages.letsMake} ",
+      "spread": " {...messages.letsMake} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.noMinimum} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.noMinimum} />",
+      "props": " {...messages.noMinimum} ",
+      "spread": " {...messages.noMinimum} "
+    }
+  ]
+}

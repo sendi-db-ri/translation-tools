@@ -1,0 +1,93 @@
+{
+  "file": "/components/layout/Modals/BankInformationModal.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pentingnya} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pentingnya} />",
+      "props": " {...messages.pentingnya} ",
+      "spread": " {...messages.pentingnya} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.tujuan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.tujuan} />",
+      "props": " {...messages.tujuan} ",
+      "spread": " {...messages.tujuan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pastikan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pastikan} />",
+      "props": " {...messages.pastikan} ",
+      "spread": " {...messages.pastikan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.saldo} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.saldo} />",
+      "props": " {...messages.saldo} ",
+      "spread": " {...messages.saldo} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.perjalanan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.perjalanan} />",
+      "props": " {...messages.perjalanan} ",
+      "spread": " {...messages.perjalanan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.perjalanan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.perjalanan} />",
+      "props": " {...messages.perjalanan} ",
+      "spread": " {...messages.perjalanan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pencairan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pencairan} />",
+      "props": " {...messages.pencairan} ",
+      "spread": " {...messages.pencairan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pastikanBukan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pastikanBukan} />",
+      "props": " {...messages.pastikanBukan} ",
+      "spread": " {...messages.pastikanBukan} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.kamuWajib} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.kamuWajib} />",
+      "props": " {...messages.kamuWajib} ",
+      "spread": " {...messages.kamuWajib} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.tutup} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.tutup} />",
+      "props": " {...messages.tutup} ",
+      "spread": " {...messages.tutup} "
+    }
+  ]
+}

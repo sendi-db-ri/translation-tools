@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/PaymentChoiceRecurringModal.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.pilihGerbang} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.pilihGerbang} />",
+      "props": " {...messages.pilihGerbang} ",
+      "spread": " {...messages.pilihGerbang} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.DANA} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.DANA} />",
+      "props": " {...messages.DANA} ",
+      "spread": " {...messages.DANA} "
+    }
+  ]
+}

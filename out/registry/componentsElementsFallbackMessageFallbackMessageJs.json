@@ -1,0 +1,13 @@
+{
+  "file": "/components/elements/FallbackMessage/FallbackMessage.js",
+  "match": [
+    {
+      "after": "}\n        ",
+      "all": " <FormattedMessage {...message} />}\n        ",
+      "before": " ",
+      "main": "<FormattedMessage {...message} />",
+      "props": " {...message} ",
+      "spread": " {...message} "
+    }
+  ]
+}

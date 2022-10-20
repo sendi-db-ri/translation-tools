@@ -1,0 +1,421 @@
+{
+  "file": "/components/layout/Modals/WithdrawModal.js",
+  "match": [
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.insufficientFunds} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.insufficientFunds} />",
+      "props": " {...messages.insufficientFunds} ",
+      "spread": " {...messages.insufficientFunds} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.withdrawBalance} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.withdrawBalance} />",
+      "props": " {...messages.withdrawBalance} ",
+      "spread": " {...messages.withdrawBalance} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.investmentDisbursementLimits} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.investmentDisbursementLimits} />",
+      "props": " {...messages.investmentDisbursementLimits} ",
+      "spread": " {...messages.investmentDisbursementLimits} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.investmentFundsWithdrawal} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.investmentFundsWithdrawal} />",
+      "props": " {...messages.investmentFundsWithdrawal} ",
+      "spread": " {...messages.investmentFundsWithdrawal} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.withdrawBalance} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.withdrawBalance} />",
+      "props": " {...messages.withdrawBalance} ",
+      "spread": " {...messages.withdrawBalance} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.withdrawBalanceMaximum} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.withdrawBalanceMaximum} />",
+      "props": " {...messages.withdrawBalanceMaximum} ",
+      "spread": " {...messages.withdrawBalanceMaximum} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.withdrawBalanceMoreMax} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.withdrawBalanceMoreMax} />",
+      "props": " {...messages.withdrawBalanceMoreMax} ",
+      "spread": " {...messages.withdrawBalanceMoreMax} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.withdrawBalanceInfo} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.withdrawBalanceInfo} />",
+      "props": " {...messages.withdrawBalanceInfo} ",
+      "spread": " {...messages.withdrawBalanceInfo} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.withdrawBalanceMaximum} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.withdrawBalanceMaximum} />",
+      "props": " {...messages.withdrawBalanceMaximum} ",
+      "spread": " {...messages.withdrawBalanceMaximum} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.withdrawBalanceMoreMax} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.withdrawBalanceMoreMax} />",
+      "props": " {...messages.withdrawBalanceMoreMax} ",
+      "spread": " {...messages.withdrawBalanceMoreMax} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.withdrawBtn} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.withdrawBtn} />",
+      "props": " {...messages.withdrawBtn} ",
+      "spread": " {...messages.withdrawBtn} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.withdraw} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.withdraw} />",
+      "props": " {...messages.withdraw} ",
+      "spread": " {...messages.withdraw} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.requestFailed} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.requestFailed} />",
+      "props": " {...messages.requestFailed} ",
+      "spread": " {...messages.requestFailed} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.areYouSure} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.areYouSure} />",
+      "props": " {...messages.areYouSure} ",
+      "spread": " {...messages.areYouSure} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.confirmUnlink} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.confirmUnlink} />",
+      "props": " {...messages.confirmUnlink} ",
+      "spread": " {...messages.confirmUnlink} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.discard} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.discard} />",
+      "props": " {...messages.discard} ",
+      "spread": " {...messages.discard} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.confirm} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.confirmMemberReferenceNumber} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.confirmMemberReferenceNumber} />",
+      "props": " {...messages.confirmMemberReferenceNumber} ",
+      "spread": " {...messages.confirmMemberReferenceNumber} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pleaseEnsure} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pleaseEnsure} />",
+      "props": " {...messages.pleaseEnsure} ",
+      "spread": " {...messages.pleaseEnsure} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.back} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.continue} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.withdrawalConfirmed} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.withdrawalConfirmed} />",
+      "props": " {...messages.withdrawalConfirmed} ",
+      "spread": " {...messages.withdrawalConfirmed} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.withdraw} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.withdraw} />",
+      "props": " {...messages.withdraw} ",
+      "spread": " {...messages.withdraw} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.myFundingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.myFundingAccount} />",
+      "props": " {...messages.myFundingAccount} ",
+      "spread": " {...messages.myFundingAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.mySuperFund} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.mySuperFund} />",
+      "props": " {...messages.mySuperFund} ",
+      "spread": " {...messages.mySuperFund} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.confirm} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.viewChangeSuperFund} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.viewChangeSuperFund} />",
+      "props": " {...messages.viewChangeSuperFund} ",
+      "spread": " {...messages.viewChangeSuperFund} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.setupSuperFund} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.setupSuperFund} />",
+      "props": " {...messages.setupSuperFund} ",
+      "spread": " {...messages.setupSuperFund} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.withdraw} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.withdraw} />",
+      "props": " {...messages.withdraw} ",
+      "spread": " {...messages.withdraw} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.availableBalance} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.availableBalance} />",
+      "props": " {...messages.availableBalance} ",
+      "spread": " {...messages.availableBalance} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.available} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.available} />",
+      "props": " {...messages.available} ",
+      "spread": " {...messages.available} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.availableBalance} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.availableBalance} />",
+      "props": " {...messages.availableBalance} ",
+      "spread": " {...messages.availableBalance} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.unitDisbursed} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.unitDisbursed} />",
+      "props": " {...messages.unitDisbursed} ",
+      "spread": " {...messages.unitDisbursed} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.withdraw} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.withdraw} />",
+      "props": " {...messages.withdraw} ",
+      "spread": " {...messages.withdraw} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superFunds} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superFunds} />",
+      "props": " {...messages.superFunds} ",
+      "spread": " {...messages.superFunds} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.yourSuperFund} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.yourSuperFund} />",
+      "props": " {...messages.yourSuperFund} ",
+      "spread": " {...messages.yourSuperFund} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.chooseSuperFund} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.chooseSuperFund} />",
+      "props": " {...messages.chooseSuperFund} ",
+      "spread": " {...messages.chooseSuperFund} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.memberReferenceNumber} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.memberReferenceNumber} />",
+      "props": " {...messages.memberReferenceNumber} ",
+      "spread": " {...messages.memberReferenceNumber} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.change} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.unlink} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superFunds} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superFunds} />",
+      "props": " {...messages.superFunds} ",
+      "spread": " {...messages.superFunds} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.selectSuperFund} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.selectSuperFund} />",
+      "props": " {...messages.selectSuperFund} ",
+      "spread": " {...messages.selectSuperFund} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.superFunds} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.superFunds} />",
+      "props": " {...messages.superFunds} ",
+      "spread": " {...messages.superFunds} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.enterBPAY} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.enterBPAY} />",
+      "props": " {...messages.enterBPAY} ",
+      "spread": " {...messages.enterBPAY} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.memberReferenceNumber} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.memberReferenceNumber} />",
+      "props": " {...messages.memberReferenceNumber} ",
+      "spread": " {...messages.memberReferenceNumber} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ]
+}

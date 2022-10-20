@@ -1,0 +1,94 @@
+{
+  "file": "/components/layout/RoundUps/RoundUpsInfo.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.roundUps} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.roundUps} />",
+      "props": " {...messages.roundUps} ",
+      "spread": " {...messages.roundUps} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.investedForm} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.investedForm} />",
+      "props": " {...messages.investedForm} ",
+      "spread": " {...messages.investedForm} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.autoRound} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.autoRound} />",
+      "props": " {...messages.autoRound} ",
+      "spread": " {...messages.autoRound} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.enableAutoRound} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.enableAutoRound} />",
+      "props": " {...messages.enableAutoRound} ",
+      "spread": " {...messages.enableAutoRound} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.manualRound} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.manualRound} />",
+      "props": " {...messages.manualRound} ",
+      "spread": " {...messages.manualRound} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.tapToInvest} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.tapToInvest} />",
+      "props": " {...messages.tapToInvest} ",
+      "spread": " {...messages.tapToInvest} "
+    },
+    {
+      "after": "\n          ",
+      "all": "{<FormattedMessage {...messages.details} />}\n            />\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.details} />}\n            />",
+      "props": " {...messages.details} />}\n            ",
+      "spread": " {...messages.details} />}\n            "
+    },
+    {
+      "after": "\n          ",
+      "all": "{<FormattedMessage {...messages.details} />}\n            />\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.details} />}\n            />",
+      "props": " {...messages.details} />}\n            ",
+      "spread": " {...messages.details} />}\n            "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investNow} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investNow} />",
+      "props": " {...messages.investNow} ",
+      "spread": " {...messages.investNow} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "\n                  }\n                  ",
+      "all": "{\n                    <FormattedMessage\n                      {...messages.invest}\n                      values={{ value: '' }}\n                    />\n                  }\n                  ",
+      "before": "{\n                    ",
+      "main": "<FormattedMessage\n                      {...messages.invest}\n                      values={{ value: '' }}\n                    />",
+      "props": "\n                      {...messages.invest}\n                      values={{ value: '' }}\n                    ",
+      "spread": "\n                      {...messages.invest}\n                      ",
+      "values": "values={{ value: '' }}\n                    "
+    }
+  ]
+}

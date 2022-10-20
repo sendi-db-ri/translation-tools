@@ -1,0 +1,21 @@
+{
+  "file": "/pages/Rewards/Rewards.js",
+  "match": [
+    {
+      "after": "}\n      ",
+      "all": "{<FormattedMessage {...messages.page} />}\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    },
+    {
+      "after": "}\n      ",
+      "all": "{<FormattedMessage {...messages.categories} />}\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    }
+  ]
+}

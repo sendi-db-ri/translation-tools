@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Modals/InvestmentObjectiveModal.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    }
+  ]
+}

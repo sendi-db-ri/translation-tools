@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Modals/SuccessModal.js",
+  "match": [
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

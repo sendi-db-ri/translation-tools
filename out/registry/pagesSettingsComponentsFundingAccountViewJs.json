@@ -1,0 +1,157 @@
+{
+  "file": "/pages/Settings/components/FundingAccountView.js",
+  "match": [
+    {
+      "after": "",
+      "all": "\n        <FormattedMessage {...messages.cardStars} />",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.change} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "",
+      "all": "\n              <FormattedMessage {...messages.cardStars} />",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.addAnotherCard} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addAnotherCard} />",
+      "props": " {...messages.addAnotherCard} ",
+      "spread": " {...messages.addAnotherCard} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.accountMustBeCredit} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "props": " {...messages.accountMustBeCredit} ",
+      "spread": " {...messages.accountMustBeCredit} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.changingMayDelay} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.changingMayDelay} />",
+      "props": " {...messages.changingMayDelay} ",
+      "spread": " {...messages.changingMayDelay} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.change} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.verified} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.verified} />",
+      "props": " {...messages.verified} ",
+      "spread": " {...messages.verified} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.accountMustBeCredit} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.accountMustBeCredit} />",
+      "props": " {...messages.accountMustBeCredit} ",
+      "spread": " {...messages.accountMustBeCredit} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.changingMayDelay} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.changingMayDelay} />",
+      "props": " {...messages.changingMayDelay} ",
+      "spread": " {...messages.changingMayDelay} "
+    },
+    {
+      "after": "}\n            ",
+      "all": " <FormattedMessage {...messages.fundingAccount} />}\n            ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.linkFundingAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "props": " {...messages.linkFundingAccount} ",
+      "spread": " {...messages.linkFundingAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.addFunding} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.addFunding} />",
+      "props": " {...messages.addFunding} ",
+      "spread": " {...messages.addFunding} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.selectThe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.selectThe} />",
+      "props": " {...messages.selectThe} ",
+      "spread": " {...messages.selectThe} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.chooseBankSpending} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.chooseBankSpending} />",
+      "props": " {...messages.chooseBankSpending} ",
+      "spread": " {...messages.chooseBankSpending} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.secured} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addFunding} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addFunding} />",
+      "props": " {...messages.addFunding} ",
+      "spread": " {...messages.addFunding} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.addFundingAccount} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addFundingAccount} />",
+      "props": " {...messages.addFundingAccount} ",
+      "spread": " {...messages.addFundingAccount} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.forYour} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.forYour} />",
+      "props": " {...messages.forYour} ",
+      "spread": " {...messages.forYour} "
+    }
+  ]
+}

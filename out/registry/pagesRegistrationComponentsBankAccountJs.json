@@ -1,0 +1,29 @@
+{
+  "file": "/pages/Registration/components/BankAccount.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.kidsBottomText} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.kidsBottomText} />",
+      "props": " {...messages.kidsBottomText} ",
+      "spread": " {...messages.kidsBottomText} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.skip} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.skip} />",
+      "props": " {...messages.skip} ",
+      "spread": " {...messages.skip} "
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "file": "/pages/Settings/components/SubAccounts/SubAccounts.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.linkFunding} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.unlinkAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.unlinkAccount} />",
+      "props": " {...messages.unlinkAccount} ",
+      "spread": " {...messages.unlinkAccount} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.unlink} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.connect} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.connect} />",
+      "props": " {...messages.connect} ",
+      "spread": " {...messages.connect} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.different} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.different} />",
+      "props": " {...messages.different} ",
+      "spread": " {...messages.different} "
+    }
+  ]
+}

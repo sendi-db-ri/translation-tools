@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/VerificationModal.js",
+  "match": [
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.perbaiki} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.perbaiki} />",
+      "props": " {...messages.perbaiki} ",
+      "spread": " {...messages.perbaiki} "
+    }
+  ]
+}

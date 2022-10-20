@@ -1,0 +1,85 @@
+{
+  "file": "/pages/Registration/components/TaxResident.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.completeInvestmentAccount} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.completeInvestmentAccount} />",
+      "props": " {...messages.completeInvestmentAccount} ",
+      "spread": " {...messages.completeInvestmentAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.areYouTaxResident} />}\n            />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.areYouTaxResident} />}\n            />",
+      "props": " {...messages.areYouTaxResident} />}\n            ",
+      "spread": " {...messages.areYouTaxResident} />}\n            "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.taxResidencyStatus} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.taxResidencyStatus} />",
+      "props": " {...messages.taxResidencyStatus} ",
+      "spread": " {...messages.taxResidencyStatus} "
+    },
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.indicateTaxpayer} />}\n              />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.indicateTaxpayer} />}\n              />",
+      "props": " {...messages.indicateTaxpayer} />}\n              ",
+      "spread": " {...messages.indicateTaxpayer} />}\n              "
+    },
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.noTinNumber} />}\n              />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.noTinNumber} />}\n              />",
+      "props": " {...messages.noTinNumber} />}\n              ",
+      "spread": " {...messages.noTinNumber} />}\n              "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.indicateReason} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.indicateReason} />",
+      "props": " {...messages.indicateReason} ",
+      "spread": " {...messages.indicateReason} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage\n                    {...messages.areYouPoliticallyExposedPerson}\n                  />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.areYouPoliticallyExposedPerson}\n                  />",
+      "props": "\n                    {...messages.areYouPoliticallyExposedPerson}\n                  ",
+      "spread": "\n                    {...messages.areYouPoliticallyExposedPerson}\n                  "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "\n        ",
+      "all": "{<FormattedMessage {...messages.pepInfo} />}\n          />\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.pepInfo} />}\n          />",
+      "props": " {...messages.pepInfo} />}\n          ",
+      "spread": " {...messages.pepInfo} />}\n          "
+    }
+  ]
+}

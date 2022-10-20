@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Widgets/Blog/BlogView.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.raizBlog} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.raizBlog} />",
+      "props": " {...messages.raizBlog} ",
+      "spread": " {...messages.raizBlog} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.seeAll} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.seeAll} />",
+      "props": " {...messages.seeAll} ",
+      "spread": " {...messages.seeAll} "
+    }
+  ]
+}

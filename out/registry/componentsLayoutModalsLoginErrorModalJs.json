@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/LoginErrorModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.loginError} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.loginError} />",
+      "props": " {...messages.loginError} ",
+      "spread": " {...messages.loginError} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

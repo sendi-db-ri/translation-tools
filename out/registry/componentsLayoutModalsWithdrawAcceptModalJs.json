@@ -1,0 +1,62 @@
+{
+  "file": "/components/layout/Modals/WithdrawAcceptModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              />",
+      "props": "\n                {...messages.sureToWithdrawSuperFund}\n                values={{ value: <NumberField value={withdrawValue} /> }}\n              ",
+      "spread": "\n                {...messages.sureToWithdrawSuperFund}\n                ",
+      "values": "values={{ value: <NumberField value={withdrawValue} /> }}\n              "
+    },
+    {
+      "after": "}\n          ",
+      "all": " <FormattedMessage {...messages.note} />}\n          ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.note} />",
+      "props": " {...messages.note} ",
+      "spread": " {...messages.note} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.confirm} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.confirm} />",
+      "props": " {...messages.confirm} ",
+      "spread": " {...messages.confirm} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.whatsappModal} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.whatsappModal} />",
+      "props": " {...messages.whatsappModal} ",
+      "spread": " {...messages.whatsappModal} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.emailModal} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.emailModal} />",
+      "props": " {...messages.emailModal} ",
+      "spread": " {...messages.emailModal} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.telephone} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.telephone} />",
+      "props": " {...messages.telephone} ",
+      "spread": " {...messages.telephone} "
+    }
+  ]
+}

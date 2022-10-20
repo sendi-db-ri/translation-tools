@@ -1,0 +1,77 @@
+{
+  "file": "/pages/Settings/components/Support.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.support} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.support} />",
+      "props": " {...messages.support} ",
+      "spread": " {...messages.support} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.faq} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.faq} />",
+      "props": " {...messages.faq} ",
+      "spread": " {...messages.faq} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.contactSupport} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.contactSupport} />",
+      "props": " {...messages.contactSupport} ",
+      "spread": " {...messages.contactSupport} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.security} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.security} />",
+      "props": " {...messages.security} ",
+      "spread": " {...messages.security} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.legal} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.legal} />",
+      "props": " {...messages.legal} ",
+      "spread": " {...messages.legal} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.offsettersUnsubscribe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.offsettersUnsubscribe} />",
+      "props": " {...messages.offsettersUnsubscribe} ",
+      "spread": " {...messages.offsettersUnsubscribe} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.fees} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.fees} />",
+      "props": " {...messages.fees} ",
+      "spread": " {...messages.fees} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.closeAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.closeAccount} />",
+      "props": " {...messages.closeAccount} ",
+      "spread": " {...messages.closeAccount} "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage {...messages.contactSupportToClose} />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage {...messages.contactSupportToClose} />",
+      "props": " {...messages.contactSupportToClose} ",
+      "spread": " {...messages.contactSupportToClose} "
+    }
+  ]
+}

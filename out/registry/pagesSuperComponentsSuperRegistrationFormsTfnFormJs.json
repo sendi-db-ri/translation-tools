@@ -1,0 +1,61 @@
+{
+  "file": "/pages/Super/components/SuperRegistration/Forms/TfnForm.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.fileNumber} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.fileNumber} />",
+      "props": " {...messages.fileNumber} ",
+      "spread": " {...messages.fileNumber} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.pleaseProvide} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.pleaseProvide} />",
+      "props": " {...messages.pleaseProvide} ",
+      "spread": " {...messages.pleaseProvide} "
+    },
+    {
+      "after": "\n                ",
+      "all": "<FormattedMessage {...messages.taxFile} />\n                ",
+      "before": "",
+      "main": "<FormattedMessage {...messages.taxFile} />",
+      "props": " {...messages.taxFile} ",
+      "spread": " {...messages.taxFile} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.iUnderstand} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iUnderstand} />",
+      "props": " {...messages.iUnderstand} ",
+      "spread": " {...messages.iUnderstand} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.ifTheTFN} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.ifTheTFN} />",
+      "props": " {...messages.ifTheTFN} ",
+      "spread": " {...messages.ifTheTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.back} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.continue} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file": "/pages/Settings/components/BanksSearch.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.linkSpendingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "props": " {...messages.linkSpendingAccount} ",
+      "spread": " {...messages.linkSpendingAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.linkFundingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.linkFundingAccount} />",
+      "props": " {...messages.linkFundingAccount} ",
+      "spread": " {...messages.linkFundingAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.showing} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.showing} />",
+      "props": " {...messages.showing} ",
+      "spread": " {...messages.showing} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.results} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.results} />",
+      "props": " {...messages.results} ",
+      "spread": " {...messages.results} "
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "file": "/pages/Registration/components/Address.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.verifyYour} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.verifyYour} />",
+      "props": " {...messages.verifyYour} ",
+      "spread": " {...messages.verifyYour} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.yourAddress} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.yourAddress} />",
+      "props": " {...messages.yourAddress} ",
+      "spread": " {...messages.yourAddress} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.addressManually} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addressManually} />",
+      "props": " {...messages.addressManually} ",
+      "spread": " {...messages.addressManually} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.streetNumber} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.streetNumber} />}\n                    />",
+      "props": " {...messages.streetNumber} />}\n                    ",
+      "spread": " {...messages.streetNumber} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.streetName} />}\n                  />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.streetName} />}\n                  />",
+      "props": " {...messages.streetName} />}\n                  ",
+      "spread": " {...messages.streetName} />}\n                  "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.suburb} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.suburb} />}\n                    />",
+      "props": " {...messages.suburb} />}\n                    ",
+      "spread": " {...messages.suburb} />}\n                    "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.state} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.state} />",
+      "props": " {...messages.state} ",
+      "spread": " {...messages.state} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.postalCode} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.postalCode} />",
+      "props": " {...messages.postalCode} ",
+      "spread": " {...messages.postalCode} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.usResident} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.usResident} />}\n                    />",
+      "props": " {...messages.usResident} />}\n                    ",
+      "spread": " {...messages.usResident} />}\n                    "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.poorKTP} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.poorKTP} />",
+      "props": " {...messages.poorKTP} ",
+      "spread": " {...messages.poorKTP} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.provinceKTP} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.provinceKTP} />",
+      "props": " {...messages.provinceKTP} ",
+      "spread": " {...messages.provinceKTP} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{\n                        <FormattedMessage {...messages.alamatKorespondensi} />\n                      }\n                    />\n                  ",
+      "before": "{\n                        ",
+      "main": "<FormattedMessage {...messages.alamatKorespondensi} />\n                      }\n                    />",
+      "props": " {...messages.alamatKorespondensi} />\n                      }\n                    ",
+      "spread": " {...messages.alamatKorespondensi} />\n                      }\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{\n                        <FormattedMessage {...messages.correspondenceAddress} />\n                      }\n                    />\n                  ",
+      "before": "{\n                        ",
+      "main": "<FormattedMessage {...messages.correspondenceAddress} />\n                      }\n                    />",
+      "props": " {...messages.correspondenceAddress} />\n                      }\n                    ",
+      "spread": " {...messages.correspondenceAddress} />\n                      }\n                    "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.correspondenceAddress} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.correspondenceAddress} />",
+      "props": " {...messages.correspondenceAddress} ",
+      "spread": " {...messages.correspondenceAddress} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.province} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.province} />",
+      "props": " {...messages.province} ",
+      "spread": " {...messages.province} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.apakahAnda} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.apakahAnda} />}\n                    />",
+      "props": " {...messages.apakahAnda} />}\n                    ",
+      "spread": " {...messages.apakahAnda} />}\n                    "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.sorryResident} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.sorryResident} />",
+      "props": " {...messages.sorryResident} ",
+      "spread": " {...messages.sorryResident} "
+    }
+  ]
+}

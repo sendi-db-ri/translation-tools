@@ -1,0 +1,405 @@
+{
+  "file": "/pages/Settings/components/Forms/ProfileForm.js",
+  "match": [
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.updateProfile} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.updateProfile} />",
+      "props": " {...messages.updateProfile} ",
+      "spread": " {...messages.updateProfile} "
+    },
+    {
+      "after": "\n              }\n              ",
+      "all": "{\n                <FormattedMessage {...messages.successfullyUpdateProfile} />\n              }\n              ",
+      "before": "{\n                ",
+      "main": "<FormattedMessage {...messages.successfullyUpdateProfile} />",
+      "props": " {...messages.successfullyUpdateProfile} ",
+      "spread": " {...messages.successfullyUpdateProfile} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.myProfile} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.myProfile} />",
+      "props": " {...messages.myProfile} ",
+      "spread": " {...messages.myProfile} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.personal} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.personal} />",
+      "props": " {...messages.personal} ",
+      "spread": " {...messages.personal} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.financial} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.financial} />",
+      "props": " {...messages.financial} ",
+      "spread": " {...messages.financial} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.more} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.more} />",
+      "props": " {...messages.more} ",
+      "spread": " {...messages.more} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.legalFirst} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.legalFirst} />}\n                    />",
+      "props": " {...messages.legalFirst} />}\n                    ",
+      "spread": " {...messages.legalFirst} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.email} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.email} />}\n                    />",
+      "props": " {...messages.email} />}\n                    ",
+      "spread": " {...messages.email} />}\n                    "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.phone} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.phone} />",
+      "props": " {...messages.phone} ",
+      "spread": " {...messages.phone} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.birthPlace} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.birthPlace} />}\n                    />",
+      "props": " {...messages.birthPlace} />}\n                    ",
+      "spread": " {...messages.birthPlace} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.idNumber} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.idNumber} />}\n                    />",
+      "props": " {...messages.idNumber} />}\n                    ",
+      "spread": " {...messages.idNumber} />}\n                    "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.gender} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.gender} />",
+      "props": " {...messages.gender} ",
+      "spread": " {...messages.gender} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.meritial} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.meritial} />",
+      "props": " {...messages.meritial} ",
+      "spread": " {...messages.meritial} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.fullName} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.fullName} />",
+      "props": " {...messages.fullName} ",
+      "spread": " {...messages.fullName} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.legalFirst} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.legalFirst} />",
+      "props": " {...messages.legalFirst} ",
+      "spread": " {...messages.legalFirst} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.legalLast} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.legalLast} />}\n                    />",
+      "props": " {...messages.legalLast} />}\n                    ",
+      "spread": " {...messages.legalLast} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.email} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.email} />}\n                    />",
+      "props": " {...messages.email} />}\n                    ",
+      "spread": " {...messages.email} />}\n                    "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.phone} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.phone} />",
+      "props": " {...messages.phone} ",
+      "spread": " {...messages.phone} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.phone} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.phone} />",
+      "props": " {...messages.phone} ",
+      "spread": " {...messages.phone} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.streetNumber} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.streetNumber} />}\n                    />",
+      "props": " {...messages.streetNumber} />}\n                    ",
+      "spread": " {...messages.streetNumber} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.address} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.address} />}\n                    />",
+      "props": " {...messages.address} />}\n                    ",
+      "spread": " {...messages.address} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.addressTwo} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addressTwo} />}\n                    />",
+      "props": " {...messages.addressTwo} />}\n                    ",
+      "spread": " {...messages.addressTwo} />}\n                    "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{<FormattedMessage {...messages.suburb} />}\n                    />\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.suburb} />}\n                    />",
+      "props": " {...messages.suburb} />}\n                    ",
+      "spread": " {...messages.suburb} />}\n                    "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.state} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.state} />",
+      "props": " {...messages.state} ",
+      "spread": " {...messages.state} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.postCode} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.postCode} />}\n                      />",
+      "props": " {...messages.postCode} />}\n                      ",
+      "spread": " {...messages.postCode} />}\n                      "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.tfn} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.tfn} />",
+      "props": " {...messages.tfn} ",
+      "spread": " {...messages.tfn} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.ourRecords} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.ourRecords} />",
+      "props": " {...messages.ourRecords} ",
+      "spread": " {...messages.ourRecords} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.examption} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.examption} />",
+      "props": " {...messages.examption} ",
+      "spread": " {...messages.examption} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.numberExemption} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.numberExemption} />",
+      "props": " {...messages.numberExemption} ",
+      "spread": " {...messages.numberExemption} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "{<FormattedMessage {...messages.tfnNumber} />}\n                          />\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.tfnNumber} />}\n                          />",
+      "props": " {...messages.tfnNumber} />}\n                          ",
+      "spread": " {...messages.tfnNumber} />}\n                          "
+    },
+    {
+      "after": "\n                        ",
+      "all": "{<FormattedMessage {...messages.tfnNumber} />}\n                          />\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.tfnNumber} />}\n                          />",
+      "props": " {...messages.tfnNumber} />}\n                          ",
+      "spread": " {...messages.tfnNumber} />}\n                          "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.usCitizen} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.usCitizen} />",
+      "props": " {...messages.usCitizen} ",
+      "spread": " {...messages.usCitizen} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.CRS} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.CRS} />",
+      "props": " {...messages.CRS} ",
+      "spread": " {...messages.CRS} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.poorKTP} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.poorKTP} />",
+      "props": " {...messages.poorKTP} ",
+      "spread": " {...messages.poorKTP} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.required} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.required} />",
+      "props": " {...messages.required} ",
+      "spread": " {...messages.required} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.provinceKTP} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.provinceKTP} />",
+      "props": " {...messages.provinceKTP} ",
+      "spread": " {...messages.provinceKTP} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "{\n                        <FormattedMessage {...messages.correspondenceAddress} />\n                      }\n                    />\n                  ",
+      "before": "{\n                        ",
+      "main": "<FormattedMessage {...messages.correspondenceAddress} />\n                      }\n                    />",
+      "props": " {...messages.correspondenceAddress} />\n                      }\n                    ",
+      "spread": " {...messages.correspondenceAddress} />\n                      }\n                    "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.correspondenceCityName} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.correspondenceCityName} />",
+      "props": " {...messages.correspondenceCityName} ",
+      "spread": " {...messages.correspondenceCityName} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.required} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.required} />",
+      "props": " {...messages.required} ",
+      "spread": " {...messages.required} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.province} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.province} />",
+      "props": " {...messages.province} ",
+      "spread": " {...messages.province} "
+    },
+    {
+      "after": "\n                              }\n                            ",
+      "all": "{\n                                <FormattedMessage\n                                  {...messages[SUITABILITY_NAMES[item.label]]}\n                                />\n                              }\n                            ",
+      "before": "{\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages[SUITABILITY_NAMES[item.label]]}\n                                />",
+      "props": "\n                                  {...messages[SUITABILITY_NAMES[item.label]]}\n                                ",
+      "spread": "\n                                  {...messages[SUITABILITY_NAMES[item.label]]}\n                                "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.investmentObjective} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.investmentObjective} />",
+      "props": " {...messages.investmentObjective} ",
+      "spread": " {...messages.investmentObjective} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.fundSource} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.fundSource} />",
+      "props": " {...messages.fundSource} ",
+      "spread": " {...messages.fundSource} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.investmentPeriod} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.investmentPeriod} />",
+      "props": " {...messages.investmentPeriod} ",
+      "spread": " {...messages.investmentPeriod} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.occupation} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.occupation} />",
+      "props": " {...messages.occupation} ",
+      "spread": " {...messages.occupation} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.religion} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.religion} />",
+      "props": " {...messages.religion} ",
+      "spread": " {...messages.religion} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage\n                            {...messages.educationalBackground}\n                          />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage\n                            {...messages.educationalBackground}\n                          />",
+      "props": "\n                            {...messages.educationalBackground}\n                          ",
+      "spread": "\n                            {...messages.educationalBackground}\n                          "
+    },
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.riskProfile} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.riskProfile} />}\n                />",
+      "props": " {...messages.riskProfile} />}\n                ",
+      "spread": " {...messages.riskProfile} />}\n                "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.confirmChanges} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.confirmChanges} />",
+      "props": " {...messages.confirmChanges} ",
+      "spread": " {...messages.confirmChanges} "
+    },
+    {
+      "after": "\n          ",
+      "all": "{\n                <FormattedMessage {...messagesRegistration.netWorthInfo} />\n              }\n            />\n          ",
+      "before": "{\n                ",
+      "main": "<FormattedMessage {...messagesRegistration.netWorthInfo} />\n              }\n            />",
+      "props": " {...messagesRegistration.netWorthInfo} />\n              }\n            ",
+      "spread": " {...messagesRegistration.netWorthInfo} />\n              }\n            "
+    }
+  ]
+}

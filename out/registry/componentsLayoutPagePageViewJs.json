@@ -1,0 +1,109 @@
+{
+  "file": "/components/layout/Page/PageView.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.home} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.home} />",
+      "props": " {...messages.home} ",
+      "spread": " {...messages.home} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.about} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.about} />",
+      "props": " {...messages.about} ",
+      "spread": " {...messages.about} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.welcome} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.welcome} />",
+      "props": " {...messages.welcome} ",
+      "spread": " {...messages.welcome} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.login} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.login} />",
+      "props": " {...messages.login} ",
+      "spread": " {...messages.login} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.registration} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.registration} />",
+      "props": " {...messages.registration} ",
+      "spread": " {...messages.registration} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.internetConnection} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.internetConnection} />",
+      "props": " {...messages.internetConnection} ",
+      "spread": " {...messages.internetConnection} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.stilThere} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.stilThere} />",
+      "props": " {...messages.stilThere} ",
+      "spread": " {...messages.stilThere} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.yourSession} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.yourSession} />",
+      "props": " {...messages.yourSession} ",
+      "spread": " {...messages.yourSession} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.min} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.min} />",
+      "props": " {...messages.min} ",
+      "spread": " {...messages.min} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.sec} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.sec} />",
+      "props": " {...messages.sec} ",
+      "spread": " {...messages.sec} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.continue} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.logOut} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.logOut} />",
+      "props": " {...messages.logOut} ",
+      "spread": " {...messages.logOut} "
+    }
+  ]
+}

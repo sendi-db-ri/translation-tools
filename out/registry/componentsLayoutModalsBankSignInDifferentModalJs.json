@@ -1,0 +1,93 @@
+{
+  "file": "/components/layout/Modals/BankSignInDifferentModal.js",
+  "match": [
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pleaseWait} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pleaseWait} />",
+      "props": " {...messages.pleaseWait} ",
+      "spread": " {...messages.pleaseWait} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.beingProcessed} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.beingProcessed} />",
+      "props": " {...messages.beingProcessed} ",
+      "spread": " {...messages.beingProcessed} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.fundingAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.secured} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.connectFunding} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.connectFunding} />",
+      "props": " {...messages.connectFunding} ",
+      "spread": " {...messages.connectFunding} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.bsb} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.bsb} />}\n                        />",
+      "props": " {...messages.bsb} />}\n                        ",
+      "spread": " {...messages.bsb} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.bankNumber} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.bankNumber} />}\n                        />",
+      "props": " {...messages.bankNumber} />}\n                        ",
+      "spread": " {...messages.bankNumber} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{\n                            <FormattedMessage {...messages.confirmNumber} />\n                          }\n                        />\n                      ",
+      "before": "{\n                            ",
+      "main": "<FormattedMessage {...messages.confirmNumber} />\n                          }\n                        />",
+      "props": " {...messages.confirmNumber} />\n                          }\n                        ",
+      "spread": " {...messages.confirmNumber} />\n                          }\n                        "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.connect} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.connect} />",
+      "props": " {...messages.connect} ",
+      "spread": " {...messages.connect} "
+    }
+  ]
+}

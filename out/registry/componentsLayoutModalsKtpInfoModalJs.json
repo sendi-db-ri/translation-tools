@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Modals/KTPInfoModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.caraKTP} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.caraKTP} />",
+      "props": " {...messages.caraKTP} ",
+      "spread": " {...messages.caraKTP} "
+    }
+  ]
+}

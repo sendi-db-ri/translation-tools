@@ -1,0 +1,71 @@
+{
+  "file": "/pages/RaizKidsOld/components/ApplyRaizKid.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              />",
+      "props": "\n                {...messages.congratulations}\n                values={{ name: currentChild.name }}\n              ",
+      "spread": "\n                {...messages.congratulations}\n                ",
+      "values": "values={{ name: currentChild.name }}\n              "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.youHaveSaved} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.youHaveSaved} />",
+      "props": " {...messages.youHaveSaved} ",
+      "spread": " {...messages.youHaveSaved} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              />",
+      "props": "\n                {...messages.toGetStarted}\n                values={{ name: currentChild.name }}\n              ",
+      "spread": "\n                {...messages.toGetStarted}\n                ",
+      "values": "values={{ name: currentChild.name }}\n              "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.askToOpen} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.askToOpen} />",
+      "props": " {...messages.askToOpen} ",
+      "spread": " {...messages.askToOpen} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.onceAccountOpen} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.onceAccountOpen} />",
+      "props": " {...messages.onceAccountOpen} ",
+      "spread": " {...messages.onceAccountOpen} "
+    },
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.emailAddress} />}\n              />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.emailAddress} />}\n              />",
+      "props": " {...messages.emailAddress} />}\n              ",
+      "spread": " {...messages.emailAddress} />}\n              "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.transfer} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.transfer} />",
+      "props": " {...messages.transfer} ",
+      "spread": " {...messages.transfer} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.amoutWillTransfered} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.amoutWillTransfered} />",
+      "props": " {...messages.amoutWillTransfered} ",
+      "spread": " {...messages.amoutWillTransfered} "
+    }
+  ]
+}

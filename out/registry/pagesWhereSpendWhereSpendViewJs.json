@@ -1,0 +1,45 @@
+{
+  "file": "/pages/WhereSpend/WhereSpendView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.whereYouSpend} />",
+      "props": " {...messages.whereYouSpend} ",
+      "spread": " {...messages.whereYouSpend} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.whereYouSpend} />",
+      "props": " {...messages.whereYouSpend} ",
+      "spread": " {...messages.whereYouSpend} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.chooseCategory} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.chooseCategory} />",
+      "props": " {...messages.chooseCategory} ",
+      "spread": " {...messages.chooseCategory} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.allCategories} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.allCategories} />",
+      "props": " {...messages.allCategories} ",
+      "spread": " {...messages.allCategories} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.noCategories} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.noCategories} />",
+      "props": " {...messages.noCategories} ",
+      "spread": " {...messages.noCategories} "
+    }
+  ]
+}

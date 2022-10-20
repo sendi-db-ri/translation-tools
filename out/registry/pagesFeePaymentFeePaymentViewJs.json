@@ -1,0 +1,149 @@
+{
+  "file": "/pages/FeePayment/FeePaymentView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.lembarTagihan} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.lembarTagihan} />",
+      "props": " {...messages.lembarTagihan} ",
+      "spread": " {...messages.lembarTagihan} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.lembar} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.lembar} />",
+      "props": " {...messages.lembar} ",
+      "spread": " {...messages.lembar} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.paket} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.paket} />",
+      "props": " {...messages.paket} ",
+      "spread": " {...messages.paket} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pilihan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pilihan} />",
+      "props": " {...messages.pilihan} ",
+      "spread": " {...messages.pilihan} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.rincian} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.rincian} />",
+      "props": " {...messages.rincian} ",
+      "spread": " {...messages.rincian} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.periodeButan} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.periodeButan} />",
+      "props": " {...messages.periodeButan} ",
+      "spread": " {...messages.periodeButan} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.tanggalPembayaran} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.tanggalPembayaran} />",
+      "props": " {...messages.tanggalPembayaran} ",
+      "spread": " {...messages.tanggalPembayaran} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.metodePembayaram} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.metodePembayaram} />",
+      "props": " {...messages.metodePembayaram} ",
+      "spread": " {...messages.metodePembayaram} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "{<FormattedMessage {...messages.CIMB} />}\n                            />\n                          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.CIMB} />}\n                            />",
+      "props": " {...messages.CIMB} />}\n                            ",
+      "spread": " {...messages.CIMB} />}\n                            "
+    },
+    {
+      "after": "\n                          ",
+      "all": "{<FormattedMessage {...messages.linkAja} />}\n                            />\n                          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.linkAja} />}\n                            />",
+      "props": " {...messages.linkAja} />}\n                            ",
+      "spread": " {...messages.linkAja} />}\n                            "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage {...messages.danaText} />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage {...messages.danaText} />",
+      "props": " {...messages.danaText} ",
+      "spread": " {...messages.danaText} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage {...messages.DANA} />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage {...messages.DANA} />",
+      "props": " {...messages.DANA} ",
+      "spread": " {...messages.DANA} "
+    },
+    {
+      "after": "\n                                }\n                                ",
+      "all": "{\n                                  <FormattedMessage {...messages.aktifkan} />\n                                }\n                                ",
+      "before": "{\n                                  ",
+      "main": "<FormattedMessage {...messages.aktifkan} />",
+      "props": " {...messages.aktifkan} ",
+      "spread": " {...messages.aktifkan} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "{\n                                    <FormattedMessage {...messages.DANA} />\n                                  }\n                                />\n                              ",
+      "before": "{\n                                    ",
+      "main": "<FormattedMessage {...messages.DANA} />\n                                  }\n                                />",
+      "props": " {...messages.DANA} />\n                                  }\n                                ",
+      "spread": " {...messages.DANA} />\n                                  }\n                                "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.promo} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.promo} />",
+      "props": " {...messages.promo} ",
+      "spread": " {...messages.promo} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.proses} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.proses} />}\n                      />",
+      "props": " {...messages.proses} />}\n                      ",
+      "spread": " {...messages.proses} />}\n                      "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pilihan} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pilihan} />",
+      "props": " {...messages.pilihan} ",
+      "spread": " {...messages.pilihan} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "file": "/pages/Settings/components/WithdrawalAccountView.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.change} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.verified} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.verified} />",
+      "props": " {...messages.verified} ",
+      "spread": " {...messages.verified} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.pleaseNote} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.pleaseNote} />",
+      "props": " {...messages.pleaseNote} ",
+      "spread": " {...messages.pleaseNote} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.withdrawalAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "props": " {...messages.withdrawalAccount} ",
+      "spread": " {...messages.withdrawalAccount} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.linkwithdrawalAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.linkwithdrawalAccount} />",
+      "props": " {...messages.linkwithdrawalAccount} ",
+      "spread": " {...messages.linkwithdrawalAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pleaseAdd} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pleaseAdd} />",
+      "props": " {...messages.pleaseAdd} ",
+      "spread": " {...messages.pleaseAdd} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.selectThe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.selectThe} />",
+      "props": " {...messages.selectThe} ",
+      "spread": " {...messages.selectThe} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.chooseBankWithdrawal} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.chooseBankWithdrawal} />",
+      "props": " {...messages.chooseBankWithdrawal} ",
+      "spread": " {...messages.chooseBankWithdrawal} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.areYouSure} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.areYouSure} />",
+      "props": " {...messages.areYouSure} ",
+      "spread": " {...messages.areYouSure} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.secured} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.addWithdrawal} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.addWithdrawal} />",
+      "props": " {...messages.addWithdrawal} ",
+      "spread": " {...messages.addWithdrawal} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.addWithdrawalAccount} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addWithdrawalAccount} />",
+      "props": " {...messages.addWithdrawalAccount} ",
+      "spread": " {...messages.addWithdrawalAccount} "
+    }
+  ]
+}

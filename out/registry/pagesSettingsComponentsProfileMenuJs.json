@@ -1,0 +1,77 @@
+{
+  "file": "/pages/Settings/components/ProfileMenu.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.myProfile} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.myProfile} />",
+      "props": " {...messages.myProfile} ",
+      "spread": " {...messages.myProfile} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.fundingAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.spendingAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.smsfAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.smsfAccount} />",
+      "props": " {...messages.smsfAccount} ",
+      "spread": " {...messages.smsfAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.fundingAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.withdrawalAccount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.withdrawalAccount} />",
+      "props": " {...messages.withdrawalAccount} ",
+      "spread": " {...messages.withdrawalAccount} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.changePassword} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.changePassword} />",
+      "props": " {...messages.changePassword} ",
+      "spread": " {...messages.changePassword} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.statements} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.statements} />",
+      "props": " {...messages.statements} ",
+      "spread": " {...messages.statements} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.support} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.support} />",
+      "props": " {...messages.support} ",
+      "spread": " {...messages.support} "
+    }
+  ]
+}

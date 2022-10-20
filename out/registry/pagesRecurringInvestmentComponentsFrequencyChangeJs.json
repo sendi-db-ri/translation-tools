@@ -1,0 +1,54 @@
+{
+  "file": "/pages/RecurringInvestment/components/FrequencyChange.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.selectDayOfWeek} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.selectDayOfWeek} />",
+      "props": " {...messages.selectDayOfWeek} ",
+      "spread": " {...messages.selectDayOfWeek} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.chooseTheStartDay} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.chooseTheStartDay} />",
+      "props": " {...messages.chooseTheStartDay} ",
+      "spread": " {...messages.chooseTheStartDay} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.lastDayOfMonth} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.lastDayOfMonth} />",
+      "props": " {...messages.lastDayOfMonth} ",
+      "spread": " {...messages.lastDayOfMonth} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.setDaily} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.setDaily} />",
+      "props": " {...messages.setDaily} ",
+      "spread": " {...messages.setDaily} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage\n                {...messages.setFortnightlyOn}\n                values={{\n                  day: <Time format=\"dddd DD MMMM\">{startDate}</Time>,\n                }}\n              />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage\n                {...messages.setFortnightlyOn}\n                values={{\n                  day: <Time format=\"dddd DD MMMM\">{startDate}</Time>,\n                }}\n              />",
+      "props": "\n                {...messages.setFortnightlyOn}\n                values={{\n                  day: <Time format=\"dddd DD MMMM\">{startDate}</Time>,\n                }}\n              ",
+      "spread": "\n                {...messages.setFortnightlyOn}\n                ",
+      "values": "values={{\n                  day: <Time format=\"dddd DD MMMM\">{startDate}</Time>,\n                }}\n              "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.setFortnightly} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.setFortnightly} />",
+      "props": " {...messages.setFortnightly} ",
+      "spread": " {...messages.setFortnightly} "
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "file": "/pages/Settings/components/Legal.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.legal} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.legal} />",
+      "props": " {...messages.legal} ",
+      "spread": " {...messages.legal} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.termsConditions} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.termsConditions} />",
+      "props": " {...messages.termsConditions} ",
+      "spread": " {...messages.termsConditions} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.accountOpeningAgreement} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.accountOpeningAgreement} />",
+      "props": " {...messages.accountOpeningAgreement} ",
+      "spread": " {...messages.accountOpeningAgreement} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.productDisclosure} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.productDisclosure} />",
+      "props": " {...messages.productDisclosure} ",
+      "spread": " {...messages.productDisclosure} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.privacyPolicy} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.privacyPolicy} />",
+      "props": " {...messages.privacyPolicy} ",
+      "spread": " {...messages.privacyPolicy} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.disclosures} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.disclosures} />",
+      "props": " {...messages.disclosures} ",
+      "spread": " {...messages.disclosures} "
+    }
+  ]
+}

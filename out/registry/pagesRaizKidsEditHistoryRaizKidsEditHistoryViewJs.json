@@ -1,0 +1,61 @@
+{
+  "file": "/pages/RaizKidsEditHistory/RaizKidsEditHistoryView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.viewHistory} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investedByYou} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investedByYou} />",
+      "props": " {...messages.investedByYou} ",
+      "spread": " {...messages.investedByYou} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.reinvestedDividends} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.reinvestedDividends} />",
+      "props": " {...messages.reinvestedDividends} ",
+      "spread": " {...messages.reinvestedDividends} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.referrals} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.referrals} />",
+      "props": " {...messages.referrals} ",
+      "spread": " {...messages.referrals} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.marketReturns} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.marketReturns} />",
+      "props": " {...messages.marketReturns} ",
+      "spread": " {...messages.marketReturns} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizRewards} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizRewards} />",
+      "props": " {...messages.raizRewards} ",
+      "spread": " {...messages.raizRewards} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.withdrawn} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.withdrawn} />",
+      "props": " {...messages.withdrawn} ",
+      "spread": " {...messages.withdrawn} "
+    }
+  ]
+}

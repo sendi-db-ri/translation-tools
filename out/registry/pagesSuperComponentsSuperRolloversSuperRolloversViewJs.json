@@ -1,0 +1,197 @@
+{
+  "file": "/pages/Super/components/SuperRollovers/SuperRolloversView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.manuallyAdded} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.manuallyAdded} />",
+      "props": " {...messages.manuallyAdded} ",
+      "spread": " {...messages.manuallyAdded} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.memberNumberСard} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.memberNumberСard} />",
+      "props": " {...messages.memberNumberСard} ",
+      "spread": " {...messages.memberNumberСard} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.rollover} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.rollover} />",
+      "props": " {...messages.rollover} ",
+      "spread": " {...messages.rollover} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.delete} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.delete} />",
+      "props": " {...messages.delete} ",
+      "spread": " {...messages.delete} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.currentBalance} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.currentBalance} />",
+      "props": " {...messages.currentBalance} ",
+      "spread": " {...messages.currentBalance} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.rollover} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.rollover} />",
+      "props": " {...messages.rollover} ",
+      "spread": " {...messages.rollover} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.memberDetails} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.memberDetails} />",
+      "props": " {...messages.memberDetails} ",
+      "spread": " {...messages.memberDetails} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.accountNumber} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.accountNumber} />",
+      "props": " {...messages.accountNumber} ",
+      "spread": " {...messages.accountNumber} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.unique} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.unique} />",
+      "props": " {...messages.unique} ",
+      "spread": " {...messages.unique} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.identifier} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.identifier} />",
+      "props": " {...messages.identifier} ",
+      "spread": " {...messages.identifier} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.fundDetails} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fundDetails} />",
+      "props": " {...messages.fundDetails} ",
+      "spread": " {...messages.fundDetails} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.existingProvider} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.existingProvider} />",
+      "props": " {...messages.existingProvider} ",
+      "spread": " {...messages.existingProvider} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.insuranceIndicator} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.insuranceIndicator} />",
+      "props": " {...messages.insuranceIndicator} ",
+      "spread": " {...messages.insuranceIndicator} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.benefitIndicator} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.benefitIndicator} />",
+      "props": " {...messages.benefitIndicator} ",
+      "spread": " {...messages.benefitIndicator} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.acceptedIndication} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.acceptedIndication} />",
+      "props": " {...messages.acceptedIndication} ",
+      "spread": " {...messages.acceptedIndication} "
+    },
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.activityStatus} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.activityStatus} />",
+      "props": " {...messages.activityStatus} ",
+      "spread": " {...messages.activityStatus} "
+    },
+    {
+      "after": "}\n          ",
+      "all": " <FormattedMessage {...messages.rollovers} />}\n          ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.rollovers} />",
+      "props": " {...messages.rollovers} ",
+      "spread": " {...messages.rollovers} "
+    },
+    {
+      "after": "}\n        ",
+      "all": " <FormattedMessage {...messages.superRollover} />}\n        ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.superRollover} />",
+      "props": " {...messages.superRollover} ",
+      "spread": " {...messages.superRollover} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.rolloverInto} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.rolloverInto} />",
+      "props": " {...messages.rolloverInto} ",
+      "spread": " {...messages.rolloverInto} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.history} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.history} />",
+      "props": " {...messages.history} ",
+      "spread": " {...messages.history} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.banerText} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.banerText} />",
+      "props": " {...messages.banerText} ",
+      "spread": " {...messages.banerText} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.searchText} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.searchText} />",
+      "props": " {...messages.searchText} ",
+      "spread": " {...messages.searchText} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.history} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.history} />",
+      "props": " {...messages.history} ",
+      "spread": " {...messages.history} "
+    },
+    {
+      "after": "}\n                    ",
+      "all": "{<FormattedMessage {...messages.addManually} />}\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addManually} />",
+      "props": " {...messages.addManually} ",
+      "spread": " {...messages.addManually} "
+    }
+  ]
+}

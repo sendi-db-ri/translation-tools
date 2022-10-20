@@ -1,0 +1,53 @@
+{
+  "file": "/components/layout/Modals/WithdrawalSignInModal.js",
+  "match": [
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.bankSignIn} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.bankSignIn} />",
+      "props": " {...messages.bankSignIn} ",
+      "spread": " {...messages.bankSignIn} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pleaseAdd} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pleaseAdd} />",
+      "props": " {...messages.pleaseAdd} ",
+      "spread": " {...messages.pleaseAdd} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.bankAccountN} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.bankAccountN} />}\n                      />",
+      "props": " {...messages.bankAccountN} />}\n                      ",
+      "spread": " {...messages.bankAccountN} />}\n                      "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.add} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.add} />",
+      "props": " {...messages.add} ",
+      "spread": " {...messages.add} "
+    }
+  ]
+}

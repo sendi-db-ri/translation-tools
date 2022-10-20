@@ -1,0 +1,125 @@
+{
+  "file": "/pages/Super/components/SuperInfo/SuperInfoView.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.superInfo} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.superInfo} />",
+      "props": " {...messages.superInfo} ",
+      "spread": " {...messages.superInfo} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.superProfile} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.superProfile} />",
+      "props": " {...messages.superProfile} ",
+      "spread": " {...messages.superProfile} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.superInsurance} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.superInsurance} />",
+      "props": " {...messages.superInsurance} ",
+      "spread": " {...messages.superInsurance} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.memberName} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.memberName} />",
+      "props": " {...messages.memberName} ",
+      "spread": " {...messages.memberName} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.membershipNumber} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.membershipNumber} />",
+      "props": " {...messages.membershipNumber} ",
+      "spread": " {...messages.membershipNumber} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundName} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundName} />",
+      "props": " {...messages.fundName} ",
+      "spread": " {...messages.fundName} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundUSI} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundUSI} />",
+      "props": " {...messages.fundUSI} ",
+      "spread": " {...messages.fundUSI} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundABN} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundABN} />",
+      "props": " {...messages.fundABN} ",
+      "spread": " {...messages.fundABN} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.fundAddress} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.fundAddress} />",
+      "props": " {...messages.fundAddress} ",
+      "spread": " {...messages.fundAddress} "
+    },
+    {
+      "after": "",
+      "all": "\n                      <FormattedMessage {...messages.billerCode} />",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.billerCode} />",
+      "props": " {...messages.billerCode} ",
+      "spread": " {...messages.billerCode} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.ref} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.ref} />",
+      "props": " {...messages.ref} ",
+      "spread": " {...messages.ref} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.defaultCover} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.defaultCover} />",
+      "props": " {...messages.defaultCover} ",
+      "spread": " {...messages.defaultCover} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.defaultAmount} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.defaultAmount} />",
+      "props": " {...messages.defaultAmount} ",
+      "spread": " {...messages.defaultAmount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.premium} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.premium} />",
+      "props": " {...messages.premium} ",
+      "spread": " {...messages.premium} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.perWeek} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.perWeek} />",
+      "props": " {...messages.perWeek} ",
+      "spread": " {...messages.perWeek} "
+    }
+  ]
+}

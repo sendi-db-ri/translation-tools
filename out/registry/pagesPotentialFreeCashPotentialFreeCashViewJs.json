@@ -1,0 +1,29 @@
+{
+  "file": "/pages/PotentialFreeCash/PotentialFreeCashView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialSpareDays} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialSpareDays} />",
+      "props": " {...messages.potentialSpareDays} ",
+      "spread": " {...messages.potentialSpareDays} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.assumedTransactions} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.assumedTransactions} />",
+      "props": " {...messages.assumedTransactions} ",
+      "spread": " {...messages.assumedTransactions} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialSpare} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialSpare} />",
+      "props": " {...messages.potentialSpare} ",
+      "spread": " {...messages.potentialSpare} "
+    }
+  ]
+}

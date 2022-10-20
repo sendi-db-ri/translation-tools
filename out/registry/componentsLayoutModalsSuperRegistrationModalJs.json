@@ -1,0 +1,237 @@
+{
+  "file": "/components/layout/Modals/SuperRegistrationModal.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.byOpening} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.byOpening} />",
+      "props": " {...messages.byOpening} ",
+      "spread": " {...messages.byOpening} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.iveRead} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iveRead} />",
+      "props": " {...messages.iveRead} ",
+      "spread": " {...messages.iveRead} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.continueToBeDeducted} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.continueToBeDeducted} />",
+      "props": " {...messages.continueToBeDeducted} ",
+      "spread": " {...messages.continueToBeDeducted} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.haveSufficient} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.haveSufficient} />",
+      "props": " {...messages.haveSufficient} ",
+      "spread": " {...messages.haveSufficient} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.choosine} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.choosine} />",
+      "props": " {...messages.choosine} ",
+      "spread": " {...messages.choosine} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.myAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.myAccount} />",
+      "props": " {...messages.myAccount} ",
+      "spread": " {...messages.myAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.iAmBelow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.iAmBelow} />",
+      "props": " {...messages.iAmBelow} ",
+      "spread": " {...messages.iAmBelow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.mySuperAccount} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.mySuperAccount} />",
+      "props": " {...messages.mySuperAccount} ",
+      "spread": " {...messages.mySuperAccount} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.iUnderstandThat} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.iUnderstandThat} />",
+      "props": " {...messages.iUnderstandThat} ",
+      "spread": " {...messages.iUnderstandThat} "
+    },
+    {
+      "after": "",
+      "all": "\n                  <FormattedMessage {...messages.forInformation} />",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.forInformation} />",
+      "props": " {...messages.forInformation} ",
+      "spread": " {...messages.forInformation} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.provideTFN1} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.provideTFN1} />",
+      "props": " {...messages.provideTFN1} ",
+      "spread": " {...messages.provideTFN1} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.validateTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.validateTFN} />",
+      "props": " {...messages.validateTFN} ",
+      "spread": " {...messages.validateTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.primaryTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.primaryTFN} />",
+      "props": " {...messages.primaryTFN} ",
+      "spread": " {...messages.primaryTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.matchTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.matchTFN} />",
+      "props": " {...messages.matchTFN} ",
+      "spread": " {...messages.matchTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.identifyTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.identifyTFN} />",
+      "props": " {...messages.identifyTFN} ",
+      "spread": " {...messages.identifyTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.provideTFN2} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.provideTFN2} />",
+      "props": " {...messages.provideTFN2} ",
+      "spread": " {...messages.provideTFN2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.searchTFN1} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.searchTFN1} />",
+      "props": " {...messages.searchTFN1} ",
+      "spread": " {...messages.searchTFN1} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.searchTFN2} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.searchTFN2} />",
+      "props": " {...messages.searchTFN2} ",
+      "spread": " {...messages.searchTFN2} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.seekTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.seekTFN} />",
+      "props": " {...messages.seekTFN} ",
+      "spread": " {...messages.seekTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.facilitateTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.facilitateTFN} />",
+      "props": " {...messages.facilitateTFN} ",
+      "spread": " {...messages.facilitateTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.requestTFN} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.requestTFN} />",
+      "props": " {...messages.requestTFN} ",
+      "spread": " {...messages.requestTFN} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.acknowledgeTFN} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.acknowledgeTFN} />",
+      "props": " {...messages.acknowledgeTFN} ",
+      "spread": " {...messages.acknowledgeTFN} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.searchAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.searchAknow} />",
+      "props": " {...messages.searchAknow} ",
+      "spread": " {...messages.searchAknow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.seekAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.seekAknow} />",
+      "props": " {...messages.seekAknow} ",
+      "spread": " {...messages.seekAknow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.facilitateAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.facilitateAknow} />",
+      "props": " {...messages.facilitateAknow} ",
+      "spread": " {...messages.facilitateAknow} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.requestAknow} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.requestAknow} />",
+      "props": " {...messages.requestAknow} ",
+      "spread": " {...messages.requestAknow} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.ok} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

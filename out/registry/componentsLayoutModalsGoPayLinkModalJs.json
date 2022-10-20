@@ -1,0 +1,45 @@
+{
+  "file": "/components/layout/Modals/GoPayLinkModal.js",
+  "match": [
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.kamuMasukkan} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.kamuMasukkan} />",
+      "props": " {...messages.kamuMasukkan} ",
+      "spread": " {...messages.kamuMasukkan} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.raizMenggunakan} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.raizMenggunakan} />",
+      "props": " {...messages.raizMenggunakan} ",
+      "spread": " {...messages.raizMenggunakan} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.noHP} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.noHP} />",
+      "props": " {...messages.noHP} ",
+      "spread": " {...messages.noHP} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.hubungkan} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.hubungkan} />",
+      "props": " {...messages.hubungkan} ",
+      "spread": " {...messages.hubungkan} "
+    }
+  ]
+}

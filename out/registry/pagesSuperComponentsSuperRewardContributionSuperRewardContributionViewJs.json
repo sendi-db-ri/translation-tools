@@ -1,0 +1,53 @@
+{
+  "file": "/pages/Super/components/SuperRewardContribution/SuperRewardContributionView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.rewardContribution} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.rewardContribution} />",
+      "props": " {...messages.rewardContribution} ",
+      "spread": " {...messages.rewardContribution} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.securedByRaiz} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.securedByRaiz} />",
+      "props": " {...messages.securedByRaiz} ",
+      "spread": " {...messages.securedByRaiz} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.chooseToTransfer} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.chooseToTransfer} />",
+      "props": " {...messages.chooseToTransfer} ",
+      "spread": " {...messages.chooseToTransfer} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.personalContributions} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.personalContributions} />",
+      "props": " {...messages.personalContributions} ",
+      "spread": " {...messages.personalContributions} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.youCanChoose} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.youCanChoose} />",
+      "props": " {...messages.youCanChoose} ",
+      "spread": " {...messages.youCanChoose} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.rewardsVoluntary} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.rewardsVoluntary} />",
+      "props": " {...messages.rewardsVoluntary} ",
+      "spread": " {...messages.rewardsVoluntary} "
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "file": "/pages/RaizKidsEdit/RaizKidsEdit.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "props": " {...messages.kidProfileUpdateTitle} ",
+      "spread": " {...messages.kidProfileUpdateTitle} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.kidProfileUpdate} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.kidProfileUpdate} />",
+      "props": " {...messages.kidProfileUpdate} ",
+      "spread": " {...messages.kidProfileUpdate} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.kidUpdate} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.kidUpdate} />",
+      "props": " {...messages.kidUpdate} ",
+      "spread": " {...messages.kidUpdate} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.kidProfileUpdateTitle} />",
+      "props": " {...messages.kidProfileUpdateTitle} ",
+      "spread": " {...messages.kidProfileUpdateTitle} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.kidUpdate} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.kidUpdate} />",
+      "props": " {...messages.kidUpdate} ",
+      "spread": " {...messages.kidUpdate} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.required} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.required} />",
+      "props": " {...messages.required} ",
+      "spread": " {...messages.required} "
+    }
+  ]
+}

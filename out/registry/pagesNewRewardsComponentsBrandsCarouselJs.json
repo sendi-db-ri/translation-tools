@@ -1,0 +1,38 @@
+{
+  "file": "/pages/NewRewards/components/BrandsCarousel.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.featured} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.featured} />",
+      "props": " {...messages.featured} ",
+      "spread": " {...messages.featured} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  />",
+      "props": "\n                    {...messages.investedPercent}\n                    values={{ amount: brand.invested_value }}\n                  ",
+      "spread": "\n                    {...messages.investedPercent}\n                    ",
+      "values": "values={{ amount: brand.invested_value }}\n                  "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.recommended} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.recommended} />",
+      "props": " {...messages.recommended} ",
+      "spread": " {...messages.recommended} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.featured} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.featured} />",
+      "props": " {...messages.featured} ",
+      "spread": " {...messages.featured} "
+    }
+  ]
+}

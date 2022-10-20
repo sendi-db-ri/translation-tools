@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/InvestLumpSumModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.invest} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.minimumOf} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.minimumOf} />",
+      "props": " {...messages.minimumOf} ",
+      "spread": " {...messages.minimumOf} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.investBtn} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.investBtn} />",
+      "props": " {...messages.investBtn} ",
+      "spread": " {...messages.investBtn} "
+    }
+  ]
+}

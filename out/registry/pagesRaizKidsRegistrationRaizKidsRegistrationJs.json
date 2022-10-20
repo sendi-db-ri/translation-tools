@@ -1,0 +1,13 @@
+{
+  "file": "/pages/RaizKidsRegistration/RaizKidsRegistration.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.chooseAvatarWarning} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.chooseAvatarWarning} />",
+      "props": " {...messages.chooseAvatarWarning} ",
+      "spread": " {...messages.chooseAvatarWarning} "
+    }
+  ]
+}

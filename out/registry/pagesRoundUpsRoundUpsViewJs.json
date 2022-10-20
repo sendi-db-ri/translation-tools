@@ -1,0 +1,150 @@
+{
+  "file": "/pages/RoundUps/RoundUpsView.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n              <FormattedMessage {...messages.page} />\n              ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.page} />",
+      "props": " {...messages.page} ",
+      "spread": " {...messages.page} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investedFrom} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investedFrom} />",
+      "props": " {...messages.investedFrom} ",
+      "spread": " {...messages.investedFrom} "
+    },
+    {
+      "after": "}\n          ",
+      "all": " <FormattedMessage {...messages.investedFrom} />}\n          ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.investedFrom} />",
+      "props": " {...messages.investedFrom} ",
+      "spread": " {...messages.investedFrom} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.autoRound} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.autoRound} />",
+      "props": " {...messages.autoRound} ",
+      "spread": " {...messages.autoRound} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                      <FormattedMessage {...messages.enableAutoRound} />\n                      ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.enableAutoRound} />",
+      "props": " {...messages.enableAutoRound} ",
+      "spread": " {...messages.enableAutoRound} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.manualRound} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.manualRound} />",
+      "props": " {...messages.manualRound} ",
+      "spread": " {...messages.manualRound} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.tapToInvest} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.tapToInvest} />",
+      "props": " {...messages.tapToInvest} ",
+      "spread": " {...messages.tapToInvest} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.all} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.all} />",
+      "props": " {...messages.all} ",
+      "spread": " {...messages.all} "
+    },
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.invested} />}\n            />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invested} />}\n            />",
+      "props": " {...messages.invested} />}\n            ",
+      "spread": " {...messages.invested} />}\n            "
+    },
+    {
+      "after": "\n          ",
+      "all": "{<FormattedMessage {...messages.available} />}\n            />\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.available} />}\n            />",
+      "props": " {...messages.available} />}\n            ",
+      "spread": " {...messages.available} />}\n            "
+    },
+    {
+      "after": "\n            }\n            ",
+      "all": "{\n              <FormattedMessage\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              />\n            }\n            ",
+      "before": "{\n              ",
+      "main": "<FormattedMessage\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              />",
+      "props": "\n                {...messages.invest}\n                values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              ",
+      "spread": "\n                {...messages.invest}\n                ",
+      "values": "values={{ value: `${CURRENCY_SYMBOL}${investSum}` }}\n              "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n            ",
+      "all": " <FormattedMessage {...messages.notFoundAll} />}\n            ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.notFoundAll} />",
+      "props": " {...messages.notFoundAll} ",
+      "spread": " {...messages.notFoundAll} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.notFoundInvested} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.notFoundInvested} />",
+      "props": " {...messages.notFoundInvested} ",
+      "spread": " {...messages.notFoundInvested} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.notFoundAvailable} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.notFoundAvailable} />",
+      "props": " {...messages.notFoundAvailable} ",
+      "spread": " {...messages.notFoundAvailable} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.investNow} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.investNow} />",
+      "props": " {...messages.investNow} ",
+      "spread": " {...messages.investNow} "
+    },
+    {
+      "after": "\n          }\n          ",
+      "all": "{\n            <FormattedMessage {...messages.invest} values={{ value: '' }} />\n          }\n          ",
+      "before": "{\n            ",
+      "main": "<FormattedMessage {...messages.invest} values={{ value: '' }} />",
+      "props": " {...messages.invest} values={{ value: '' }} ",
+      "spread": " {...messages.invest} values={{ value: '' }} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ]
+}

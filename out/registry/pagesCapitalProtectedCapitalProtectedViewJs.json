@@ -1,0 +1,263 @@
+{
+  "file": "/pages/CapitalProtected/CapitalProtectedView.js",
+  "match": [
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.current} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.current} />",
+      "props": " {...messages.current} ",
+      "spread": " {...messages.current} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.available} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.available} />",
+      "props": " {...messages.available} ",
+      "spread": " {...messages.available} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.contactSupport} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.contactSupport} />",
+      "props": " {...messages.contactSupport} ",
+      "spread": " {...messages.contactSupport} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages[`${fund.cpfStatus}CPF`]} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages[`${fund.cpfStatus}CPF`]} />",
+      "props": " {...messages[`${fund.cpfStatus}CPF`]} ",
+      "spread": " {...messages[`${fund.cpfStatus}CPF`]} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          />",
+      "props": "\n                            {...messages.closing}\n                            values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          ",
+      "spread": "\n                            {...messages.closing}\n                            ",
+      "values": "values={{\n                              date: <Time>{fund.price.date}</Time>,\n                            }}\n                          "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.issuerName} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.issuerName} />",
+      "props": " {...messages.issuerName} ",
+      "spread": " {...messages.issuerName} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.couponRate} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.couponRate} />",
+      "props": " {...messages.couponRate} ",
+      "spread": " {...messages.couponRate} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.couponPaid} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.couponPaid} />",
+      "props": " {...messages.couponPaid} ",
+      "spread": " {...messages.couponPaid} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.term} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.term} />",
+      "props": " {...messages.term} ",
+      "spread": " {...messages.term} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.asset} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.asset} />",
+      "props": " {...messages.asset} ",
+      "spread": " {...messages.asset} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.rating} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.rating} />",
+      "props": " {...messages.rating} ",
+      "spread": " {...messages.rating} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.nab} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.nab} />",
+      "props": " {...messages.nab} ",
+      "spread": " {...messages.nab} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.unit} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.unit} />",
+      "props": " {...messages.unit} ",
+      "spread": " {...messages.unit} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.maturityDate} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.maturityDate} />",
+      "props": " {...messages.maturityDate} ",
+      "spread": " {...messages.maturityDate} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.termsheet} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.termsheet} />",
+      "props": " {...messages.termsheet} ",
+      "spread": " {...messages.termsheet} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.prospectus} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.prospectus} />",
+      "props": " {...messages.prospectus} ",
+      "spread": " {...messages.prospectus} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.product} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.product} />",
+      "props": " {...messages.product} ",
+      "spread": " {...messages.product} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages[`${fund.cpfStatus}CPF`]} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages[`${fund.cpfStatus}CPF`]} />",
+      "props": " {...messages[`${fund.cpfStatus}CPF`]} ",
+      "spread": " {...messages[`${fund.cpfStatus}CPF`]} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      />",
+      "props": "\n                        {...messages.closing}\n                        values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      ",
+      "spread": "\n                        {...messages.closing}\n                        ",
+      "values": "values={{\n                          date: <Time>{fund.offer_close_date}</Time>,\n                        }}\n                      "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.issuerName} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.issuerName} />",
+      "props": " {...messages.issuerName} ",
+      "spread": " {...messages.issuerName} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.couponRate} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.couponRate} />",
+      "props": " {...messages.couponRate} ",
+      "spread": " {...messages.couponRate} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.couponPaid} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.couponPaid} />",
+      "props": " {...messages.couponPaid} ",
+      "spread": " {...messages.couponPaid} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage\n                            {...messages[`${fund.dividend_frequency}`]}\n                          />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage\n                            {...messages[`${fund.dividend_frequency}`]}\n                          />",
+      "props": "\n                            {...messages[`${fund.dividend_frequency}`]}\n                          ",
+      "spread": "\n                            {...messages[`${fund.dividend_frequency}`]}\n                          "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.term} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.term} />",
+      "props": " {...messages.term} ",
+      "spread": " {...messages.term} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.asset} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.asset} />",
+      "props": " {...messages.asset} ",
+      "spread": " {...messages.asset} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.rating} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.rating} />",
+      "props": " {...messages.rating} ",
+      "spread": " {...messages.rating} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.maturityDate} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.maturityDate} />",
+      "props": " {...messages.maturityDate} ",
+      "spread": " {...messages.maturityDate} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.termsheet} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.termsheet} />",
+      "props": " {...messages.termsheet} ",
+      "spread": " {...messages.termsheet} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.prospectus} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.prospectus} />",
+      "props": " {...messages.prospectus} ",
+      "spread": " {...messages.prospectus} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.product} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.product} />",
+      "props": " {...messages.product} ",
+      "spread": " {...messages.product} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.applyNow} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.applyNow} />",
+      "props": " {...messages.applyNow} ",
+      "spread": " {...messages.applyNow} "
+    },
+    {
+      "after": "\n                            ",
+      "all": "\n                              <FormattedMessage {...messages.applyInvestment} />\n                            ",
+      "before": "\n                              ",
+      "main": "<FormattedMessage {...messages.applyInvestment} />",
+      "props": " {...messages.applyInvestment} ",
+      "spread": " {...messages.applyInvestment} "
+    }
+  ]
+}

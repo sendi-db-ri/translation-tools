@@ -1,0 +1,93 @@
+{
+  "file": "/pages/Settings/components/SpendingAccountView.js",
+  "match": [
+    {
+      "after": "",
+      "all": "\n            <FormattedMessage {...messages.cardStars} />",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.unlink} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n      <FormattedMessage {...messages.cardStars} />\n      ",
+      "before": "\n      ",
+      "main": "<FormattedMessage {...messages.cardStars} />",
+      "props": " {...messages.cardStars} ",
+      "spread": " {...messages.cardStars} "
+    },
+    {
+      "after": "}\n        ",
+      "all": "{<FormattedMessage {...messages.unlink} />}\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.unlink} />",
+      "props": " {...messages.unlink} ",
+      "spread": " {...messages.unlink} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.spendingAccountTitle} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.spendingAccountTitle} />",
+      "props": " {...messages.spendingAccountTitle} ",
+      "spread": " {...messages.spendingAccountTitle} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.spendingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.spendingAccount} />",
+      "props": " {...messages.spendingAccount} ",
+      "spread": " {...messages.spendingAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.linkSpendingAccount} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.linkSpendingAccount} />",
+      "props": " {...messages.linkSpendingAccount} ",
+      "spread": " {...messages.linkSpendingAccount} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.pilihAkunDibawah} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.pilihAkunDibawah} />",
+      "props": " {...messages.pilihAkunDibawah} ",
+      "spread": " {...messages.pilihAkunDibawah} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.chooseBank} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.chooseBank} />",
+      "props": " {...messages.chooseBank} ",
+      "spread": " {...messages.chooseBank} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.addSpendingAccount} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.addSpendingAccount} />",
+      "props": " {...messages.addSpendingAccount} ",
+      "spread": " {...messages.addSpendingAccount} "
+    }
+  ]
+}

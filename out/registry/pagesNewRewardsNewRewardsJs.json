@@ -1,0 +1,13 @@
+{
+  "file": "/pages/NewRewards/NewRewards.js",
+  "match": [
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.categories} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    }
+  ]
+}

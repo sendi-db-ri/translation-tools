@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Offsetters/Offsetters.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.offsetters} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.offsetters} />",
+      "props": " {...messages.offsetters} ",
+      "spread": " {...messages.offsetters} "
+    }
+  ]
+}

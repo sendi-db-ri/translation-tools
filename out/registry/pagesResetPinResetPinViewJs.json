@@ -1,0 +1,13 @@
+{
+  "file": "/pages/ResetPin/ResetPinView.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.contactUs} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.contactUs} />",
+      "props": " {...messages.contactUs} ",
+      "spread": " {...messages.contactUs} "
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "file": "/pages/NewRewards/components/RewardsSearchView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.meter} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.meter} />",
+      "props": " {...messages.meter} ",
+      "spread": " {...messages.meter} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.km} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.km} />",
+      "props": " {...messages.km} ",
+      "spread": " {...messages.km} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.online} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.online} />",
+      "props": " {...messages.online} ",
+      "spread": " {...messages.online} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.inStore} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.inStore} />",
+      "props": " {...messages.inStore} ",
+      "spread": " {...messages.inStore} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.offersNear} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.offersNear} />",
+      "props": " {...messages.offersNear} ",
+      "spread": " {...messages.offersNear} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.change} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.noResultsFound}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.noResultsFound}\n                                />",
+      "props": "\n                                  {...messages.noResultsFound}\n                                ",
+      "spread": "\n                                  {...messages.noResultsFound}\n                                "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.switchingToOnline}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.switchingToOnline}\n                                />",
+      "props": "\n                                  {...messages.switchingToOnline}\n                                ",
+      "spread": "\n                                  {...messages.switchingToOnline}\n                                "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.noResultsFound}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.noResultsFound}\n                                />",
+      "props": "\n                                  {...messages.noResultsFound}\n                                ",
+      "spread": "\n                                  {...messages.noResultsFound}\n                                "
+    },
+    {
+      "after": "\n                              ",
+      "all": "\n                                <FormattedMessage\n                                  {...messages.switchingToStore}\n                                />\n                              ",
+      "before": "\n                                ",
+      "main": "<FormattedMessage\n                                  {...messages.switchingToStore}\n                                />",
+      "props": "\n                                  {...messages.switchingToStore}\n                                ",
+      "spread": "\n                                  {...messages.switchingToStore}\n                                "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.categories} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    }
+  ]
+}

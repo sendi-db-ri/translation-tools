@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/FundingModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recurringInvestments} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recurringInvestments} />",
+      "props": " {...messages.recurringInvestments} ",
+      "spread": " {...messages.recurringInvestments} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.linkFunding} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "\n      ",
+      "all": "{<FormattedMessage {...messages.linkFundingAccount} />}\n        />\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.linkFundingAccount} />}\n        />",
+      "props": " {...messages.linkFundingAccount} />}\n        ",
+      "spread": " {...messages.linkFundingAccount} />}\n        "
+    }
+  ]
+}

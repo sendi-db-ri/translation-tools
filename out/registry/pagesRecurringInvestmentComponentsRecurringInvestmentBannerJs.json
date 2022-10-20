@@ -1,0 +1,61 @@
+{
+  "file": "/pages/RecurringInvestment/components/RecurringInvestmentBanner.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.investmentFrequency} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.investmentFrequency} />",
+      "props": " {...messages.investmentFrequency} ",
+      "spread": " {...messages.investmentFrequency} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.recurringInvestment} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.recurringInvestment} />",
+      "props": " {...messages.recurringInvestment} ",
+      "spread": " {...messages.recurringInvestment} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.daily} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.daily} />",
+      "props": " {...messages.daily} ",
+      "spread": " {...messages.daily} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.weekly} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.weekly} />",
+      "props": " {...messages.weekly} ",
+      "spread": " {...messages.weekly} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.fortnightly} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.fortnightly} />",
+      "props": " {...messages.fortnightly} ",
+      "spread": " {...messages.fortnightly} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.monthly} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.monthly} />",
+      "props": " {...messages.monthly} ",
+      "spread": " {...messages.monthly} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.chooseDay} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.chooseDay} />",
+      "props": " {...messages.chooseDay} ",
+      "spread": " {...messages.chooseDay} "
+    }
+  ]
+}

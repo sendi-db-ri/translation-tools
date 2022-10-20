@@ -1,0 +1,30 @@
+{
+  "file": "/components/layout/Modals/FundAmountModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.lembar} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.lembar} />",
+      "props": " {...messages.lembar} ",
+      "spread": " {...messages.lembar} "
+    },
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        />",
+      "props": "\n          {...messages.nominalMinimum}\n          values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        ",
+      "spread": "\n          {...messages.nominalMinimum}\n          ",
+      "values": "values={{\n            min: <NumberField value={Number(fund.min_amount)} />,\n          }}\n        "
+    },
+    {
+      "after": "\n        ",
+      "all": "{<FormattedMessage {...messages.invest} />}\n          />\n        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invest} />}\n          />",
+      "props": " {...messages.invest} />}\n          ",
+      "spread": " {...messages.invest} />}\n          "
+    }
+  ]
+}

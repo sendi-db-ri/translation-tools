@@ -1,0 +1,29 @@
+{
+  "file": "/pages/MyFinance/components/WhereYouSpend.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.whereYouSpend} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.whereYouSpend} />",
+      "props": " {...messages.whereYouSpend} ",
+      "spread": " {...messages.whereYouSpend} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.noCategories} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.noCategories} />",
+      "props": " {...messages.noCategories} ",
+      "spread": " {...messages.noCategories} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.seeMore} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.seeMore} />",
+      "props": " {...messages.seeMore} ",
+      "spread": " {...messages.seeMore} "
+    }
+  ]
+}

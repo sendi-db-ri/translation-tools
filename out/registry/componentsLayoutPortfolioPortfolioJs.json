@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Portfolio/Portfolio.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages.portfolio} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.portfolio} />",
+      "props": " {...messages.portfolio} ",
+      "spread": " {...messages.portfolio} "
+    },
+    {
+      "after": "\n      ",
+      "all": "{<FormattedMessage {...messages.changePortfolio} />}\n        />\n      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.changePortfolio} />}\n        />",
+      "props": " {...messages.changePortfolio} />}\n        ",
+      "spread": " {...messages.changePortfolio} />}\n        "
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "file": "/components/layout/Modals/RecurringModal.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.ok} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

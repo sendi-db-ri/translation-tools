@@ -1,0 +1,125 @@
+{
+  "file": "/pages/Super/components/SuperRegistration/SuperRegistrationView.js",
+  "match": [
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.investSuper} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.investSuper} />",
+      "props": " {...messages.investSuper} ",
+      "spread": " {...messages.investSuper} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pleaseComplete} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pleaseComplete} />",
+      "props": " {...messages.pleaseComplete} ",
+      "spread": " {...messages.pleaseComplete} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.contactDetails} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.contactDetails} />",
+      "props": " {...messages.contactDetails} ",
+      "spread": " {...messages.contactDetails} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.diversa} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.diversa} />",
+      "props": " {...messages.diversa} ",
+      "spread": " {...messages.diversa} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.continue} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.provideGender} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.provideGender} />",
+      "props": " {...messages.provideGender} ",
+      "spread": " {...messages.provideGender} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.male} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.male} />",
+      "props": " {...messages.male} ",
+      "spread": " {...messages.male} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.femele} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.femele} />",
+      "props": " {...messages.femele} ",
+      "spread": " {...messages.femele} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.genderText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.genderText} />",
+      "props": " {...messages.genderText} ",
+      "spread": " {...messages.genderText} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.back} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.continue} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.continue} />",
+      "props": " {...messages.continue} ",
+      "spread": " {...messages.continue} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.thankYou} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.thankYou} />",
+      "props": " {...messages.thankYou} ",
+      "spread": " {...messages.thankYou} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.youCan} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.youCan} />",
+      "props": " {...messages.youCan} ",
+      "spread": " {...messages.youCan} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.existingFund} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.existingFund} />",
+      "props": " {...messages.existingFund} ",
+      "spread": " {...messages.existingFund} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.finish} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.finish} />",
+      "props": " {...messages.finish} ",
+      "spread": " {...messages.finish} "
+    }
+  ]
+}

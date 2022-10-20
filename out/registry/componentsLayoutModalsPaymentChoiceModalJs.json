@@ -1,0 +1,117 @@
+{
+  "file": "/components/layout/Modals/PaymentChoiceModal.js",
+  "match": [
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.metodePembayaran} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.metodePembayaran} />",
+      "props": " {...messages.metodePembayaran} ",
+      "spread": " {...messages.metodePembayaran} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.paymentChoiceText} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.paymentChoiceText} />",
+      "props": " {...messages.paymentChoiceText} ",
+      "spread": " {...messages.paymentChoiceText} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.CIMB} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.CIMB} />}\n                        />",
+      "props": " {...messages.CIMB} />}\n                        ",
+      "spread": " {...messages.CIMB} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.linkAja} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.linkAja} />}\n                        />",
+      "props": " {...messages.linkAja} />}\n                        ",
+      "spread": " {...messages.linkAja} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.qris} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.qris} />}\n                        />",
+      "props": " {...messages.qris} />}\n                        ",
+      "spread": " {...messages.qris} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.xendit} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.xendit} />}\n                        />",
+      "props": " {...messages.xendit} />}\n                        ",
+      "spread": " {...messages.xendit} />}\n                        "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.danaText} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.danaText} />",
+      "props": " {...messages.danaText} ",
+      "spread": " {...messages.danaText} "
+    },
+    {
+      "after": "\n                          ",
+      "all": "\n                            <FormattedMessage {...messages.DANA} />\n                          ",
+      "before": "\n                            ",
+      "main": "<FormattedMessage {...messages.DANA} />",
+      "props": " {...messages.DANA} ",
+      "spread": " {...messages.DANA} "
+    },
+    {
+      "after": "\n                              }\n                              ",
+      "all": "{\n                                <FormattedMessage {...messages.aktifkan} />\n                              }\n                              ",
+      "before": "{\n                                ",
+      "main": "<FormattedMessage {...messages.aktifkan} />",
+      "props": " {...messages.aktifkan} ",
+      "spread": " {...messages.aktifkan} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.DANA} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.DANA} />}\n                        />",
+      "props": " {...messages.DANA} />}\n                        ",
+      "spread": " {...messages.DANA} />}\n                        "
+    },
+    {
+      "after": "\n                      ",
+      "all": "{<FormattedMessage {...messages.alfamart} />}\n                        />\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.alfamart} />}\n                        />",
+      "props": " {...messages.alfamart} />}\n                        ",
+      "spread": " {...messages.alfamart} />}\n                        "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.promo} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.promo} />",
+      "props": " {...messages.promo} ",
+      "spread": " {...messages.promo} "
+    },
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.investasi} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.investasi} />}\n                />",
+      "props": " {...messages.investasi} />}\n                ",
+      "spread": " {...messages.investasi} />}\n                "
+    }
+  ]
+}

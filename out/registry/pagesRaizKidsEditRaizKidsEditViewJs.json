@@ -1,0 +1,261 @@
+{
+  "file": "/pages/RaizKidsEdit/RaizKidsEditView.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.profile} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.profile} />",
+      "props": " {...messages.profile} ",
+      "spread": " {...messages.profile} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.raizRecurring} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.raizRecurring} />",
+      "props": " {...messages.raizRecurring} ",
+      "spread": " {...messages.raizRecurring} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.raizRecurring} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.raizRecurring} />",
+      "props": " {...messages.raizRecurring} ",
+      "spread": " {...messages.raizRecurring} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.investmentByKid} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.investmentByKid} />",
+      "props": " {...messages.investmentByKid} ",
+      "spread": " {...messages.investmentByKid} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKidAccess} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKidAccess} />",
+      "props": " {...messages.raizKidAccess} ",
+      "spread": " {...messages.raizKidAccess} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.access} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.access} />",
+      "props": " {...messages.access} ",
+      "spread": " {...messages.access} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.notification} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.notification} />",
+      "props": " {...messages.notification} ",
+      "spread": " {...messages.notification} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.transferIn} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.transferIn} />",
+      "props": " {...messages.transferIn} ",
+      "spread": " {...messages.transferIn} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.transferOut} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.transferOut} />",
+      "props": " {...messages.transferOut} ",
+      "spread": " {...messages.transferOut} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.viewPerformance} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.viewPerformance} />",
+      "props": " {...messages.viewPerformance} ",
+      "spread": " {...messages.viewPerformance} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.viewHistory} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.statements} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.statements} />",
+      "props": " {...messages.statements} ",
+      "spread": " {...messages.statements} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.reactivateAccount} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.reactivateAccount} />",
+      "props": " {...messages.reactivateAccount} ",
+      "spread": " {...messages.reactivateAccount} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.investNow} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.investNow} />",
+      "props": " {...messages.investNow} ",
+      "spread": " {...messages.investNow} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.transferIn} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.transferIn} />",
+      "props": " {...messages.transferIn} ",
+      "spread": " {...messages.transferIn} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.transferOut} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.transferOut} />",
+      "props": " {...messages.transferOut} ",
+      "spread": " {...messages.transferOut} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.viewPerformance} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.viewPerformance} />",
+      "props": " {...messages.viewPerformance} ",
+      "spread": " {...messages.viewPerformance} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.viewHistory} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.viewHistory} />",
+      "props": " {...messages.viewHistory} ",
+      "spread": " {...messages.viewHistory} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.statements} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.statements} />",
+      "props": " {...messages.statements} ",
+      "spread": " {...messages.statements} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.recurringInvestment} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.recurringInvestment} />",
+      "props": " {...messages.recurringInvestment} ",
+      "spread": " {...messages.recurringInvestment} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.portfolio} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.portfolio} />",
+      "props": " {...messages.portfolio} ",
+      "spread": " {...messages.portfolio} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.settings} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.settings} />",
+      "props": " {...messages.settings} ",
+      "spread": " {...messages.settings} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.profile} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.profile} />",
+      "props": " {...messages.profile} ",
+      "spread": " {...messages.profile} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.access} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.access} />",
+      "props": " {...messages.access} ",
+      "spread": " {...messages.access} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.notification} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.notification} />",
+      "props": " {...messages.notification} ",
+      "spread": " {...messages.notification} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.withdraw} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.withdraw} />",
+      "props": " {...messages.withdraw} ",
+      "spread": " {...messages.withdraw} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.convertFullAccount} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.convertFullAccount} />",
+      "props": " {...messages.convertFullAccount} ",
+      "spread": " {...messages.convertFullAccount} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.atYears} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.atYears} />",
+      "props": " {...messages.atYears} ",
+      "spread": " {...messages.atYears} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.sendLink} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.sendLink} />",
+      "props": " {...messages.sendLink} ",
+      "spread": " {...messages.sendLink} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.closeAccount} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.closeAccount} />",
+      "props": " {...messages.closeAccount} ",
+      "spread": " {...messages.closeAccount} "
+    },
+    {
+      "after": "\n          }\n          ",
+      "all": "{\n            <FormattedMessage {...messages.investmentWillTransferred} />\n          }\n          ",
+      "before": "{\n            ",
+      "main": "<FormattedMessage {...messages.investmentWillTransferred} />",
+      "props": " {...messages.investmentWillTransferred} ",
+      "spread": " {...messages.investmentWillTransferred} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.congrats} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.congrats} />",
+      "props": " {...messages.congrats} ",
+      "spread": " {...messages.congrats} "
+    }
+  ]
+}

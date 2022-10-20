@@ -1,0 +1,53 @@
+{
+  "file": "/pages/TransactionCategorisation/TransactionCategorisationView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.transactionCategorisation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.transactionCategorisation} />",
+      "props": " {...messages.transactionCategorisation} ",
+      "spread": " {...messages.transactionCategorisation} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.all} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.all} />",
+      "props": " {...messages.all} ",
+      "spread": " {...messages.all} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.uncategorised} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.uncategorised} />",
+      "props": " {...messages.uncategorised} ",
+      "spread": " {...messages.uncategorised} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.byAmount} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.byAmount} />",
+      "props": " {...messages.byAmount} ",
+      "spread": " {...messages.byAmount} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.byDate} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.byDate} />",
+      "props": " {...messages.byDate} ",
+      "spread": " {...messages.byDate} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.potentialSpare} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.potentialSpare} />",
+      "props": " {...messages.potentialSpare} ",
+      "spread": " {...messages.potentialSpare} "
+    }
+  ]
+}

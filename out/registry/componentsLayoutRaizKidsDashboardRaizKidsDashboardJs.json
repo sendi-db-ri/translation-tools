@@ -1,0 +1,61 @@
+{
+  "file": "/components/layout/RaizKidsDashboard/RaizKidsDashboard.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKidsBalance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKidsBalance} />",
+      "props": " {...messages.raizKidsBalance} ",
+      "spread": " {...messages.raizKidsBalance} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKids} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.automaticSavings} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.automaticSavings} />",
+      "props": " {...messages.automaticSavings} ",
+      "spread": " {...messages.automaticSavings} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.simpleWay} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.simpleWay} />",
+      "props": " {...messages.simpleWay} ",
+      "spread": " {...messages.simpleWay} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.simpleWaySetup} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.simpleWaySetup} />",
+      "props": " {...messages.simpleWaySetup} ",
+      "spread": " {...messages.simpleWaySetup} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.checkYourKids} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.checkYourKids} />",
+      "props": " {...messages.checkYourKids} ",
+      "spread": " {...messages.checkYourKids} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.addRaizKidNow} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.addRaizKidNow} />",
+      "props": " {...messages.addRaizKidNow} ",
+      "spread": " {...messages.addRaizKidNow} "
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "file": "/pages/Registration/components/Account.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.someMoreInformation} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.someMoreInformation} />",
+      "props": " {...messages.someMoreInformation} ",
+      "spread": " {...messages.someMoreInformation} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pds} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pds} />",
+      "props": " {...messages.pds} ",
+      "spread": " {...messages.pds} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.stepOneText} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.stepOneText} />",
+      "props": " {...messages.stepOneText} ",
+      "spread": " {...messages.stepOneText} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.stepOneBottomText} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.stepOneBottomText} />",
+      "props": " {...messages.stepOneBottomText} ",
+      "spread": " {...messages.stepOneBottomText} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.kidsBottomText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.kidsBottomText} />",
+      "props": " {...messages.kidsBottomText} ",
+      "spread": " {...messages.kidsBottomText} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.stepTwoBottomText} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.stepTwoBottomText} />",
+      "props": " {...messages.stepTwoBottomText} ",
+      "spread": " {...messages.stepTwoBottomText} "
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file": "/components/layout/Modals/ConvertToFullModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.convertFullAccount} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.convertFullAccount} />",
+      "props": " {...messages.convertFullAccount} ",
+      "spread": " {...messages.convertFullAccount} "
+    },
+    {
+      "after": "\n              ",
+      "all": "{<FormattedMessage {...messages.emailAddress} />}\n                />\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.emailAddress} />}\n                />",
+      "props": " {...messages.emailAddress} />}\n                ",
+      "spread": " {...messages.emailAddress} />}\n                "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.convert} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.convert} />",
+      "props": " {...messages.convert} ",
+      "spread": " {...messages.convert} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    }
+  ]
+}

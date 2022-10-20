@@ -1,0 +1,69 @@
+{
+  "file": "/components/layout/Modals/AlfamartPaymentModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.barcodePembayaran} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.barcodePembayaran} />",
+      "props": " {...messages.barcodePembayaran} ",
+      "spread": " {...messages.barcodePembayaran} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.datail} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.datail} />",
+      "props": " {...messages.datail} ",
+      "spread": " {...messages.datail} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.code} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.code} />",
+      "props": " {...messages.code} ",
+      "spread": " {...messages.code} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.totalPembayaran} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.totalPembayaran} />",
+      "props": " {...messages.totalPembayaran} ",
+      "spread": " {...messages.totalPembayaran} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.instruksi} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.instruksi} />",
+      "props": " {...messages.instruksi} ",
+      "spread": " {...messages.instruksi} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.setelahTransaksi} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.setelahTransaksi} />",
+      "props": " {...messages.setelahTransaksi} ",
+      "spread": " {...messages.setelahTransaksi} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.pesananKamu} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.pesananKamu} />",
+      "props": " {...messages.pesananKamu} ",
+      "spread": " {...messages.pesananKamu} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.tutup} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.tutup} />",
+      "props": " {...messages.tutup} ",
+      "spread": " {...messages.tutup} "
+    }
+  ]
+}

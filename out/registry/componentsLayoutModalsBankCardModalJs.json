@@ -1,0 +1,109 @@
+{
+  "file": "/components/layout/Modals/BankCardModal.js",
+  "match": [
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.linkSpending} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.linkSpending} />",
+      "props": " {...messages.linkSpending} ",
+      "spread": " {...messages.linkSpending} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.linkFunding} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.linkFunding} />",
+      "props": " {...messages.linkFunding} ",
+      "spread": " {...messages.linkFunding} "
+    },
+    {
+      "after": "}\n                ",
+      "all": " <FormattedMessage {...messages.bankSignIn} />}\n                ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.bankSignIn} />",
+      "props": " {...messages.bankSignIn} ",
+      "spread": " {...messages.bankSignIn} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.secured} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.secured} />",
+      "props": " {...messages.secured} ",
+      "spread": " {...messages.secured} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.cardNumber} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.cardNumber} />",
+      "props": " {...messages.cardNumber} ",
+      "spread": " {...messages.cardNumber} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.month} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.month} />",
+      "props": " {...messages.month} ",
+      "spread": " {...messages.month} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.year} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.year} />",
+      "props": " {...messages.year} ",
+      "spread": " {...messages.year} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.cvv} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cvv} />}\n                      />",
+      "props": " {...messages.cvv} />}\n                      ",
+      "spread": " {...messages.cvv} />}\n                      "
+    },
+    {
+      "after": "\n                    ",
+      "all": "{<FormattedMessage {...messages.cardHolder} />}\n                      />\n                    ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cardHolder} />}\n                      />",
+      "props": " {...messages.cardHolder} />}\n                      ",
+      "spread": " {...messages.cardHolder} />}\n                      "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.noteCard} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.noteCard} />",
+      "props": " {...messages.noteCard} ",
+      "spread": " {...messages.noteCard} "
+    },
+    {
+      "after": "\n                        ",
+      "all": "\n                          <FormattedMessage {...messages.partner} />\n                        ",
+      "before": "\n                          ",
+      "main": "<FormattedMessage {...messages.partner} />",
+      "props": " {...messages.partner} ",
+      "spread": " {...messages.partner} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.signIn} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.signIn} />",
+      "props": " {...messages.signIn} ",
+      "spread": " {...messages.signIn} "
+    }
+  ]
+}

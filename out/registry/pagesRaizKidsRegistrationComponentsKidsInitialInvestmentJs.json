@@ -1,0 +1,94 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/KidsInitialInvestment.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.initialInvestAmount} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.initialInvestAmount} />",
+      "props": " {...messages.initialInvestAmount} ",
+      "spread": " {...messages.initialInvestAmount} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.investLumSum}\n              values={{ name: child.name }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.investLumSum}\n              values={{ name: child.name }}\n            />",
+      "props": "\n              {...messages.investLumSum}\n              values={{ name: child.name }}\n            ",
+      "spread": "\n              {...messages.investLumSum}\n              ",
+      "values": "values={{ name: child.name }}\n            "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.howMuch} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.howMuch} />",
+      "props": " {...messages.howMuch} ",
+      "spread": " {...messages.howMuch} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.investmentByKid} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.investmentByKid} />",
+      "props": " {...messages.investmentByKid} ",
+      "spread": " {...messages.investmentByKid} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.notAllowInvestment} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.notAllowInvestment} />",
+      "props": " {...messages.notAllowInvestment} ",
+      "spread": " {...messages.notAllowInvestment} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowUnlimited} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowUnlimited} />",
+      "props": " {...messages.allowUnlimited} ",
+      "spread": " {...messages.allowUnlimited} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.allowWeekly} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.allowWeekly} />",
+      "props": " {...messages.allowWeekly} ",
+      "spread": " {...messages.allowWeekly} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                    <FormattedMessage {...messages.weeklyLimit} />\n                    ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.weeklyLimit} />",
+      "props": " {...messages.weeklyLimit} ",
+      "spread": " {...messages.weeklyLimit} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.invest} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.invest} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    }
+  ]
+}

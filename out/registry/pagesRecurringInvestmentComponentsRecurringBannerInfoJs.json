@@ -1,0 +1,47 @@
+{
+  "file": "/pages/RecurringInvestment/components/RecurringBannerInfo.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            />",
+      "props": "\n              {...messages.fortnightlyOn}\n              values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            ",
+      "spread": "\n              {...messages.fortnightlyOn}\n              ",
+      "values": "values={{\n                day: <Time format=\"dddd\">{startDate}</Time>,\n              }}\n            "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            />",
+      "props": "\n              {...messages.every}\n              values={{\n                day: week[frequencyDay - 2],\n              }}\n            ",
+      "spread": "\n              {...messages.every}\n              ",
+      "values": "values={{\n                day: week[frequencyDay - 2],\n              }}\n            "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.everyDay} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.everyDay} />",
+      "props": " {...messages.everyDay} ",
+      "spread": " {...messages.everyDay} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.chooseInvestmentFrequency} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.chooseInvestmentFrequency} />",
+      "props": " {...messages.chooseInvestmentFrequency} ",
+      "spread": " {...messages.chooseInvestmentFrequency} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.currentBalance} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.currentBalance} />",
+      "props": " {...messages.currentBalance} ",
+      "spread": " {...messages.currentBalance} "
+    }
+  ]
+}

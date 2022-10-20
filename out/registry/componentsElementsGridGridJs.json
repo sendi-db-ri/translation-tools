@@ -1,0 +1,86 @@
+{
+  "file": "/components/elements/Grid/Grid.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            />",
+      "props": "\n              {...messages.investedPercent}\n              values={{ amount: brand.invested_value }}\n            ",
+      "spread": "\n              {...messages.investedPercent}\n              ",
+      "values": "values={{ amount: brand.invested_value }}\n            "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.otherBanks} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.otherBanks} />",
+      "props": " {...messages.otherBanks} ",
+      "spread": " {...messages.otherBanks} "
+    },
+    {
+      "after": "}\n          ",
+      "all": " <FormattedMessage {...messages.categories} />}\n          ",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.categories} />",
+      "props": " {...messages.categories} ",
+      "spread": " {...messages.categories} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.visa} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.visa} />",
+      "props": " {...messages.visa} ",
+      "spread": " {...messages.visa} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.debitCards} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.debitCards} />",
+      "props": " {...messages.debitCards} ",
+      "spread": " {...messages.debitCards} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.mastercard} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.mastercard} />",
+      "props": " {...messages.mastercard} ",
+      "spread": " {...messages.mastercard} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.debit} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.debit} />",
+      "props": " {...messages.debit} ",
+      "spread": " {...messages.debit} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.mastercard} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.mastercard} />",
+      "props": " {...messages.mastercard} ",
+      "spread": " {...messages.mastercard} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.debit} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.debit} />",
+      "props": " {...messages.debit} ",
+      "spread": " {...messages.debit} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                    <FormattedMessage {...messages.different} />\n                  ",
+      "before": "\n                    ",
+      "main": "<FormattedMessage {...messages.different} />",
+      "props": " {...messages.different} ",
+      "spread": " {...messages.different} "
+    }
+  ]
+}

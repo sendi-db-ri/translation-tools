@@ -1,0 +1,45 @@
+{
+  "file": "/pages/Registration/components/Personal.js",
+  "match": [
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.weJust} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.weJust} />",
+      "props": " {...messages.weJust} ",
+      "spread": " {...messages.weJust} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.homeAddress} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.homeAddress} />",
+      "props": " {...messages.homeAddress} ",
+      "spread": " {...messages.homeAddress} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.raizApplication} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.raizApplication} />",
+      "props": " {...messages.raizApplication} ",
+      "spread": " {...messages.raizApplication} "
+    },
+    {
+      "after": "",
+      "all": " <FormattedMessage {...messages.weJust} />",
+      "before": " ",
+      "main": "<FormattedMessage {...messages.weJust} />",
+      "props": " {...messages.weJust} ",
+      "spread": " {...messages.weJust} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.stepThreeBottomText} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.stepThreeBottomText} />",
+      "props": " {...messages.stepThreeBottomText} ",
+      "spread": " {...messages.stepThreeBottomText} "
+    }
+  ]
+}

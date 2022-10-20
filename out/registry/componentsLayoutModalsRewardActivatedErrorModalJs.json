@@ -1,0 +1,21 @@
+{
+  "file": "/components/layout/Modals/RewardActivatedErrorModal.js",
+  "match": [
+    {
+      "after": "\n      ",
+      "all": "\n        <FormattedMessage {...messages[brandError[0]]} />\n      ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages[brandError[0]]} />",
+      "props": " {...messages[brandError[0]]} ",
+      "spread": " {...messages[brandError[0]]} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.ok} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.ok} />",
+      "props": " {...messages.ok} ",
+      "spread": " {...messages.ok} "
+    }
+  ]
+}

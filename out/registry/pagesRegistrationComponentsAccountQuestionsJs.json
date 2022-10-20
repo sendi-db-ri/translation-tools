@@ -1,0 +1,85 @@
+{
+  "file": "/pages/Registration/components/AccountQuestions.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.accordance} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.accordance} />",
+      "props": " {...messages.accordance} ",
+      "spread": " {...messages.accordance} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.informationYouEnter} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.informationYouEnter} />",
+      "props": " {...messages.informationYouEnter} ",
+      "spread": " {...messages.informationYouEnter} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.fundingAccount} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.fundingAccount} />",
+      "props": " {...messages.fundingAccount} ",
+      "spread": " {...messages.fundingAccount} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.incurredInPortfolio} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.incurredInPortfolio} />",
+      "props": " {...messages.incurredInPortfolio} ",
+      "spread": " {...messages.incurredInPortfolio} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.acknowledge} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.acknowledge} />",
+      "props": " {...messages.acknowledge} ",
+      "spread": " {...messages.acknowledge} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.fundingNotCredit} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.fundingNotCredit} />",
+      "props": " {...messages.fundingNotCredit} ",
+      "spread": " {...messages.fundingNotCredit} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.haveReceived} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.haveReceived} />",
+      "props": " {...messages.haveReceived} ",
+      "spread": " {...messages.haveReceived} "
+    },
+    {
+      "after": "\n                ",
+      "all": "{<FormattedMessage {...messages.understand} />}\n                  />\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.understand} />}\n                  />",
+      "props": " {...messages.understand} />}\n                  ",
+      "spread": " {...messages.understand} />}\n                  "
+    },
+    {
+      "after": "}\n                        ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                        ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                      ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                      ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    }
+  ]
+}

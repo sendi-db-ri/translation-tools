@@ -1,0 +1,37 @@
+{
+  "file": "/pages/Home/components/MonthlyTracker/MonthlyTracker.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.monthlyTracker} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.monthlyTracker} />",
+      "props": " {...messages.monthlyTracker} ",
+      "spread": " {...messages.monthlyTracker} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.moreThan} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.moreThan} />",
+      "props": " {...messages.moreThan} ",
+      "spread": " {...messages.moreThan} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.spendingThisMonth} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.spendingThisMonth} />",
+      "props": " {...messages.spendingThisMonth} ",
+      "spread": " {...messages.spendingThisMonth} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n            <FormattedMessage {...messages.averageThisMonth} />\n            ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.averageThisMonth} />",
+      "props": " {...messages.averageThisMonth} ",
+      "spread": " {...messages.averageThisMonth} "
+    }
+  ]
+}

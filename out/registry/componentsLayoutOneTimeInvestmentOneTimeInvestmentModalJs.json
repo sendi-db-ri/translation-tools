@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/OneTimeInvestment/OneTimeInvestmentModal.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.oneTimeInvestment} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.oneTimeInvestment} />",
+      "props": " {...messages.oneTimeInvestment} ",
+      "spread": " {...messages.oneTimeInvestment} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.minimumOf} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.minimumOf} />",
+      "props": " {...messages.minimumOf} ",
+      "spread": " {...messages.minimumOf} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.invest} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "file": "/pages/NewRewards/components/RewardsHistoryView.js",
+  "match": [
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.pending} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.pending} />",
+      "props": " {...messages.pending} ",
+      "spread": " {...messages.pending} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.invested} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.invested} />",
+      "props": " {...messages.invested} ",
+      "spread": " {...messages.invested} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.reversed} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.reversed} />",
+      "props": " {...messages.reversed} ",
+      "spread": " {...messages.reversed} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages.rewardsHistory} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages.rewardsHistory} />",
+      "props": " {...messages.rewardsHistory} ",
+      "spread": " {...messages.rewardsHistory} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.all} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.all} />",
+      "props": " {...messages.all} ",
+      "spread": " {...messages.all} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.invested} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invested} />",
+      "props": " {...messages.invested} ",
+      "spread": " {...messages.invested} "
+    },
+    {
+      "after": "}\n                ",
+      "all": "{<FormattedMessage {...messages.pending} />}\n                ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.pending} />",
+      "props": " {...messages.pending} ",
+      "spread": " {...messages.pending} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.thereAre} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.thereAre} />",
+      "props": " {...messages.thereAre} ",
+      "spread": " {...messages.thereAre} "
+    }
+  ]
+}

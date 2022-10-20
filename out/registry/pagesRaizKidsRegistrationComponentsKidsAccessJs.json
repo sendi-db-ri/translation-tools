@@ -1,0 +1,125 @@
+{
+  "file": "/pages/RaizKidsRegistration/components/KidsAccess.js",
+  "match": [
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.allowRaizKid} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.allowRaizKid} />",
+      "props": " {...messages.allowRaizKid} ",
+      "spread": " {...messages.allowRaizKid} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.allowed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.allowed} />",
+      "props": " {...messages.allowed} ",
+      "spread": " {...messages.allowed} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.notAllowed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.notAllowed} />",
+      "props": " {...messages.notAllowed} ",
+      "spread": " {...messages.notAllowed} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.change} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n                  ",
+      "all": "\n                  <FormattedMessage {...messages.investmentByKid} />\n                  ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.investmentByKid} />",
+      "props": " {...messages.investmentByKid} ",
+      "spread": " {...messages.investmentByKid} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.weekly} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.weekly} />",
+      "props": " {...messages.weekly} ",
+      "spread": " {...messages.weekly} "
+    },
+    {
+      "after": "\n                      ",
+      "all": "\n                        <FormattedMessage {...messages.allowed} />\n                      ",
+      "before": "\n                        ",
+      "main": "<FormattedMessage {...messages.allowed} />",
+      "props": " {...messages.allowed} ",
+      "spread": " {...messages.allowed} "
+    },
+    {
+      "after": "\n                    ",
+      "all": "\n                      <FormattedMessage {...messages.notAllowed} />\n                    ",
+      "before": "\n                      ",
+      "main": "<FormattedMessage {...messages.notAllowed} />",
+      "props": " {...messages.notAllowed} ",
+      "spread": " {...messages.notAllowed} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.change} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.change} />",
+      "props": " {...messages.change} ",
+      "spread": " {...messages.change} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.allowPortfolio} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.allowPortfolio} />",
+      "props": " {...messages.allowPortfolio} ",
+      "spread": " {...messages.allowPortfolio} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.allowRecurring} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.allowRecurring} />",
+      "props": " {...messages.allowRecurring} ",
+      "spread": " {...messages.allowRecurring} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.allowRewards} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.allowRewards} />",
+      "props": " {...messages.allowRewards} ",
+      "spread": " {...messages.allowRewards} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.back} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.back} />",
+      "props": " {...messages.back} ",
+      "spread": " {...messages.back} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.next} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.next} />",
+      "props": " {...messages.next} ",
+      "spread": " {...messages.next} "
+    },
+    {
+      "after": "}\n                  ",
+      "all": "{<FormattedMessage {...messages.save} />}\n                  ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.save} />",
+      "props": " {...messages.save} ",
+      "spread": " {...messages.save} "
+    }
+  ]
+}

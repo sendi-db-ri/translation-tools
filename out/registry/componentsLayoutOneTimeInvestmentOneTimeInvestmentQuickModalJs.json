@@ -1,0 +1,38 @@
+{
+  "file": "/components/layout/OneTimeInvestment/OneTimeInvestmentQuickModal.js",
+  "match": [
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage {...messages.quickInvest} />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage {...messages.quickInvest} />",
+      "props": " {...messages.quickInvest} ",
+      "spread": " {...messages.quickInvest} "
+    },
+    {
+      "after": "\n          ",
+      "all": "\n            <FormattedMessage\n              {...messages.willBeInvested}\n              values={{ value: <NumberField value={oneTimeInvestmentValue} /> }}\n            />\n          ",
+      "before": "\n            ",
+      "main": "<FormattedMessage\n              {...messages.willBeInvested}\n              values={{ value: <NumberField value={oneTimeInvestmentValue} /> }}\n            />",
+      "props": "\n              {...messages.willBeInvested}\n              values={{ value: <NumberField value={oneTimeInvestmentValue} /> }}\n            ",
+      "spread": "\n              {...messages.willBeInvested}\n              ",
+      "values": "values={{ value: <NumberField value={oneTimeInvestmentValue} /> }}\n            "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.cancel} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.cancel} />",
+      "props": " {...messages.cancel} ",
+      "spread": " {...messages.cancel} "
+    },
+    {
+      "after": "}\n              ",
+      "all": "{<FormattedMessage {...messages.invest} />}\n              ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.invest} />",
+      "props": " {...messages.invest} ",
+      "spread": " {...messages.invest} "
+    }
+  ]
+}

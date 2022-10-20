@@ -1,0 +1,29 @@
+{
+  "file": "/components/layout/Modals/RolloverFundModal.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.memberNumber} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.memberNumber} />",
+      "props": " {...messages.memberNumber} ",
+      "spread": " {...messages.memberNumber} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.empty} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.empty} />",
+      "props": " {...messages.empty} ",
+      "spread": " {...messages.empty} "
+    },
+    {
+      "after": "}\n            ",
+      "all": "{<FormattedMessage {...messages.toRollover} />}\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.toRollover} />",
+      "props": " {...messages.toRollover} ",
+      "spread": " {...messages.toRollover} "
+    }
+  ]
+}

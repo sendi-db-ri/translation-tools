@@ -1,0 +1,30 @@
+{
+  "name": "translation-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "crawl": "rimraf ./out/** && node ./commands/crawl",
+    "fmt": "rimraf ./out/** && node ./commands/fmt",
+    "imp": "rimraf ./out/** && node ./commands/imp",
+    "fmthtml": "rimraf ./out/** && node ./commands/fmthtml",
+    "generate": "rimraf ./out/translation** && node ./commands/generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "flat": "^5.0.2",
+    "glob": "^8.0.3",
+    "lodash": "^4.17.21",
+    "rimraf": "^3.0.2",
+    "sort-json": "^2.0.1",
+    "sort-keys": "^5.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "prettier": "^2.7.1"
+  }
+}

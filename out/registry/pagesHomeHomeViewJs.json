@@ -1,0 +1,117 @@
+{
+  "file": "/pages/Home/HomeView.js",
+  "match": [
+    {
+      "after": "\n        ",
+      "all": "\n        <FormattedMessage {...messages.welcome} />\n        ",
+      "before": "\n        ",
+      "main": "<FormattedMessage {...messages.welcome} />",
+      "props": " {...messages.welcome} ",
+      "spread": " {...messages.welcome} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.accountValuePending} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.accountValuePending} />",
+      "props": " {...messages.accountValuePending} ",
+      "spread": " {...messages.accountValuePending} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.accountValue} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.accountValue} />",
+      "props": " {...messages.accountValue} ",
+      "spread": " {...messages.accountValue} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.subscribe} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.subscribe} />",
+      "props": " {...messages.subscribe} ",
+      "spread": " {...messages.subscribe} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.transaction} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.transaction} />",
+      "props": " {...messages.transaction} ",
+      "spread": " {...messages.transaction} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                <FormattedMessage {...messages.end} />\n                ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.end} />",
+      "props": " {...messages.end} ",
+      "spread": " {...messages.end} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.goToHistory} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.goToHistory} />",
+      "props": " {...messages.goToHistory} ",
+      "spread": " {...messages.goToHistory} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.goToInvest} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.goToInvest} />",
+      "props": " {...messages.goToInvest} ",
+      "spread": " {...messages.goToInvest} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.past} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.past} />",
+      "props": " {...messages.past} ",
+      "spread": " {...messages.past} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.today} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.today} />",
+      "props": " {...messages.today} ",
+      "spread": " {...messages.today} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.future} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.future} />",
+      "props": " {...messages.future} ",
+      "spread": " {...messages.future} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.removedSuspension} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.removedSuspension} />",
+      "props": " {...messages.removedSuspension} ",
+      "spread": " {...messages.removedSuspension} "
+    },
+    {
+      "after": "\n            ",
+      "all": "\n              <FormattedMessage {...messages[currentInfo.title]} />\n            ",
+      "before": "\n              ",
+      "main": "<FormattedMessage {...messages[currentInfo.title]} />",
+      "props": " {...messages[currentInfo.title]} ",
+      "spread": " {...messages[currentInfo.title]} "
+    },
+    {
+      "after": "\n          }\n          ",
+      "all": "{\n            <FormattedMessage {...historyMessages[currentInfo.msg]} />\n          }\n          ",
+      "before": "{\n            ",
+      "main": "<FormattedMessage {...historyMessages[currentInfo.msg]} />",
+      "props": " {...historyMessages[currentInfo.msg]} ",
+      "spread": " {...historyMessages[currentInfo.msg]} "
+    }
+  ]
+}

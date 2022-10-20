@@ -1,0 +1,134 @@
+{
+  "file": "/pages/RaizKids/RaizKidsView.js",
+  "match": [
+    {
+      "after": "\n            ",
+      "all": "{<FormattedMessage {...messages.investNow} />}\n              />\n            ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.investNow} />}\n              />",
+      "props": " {...messages.investNow} />}\n              ",
+      "spread": " {...messages.investNow} />}\n              "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage\n                  {...messages.portfolio}\n                  values={{ portfolio: kid.portfolio.name }}\n                />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage\n                  {...messages.portfolio}\n                  values={{ portfolio: kid.portfolio.name }}\n                />",
+      "props": "\n                  {...messages.portfolio}\n                  values={{ portfolio: kid.portfolio.name }}\n                ",
+      "spread": "\n                  {...messages.portfolio}\n                  ",
+      "values": "values={{ portfolio: kid.portfolio.name }}\n                "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.amountInvested} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.amountInvested} />",
+      "props": " {...messages.amountInvested} ",
+      "spread": " {...messages.amountInvested} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.reinvestedDividends} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.reinvestedDividends} />",
+      "props": " {...messages.reinvestedDividends} ",
+      "spread": " {...messages.reinvestedDividends} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.marketReturns} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.marketReturns} />",
+      "props": " {...messages.marketReturns} ",
+      "spread": " {...messages.marketReturns} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.raizRewards} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.raizRewards} />",
+      "props": " {...messages.raizRewards} ",
+      "spread": " {...messages.raizRewards} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.referrals} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.referrals} />",
+      "props": " {...messages.referrals} ",
+      "spread": " {...messages.referrals} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.withdrawn} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.withdrawn} />",
+      "props": " {...messages.withdrawn} ",
+      "spread": " {...messages.withdrawn} "
+    },
+    {
+      "after": "\n              ",
+      "all": "\n                <FormattedMessage {...messages.yourRecurringInvestment} />\n              ",
+      "before": "\n                ",
+      "main": "<FormattedMessage {...messages.yourRecurringInvestment} />",
+      "props": " {...messages.yourRecurringInvestment} ",
+      "spread": " {...messages.yourRecurringInvestment} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.clickSetup} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.clickSetup} />",
+      "props": " {...messages.clickSetup} ",
+      "spread": " {...messages.clickSetup} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.raizKids} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.raizKids} />",
+      "props": " {...messages.raizKids} ",
+      "spread": " {...messages.raizKids} "
+    },
+    {
+      "after": "\n        ",
+      "all": "\n          <FormattedMessage {...messages.addKid} />\n        ",
+      "before": "\n          ",
+      "main": "<FormattedMessage {...messages.addKid} />",
+      "props": " {...messages.addKid} ",
+      "spread": " {...messages.addKid} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.active} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.active} />",
+      "props": " {...messages.active} ",
+      "spread": " {...messages.active} "
+    },
+    {
+      "after": "}\n          ",
+      "all": "{<FormattedMessage {...messages.closed} />}\n          ",
+      "before": "{",
+      "main": "<FormattedMessage {...messages.closed} />",
+      "props": " {...messages.closed} ",
+      "spread": " {...messages.closed} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.noActiveAccounts} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.noActiveAccounts} />",
+      "props": " {...messages.noActiveAccounts} ",
+      "spread": " {...messages.noActiveAccounts} "
+    },
+    {
+      "after": "\n                ",
+      "all": "\n                  <FormattedMessage {...messages.noClosedAccounts} />\n                ",
+      "before": "\n                  ",
+      "main": "<FormattedMessage {...messages.noClosedAccounts} />",
+      "props": " {...messages.noClosedAccounts} ",
+      "spread": " {...messages.noClosedAccounts} "
+    }
+  ]
+}
